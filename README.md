@@ -34,6 +34,16 @@ python train.py --help
 You can find the configuration of the model parameters in [`wavenet_params.json`](./wavenet_params.json).
 These need to stay the same between training and generation.
 
+Here's an example training call
+```bash
+python train_Oct13_Low1_keepALL.py --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json  --data_dir=data/pf
+```
+
+If training fails at some point, or you simply want to restart add the following parameter (2016-10-15T20-25-20 is in this example the directory where the models are stored)
+```bash
+ --restore_from=./logdir/train/2016-10-15T20-25-20/
+```
+
 ## Generating text
 
 You can use the `generate.py` script to generate audio using a previously trained model.
@@ -46,13 +56,12 @@ where `model.ckpt-1000` needs to be a previously saved model.
 You can find these in the `logdir`.
 The `--samples` parameter specifies how many characters samples you would like to generate.
 
-The generated waveform can be stored as a
-`.txt` file by using the `--text_out_path` parameter:
+The generated POETRY is by default saved as a `.txt` file to the GENERATED folder with with DateTime stamp and Model Number ... the following example will be saved to "GENERATED/2016-10-15T20-46-39_Model_15691.txt"
 ```
-python generate.py --text_out_path=mytext.txt --samples 1500 model.ckpt-1000
+python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json ./logdir/train/2016-10-15T20-46-39/model.ckpt-15691
 ```
 
-Passing `--save_every` in addition to `--text_out_path` will save the in-progress wav file every n samples.
+Passing `--save_every` in addition to `--text_out_path` will save the in-progress wav file every n samples. I  have used this to create a typewriter like effect where line after line appears in rapid succession. Has potential for performance.
 ```
 python generate.py --text_out_path=mytext.txt --save_every 2000 --samples 1500 model.ckpt-1000
 ```
