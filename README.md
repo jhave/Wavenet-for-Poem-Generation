@@ -24,6 +24,7 @@ In order to train the network, execute
 python train.py --data_dir=data
 ```
 to train the network, where `data` is a directory containing `.txt` files.
+This repo includes a txt source with 11k poems in `data/pf`
 The script will recursively collect all `.txt` files in the directory.
 
 You can see documentation on each of the training settings by running
@@ -34,7 +35,7 @@ python train.py --help
 You can find the configuration of the model parameters in [`wavenet_params.json`](./wavenet_params.json).
 These need to stay the same between training and generation.
 
-Here's an example training call
+Here's an example training call that keeps all models with loss below 1.0:
 ```bash
 python train_Oct13_Low1_keepALL.py --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json  --data_dir=data/pf
 ```
@@ -46,7 +47,7 @@ If training fails at some point, or you simply want to restart add the following
 
 ## Generating text
 
-You can use the `generate.py` script to generate audio using a previously trained model.
+You can use the `generate.py` script to generate poetry using a previously trained model.
 
 Run
 ```
@@ -61,9 +62,9 @@ The generated POETRY is by default saved as a `.txt` file to the GENERATED folde
 python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json ./logdir/train/2016-10-15T20-46-39/model.ckpt-15691
 ```
 
-Passing `--save_every` in addition to `--text_out_path` will save the in-progress wav file every n samples. I  have used this to create a typewriter like effect where line after line appears in rapid succession. Has potential for performance.
+Passing `--save_every` will save the file every n samples. I  have used this to create a typewriter like effect where line after line appears in rapid succession. Has potential for performance.
 ```
-python generate.py --text_out_path=mytext.txt --save_every 2000 --samples 1500 model.ckpt-1000
+python generate.py --save_every 100 --samples 1500 model.ckpt-1000
 ```
 
 Fast generation is enabled by default.
@@ -75,3 +76,4 @@ To disable fast generation:
 ```
 python generate.py --samples 1500 model.ckpt-1000 --fast_generation=false
 ```
+(Note: As of Oct 16th, I have never disabled fast generation.)
