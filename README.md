@@ -1,13 +1,13 @@
 
 # A TensorFlow implementation of DeepMind's WaveNet paper for POEM generation.
 
-Based almost entirely on Samuel Graván's  (Zeta36) tensorflow-tex-wavenet <b>https://github.com/Zeta36/tensorflow-tex-wavenet</b>. 
 
-Modified to allow for line breaks, and more flexible saving of models so that it is possible to capture fluctuations in the parameters. 
-
-Blog post describing process and resultant poems: 
+Blog post describing process and resultant poems: <br>
 http://bdp.glia.ca/wavenet-for-poem-generation-preliminary-results
 
+Based almost entirely on Samuel Graván's  (Zeta36) tensorflow-tex-wavenet <b>https://github.com/Zeta36/tensorflow-tex-wavenet</b>. 
+
+Modified to allow for line breaks, identifiable generated txt files, and more flexible saving of models so that it is possible to capture fluctuations in the parameters. 
 
 
 ## Requirements
