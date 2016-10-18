@@ -64,7 +64,9 @@ python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dil
 ```
 python generate_Oct13.py --samples 66000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels1024.json /Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/logdir/train/demos/model.ckpt-62324
 ```
-Note: the wavenet_params values must be the same size as the training, or the generate code returs "InvalidArgumentError: Assign requires shapes of both tensors to match.""
+Note: the wavenet_params values must be the same size as the training, or the generate code returns "InvalidArgumentError: Assign requires shapes of both tensors to match.""
+
+___
 
 Passing `--save_every` will save the file every n samples. I  have used this to create a typewriter like effect where line after line appears in rapid succession. Has potential for performance.
 ```
