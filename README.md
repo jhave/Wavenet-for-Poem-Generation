@@ -57,10 +57,14 @@ where `model.ckpt-1000` needs to be a previously saved model.
 You can find these in the `logdir`.
 The `--samples` parameter specifies how many characters samples you would like to generate.
 
-The generated POETRY is by default saved as a `.txt` file to the GENERATED folder named to reflect source folder and model number. The following example will generate a `.txt` file saved to "GENERATED/demos_Model_15691.txt"
+The generated POETRY is by default saved as a `.txt` file to the GENERATED folder named to reflect source folder and model number. The following examples will use the demo models in the repo to generate a `.txt` file saved to "GENERATED/demos_Model_#######.txt" 
 ```
 python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json ./logdir/train/demos/model.ckpt-33800
 ```
+```
+python generate_Oct13.py --samples 66000 --wavenet_params=wavenet_params_ORIG_dilations1024_skipChannels1024.json /Users/jhave/Desktop/github/Wavenet-for-Poem-Generation/logdir/train/demos/model.ckpt-62324
+```
+Note: the wavenet_params values must be the same size as the training, or the generate code returs "InvalidArgumentError: Assign requires shapes of both tensors to match.""
 
 Passing `--save_every` will save the file every n samples. I  have used this to create a typewriter like effect where line after line appears in rapid succession. Has potential for performance.
 ```

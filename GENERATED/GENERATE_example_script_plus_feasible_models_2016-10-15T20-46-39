@@ -1,0 +1,40 @@
+2016-10-15T20-46-39
+dilations 256
+skip channel 2048
+
+TO GENERATE:
+python generate_Oct13.py --samples 6000 --wavenet_params=wavenet_params_ORIG_dilations256_skipChannels2048.json ./logdir/train/2016-10-15T20-46-39/model.ckpt-12539 --fast_generation=false
+Restoring model from ./logdir/train/2016-10-15T20-46-39/model.ckpt-12539
+
+Good model candidates
+step 12539 - loss = 0.435, (1.501 sec/step)
+step 13483 - loss = 0.456, (1.436 sec/step)
+step 15685 - loss = 0.402, (1.487 sec/step)
+
+step 15685 - loss = 0.402, (1.487 sec/step)
+step 15686 - loss = 0.371, (1.410 sec/step)
+step 15687 - loss = 0.351, (1.396 sec/step)
+step 15688 - loss = 0.360, (1.714 sec/step)
+step 15689 - loss = 0.347, (1.640 sec/step)
+step 15690 - loss = 0.337, (1.454 sec/step)
+step 15691 - loss = 0.331, (1.375 sec/step)
+step 15692 - loss = 0.365, (1.403 sec/step)
+step 15693 - loss = 0.331, (1.524 sec/step)
+step 15694 - loss = 0.343, (1.456 sec/step)
+
+step 15819 - loss = 0.459, (1.408 sec/step)
+
+step 18338 - loss = 0.588, (1.400 sec/step)
+step 18342 - loss = 0.587, (1.405 sec/step)
+step 18357 - loss = 0.591, (1.399 sec/step)
+
+step 23919 - loss = 0.594, (1.539 sec/step)
+
+step 26298 - loss = 0.529, (1.624 sec/step)
+
+step 27147 - loss = 0.589, (1.742 sec/step)
+step 27148 - loss = 0.590, (1.728 sec/step)
+
+
+
+
