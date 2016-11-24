@@ -359,7 +359,7 @@ from collections import defaultdict
 info = {}
 content = []
 
-dir_str=string.split("Storing checkpoint to ")
+dir_str=string.split("...checkpoint_path= ")
 dir_str.pop(0)
 
 model_str=string.split("/model.ckpt-")
@@ -376,7 +376,7 @@ loss_str.pop(0)
 #         d[k].append(v)
 
 for idx,val in enumerate(model_str):
-	content.append(dir_str[idx][:34]+"/"+val[:5])#+" "+loss_str[idx][:6])
+	content.append(dir_str[idx][:51])#+"/"+val[:5])#+" "+loss_str[idx][:6])
 	#content.append(val[:50]+"_"+loss_str[idx][:6])
 
 
