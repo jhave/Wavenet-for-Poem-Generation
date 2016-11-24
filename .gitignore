@@ -1,0 +1,14 @@
+.DS_Store
+.idea*
+*.pdf
+*.jpg
+*.png
+*.pyc
+*.py.bak
+*.pem
+*.ckpt
+awstransfer.sh
+data/*
+txt/*
+csv/*
+logdir/*
