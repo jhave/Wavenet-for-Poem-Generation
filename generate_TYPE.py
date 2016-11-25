@@ -18,6 +18,7 @@ LOGDIR = './logdir'
 WINDOW = 8000
 WAVENET_PARAMS = './wavenet_params.json'
 SAVE_EVERY = None
+LOSS = 'UNK'
 
 
 def get_arguments():
@@ -68,6 +69,13 @@ def get_arguments():
         type=_str_to_bool,
         default=True,
         help='Use fast generation')
+
+    parser.add_argument(
+        '--loss',
+        type=str,
+        default=True,
+        help='Loss calculated during training')
+
     return parser.parse_args()
 
     
@@ -162,7 +170,7 @@ def main(checkpoint=None):
         sys.stdout.write(chr(sample))
 
         if args.text_out_path == None:
-            args.text_out_path="GENERATED/{}_{}_{}.txt".format(datetime.strftime(datetime.now(), '%Y-%m-%d_%H:%M:%S'),args.checkpoint.split("/")[-2],args.checkpoint.split("-")[-1])
+            args.text_out_path="GENERATED/{}_{}_{}_{}.txt".format(datetime.strftime(datetime.now(),'%Y-%m-%d_%H:%M'),args.checkpoint.split("/")[-2],args.checkpoint.split("-")[-1],loss)
 
         # If we have partial writing, save the result so far.
         if (args.text_out_path and args.save_every and
