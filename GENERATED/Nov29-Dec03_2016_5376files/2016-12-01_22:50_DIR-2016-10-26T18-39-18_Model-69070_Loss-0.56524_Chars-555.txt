@@ -1,0 +1,47 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['69070']
+	LOSS: 0.56524
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OUT OF THE WORD LIKE   
+
+
+
+
+the plain in a 
+
+your lane 
+of the man story 
+of metal-
+rome grasses   
+with too longer,   
+i had the 
+            drops in the next baskets   
+into,
+  
+            build.   
+
+small arms out of man. 
+
+here in return coanboyed   
+into the greats   
+callogle in a rain-defense,   
+it can bitter dynastes, 
+here mister 'sore across the walk clenche.   
+in america i am for a life   
+deer over our hell's   
+carentanos company 
+down the year that   
+are you became receiver   
+to set of wrists throughout over the exact   
+and the he

@@ -1,0 +1,37 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['58110']
+	LOSS: 0.28502
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ READING   AND AGAIN
+
+
+from the young? oh land the beloved necessity
+ have been    the tree smelled hinding
+ viperally in the pot, bone, the voice is the lawn.
+  
+  
+ ii. the conveyor mystifies that are ignores,
+ what happened, to be so long as if
+ to use, you're thinking of sheet of powdered
+  
+  
+ let's most that shift tremendous
+ a great place warm of a burial state,
+ mostly takes his sternly real in one side.
+  
+ this council set in the streets a tailor
+ clear extening each sylvans, finding
+ the crows. nothing, or an idealmy,
+ between us lean the
+ 

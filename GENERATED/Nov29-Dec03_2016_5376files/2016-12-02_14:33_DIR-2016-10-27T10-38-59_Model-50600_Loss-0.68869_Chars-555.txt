@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['50600']
+	LOSS: 0.68869
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WHITE SWAPPED IN THE BOWEAK PINE THE BRAIN.
+
+
+                   the queen koresked with stone,
+                                 the name is make of the hillside jones.
+                                                                          ydreamed where all includes.'                  was route of lash the tiled for one's move and a bike has-coals. i am the world's fair      in the theatres of the way.
+                                                                                               the dank
+                                           

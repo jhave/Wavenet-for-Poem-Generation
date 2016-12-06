@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['50668']
+	LOSS: 0.60999
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ REASON, FLOWERS,
+
+
+ i ride about the shadows and we can so serious
+under the brains day shirts
+with my ideall. i was seven-bars and founded in the orient
+ jose lined skyscari bed, at last to quill
+ arabicism bear stones poor done. twig
+but a family paradise your soul voice, 
+yesterday is july can sleeved her will be said the carnival
+philistins
+ what tax jefferson, hesitation.
+                                                             she's only has from barflaps
+  
+                                                           of her life.
+
+v 
+stood so

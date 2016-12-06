@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['30430']
+	LOSS: 0.67786
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ESSENCE 
+
+
+a sparrows on his mind and nails besecure 
+        spring and round and perhaps her sing
+
+about the womanly gay thy queen delinde
+   pleasures, as if i can't be a cipy,
+coaxed with the end or weeping sun send knapsack, 
+door will lost in this love he doth me nothing.
+
+now the dove now woman to find their hearts, 
+is freshly went by a fair is ere his wing.
+
+
+                             i remained to ask   
+did there, 
+                               now i have gone  
+                                and are some   
+                           

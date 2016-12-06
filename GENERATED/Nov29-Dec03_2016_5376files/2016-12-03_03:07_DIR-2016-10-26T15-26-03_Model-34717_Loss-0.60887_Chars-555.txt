@@ -1,0 +1,45 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['34717']
+	LOSS: 0.60887
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+though every man is crimed it didn't 
+steel and groaned, rise, every not, 
+fork and all weaves   
+keep in the room were of  she   
+press got we'll be crime 
+you's go might be no tears. 
+we'd sang from the errone   
+we decover there so, 
+as thought going-- 
+afternoon 
+
+it's persevering stock 
+brought shoot, the bare   
+the self aftershovels side 
+on its command 
+bewarred canada 
+comes too tree you can stand   
+of air amorous bicyclists, 
+go passer,   
+charus, 
+
+the guns of what 
+what tuggled feet rocks 
+
+yet these throwing 
+billy grows 
+writing embr

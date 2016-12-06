@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['102130']
+	LOSS: 0.67035
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+  THE SENTENCE HIDO SIT
+
+
+ january just apparent cake bird,
+  
+ than mi not forever, and sealed armed
+                         of world chicken's dreamily
+gray and eyes a tc'ts and looking into the sink
+ muslim capture to their factory
+ roots of just forever? its follow
+ for that she never see himself
+ shades love and of ton lost into
+ slow, i said.the legions 
+breasts they say not a wall.
+  
+      stir ampsies that isolational bars,
+ and the smell
+ of crstit on the office
+ 
+
+radiating late, and th

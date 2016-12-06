@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102616']
+	LOSS: 0.66896
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SENTENCE NOT EVEN NOW ANGRY
+
+
+when i came.
+i had to swallow alive.
+the sodger...one autumn. i would not get it
+a wildeberry long and felt his shoes,
+a single exquisite one is over a hair, the pen
+and watch the sun rise light.
+
+blacking back and rhyme the flies
+
+that you were all becomes the tuesday
+through the alternative
+in my head. still our mother so rarely. skale--
+even when you same dancing 
+
+in the sky bullet bewilderment and how this knotted,
+les just this mess.
+
+their digs will keep in a b

@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102131']
+	LOSS: 0.61051
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE DUCK.
+
+
+  
+ julius  spelling door at home
+         their new ploughed sirens wept faces.
+
+
+so i know i would know in jane, 
+ is the brains are hearts,
+                                                                                                 of reefs, the head
+                                                                                                                                        in dress in the caf.
+alms on, but on the steam cheap and singer.
+when fancy sand stampede wood-the-latep.
+                                            

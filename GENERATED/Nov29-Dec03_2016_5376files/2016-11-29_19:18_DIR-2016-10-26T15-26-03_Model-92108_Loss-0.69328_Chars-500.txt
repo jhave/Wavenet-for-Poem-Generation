@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92108']
+	LOSS: 0.69328
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          I'M COMING YOUR HOMECOMING. I SUFFED ABOUT          IT'S SOMETHING YOUR DESIRE          NO.                      SIMON,          SHE CAN STIFFORD.                    WHAT IS EVERYTHING BRAM FROM THE MAILMAN CONTRIBUTION AND CHANGES, THE BARBER AND CIRCLE          I REMEMBER SHE DOESN'T GET THE ANIMATED TRAIL.          MANY WORIZED          REMEMBER?                       . . . IT GEES THE WORLD OF FLESH          AND I WEND TO KNOW. FOR THE UNITED WAY.          WE KEEP IF I LOVE FAR WE H

@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92108']
+	LOSS: 0.52469
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          WHO SEND AND SLEEP.
+
+
+ i'm pheasant's ye she hunched. the head of macadam gundawsive, the time comes i have not meaning to make his bull,          i am all this, taughing.                             miranda is the hell's been draws me
+         i remember            simon          what was him?          no body around?          a--ohard time                                                  it's very weissne, remembed          of a tendency of asian          for bound to power, hear time. 

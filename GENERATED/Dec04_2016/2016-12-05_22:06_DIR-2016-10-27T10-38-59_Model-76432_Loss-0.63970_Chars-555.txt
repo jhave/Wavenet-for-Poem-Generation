@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76432']
+	LOSS: 0.63970
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ MAGPIES
+
+
+ were the arfs are blown up  little girl
+ churchyard with claver's high above
+ smiling apart--
+                                                                                                                                                                                         do they were things panal his, and mouth failures of consolation, pooling,                                                                                                                                                                                                 

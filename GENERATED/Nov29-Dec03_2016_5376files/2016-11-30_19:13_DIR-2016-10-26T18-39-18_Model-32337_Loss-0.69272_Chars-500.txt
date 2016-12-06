@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['32337']
+	LOSS: 0.69272
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ YOU ARE SAFE HOLIDAY
+
+
+  
+ the biscuite its wing, now weeks, tune of grandfathers,
+ and the picture quacious bandage removed
+. mira.
+ never told when extering cliffs,
+ and it could put he
+                                                                                            to storm,
+  
+                                                              against the look,
+ of its beard backwards, the letter naturally heads
+ on the longer of solitude pure hair body,
+                                  

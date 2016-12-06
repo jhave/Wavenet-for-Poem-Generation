@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['35000']
+	LOSS: 0.58994
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ABOUT 
+
+
+their fluid of nibbling chinks on a morning   
+to say, a catchery of the pickup truck   
+spurred back at their thoughtful love. 
+
+on the shell's peace of a turn pendings, 
+
+and too innards in my bookstore, full door,   
+the peach you walked the leaders of stuffing   
+that engineer they think that did . . . a sentence 
+over the fog, the first of the spring up   
+and paper across the same as love   
+grass in the coldpaper and the breaths or renewing 
+una hassing of a porkably lead and fall   
+and the moon has been that powder 
+as she from the o

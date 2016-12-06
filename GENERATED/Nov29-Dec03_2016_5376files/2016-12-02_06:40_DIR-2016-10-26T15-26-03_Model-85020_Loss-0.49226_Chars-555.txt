@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['85020']
+	LOSS: 0.49226
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ABOUT PRAISE EACH HEAD-HAND BLAME FINS BY THE RICE-TOPPED FINDS OF MILK. I SEE THE THREE-TIPPING NUMBER A CHILDREN, SHY OF THE MOODY HOLD ON FIRE. STILL SMOKING I CAN'T AFFORD THE MOST EXCITEMENT OF TERROR TO PLAYED AND THE CLOCK. THE WIND FIND TUMBLING SIRS. I SMELLS STOCK THE RUINS OF THE VERY BASEL AND ALWAYS  FOR THE STRAND VERMON, BUT NERVOUS AND RUBBER & BOOK A QUARANTAG CHAIRS, POLITE AND VOMITF EACH CITY, AND THEIR AT HER BELLIED EYE IN A PIER. NOW I'M THE CREAKING OF THE VANILLA CYCLING OUT HIS SISTER AND UNTIL THE DAYS IT THOU PAY THE MIDD

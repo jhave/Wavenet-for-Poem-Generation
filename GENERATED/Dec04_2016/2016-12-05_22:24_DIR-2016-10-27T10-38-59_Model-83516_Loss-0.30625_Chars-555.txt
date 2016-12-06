@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['83516']
+	LOSS: 0.30625
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ STEP WATCHES
+
+
+it's geniual is another beek's carol-
+between us.           'tis wontel.
+
+               revision of american not need its branded grows
+                                              the epitaph. 
+
+         consure                                  i heard you   
+                                     the chase house         from acrossam?
+                       semas, i am saw.          whoever
+                                           and turned it all the grass. 
+                 after i will say, time and gilts.
+                      

@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109638']
+	LOSS: 
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ VERDAD'S BUREAU POINTS
+
+
+  
+ regrets, tighter air some for puffs,
+ lie fancy time             leave the balcony
+into the reeds amid through. this important
+                                                                                                                                                 as if in the children, 
+                                                                                                            determinator running the favorite of
+                                                    as a window-fish
+                  

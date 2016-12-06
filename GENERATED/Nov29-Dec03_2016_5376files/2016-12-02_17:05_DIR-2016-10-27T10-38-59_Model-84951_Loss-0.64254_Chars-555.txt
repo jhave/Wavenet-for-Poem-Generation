@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84951']
+	LOSS: 0.64254
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A SMALL MOVING LIKE
+
+
+ the seventeenth century--the falling slow, 
+mangos with their inscribed and um unedua
+hang girl and fed thoughtful door
+ i am a thing the mayflow haying since the door it.
+
+
+iv 
+there was the world would screams the door fine,
+ the certainly we behold their way union de blame,
+ and opening in her news toc fact 
+the soul stop,
+
+into any attending river in the leaves of perfumes
+of never-faced, junk, the sun and looks like that blast
+tested observe in on forming but the feed,
+and a flame of work, the sound destructional towards fo

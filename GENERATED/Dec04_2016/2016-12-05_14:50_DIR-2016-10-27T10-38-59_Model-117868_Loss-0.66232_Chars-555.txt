@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['117868']
+	LOSS: 0.66232
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+              LET ME DOWN HEADLIGHTS HAVE A SINGLE           SO IS THE MENU,                                             THE UNITED WAY           CENTRE                                              THE UNITED WAY & THE CARDY WARMTH. . . .                                    DROVES.         NOW THAT I DO NOT END WANTS TO FRENCH THE REST?                        THEY DREAM          THE UNITED NATURE.          HANGING IT                                                                      FROM THE NUD HAPPINESS.                                     REPLY C

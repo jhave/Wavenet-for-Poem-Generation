@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100692']
+	LOSS: 0.62755
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          THAT'S HOW THE TIME.PIL'S OUT          THEY HAVE EVER HERE.          OR   FIGURING MY OFFICE          WHY DO WE KNOW SKI FROM THE DEPOT . . .           AT THE SMILES,          DO YOU AND HEAR ? . . .           NO, YOU WENT OUTCOME.          OR MORE.          WAR            DO YOU SWEAR IS MY OWN NEIGHBORHOOD,          SIMON IN THE PLACE.          MY    OR TRY          THE IMMORTAL WERE WANDERING LIKE NICHOLAS . . .                          THE THOUGHT? POINTH BEAMS.          HE TURNED IN          IN LITTLE          DO SOME,          DON'T Y

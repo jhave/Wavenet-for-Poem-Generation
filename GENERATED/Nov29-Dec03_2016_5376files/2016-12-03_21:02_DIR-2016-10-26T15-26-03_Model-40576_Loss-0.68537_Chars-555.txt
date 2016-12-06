@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['40576']
+	LOSS: 0.68537
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                        RELIGHTING THRONES, AND THE YELLOW TABLE BECAUSE OF THE AFTERNOON                 BEAT HE'D NEVER SEE YOU CHOOSEY                           PUT ON IDENTIFY OF THE TIME I WAS A WHITE RELIEF MIX           BUG BY MY LAST NIGHT.NO.          WHAT LEADS MY LUNCH?          UNDERSTAND --                THERE IS YOUR KISS.THE BACKS           THAT'S WHAT EVA GOING MACHINE ME.          AND IF YOU          THE CELEBRATED YELLOW PLEASER THE PEOPLE THE BACK OF SIMON PULL          MAKE IT IN IT. AT LEAST, IN M

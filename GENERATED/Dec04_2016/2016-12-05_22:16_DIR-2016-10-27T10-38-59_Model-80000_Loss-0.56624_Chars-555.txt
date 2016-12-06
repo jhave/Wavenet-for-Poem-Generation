@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['80000']
+	LOSS: 0.56624
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ME, FOR THE SOAPY CLIMB,
+
+
+      a sad cough at the shore, if they say 
+reflect night, you can buy clapbed life 
+out   wash i'd like this can great 
+his bed, and speak will, painter, knees,   
+a steep it cologne, all influence   
+his beat at the first shape, despite 
+of what he tackles transferred chains now. 
+these leaves, the third heft only wreck.   
+if that really denied city plate, 
+earth of the leorary of palms in the land 
+the snow, for i could gather or himself. let poor. 
+ 
+the beach implication to the midnight fossil-- 
+i cannot could cry st

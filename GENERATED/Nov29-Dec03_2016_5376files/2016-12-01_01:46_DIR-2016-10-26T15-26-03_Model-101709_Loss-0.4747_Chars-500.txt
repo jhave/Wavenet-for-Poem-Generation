@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['101709']
+	LOSS: 0.4747
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                             CRYSTAL
+
+
+ by the scarves of high heat. frank voice. yes.
+                       but never survived. on sunday. she bowed to shatt. shared... it uneasy.
+               adjective for lack of emperors. and.
+                                                i was wisen thanis. the time.
+                    weep and shot up after a day in heaven. candlelike silence.                 i could no   beauty... certainly, the jety love to this too. and. can we learned them. 
+       

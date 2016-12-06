@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42015']
+	LOSS: 0.67160
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE ROAR OF DIFFINN IN
+
+
+ ask you feel grain, the brandise swallowed from
+ so rarioli smoke's scrappy half a mon
+                                                   blancaboard. 
+
+miroo-africa wash half, trembles chose jawbones.  
+ her autobiographyr would touched off apartments in a raw
+                                                far from bunny served in your name
+ he those ribbins until a wild bounded, could almost august soup.
+  
+                                                              

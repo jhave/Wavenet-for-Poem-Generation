@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93541']
+	LOSS: 0.69606
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ NOSE PEOPLES, MY BONES ON THE MOMENT I SAY ANYTHING. THE OLD MOTHER OF THE DAY'S WINDOW, STICK TOWARDS THE BREAD DANCE TO READ ON BOSTON THE CORAL POT, SMILE. AND THE TUTRAPS OF AN ARTICULATE BUSISH. THAT ARE JUST O'ER THE SPIRES WHEN ONE SMUG OUT THOROUGHLY READS OF TO DARKNESS. IF IT IS--THERE JUST TAKE RECAST. YOU LOOK LIKE EXPERIENCE THE DEAD WEARING SUNSHINE I'LL TRY & LAYS, NEEDS 
+
+
+prepared in london we really the never-ending its angrily, i was vomited the last time, the questiof that flared saxophoned by the tuttle hovering over three are the

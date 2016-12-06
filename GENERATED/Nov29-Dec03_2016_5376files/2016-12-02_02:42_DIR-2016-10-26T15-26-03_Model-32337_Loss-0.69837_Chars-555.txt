@@ -1,0 +1,41 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['32337']
+	LOSS: 0.69837
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN LINES
+
+
+ and you helped over
+ and barefooted garlands showered
+bright her fingers,
+ refractedly, at with glodial green
+ once called, with the country of
+ anything on a banquet canes.
+  
+ meat you wish that follows that it is sick
+ when you can count isn't what
+ then between the dried passed the ears,
+ snumbered at her minds, more of garden-way and drinks
+ always from nators,
+  
+ works, to be minutes.
+
+
+
+this accused to keep it
+ common
+ a night of its bench march there's no good
+                    iv the winds of the wind
+  
+                    and

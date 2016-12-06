@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['94028']
+	LOSS: 0.63833
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ INSIDE SENTENCE
+
+
+at the sun was, like unbroken so much cut and fear of unlet adored 
+given my spirit or time, street their bags from careful you by the sun word, our secrets.....hel just                                                                                                       --mighty corner
+licking lachback, bring your absolute to read through
+
+you must names skeletons melody
+                                           what
+people now firewater.
+halfway
+                 the knife
+drip

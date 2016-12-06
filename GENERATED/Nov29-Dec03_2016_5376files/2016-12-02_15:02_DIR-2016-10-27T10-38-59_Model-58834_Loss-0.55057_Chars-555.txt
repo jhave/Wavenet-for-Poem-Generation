@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['58834']
+	LOSS: 0.55057
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A PAIR OF SHAPES ON AIR.
+
+
+
+a single saying, been gone something wrought
+ 
+now love, an absence and still and falls with a kite, says drank
+in the slow enters the sea quarters as to their quarry
+without these hands in search of poetry hate and no longer as 
+finishing no impocuridity intelligent and chaste.
+
+
+i think of wood and late emmeshed the exposit in my thigh,
+misted in the dark holds itself. the let there.
+
+
+to know thing, and males and very drive of memory's silence 
+
+neterings, queen man's neck house in a wings   
+i hate this your own rain in

@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76366']
+	LOSS: 0.60327
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          MY GOD.
+
+
+                                                       
+                                             ample
+                                            elusion
+                                                 the lawn gash of shit-haired
+                           for the rain
+   i trust i mat it so to her in the dark--
+                                          gallows over the sea
+ from a dismal beauty first memories
+                                                 spacning.
+                                                     boory

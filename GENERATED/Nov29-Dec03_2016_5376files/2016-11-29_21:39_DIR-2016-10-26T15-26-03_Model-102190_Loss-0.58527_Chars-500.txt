@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102190']
+	LOSS: 0.58527
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+     IN A USED-ORANGE IS
+
+
+an expanse at the movie
+ came tame.
+a take is boundary caravaga
+  
+ adjusting-suppartinity.
+ they were quickly summer insisted,
+ men with. each one knows no up
+ all hounded william buzzups fitter?'
+ an industrate said, talked the sky 
+ needle world, kind of mice
+ fannon use, she's focus some civilized,
+ or framing and mackin's?
+
+
+					
+					docketa jo
+ the beards cannot de compel wire and today's mara
+  
+ some safe plead mortar.
+ freedman smelled and calder
+ lymettan, or
+

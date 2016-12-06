@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['8963']
+	LOSS: 0.69018
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ CHOPPED 
+
+
+louders of my sheeted now dusk? 
+burned--my ever gull 
+                                                                                               as blood 
+                       and futurned-- 
+                                    about 
+straight automobile.   
+they wall orbated and dead.
+
+
+                                                                                               and finally 
+
+                 the pollen 
+                                                                             raw 
+                              

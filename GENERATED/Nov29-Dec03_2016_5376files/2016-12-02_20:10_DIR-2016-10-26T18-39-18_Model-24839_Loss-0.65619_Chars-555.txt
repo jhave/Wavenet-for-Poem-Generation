@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['24839']
+	LOSS: 0.65619
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE CATHEDRAL,
+
+
+                                                       a thousand chiffs.
+                                                                             mean my whistle,
+                                                                                              if i am i know the poem . . . da light.
+    at their widow of us, the laundressed
+ an onfa tupain will find you summer is collection,
+   lied his biggest linda separate women
+                                  as a nurses of build for who has gi june,
+sleeves make solid our met 

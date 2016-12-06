@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['100590']
+	LOSS: 0.55265
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN THE YOUNG MEN KILL A STAR
+
+
+
+                                                               clap low,
+                                                                   ii
+
+at rest, i lived with a melancholy cradles
+
+                                                         clemn out of the waiting dreams
+
+                      but what is eternal covered 
+                                                                               one two   something
+
+
+kix cultivate rain
+sustainable emotioner

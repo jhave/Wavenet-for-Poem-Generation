@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['101049']
+	LOSS: 0.58527
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                SEVERAL LAVENDER.                   REPUBLICAN
+
+
+         from time has heart cultivation
+ to those months floating beside his painte.
+                                                                  yes
+ to tell you then, ring earthly to have believed.
+  
+ trees are without sweetness with a forge
+                          and then i cry--
+                                     smelly to pick up to face to sick, 
+ bench, you can never see to see how you were comes
+                                                 quickspin

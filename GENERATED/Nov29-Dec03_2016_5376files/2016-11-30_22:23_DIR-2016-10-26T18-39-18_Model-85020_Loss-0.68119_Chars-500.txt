@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['85020']
+	LOSS: 0.68119
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WE HEARD, ABOUT 
+
+
+ toast thou kerplish--i left to see
+ scissors were my glitters.
+
+
+rapped into rains ox in her hair. 
+                                                                                                                                                                                                                    these were and uncle, a portion grain.
+                                                                                                                                  w

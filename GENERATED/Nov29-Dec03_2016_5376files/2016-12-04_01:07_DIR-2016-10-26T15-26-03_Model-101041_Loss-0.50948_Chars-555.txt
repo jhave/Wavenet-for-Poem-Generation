@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['101041']
+	LOSS: 0.50948
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ME WORLD AND MOSTLY FEELS,
+
+
+ cased waves say with things could roses in
+ lost, i would never let their eyes,
+ he jumpstares my lingering
+  
+ a quier's lady and the forgiving pen
+  
+  
+ still was at the ax green encurtively she died.
+  
+ its traits of stare to lander, unable i am for sure.
+  
+  
+                    ibis their struggle quick to be today
+ on green from the dank, like veins
+ of a separate bathing--through vpice
+ the grasshopper is life.
+ 
+ taken a dead ferns toward me
+ there are you realize this market, and why
+ i will have said too
+  
+ 

@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['94836']
+	LOSS: 0.63259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OF METAL BLESSED   
+
+
+veins, poets one would have been arrangement,   
+                                                                                      to need t' what is it. 
+
+                                                                                                       choose 
+                                      only la's passed a true story on, 
+                                                  plastice 
+                                                                                         needles 
+                              cru

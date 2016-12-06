@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['43315']
+	LOSS: 0.68264
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IDEA OF LEAVE IT INSIDE 
+
+
+he drive like from a storm, eyes   
+burning brother's worse 
+        thah what they do, i cured, 
+                in the ears from the hint. 
+i step laughter. and are favor of no 
+   and if white to himself flate 
+     pin new pure so lifelong was i am 
+                                constant stake  an earlier, numb? then   
+the black dart are stand 
+      force you cross cricket 
+across the other america 
+it is too hot an absent i dreamt   
+      will feel them. 
+makes a kind of all 
+   and i be there to 
+       became our

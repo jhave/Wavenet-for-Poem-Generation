@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['33425']
+	LOSS: 0.63942
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ HER BEAT IN THE CORNERO OF LEAVES ON THE ROOF, THE TOMORROW REASON FROM OVER MY CLAY.
+
+
+
+
+when there were few man in your whole.
+
+                                                                  so manners lie the swan,
+ 
+                                         for what the journey of under they really describing brain
+                                                    we unstainly
+                                                                                        has been seen in the branched dawns the fire
+                                    

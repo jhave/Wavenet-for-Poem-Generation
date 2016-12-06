@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['10000']
+	LOSS: 0.68143
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FAIR, 
+
+
+i am buffy in shadows 
+a litrer of friend, in my -- our dark 
+the tranquil philome to hye incry 
+no doubt her angry forest from therty, 
+and still to the darkness rainward my low. 
+      yeats behold that grew fear. 
+through the florid pulvatie's away, 
+     glittle book at meet the below. 
+our dry, not thou putty shore. 
+     never sit, a commons with spectradissate 
+and then be by ule arc strong, 
+who thou fed the scopening sea-gift, 
+here passing sunknesse laure goudy, 
+cember than villing swannowing feut, 
+to spake thou has-bloomed hoar b

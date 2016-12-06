@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102128']
+	LOSS: 0.67877
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WHAT IT TAKES THE MEXICAN WORD
+
+
+ when communion missouri narlations of blues,
+ codered by the backseat you at bary woman
+ these all these before the mood you have been water
+ the poet of the river of dangers with potatoes?
+ black ablaze, in all these throes dark,
+ a bird smudged its marijuana in the song.
+ trusted in the second.
+  
+ heeds upstairs as ardens to find which
+ how we have one thing that as far as belly
+ to drown here fortune the observation today is language.
+  
+ there's a land of as the gist of looking the rasping creeks against
+ wake th

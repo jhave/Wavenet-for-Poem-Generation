@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92542']
+	LOSS: 0.61478
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+     A MEXICAN CUT IN
+
+
+ words the blood of zeroes or comfort, under 
+ i care from the hospital walk the wearied lands,
+ her pedestal. 
+venetian au bighouses, moving 
+on gyrating day, into the stars back on 
+i didn't tauch you rise to say
+ that journeys with a voice divine were comes
+ i can never also, they drank the flawed pricker,
+ the thickening of my sleepless words
+  
+ banks of tomorrow wider they put
+ without the spitting of papers, or bodies
+ watered my son-in-lumping pepperpoil
+ of satellit

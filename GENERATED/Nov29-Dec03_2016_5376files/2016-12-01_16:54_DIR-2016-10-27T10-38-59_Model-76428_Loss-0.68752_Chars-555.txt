@@ -1,0 +1,39 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76428']
+	LOSS: 0.68752
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+         
+
+
+horse and girl said, may i hold a hut.
+ 
+  
+ beautiful agleamed street and garterling
+ which cubby eyes shuddering when it at nights
+ in town.
+
+
+a should hair. when the scars of mine, 
+as when your fuilders beyond 
+on my knees anew, i all men and what
+ themselvation nipple soul somebody shape. 
+when thin night. londons, belted
+
+morning striding dawn-listening bones--
+in the heart feels, a suse paid for a heda. 
+
+hanging your fireate the ceruleable monument.
+he swaying do i see them, turned, write rays 
+than everywhere as delinquentially
+chi

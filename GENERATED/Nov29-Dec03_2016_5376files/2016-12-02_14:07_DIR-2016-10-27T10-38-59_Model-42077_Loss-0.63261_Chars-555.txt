@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['42077']
+	LOSS: 0.63261
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                           
+
+
+
+  
+                          refrain bloning his, 
+the stiffing gleaming to death.
+      a thoughts of all about i said or the sea
+            --shake the door. in too long. called over
+                    of hail to the money, tinkly speeches,
+                                                                     between with agaves
+                                                                                                            to be acting my muse kings,
+                            carried, i remember woke in p

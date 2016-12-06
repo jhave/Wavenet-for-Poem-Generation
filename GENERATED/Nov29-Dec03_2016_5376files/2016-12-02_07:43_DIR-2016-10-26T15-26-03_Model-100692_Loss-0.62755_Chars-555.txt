@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100692']
+	LOSS: 0.62755
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          NO LOVE--
+
+
+                                                                                                                                           there's another          no more          understand          roof and crystal- himself,          she bow attempt and give what you laden you my father is mary, un          see it use to?          say how i stand one even          what? instead.    he lies it.              do you respect me today?          and they?                         today myself?          wore starving under the , moment

@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42011']
+	LOSS: 0.65798
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ AS THE FLAMES OF THE LAW
+
+
+was fundameate, the beautiful friend and 
+                                  and sixteen the toast   
+  
+ where each on a boves of black and innocence with
+                                          and fight we knew this rimber the nursed
+ around the indifferer needle, so bogs resembling. in the contact inside
+                                                                               always and great was plenty kiss of sea
+                                    simon's done their first spat
+                                  

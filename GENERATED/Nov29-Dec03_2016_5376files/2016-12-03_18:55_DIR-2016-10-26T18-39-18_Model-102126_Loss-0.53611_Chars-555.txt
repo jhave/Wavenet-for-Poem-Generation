@@ -1,0 +1,43 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['102126']
+	LOSS: 0.53611
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ON RHYME
+
+
+in a room jazz elsewhere 
+sprung doming back of lace, 
+the sores of the beginning the sky
+or taught the patient for the airs man.
+
+i remember, tick-fish and researcher,
+their eyes opened you dake
+their place.
+
+theorety-bone by way,
+she's a yields or lend the tavern
+in an avenue. i said to toil.
+
+
+for yes, and stride,
+wearing the rooms,
+stretch which behind the still so long. 
+
+he started 
+but am i said, if you didn't drew
+
+a babble in orderly   
+when she wearing into the sky,
+ then follow meets slumped,
+without knows than ever be loved that

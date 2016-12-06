@@ -1,0 +1,62 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['119303']
+	LOSS: 0.55332
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THOS GA.WW      
+
+
+            
+            
+           
+        trrean,  wo    
+
+           
+   
+ 
+braw a to
+asand
+ raf to d   a,  
+        
+                 .            
+     
+n
+nuliog ditn e to bh 
+ pod    aam tf jad toans   
+  
+     
+   thod un run an bs
+reach
+            w    
+         
+                 
+                            
+                
+ 
+ 
+
+             
+       
+     
+        
+                     
+ i toobicd dor apaik,   
+    
+  
+  
+           
+             
+ my by olok situf ist.         
+                
+ 
+           o tret, wam

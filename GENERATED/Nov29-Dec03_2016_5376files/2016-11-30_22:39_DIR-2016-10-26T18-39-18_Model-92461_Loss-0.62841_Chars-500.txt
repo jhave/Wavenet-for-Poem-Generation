@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92461']
+	LOSS: 0.62841
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ COMBINED THE PALM ONE
+
+
+ campy cordy, nor train.
+  
+ generations' say, least any scraps
+ in its lighted light in me.
+
+
+
+a country clivelands weren't quenching you haven't help
+                                                                                                                      someone's own
+              
+                                                                                                                                                           the exter told to teache

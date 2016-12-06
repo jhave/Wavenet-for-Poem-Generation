@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['40576']
+	LOSS: 0.68537
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ NATURE POSSIBLE, AND EVVY         FORSWORTH TO THE HEARTH AND OVER,         SIMON      .    IN HER KNEES IN RA GONSET.            VEILED ENCOUNTING CONQUER'D,          SUNSHINE NOISE ON FISH.          ALL REPPONS, DOES THE VIEW AT NIGHT THE DEEP NIGHT-LENGTH TEAR--STAR INTO THE SENSE OF CONTRAPTIONAL ENCHANTOM SHE'S ALREADY NEWSPAPER   CRASSING OUT THE SHADOW OF DAD, MY BEADING LITTLE BILEER WITH HAND.   I AM NEITHER OR,     UNBECOMING BIRD      THEY CALL ME.           THERE'S NO ALIVE,          UNDERSTAND AND WHERE I WANT TO SLEEP          HATISTRA

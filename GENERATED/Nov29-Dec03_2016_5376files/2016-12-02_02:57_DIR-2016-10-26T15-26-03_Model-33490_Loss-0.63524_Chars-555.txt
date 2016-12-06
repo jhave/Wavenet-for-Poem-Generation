@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['33490']
+	LOSS: 0.63524
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+              NOT TASTES STILL WITH CARNIVAL
+
+
+              they were bursts on a benevolence.
+  
+                                         or easy
+                                            his teeth.
+  
+                                                             brass.
+  
+ we talk about our soul.
+  
+                                        and hat. 
+
+the asphalt murlin on themselves feediness
+                                             america
+                                                                                                          

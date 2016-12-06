@@ -1,0 +1,41 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92463']
+	LOSS: 0.68878
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ AT THE AMBULANCE,
+
+
+ a droning walks of water, you'd bend
+ we remote, i think it looks at all.
+  
+ even now your man's bones' enchanted
+  
+ spiderwell to the slim launced rappers
+ 
+ this is unimportant mirroring the onions
+ wait,
+ with tooth wounds akan
+ insane. we argued the features 
+ carpet the sand, were blossomed.
+  
+ two critic, backuponro, 
+ threverge out of new
+  
+ eggs and panes, where she fills
+ in line a holy on the sundown henry.
+
+  
+     iv. the world pry does not confrontent
+  
+ wish

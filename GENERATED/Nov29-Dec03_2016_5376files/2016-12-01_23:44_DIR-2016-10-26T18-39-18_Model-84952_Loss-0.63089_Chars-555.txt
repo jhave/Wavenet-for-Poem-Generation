@@ -1,0 +1,37 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['84952']
+	LOSS: 0.63089
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ RECOGNITIONS ON ICE.
+
+
+  
+ laughing hand me watched their nectar
+  
+ in their daily great appeased 
+in the negative. a kite as the loom
+he walk on narcissus so bright as elevators
+has never can come armades into right,
+they means of now. something instant
+she told her tickets of the groan
+in a sad in umbrella weather hand,
+on my hand on things to these
+ fifteen to avoid the juice chickens,
+the only waiting for good.
+  
+                                               stone
+  --mountains when lost
+  
+                 upon the state of her sharp his bag?
+

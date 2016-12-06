@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['84950']
+	LOSS: 0.53802
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FACE OF
+
+
+ she told the hand      since theater,
+ the strangeness of the way the subcling of poetry,
+ jibue me whoever jam, just before the rough poison
+ the partish are riding up ointment of a dead-disant cast.
+
+
+turquoise the brain swan. what is my tongue
+ the sewagers and weight dicks we can.--insistent
+ her chisel to these tea on the sunken windows,
+ the tree will met. i want to get me lake.
+  
+ does not weighed off a forward wounded,
+ their jacket. the seven of my parents be time
+ around to s

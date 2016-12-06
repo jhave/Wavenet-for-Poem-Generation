@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['59256']
+	LOSS: 0.63313
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+            TURNING OPEN A-TOLED STONY BALANCE
+
+
+                       is sentences curse.
+                so i know i'm glad--a
+                          o ye                                                                                                 am                                                                                                                                        gorgeous pins and her mistrusting down, howares an and ump. marginal end. the shoe and tale us like voice repeating of front and puzzled the wife, olive the viny h

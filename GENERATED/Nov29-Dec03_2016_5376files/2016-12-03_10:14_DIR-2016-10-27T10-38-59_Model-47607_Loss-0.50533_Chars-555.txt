@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['47607']
+	LOSS: 0.50533
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE ROBE OF SONG 
+
+
+    converting sweets, 
+the tether it is ruin, every death 
+    and, waving no book beyond to crime 
+spleen in her how i thought despair 
+      her so sweet on book i needs   
+                                as love. 
+
+        why do they went - clogging so fair, 
+                or lower must have tria's all to bend,
+
+love good to be green the sea 
+
+so waking time in this tub with a sudden camps,   
+    a rose upright and enchanted to jaking heads?   
+always gone doth space them as to heaven   
+                                    

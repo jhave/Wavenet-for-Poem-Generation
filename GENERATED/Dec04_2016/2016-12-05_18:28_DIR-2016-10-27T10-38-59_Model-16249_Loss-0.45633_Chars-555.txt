@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['16249']
+	LOSS: 0.45633
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FLOWERS OF TIME
+
+
+ the names of ate others go winter will the dead achs, 
+a boofand of aschaliness and canna to the car.
+ when will reck. champagne polyes in a feed of blue muck
+beaut believing in the president of calls    rain dry two whited for the midister,
+ nobody up the only proved hopocarts cresodona
+dancing rooms, meaning,                   and spiders, and southful 
+ hiss that i left snow tidy, here in the lilac.
+  
+     is the strengtip-child across and pervas grace
+                                    of flesh is almost and a limits all and j

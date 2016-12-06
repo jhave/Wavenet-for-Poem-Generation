@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42014']
+	LOSS: 0.67824
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN FLOORS AND HE SAYS,
+
+
+ the winter swinging a saint,
+     the earth welsewhere,
+        yet this station. i like ten
+                his stone ground him canadian-hill me,
+                                           things happahon.
+                                                       fat in, in the rock,
+                    the dog that wind with a definity,
+                                               medicing event. the lane,
+      and by negro goes out the nizan? he said for even
+ or soon wrong from swimming down the malaria's winter's legs
+ 

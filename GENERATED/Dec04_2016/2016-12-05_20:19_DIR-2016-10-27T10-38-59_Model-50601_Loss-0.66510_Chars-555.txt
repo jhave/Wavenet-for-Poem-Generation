@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['50601']
+	LOSS: 0.66510
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ AND CLIMB 
+
+
+      who have been the colium with winds lightnin man fright
+with my iron can he tups in water. 
+                                             butter with ganni milk scabbe, 
+ terra vology of concrete, entered
+                                                                      humble black stupid
+                                                                       such as the arranged sky.
+                       i sit in her blanket-off his bellys
+       worth who grow in the shade. self-tsmeatal pez me
+                               

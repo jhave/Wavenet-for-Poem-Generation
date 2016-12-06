@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['57752']
+	LOSS: 0.68870
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                AS AN ENTIRE AIMS WILL BE THAT BATALING, WILL BE SOMETHING FEET WITH LIFE.
+
+
+              say ------------------------------------                              gone.           simon,                                                  gold.   an almonds choke i am longue each among the anquist of industry clear him           all on your poetry          and i will be the seed evening pouring, folly become medium,           the united enclosure the wind,                the reason but their on          dar.          ii
+                      

@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['57752']
+	LOSS: 0.68870
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A MEMORY LACHINE.
+
+
+
+old men        simon simon's lick with me
+                              testaurant and beatrice 
+                                      i
+four, still waving suffering.        lip-
+old fell down the arms still be mine of surprisive
+                              tonight
+                    at least metsement.          a blink skin more,
+                                                          skyscrapers                                                sailed, broochy mijoldor    

@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['55000']
+	LOSS: 0.55568
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ I'LL HEAR TWO MEN, OUTSIDE, WORDS. WE HAVE SEEN THE LIGHTS ON AMERICANS'. THEN ALL HAD TO LIVE WITH ME IT IS LITERATURE WHO MADE A HALF-LOGGED IN VAIN UNTO SAYS, DIE YARNANTLY SEPTEMBER  AND THE GULFSTAKE AT SEASON IN SEARCH FOR MY DAUGHTER LOVE. HURRY, BUY ATENING FOR ACQUIRE SLEEP UP AND, BUT EVERYTHING WOUND IT TURNS FROM DIVISIBISSANT'S CONSIDER FROM EARTH TO WHOM TO TELL HOME   IN ITS ON CROSSES IS SURE THAN I CAME UP THE GROUND.   IN HUMMING SEPARATIONS OF A FOUNTAINS ABOUT. THE WAY THEN LIES THAT TIME I COULD ENTICING LITTLE KEEP IS STRETCHED

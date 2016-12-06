@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94843']
+	LOSS: 0.58339
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SOMEONE SAID,   
+
+
+ out of the ocean town's auropian rabbit 
+  
+      now ahababam? dwights have coming 
+with its lonely pinched, and there was a child 
+       is a side, runs holy hearumy   
+rain     up distrusting one because landscape flashed   
+ in some sewers of sailing silent, wholen we write.   
+    'sfit the paper years. 
+
+
+i call you adomnook   
+    but he might take a beerflown.   
+a slab of such cautious is sure 
+            are escape for reflectives, shines or 
+in the aerosol myth ove

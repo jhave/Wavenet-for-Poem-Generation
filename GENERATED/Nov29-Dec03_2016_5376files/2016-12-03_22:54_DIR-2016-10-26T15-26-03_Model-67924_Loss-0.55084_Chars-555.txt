@@ -1,0 +1,37 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['67924']
+	LOSS: 0.55084
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ UPON READING
+
+
+from natural rested on the city's door. love
+   tokay the patches of the silver express
+ beside the hymn rails on dryer 
+     and lit fists could not 
+ for a cigarette
+  
+      hey counselets, over the slums.
+     kilome the new yorker
+      no water or desaisu even
+ without a rather fit it.
+       that might sweethed shut andersign
+          
+ or wounding by hours a risk that fednes,
+          this i had endure
+    her teenagers flying squat,
+        me are save the praining sang,
+       and stared at-alls
+     i am tho' god bizard'd
+ 

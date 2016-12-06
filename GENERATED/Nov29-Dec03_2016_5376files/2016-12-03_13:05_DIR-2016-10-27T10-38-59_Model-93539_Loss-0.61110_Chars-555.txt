@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93539']
+	LOSS: 0.61110
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                           SI, OUR DUNGAREE, BLOOMS WITH HOARY GOES THAT MAKES
+
+
+                                                                                                 in the cupboard,
+     out in her sleeves tongues me
+                                                                         at the world always be shown
+                                               than bear star . . .    high wanting quilts will out make 
+                                             a bird, and measured palls
+  
+                                             

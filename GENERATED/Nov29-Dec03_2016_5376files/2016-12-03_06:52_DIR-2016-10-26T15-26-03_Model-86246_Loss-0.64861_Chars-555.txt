@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['86246']
+	LOSS: 0.64861
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                      THE CHISTLE      
+
+
+                                                  you deny the picture show. 
+saith lawyer, in that chunk off smokes 
+                                                         of heaven and o floats   
+                                                     in that bank star   window 
+                                                      wants to exclars   
+of side hot everyone irishs as in sadness, as contamin,   
+                                  with color t 'b not as she chosen 
+                                

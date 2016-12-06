@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102836']
+	LOSS: 0.67422
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ BEDROCK,
+
+
+ 
+in the news, on and once gains who the dispatch   
+the drifting sense of mud. . . . a. 
+are you have our eyes on the world, 
+a lectureless day in shreward 
+psycheroke. --
+they can she is only the mail could fancy
+funnel lived in a dulled run-colored fire 
+their case that when it folds split than my father ways,
+
+can thinking asteem with sense than turn over
+to the day, and adonis's bloody everywhere,
+while the brown falls the valley, so with its freedom
+and then tree stalking to his chestnut fired 
+of icinst in the light in this house was

@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['17551']
+	LOSS: 0.61526
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WORLD 
+
+
+         waiting through the gauze   
+    of night not that 
+                                                  in a man   who wet 
+                                                of the feather-- 
+         and we says, a bucket-- 
+                                                                                                  when it comes 
+              to a home of womb 
+                                                                  into pieces from the ships
+of him, through a drunken     overend   
+    famous woman cloudy 
+
+
+and mornin

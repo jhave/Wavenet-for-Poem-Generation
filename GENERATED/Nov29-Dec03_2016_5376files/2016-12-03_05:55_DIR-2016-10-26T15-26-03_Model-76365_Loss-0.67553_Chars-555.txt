@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76365']
+	LOSS: 0.67553
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ NATION
+
+
+ in an angel storms and free to me
+ is letter than that draws they looe
+ is that contending to make of us
+ a man was startled summer, when ancient
+ to say grasping the cliffs
+ as--i'm sazish odysseus, wheel folk
+ wake up with ing, both awnings,
+ i think maybe eager and eddies so carry
+ of its native in blue past  of many
+ soft and the scholar. south and give me
+ says mips, i can say i ask--on eimed
+ everywhere, hankered after the arm discerned,
+ it's ave hesitating away    and chaunted.
+  
+ soon after shoots, the royal grass.
+ you who coin sh

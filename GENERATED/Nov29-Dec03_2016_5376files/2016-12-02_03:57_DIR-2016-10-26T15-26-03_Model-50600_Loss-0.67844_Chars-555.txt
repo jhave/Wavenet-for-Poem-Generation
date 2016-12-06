@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['50600']
+	LOSS: 0.67844
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ASSESSION IN WORDS
+
+
+ bits in upber and tuned to appear
+ his beloved. not want to pretend,
+ while made some combs mountains one bands.
+  
+ sixteen, each newspapered asian and never bound
+ in the body is eating in the wreck's arwield 
+ 
+ when i was one of town, we talk to me that at p-front reass
+ has to look into flame march  lelt someone in a scaffold,
+ as were the stone in being patch of america.
+  
+ rising for three tyre never we know a man
+ in the shower, black coffee and as vii 
+ the secret who was superplaced python an schedule.
+ you remember so

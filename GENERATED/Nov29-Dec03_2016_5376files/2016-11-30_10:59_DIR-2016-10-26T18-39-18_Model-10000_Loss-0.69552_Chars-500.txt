@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['10000']
+	LOSS: 0.69552
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SWEET, AND THE ROSE BITS 
+
+
+       himself like a captaint yetterfly taunce
+      the frecial caught mipac'r?
+thou cooln forever xalh up-golden 
+i will possese-lessorily was that halfs -- 
+she has loosen eye with misleed race 
+the some finger ya thy beauty whar are beyond of face. 
+and thought lies to dat could bed   
+to be close amying at a children count 
+the radiant you clew at herbs 
+their places' transitting witter's dark.
+
+but he saw her haunt the kinds in flow, 
+was not the wings we take th

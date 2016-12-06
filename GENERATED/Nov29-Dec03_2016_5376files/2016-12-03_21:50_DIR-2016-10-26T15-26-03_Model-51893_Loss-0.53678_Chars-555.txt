@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['51893']
+	LOSS: 0.53678
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+to speech i recline, and dried out of answer four 
+the circle and find the ballet--yet needs 
+their red beautiful cheeks, timegrown 
+
+in last strides the little boy a burnished tac in to wait   
+over the watermelon-bladder. novermined each hunched innocence   
+--its soaked   
+lunatically pen in the beige of job to back and street, an empty   
+distants superbeing everything, estruck beauty,  she could be   
+any half he would have come back old and ended, substitution 
+onto itself blended from captured by who cared   
+mantle life as they flove over i

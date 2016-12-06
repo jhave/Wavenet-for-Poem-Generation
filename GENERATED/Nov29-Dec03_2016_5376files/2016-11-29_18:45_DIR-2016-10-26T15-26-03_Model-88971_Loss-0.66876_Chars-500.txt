@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['88971']
+	LOSS: 0.66876
+
+
+dilations=2*21
+filter_width=2
+residual_channels=32
+dilation_channels=32
+quantization_channels=1024
+skip_channels=4096
+use_biases=True
+
+___________________________________________________________________________________________________________________
+
+
+
+ SHE WILL GO US, 
+
+
+it were those long after on the night. 
+cat hardly this for maybe-- 
+he drifted, how this wrenched rib-car 
+while down like running winter's desire, 
+eldered maneight now the left of day. 
+
+ah serpent's lids a brown branch sheeted burns 
+between sweet spurn as healdamen did ground 
+for the various anger, tumbling after i
+came for the boosty can no choirs 
+stockings her caprice and tam'd meet screamed   
+monstrous hoverer swimming whose glass 
+his just as well being on the gliste

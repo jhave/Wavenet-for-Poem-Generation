@@ -1,0 +1,42 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['85016']
+	LOSS: 0.56422
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+               OF DWELLING
+
+
+ pile the winds that dark glimpsed eyes.
+ the falcon in the rain, the forming,
+         
+on the grass door. float thoughts,
+ and this jubile brotesques,
+ the same speed 
+  
+ the man there, we weren't and friction 
+  
+  
+ the freckle sequins through their tent.
+  
+ wind-be-compromise, he is lightning.
+ say to you? sea becomes haunted posymla,
+ i think of it benux and space
+ it's not to right to climb by.
+ walking among pond. 
+ we were a beautiful.
+
+
+
+the years of shadows were, a rainbow tangerine?
+  
+ jump and close strips o

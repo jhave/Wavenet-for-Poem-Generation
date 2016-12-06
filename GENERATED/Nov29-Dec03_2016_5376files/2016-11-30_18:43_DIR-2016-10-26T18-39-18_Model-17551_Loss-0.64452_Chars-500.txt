@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['17551']
+	LOSS: 0.64452
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WHITE BLACK HABIBRO   
+
+
+        it's death and emblemphospin admired,   
+your coward's shore over 
+
+gasped away to date it is frime to a bent   
+                                                                    an end so these real loather, 
+                                      the book on neception 
+                                                                                  and veer 
+              in the day 
+                                       and with ripplestibuled 
+
+             

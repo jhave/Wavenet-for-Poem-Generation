@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92108']
+	LOSS: 0.69328
+
+
+dilations=22
+filter_width=2
+residual_channels=32
+dilation_channels=32
+quantization_channels=1024
+skip_channels=4096
+use_biases=True
+
+___________________________________________________________________________________________________________________
+
+
+
+          THEY LOOKED AROUND YOU AS YOUNGER THE GREAT DESIRES         THAT TIME IS COME TO       OUR TOMATOES          I DO IS IN AND TWENTY          NO BODY TO HEAR MILK.                             AWAY FOR YOU, NO MORE IT'S TRANSFORMED          YES, IF I AM THIS WORLD IS LOST.          MIRANDA         OR IS YOUR HEARS IF MY TONSUR' POST ITSELF.          NEITHER THE MIRANDA WAKES          THEY WANT HIS FRESH          WHEN WE COMING, YOU'RE ALWAYS LAUNCH SEVENTEEN.                           ARE 

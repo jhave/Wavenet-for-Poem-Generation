@@ -1,0 +1,43 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['64368']
+	LOSS: 0.6082
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ COMPREHEND 
+
+
+khosps fade, innocent, desire. 
+
+over the ocean ward, forever? 
+
+unhusks him comforting in the season, 
+pausing up each jewish headles-eyed, 
+home john, people at night 
+come home, limbs the bubble 
+the dynamo in chasm 
+square, plurred against ik. 
+a litelesse.
+
+
+jerked with, denvanges 
+musk, belly, flashing 
+in gubeariness and place. 
+
+audible seeds permission eevergreen   
+entrance, too put the   
+to cannot a quill bottle, think 
+and therefore feet necrology's miged 
+
+to buy whiskey and their duty. 
+
+to call this indian is clear shop p

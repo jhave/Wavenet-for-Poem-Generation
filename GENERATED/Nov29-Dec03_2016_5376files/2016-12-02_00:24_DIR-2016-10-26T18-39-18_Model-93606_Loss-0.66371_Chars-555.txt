@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['93606']
+	LOSS: 0.66371
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                            SCRATCH VIOLENT                                               THAT SINATRA'S THE EWENDS, OPEN DEAR I'LL NEVER BATH. NOT ON A THURMOT'D SPREAD, 
+
+
+cal. wearing the bunthe late pond. like a complexuality gold bell in the global cubic grass soul fundam--
+ the bigger of them. i see within lumped rotten
+                                                                          gone atone.                                                                                                                                                 

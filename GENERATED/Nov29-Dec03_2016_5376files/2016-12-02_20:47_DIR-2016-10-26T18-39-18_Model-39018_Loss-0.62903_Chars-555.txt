@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['39018']
+	LOSS: 0.62903
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN THE 
+
+
+a fire is golden looking, 
+and one mists and country canop ere more verse 
+spinnels. it could heat proverbses,
+
+still things them gluttony dictate,
+
+    in death glory walk form, 
+          between the oak all nature proves 
+       did no teares their hand 
+that praise, and metaph the lousing bront of candle 
+         despairs and blood, embarrassing dirtynside
+
+   all that only moved our son opprepared.'
+    to every weir juttant chint the new adieu, 
+come, out great with a spilled fact into tears 
+   where the eddiest lord emily stuff nake

@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['75278']
+	LOSS: 0.55579
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TREE,
+
+
+ you'll fight to escape the tunnel,
+ starlight the mouth of your sister skin.
+  
+ lots. i am not forbid me remember more
+ sleeping days, or filled more than had boye
+ adequate, in buttoned crescene hems on,
+ say, mill with zee,
+ when the wild thrumming can't organs
+ and, ashidone, if you ask me a second
+ outside, spirous,
+        vertificial frills me
+three years on the angels
+the fact if you creep on
+ poxswains bleeding uproar kick,
+ pointed and tens a cropped more, dogs
+ a collect mirror. shout sorge 
+   to place snow me be if you wanted it
+

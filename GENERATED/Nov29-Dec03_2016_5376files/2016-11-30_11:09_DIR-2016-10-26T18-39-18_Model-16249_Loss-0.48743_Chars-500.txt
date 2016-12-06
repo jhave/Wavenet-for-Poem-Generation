@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['16249']
+	LOSS: 0.48743
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN PHRASE
+
+
+                    and watching. if the age the water
+ that his not terra in rest in go
+the sail, the hard of grandmother
+ doth dark, no
+ forted the surfugely hair,
+ city constro peers and chairs are law 
+swaiting of the sweaty side of great
+photographed with dry it up,
+let nose three were the reveal
+                                      and man. and its own city hand
+ from christmas beggar of flock and you-n 
+ twenty, now and sluff of the melf
+is blue also find his dead failar
+ 
+whic

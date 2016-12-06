@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['67840']
+	LOSS: 0.57227
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+  
+
+
+words, i figured & who should call the far keys, 
+summer's look, pull up out his sight,
+the formlic knowing in his horse  
+the disappearance of little from seems
+of the begone hoses, prose the plea
+will. look for pens, how sleep. --
+in the day trots my speech
+into these are the witch, brandolinist.
+we walk besy to have for her on a curse.
+
+the invading and sycamores that smells, gasping
+little sorts and prepare are pact. there are kerome.
+ 
+then people hamletion a knife and grain just
+mirrorined, roadarn toward sales and not leave 
+and the catarac

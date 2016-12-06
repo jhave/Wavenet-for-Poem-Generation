@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['8963']
+	LOSS: 0.69018
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+                                               one who lives death.   
+                                                                                                           in begin to sing where the vamnas   
+                                                                                               i longer pulses later 
+                 and in reality. 
+
+       explained the sentimen in its fir pits   
+and lu, once a paint which 
+of stroked come and far idaw 
+                                                                  once sweet in

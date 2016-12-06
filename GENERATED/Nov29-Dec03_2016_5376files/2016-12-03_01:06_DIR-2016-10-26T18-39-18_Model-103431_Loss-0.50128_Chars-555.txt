@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['103431']
+	LOSS: 0.50128
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          WITH NOT EXACTLY SAID, 
+
+
+by day o argod, snody i sleep. heedles & saw 
+       and then dangers and bison we going. 
+
+in black beats at a questions circling mine, 
+    all the bars of young man of the shimmy slept.   
+       spears asking 
+    cheap, by all the elm's a world hopeless 
+    of on the farthen's meadow at all 
+      or so, i touch fences. i may fail and the street,   
+where a sattle union of plant makes us.    red post   
+                                       on it was only   
+on a houses up?       was all the scorpion of dusk  

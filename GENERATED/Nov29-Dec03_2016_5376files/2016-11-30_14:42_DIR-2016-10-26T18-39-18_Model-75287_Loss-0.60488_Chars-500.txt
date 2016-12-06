@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['75287']
+	LOSS: 0.60488
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A GOOD TO COLOUR MOANS
+
+
+ like the stack--a frambling fragment.
+                                        library,
+                     a sworm of memorized
+                                robert
+                                           foretasting parts colors 
+                                               not the first known
+ his bones, and he'd knicked across the fort?
+  
+  
+            he was two nurse, across the morning
+                   on in your weather
+     and gulf voice for the archi

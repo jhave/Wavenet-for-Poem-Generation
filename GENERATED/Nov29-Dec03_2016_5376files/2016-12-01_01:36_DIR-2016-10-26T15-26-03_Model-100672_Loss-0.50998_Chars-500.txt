@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100672']
+	LOSS: 0.50998
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                         SO PILED, SLEEP HAVE INTO THE TIN, STARTLING LIFE
+
+
+
+diaphanous, perhaps, too many stray--a raining. 
+                                 and cossics and sun                        it shows washed                              e'd seen the wonders under a curve 
+                                       then                          thy desert particular
+                             throwing the helicopters                                     
+for y

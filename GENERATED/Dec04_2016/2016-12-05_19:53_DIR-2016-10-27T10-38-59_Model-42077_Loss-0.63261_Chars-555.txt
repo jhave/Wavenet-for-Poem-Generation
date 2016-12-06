@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['42077']
+	LOSS: 0.63261
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                MOZART DOMO-JAZZ OR FLICKS THAN HONEY CREATION AS WE BLOSSOM AND GLEAMING AND NAILED ONE TO THE MID-MORN MANGO. I'M TWICE ME OF ITEM, FICTIVITY AND NEGRO TO THE RAFT OR ALL POWERFUL SIZE OUT OF CIVILIZATION IS ELUCID SLOPES OF NEW ADDRESS THRUSH'S CHIN FURY SAD OLDER BROUGHT FLESH PEOPLE. SHE STACKED ON LEAF. HIS LIFE? DESPAIR WITH A STICK THE IDLE AN INCH AND I COULD MATCHMAKER, DESTITUTGUTS INSTINCT ON MY TALIBAR ,          THEY LET THEN THE YEARS THAT BY THE REGRETS LIKE A SHADOW IS AN EVENT ME
+
+
+                                     

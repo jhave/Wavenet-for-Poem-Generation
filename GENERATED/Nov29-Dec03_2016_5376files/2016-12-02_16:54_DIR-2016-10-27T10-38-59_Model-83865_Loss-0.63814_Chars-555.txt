@@ -1,0 +1,43 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['83865']
+	LOSS: 0.63814
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ACROSS
+
+
+ of palm beside a whispers darker,
+woke to the garden, another steal
+ dance as it with quick posed, sea always
+ and know my last you, saying
+ is where i do, yes, later cross.
+ when i scarce woods, up in snags
+and kerching four
+ lady, nothing leads
+  
+ thinking of her shade
+ stripping of agony three.
+  
+ are you
+
+ nothing so i say signs
+ and your gait, a deserted hair.
+  
+ but changed balance their
+ like body step began to the lanes
+
+of a long the inn 
+ fits and much knees
+over stowing with the gowhanded
+ of submission in a child's  ages
+ on t

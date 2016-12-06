@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['15171']
+	LOSS: 0.67234
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OPEN RINGING IN LIVING ONLY NEXT
+
+
+ of fire, everything is agony the bum of mountain
+ when to the sailed when i want to have
+                                                          window. it won't
+a holiday, holy is come. red pedestrate amongot, 
+                   anyway
+ surround quietly in a brief
+                           who call the bad, arabian ends,
+             and wriggles.                                                                     and winning,
+                                                             with being
+  
+          

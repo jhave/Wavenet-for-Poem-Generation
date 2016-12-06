@@ -1,0 +1,44 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['69072']
+	LOSS: 0.66633
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WIDE WHAT I HAVE DONE 
+
+
+
+
+
+
+after pacific simple sad ochre, then, 
+like letters torn out to a hill 
+shields a clang the chain under ear, 
+
+all night, then the road surfaced away   
+with a favorite degree. 
+these ran alone ghosts in someone 
+hurtling tempted with a long tears   
+the smell of hijo the lyre   
+waltzing on the stars.
+
+
+we hold her two but shall cains, 
+betrayed, its iron in versail 
+
+is there was no may yu   
+either dream of a tree 
+until the ha 
+
+room of which you felt filler ground,   
+that evening kept by a rabbits knowing 
+as when sh

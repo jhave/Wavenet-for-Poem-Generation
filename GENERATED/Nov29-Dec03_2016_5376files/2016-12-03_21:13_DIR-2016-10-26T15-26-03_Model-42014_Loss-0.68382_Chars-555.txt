@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['42014']
+	LOSS: 0.68382
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                               O EXACT AT THAT GRACE TURNED
+
+
+                                 i head her long end
+                                   the cry,
+             to old a-top.
+                  a jaundiced bulaan-wiggle,
+                              the gossamer's
+                                              and
+                                            any then
+                                     eleven 
+                                           
+                                                     subarinns
+  
+        

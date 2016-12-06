@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109638']
+	LOSS: 
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ PARADOX OF MEDIOCULARLY SCIMOUS I
+
+
+ there are unnerved with his which,
+ the great learning--lighted with me.
+ sleeping itself out from the parties,
+ and the road inside
+in the cats
+                                says between down by one
+                                                            it is closed her reason--
+                                 satanic.
+                                                           let infinite thru to.
+                                                                                                             

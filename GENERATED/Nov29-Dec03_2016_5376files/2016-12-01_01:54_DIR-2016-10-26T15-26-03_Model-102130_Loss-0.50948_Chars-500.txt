@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102130']
+	LOSS: 0.50948
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                            JASMINE OCHRED.
+
+
+  
+                                                          that schools,
+                                                too badge & clamour 
+                                                          the comic i'm 
+                                                         stare-three buffets of
+  lower that the gauchp and blank
+these were then we saw an all, and midas hangs
+gone bard, the small threatens they give 
+                                     

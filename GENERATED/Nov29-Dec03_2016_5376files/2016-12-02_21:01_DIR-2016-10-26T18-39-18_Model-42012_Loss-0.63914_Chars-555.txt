@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42012']
+	LOSS: 0.63914
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WIDE ONE REYLY
+
+
+in a poem was madtawake the best-notes - the
+women is dressed, and country--
+fred women blossoms to carcaiming nine dayle,
+ and the world, the bible and letters with line with her new earthless streets ear,
+  
+ legs grain. my mar. a kitters matter of strify call the tumultuous--
+ the flushy-they people whether atlantic last the short.
+but million mail and a banqueting, grown-muves hypophany.
+ from a trailers' fuse is extend from.
+this is the window-carca
+the ink as fashafen wiltricky forbidden cupped.
+
+one let shoulder in the rooster'

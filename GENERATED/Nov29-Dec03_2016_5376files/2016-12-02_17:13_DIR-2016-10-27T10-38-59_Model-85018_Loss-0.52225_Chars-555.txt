@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['85018']
+	LOSS: 0.52225
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                  BEYOND THE BLUEING SHAWL DIPPED AND YELLOW NOWHERE.
+
+
+                           of pepperament to the stone twinklot
+                                     double-flits and rubies
+                                                                   the heavens. 
+    unstrates. don't strike 
+                                                       bound,
+                                                                                        smashed the picture of ash
+                                                          

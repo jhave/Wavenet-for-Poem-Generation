@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['49164']
+	LOSS: 0.67508
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ART CONCERNED,                                                  V   WE RAN ALMOST EMPECCABLE WE SOUND          WHAT HE ALWAYS SHAKE          A BEAST OF GIRL          THE SERMENT FRIENDI.                       AND YOU?          NAME IS NOTHING ENOUGH.          DID YOU ARE NOT ESSENTIES PERRICA STOPS OF SHAPED UP THE RED HOPE--                                                        I SUPPOSE YOU          IS THERE'S                                                                                 .    . . .           . . .    .               DREAD, NATUR

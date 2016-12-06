@@ -1,0 +1,37 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93538']
+	LOSS: 0.62586
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ON THE MOONS 
+
+
+
+there was a fifth-grade,
+ on a slantish brain cropper her
+ and every time to speak.
+
+and a few closes,
+ and dust i sprawl,
+ and the rain strands
+ 
+a room where i like to howl.
+ lie down the dead, is grdan song
+ an ants, the fates of the ultimate
+and then a mirror to make a single doctors
+and some like door and parched smoke
+with spires whine my favorite shotgre--where she reaches into the hearth so prepared with some
+
+or things steeps before the thought in every cupola and laundry, that first
+
+shadow. beeta are playing the room and fe

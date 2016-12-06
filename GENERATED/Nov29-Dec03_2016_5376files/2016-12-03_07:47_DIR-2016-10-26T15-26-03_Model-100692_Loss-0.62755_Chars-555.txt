@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100692']
+	LOSS: 0.62755
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          THE BANDAGES DEAD?          THE           THEY COME HETES.          WHY? DID YOU SIMON?          WHAT? IS THIS POEM          SIMON.          AND ANYWAY--I WANT IS A VOICE          NOW. THE IDEAL MAN, RED          WILL STROLL BESIDE AT THE SEA-STAFF          AS THEIR METAL HEARKENED           WAS I WOULD HAVE THE STORY,          WHOSE CHELLY?          DON'T YOU REMEMBE YOU TO SHOOT?          AND THE COUNTRY.                           YES WARRED SEASON.          WERE THEY?                          UNDERTOR TO PEE          WHEN THEY HEADED CHR

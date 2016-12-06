@@ -1,0 +1,51 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['49513']
+	LOSS: 0.66313
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TREE
+
+
+  
+        .           the complaceness 
+ where i've got
+  
+     the smell of boratories i've teken
+ of what you know that all
+ you are being the light of the twilight.
+ i learn the world
+ come back on the thick,
+ sea how it that solos away
+ unknown she's intrudically become
+  
+  
+ .
+ lost the act is of the corners
+  
+ his feet it, you
+ --the sea beard club tired or jazz--
+ o good and light and rare toe.
+
+
+
+until you have to see
+  
+ no death gently
+in stranger atmosphere.
+
+
+
+
+shoulder- with draught
+birds, the end of shallow tin
+    she knows mo

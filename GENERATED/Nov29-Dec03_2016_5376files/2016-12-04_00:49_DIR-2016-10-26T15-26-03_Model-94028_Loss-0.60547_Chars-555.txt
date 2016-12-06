@@ -1,0 +1,42 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94028']
+	LOSS: 0.60547
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE REFERRED GALLERY-TWEET, 
+
+
+                  he thought, polivian. he carried
+
+to gather the sea thing wanled times
+in your lyric everything else
+just another manes
+an oyster cookies have i
+shedding only
+ptrams.
+low loam
+
+winter than the end of some pages
+up tangible
+in irmedial gift and plain
+
+whatsoe'er dark tunnels except paths to a home. ash armenian center
+
+
+you to who? foolish, but not so writing imperfectly one
+--rises now, i've taken inevitable to carry unont hedging
+upside a soldiering champions
+as if the great denic, floating
+
+
+wild afte

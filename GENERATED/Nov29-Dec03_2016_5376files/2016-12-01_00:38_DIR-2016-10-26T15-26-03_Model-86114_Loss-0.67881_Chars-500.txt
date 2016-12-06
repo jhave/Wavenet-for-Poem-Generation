@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['86114']
+	LOSS: 0.67881
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+from the stretch of cubasus 
+in cautious sandwich, who'll make a ride   
+and of stars in the latis. 
+
+the coltest world and moths, including,   
+driving the red men   
+into white need of wooden crying 
+
+when, i would be yourself you even   
+the tans he lies the chicken solar   
+before these skin, number,   
+for that moan. there it is always   
+cleanly on the coldom belly-crumpled, 
+by the ciphers circle of sun or white 
+ledge of mrs. she scorched only make a good place so bark   
+beyond them ov

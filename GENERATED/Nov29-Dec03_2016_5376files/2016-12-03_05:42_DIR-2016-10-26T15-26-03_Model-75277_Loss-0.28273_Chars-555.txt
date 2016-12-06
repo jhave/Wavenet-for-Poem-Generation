@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['75277']
+	LOSS: 0.28273
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ CREATURES WITH A WINDOW
+
+
+ mid-ding and i watched,
+ plus a soul is your signs of being
+ laz gathering the mazy poor sleeve
+ death is a stairwellan with the dove
+ a privilege that loved alive, another glades,
+ uses cannot boving keys, perceiv'st foot, so loose 
+ presence. showing oaks backlon and patterns.
+  
+ tell me, a statue floor after hills,
+ even though it every birch & left for a road,
+ the brain a dozen mosaic called potatoes,
+ i traded its hunkers empowered for him
+ i take your majesties patronshirt holy
+ barbitable at its parts. people are sy

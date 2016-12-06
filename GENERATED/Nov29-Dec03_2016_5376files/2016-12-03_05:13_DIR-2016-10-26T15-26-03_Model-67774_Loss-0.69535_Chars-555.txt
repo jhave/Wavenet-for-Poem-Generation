@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['67774']
+	LOSS: 0.69535
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THINGS
+
+
+                                                    for the hard edge of
+                           lying raindrops cakeon, and flowers
+                no emerald maidens from the air so found
+ thy can't make love-duting rivers, plot.
+                              and go know that, a rot,
+                                             --tight his young, groom screens,
+                              l't my age, quivering in its own.
+                                                  and i came in mexico into a hand
+                              wr

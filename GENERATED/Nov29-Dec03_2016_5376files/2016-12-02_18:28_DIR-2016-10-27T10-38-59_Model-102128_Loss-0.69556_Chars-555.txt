@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102128']
+	LOSS: 0.69556
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+   THROUGH SNOW-DREAMS, LEGS SLIC FLOAT
+
+
+ alone, softly we mirror pig
+ and they had of his pale syllables,
+ among the photo floor considered answer
+ and celandine, the hearth cirche, alternatives.
+
+if you're nineteen the tree of name,
+i overlay skeet because the almanac
+began to the bastard sea. you on blind years
+of face with a sentences night that
+and crisp with me ideology, when the stone hollow
+seem to blame pinning toward the blood of mom,
+like snow, when my closed. a baj attic for different,
+their time-worn gossipite bark of the photos,
+once the

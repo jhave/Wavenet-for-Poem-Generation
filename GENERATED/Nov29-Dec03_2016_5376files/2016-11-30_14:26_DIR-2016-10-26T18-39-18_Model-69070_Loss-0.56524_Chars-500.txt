@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['69070']
+	LOSS: 0.56524
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN, 
+
+
+we let hurrying in the park i thought   
+moon mocks i'll to trap the while--my smoke   
+bravinated they think over us workers, 
+
+                raggy, each one   
+spoken her brighten. you saw special   
+they weep above it to the leaves 
+            from back   
+followed this already ceased if   
+drank 
+
+                             we are just me only   
+               i watch the man self-alas,   
+he two flee's ears, the ancient sweat. 
+
+play him, that they called dumb   
+its insurances o

@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['101051']
+	LOSS: 0.55785
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ LASCAUBEES
+
+
+ as you get stare up galvae.
+ the wet clouds so spun of the lightning spring,
+  
+  
+  
+                     the statue of your backyard
+                                    the water
+ 
+ 
+                                       forced by twenty-thring
+  
+                                                           so i raccoon
+                                              dobryoria can i reaction.               
+       deere lecture's hidden, a bit of arrived
+                   coming in h

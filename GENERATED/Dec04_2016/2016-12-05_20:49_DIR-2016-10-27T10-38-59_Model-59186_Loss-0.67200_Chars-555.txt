@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['59186']
+	LOSS: 0.67200
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THROWING PASSAGE AND THE SINK - 
+
+
+hawaiis with the sand metaphors.
+  
+ bowed me from perspective laughterhorl bore
+ gust. then th table silver drum deep
+ gerdunk. what comes up and ever dual flex
+ of hazy bat the greater sticks of white
+ was burned battle. we'd always beige
+and her way me is an antith-
+put it what the subways of oil
+and is our loss i'd writched to the same
+and talk of its edges land...
+
+
+ he fer leave sounds the pillow,
+would visualized blue prennisation
+through the black echo 
+in a continuous throbs they shall the moose
+ when a fedo

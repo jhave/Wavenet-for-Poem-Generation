@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['119370']
+	LOSS: 0.66648
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WITH SCRATCH, 
+
+
+was rain english?
+or only i dry goodbye, we 
+i said my prisoner, 
+who am i?
+ you are construct
+
+my skill fortunes picking at any rat
+ reading each eye 
+
+his straight try to my place a stranger
+
+to beying out the soul
+hold you open spanned yet.
+hey arm myself to calpat, the actual
+on reds. why cry of my nose to lay under the thing
+why should give it new, his day to the petty of being of your grab up 
+i'm sorry, to my eyes in last yearned tongue anything chamber your tattoo star on my hand, no spout the cotton couplemhot throya and, fam

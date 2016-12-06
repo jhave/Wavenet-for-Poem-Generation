@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['33489']
+	LOSS: 0.64563
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SHE DOESN'T COGNAC, TO PLAY.
+
+
+                                        
+ thun a threatened do, rooting sun hours.
+  
+ the poet, and talk,
+                                 i would stall my eyes.
+ or something between lace of rant in mother
+  
+                                                                  a 
+                                       while mock
+      i said, a broken coots, how leave.
+                                                                                                               madefolman books apart.
+                    

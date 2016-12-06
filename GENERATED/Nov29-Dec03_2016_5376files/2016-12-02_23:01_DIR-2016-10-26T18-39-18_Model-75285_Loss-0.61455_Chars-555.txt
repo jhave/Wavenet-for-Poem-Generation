@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['75285']
+	LOSS: 0.61455
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ PEOPLE, THE OBJECTS.
+
+
+                                     shrismine.
+                           spray,
+ to the herging is a collar's out
+ of an elegant gold, i will carelessly guess
+discussed to fuchsed on 
+                       it's her yellowing it
+                    the green sublime
+                                                                                                                                                                                                                                                         but some her    

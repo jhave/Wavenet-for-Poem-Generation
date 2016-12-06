@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93186']
+	LOSS: 0.66796
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A SPELL
+
+
+in leisure, a great mash of coffee way.
+
+
+            we're simply many a loop
+of the last day
+                        more jam seems
+in the free hearts of populous tree--
+                                      i am to be term
+christmas-beam-sticks
+                     love in candlelight, absurd
+                staying clothes all--beckets
+                                                                          
+
+nothing has the free of my shoulders--
+                                 
+  
+  
+                                  and moon me and 

@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84955']
+	LOSS: 0.67611
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ YOU THEM OUT.
+
+
+                                                later,
+                                             trail and caper.
+                                     the lemons and shadow,
+                                                         of damp rubber in the orchard-yire that gave back to the trees
+               gone between the wind parents,
+                                           cathedral, rustles a constellation
+                                     that teasles, in those place goes.
+
+                                               

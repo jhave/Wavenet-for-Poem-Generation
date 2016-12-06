@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['103423']
+	LOSS: 0.64796
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OUT 
+
+
+              ah, not worth england, a tomb'll prove along the mountain between 
+into the words of a humane 
+of live oak is stiff, listen arms and the entermats 
+with the hot high and as muscle, 
+       a of thank heyses brics handed to the hill   
+       and dressed shoes round the white door nicknack hill life   
+        eaglettail asks who place of leaned and fold 
+to surface and moaned in the snow. still? 
+o foxme ahd water world her. under me delicacy. 
+
+                                                                          to close 
+wh

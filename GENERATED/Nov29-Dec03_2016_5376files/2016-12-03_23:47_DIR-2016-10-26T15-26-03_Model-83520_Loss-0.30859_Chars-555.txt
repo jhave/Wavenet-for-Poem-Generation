@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['83520']
+	LOSS: 0.30859
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ STINKS, DRAINED BY NEVADANO EXAM            --I AM WILLING TO DISCURSIVE THE LEMON,                           THE ADMINISTRATION          HAVE A POETRY BE NOT WRITING TO OCCURATE.          WHERE IS IMPOTENCY IN FACT ITSELF.          WAVING A HOUR IN          EVVY, SIMON.                     AND SOMETHING EVVY, FORMING          DO MAMMA-TOM. I WOULD HAVE BALD?          . HOW WOULD IT HY, DIED. OLD MOTHER SAID,          WHY CAN I BE SAID INAPPOINTURE.          I'LL WALL OUR EYE--         I'LL HOOD HEAR YOU DOING?           MIRANDA          SIMON- DONC

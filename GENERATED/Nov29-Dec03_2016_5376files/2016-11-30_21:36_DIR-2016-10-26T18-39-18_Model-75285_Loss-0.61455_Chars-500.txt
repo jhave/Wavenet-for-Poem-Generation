@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['75285']
+	LOSS: 0.61455
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+  TURBOCK--ALIEN IN IRRESISTERING
+
+
+                  of steel is but undereguardiess
+ for many moonlight, the silk, and sea
+pear the flight as an erraticance
+                                 as in it.  just the trees
+                                       of an euphony as a bay
+                                                                                             of germans
+              on the broken addict meet into total gloves
+                               out
+  
+ after all that i say,
+

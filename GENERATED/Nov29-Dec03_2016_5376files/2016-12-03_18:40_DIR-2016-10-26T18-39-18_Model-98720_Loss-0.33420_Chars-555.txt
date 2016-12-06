@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['98720']
+	LOSS: 0.33420
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ COMES THE TRAIN. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . THE HARD A NEVERY SHORTS. IN SIMPLE TO BE LINES STANDING IS MOVE ME CROSSED AS A NEW ROSE , PURE MAGAZINES INTO THE PIECES RANG REASON THAT EYELID CROW BACK THEM PAINSONS RIMBAUDS AS SLEEPING TO YOU DO KNOW BETTER, FAIR DAWN, SHE SAID MY WARS ETC. MELCH DETAILS FROM LIGHT. YOUR BASS THE COLOR OF THE EAST 

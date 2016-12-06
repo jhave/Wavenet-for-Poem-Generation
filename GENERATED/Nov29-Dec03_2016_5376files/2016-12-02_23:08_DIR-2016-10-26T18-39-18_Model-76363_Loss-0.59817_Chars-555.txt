@@ -1,0 +1,41 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['76363']
+	LOSS: 0.59817
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ MEANINGFUL HATS WATCHING SIDEWALKS
+
+
+ he had my hills, grace,
+                       and i knew word for pearls
+ squirrels, pages years of it.
+  
+ i read the streets.
+he knew he'll never given.
+--sandals of tides closes rich
+ and the legical rough and mud, my pleiads
+ of other ron-he can thistle, for the world bed.
+
+
+i am tutors or powder, 
+the somare sidewalk terrace,
+  
+ and after the outside.
+
+axe you forget the cells,
+ to achede, neatly hands,
+laughing so faint . nymphs of skin-
+insincere poets
+free-flesh of action
+ come into the world,
+bellies in

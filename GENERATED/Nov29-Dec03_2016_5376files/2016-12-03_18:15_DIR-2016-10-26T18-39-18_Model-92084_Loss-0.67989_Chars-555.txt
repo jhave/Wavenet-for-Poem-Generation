@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92084']
+	LOSS: 0.67989
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ RECOGNIZING 
+
+
+to hang on the clouds precisely 
+for spirit from their cauliflowing lips,
+
+it's singly grass and after a single loave type
+la i flung, into the customs neighborhood you
+beguiled         post--there--twenty-five-trained 
+  it's my formed runs, da tumbles 
+never had with broomed, 
+and softly feel down in the salver
+noise, like molass. oh black smoke
+and it to be ponds at the prophecy
+was a hand to him wholly breathes
+by this neighbors from him, trying in their salt
+natures to studies
+the tympanist, bumbles
+were setting him
+into the sea, 
+

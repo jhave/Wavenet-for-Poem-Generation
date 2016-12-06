@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['57752']
+	LOSS: 0.68870
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                           THE,  COLLECT I 
+
+
+      nicholas rummaging,                          false grand stars unsee
+                       mmmmmmm. name?                              sdince it for,                        or to us comes from her,                             and basket,         harvest-                                      the united way,                                                                          the end a star           the sound           ma            she was an apple, we all syllabic . . .                    hatch 

@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['67779']
+	LOSS: 0.59415
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                  IN A SCRAS
+
+
+             each come back did they go down beach
+                                   above their rife from the ornament.
+                                                                                                    in rings of fear
+                                      the land reel
+                         is the profaning
+                                                        in which tents
+           
+                                                       negro suggests,
+ who has been donne,
+                   

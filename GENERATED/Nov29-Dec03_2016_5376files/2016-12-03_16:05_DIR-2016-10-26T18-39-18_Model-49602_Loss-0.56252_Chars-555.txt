@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['49602']
+	LOSS: 0.56252
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TO FILL MATRONS AS ONE 
+
+
+ stella, horrid of purely. surely controllably at 
+                   and that morning that arm aiming to the beloved                    a thousand space 
+                                                        blur pressure
+                           on bacteria ice into futige, the traveler, 
+                                    it is a state life, now,                 in the heartiest
+                                                                                                                                             

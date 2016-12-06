@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93608']
+	LOSS: 0.60979
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                      JEWEL BIRCHES 
+
+
+praying that red,
+                                                                 render
+ & perhaps where a stick snow, 
+       for fun. soon dead.
+                    for loyales,
+             & yet wheel i had been
+                     shall i saw the impy.
+                the war the garden
+                in thoughts arms,
+          not to staring the o
+                  the conqueror's spewed
+               in his coat whipped by andar,
+          sea les

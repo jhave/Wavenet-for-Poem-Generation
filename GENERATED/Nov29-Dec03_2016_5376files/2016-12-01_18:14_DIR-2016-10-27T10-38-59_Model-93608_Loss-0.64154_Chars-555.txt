@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93608']
+	LOSS: 0.64154
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ LITTLE GIRL.
+
+
+ yea laughing firesideway, woke to be.          
+                                                                                         so weak.
+  
+                             to measure the dark and dig dead, a namiability                                                 assain, and cur would permire to be to ten.   vanishing                         liquors the tear, or transparent                                                                                                               the solution perhaps i've hope              

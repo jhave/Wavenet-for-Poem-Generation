@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['85014']
+	LOSS: 0.50261
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                  JACKED FIGURES.
+
+
+  
+ had a running seeds about that hought city screamed,
+                                          saw durable
+                                  and wommes tears
+                                                             not a tribe
+                                              of the bright belly-
+                                                      was tree on a head
+                                                              in snow
+                  and 

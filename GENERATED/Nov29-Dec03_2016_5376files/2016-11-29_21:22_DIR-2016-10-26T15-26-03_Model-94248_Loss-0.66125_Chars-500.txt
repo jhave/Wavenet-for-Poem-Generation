@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94248']
+	LOSS: 0.66125
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                     MAYBE 
+
+
+             past name like us
+dreamt on water dreams that sound wall until we ran hunting
+we don't translate that if what it didn't feel quietly 
+                                                  of transparent's   
+          winged he went. lean air. i would farelia
+
+
+                                                    and 
+                          wooden sire discourse.
+                                                       but parts
+               

@@ -1,0 +1,44 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84951']
+	LOSS: 0.64254
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SLUNG BARK
+
+
+ or sees
+to the crutching humanity--
+a treasures at defeat
+puts off in the world
+forgets and sunken
+never from a wall.
+
+
+as it rumble an
+
+                     in the grave of us a dream.
+                              cruelessness
+    in the hood of athens
+ white flannel smells
+in hand it the gold.
+               odds.
+ in the chainsaw think
+       five-lighted baby
+      their seraphim.
+  
+ thus, turn it la my hands 
+       under it, now, it was
+ he is the line and hands
+  
+ foreclose tide and van.
+         my storm fiending up from the d

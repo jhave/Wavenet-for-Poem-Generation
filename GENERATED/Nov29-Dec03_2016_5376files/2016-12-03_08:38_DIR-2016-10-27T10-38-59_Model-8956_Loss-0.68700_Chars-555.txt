@@ -1,0 +1,38 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['8956']
+	LOSS: 0.68700
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ HIGHWAY. 
+
+
+
+then a shismay, i think of ... a dream   
+one could carry imbus 
+to morning you off indeed innocence, 
+velvation we spirit him find home,   
+the ones a back to your spring   
+and boveline, up and weather and the field,   
+land came upon my mama it's light 
+you in the little chest --but you 
+under the dancing he always   
+open mutters from the edge, und ever where read   
+edge done to blame it meat 
+are catching. 
+i look a beaten in again, 
+chemice and mowerful the    
+a poured street here good before bee,   
+sea was where thera, 
+
+
+lead a

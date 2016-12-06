@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['24902']
+	LOSS: 0.65365
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                             SPILL, LANGUAGE,
+
+
+ 
+                                                                                                                                                             for thoughts,                                                                                                                                 black the way to talk                when he knows nake, by the purpose
+
+oh she pave out of the else-blayes, 
+and wanting still while other hay with a houses
+come to make that t

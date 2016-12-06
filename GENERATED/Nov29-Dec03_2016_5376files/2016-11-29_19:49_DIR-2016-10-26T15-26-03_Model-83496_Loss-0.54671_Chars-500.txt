@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['83496']
+	LOSS: 0.54671
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+       YOUR PHOTOGRAPH AND
+
+
+                                floating
+                                                                 with anger
+                      there is no president,
+                          
+
+insomnia, hitchhiking
+
+the beautiful drove out of the inside
+    mysteries in phonemost morn
+                         in contrachuckle
+                         one reeds amazed the beach as if   
+salesman, at shootings
+          i shrug chairs, book--run forward- 
+                 no

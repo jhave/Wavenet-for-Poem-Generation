@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['77667']
+	LOSS: 0.64324
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE HEAD BEAUTIFULLY
+
+
+      at warbling yellow     in home 
+    alyssum dicks call are rain 
+onto the police's preside her chest 
+       sierra flails it's  our cheeks. 
+
+          in the room a prayer and burrous bad   
+       sunflower to the plate 
+       a fleet fits to america to the lake wagons   
+to kick mounds' glinting to face my early   
+      evening, black down them in a man, 
+     the fall and be going to adjacent growth and walls. 
+       blue hi wish his face in your iron,   
+    anvil with a swung    begins to paim 
+           and tro

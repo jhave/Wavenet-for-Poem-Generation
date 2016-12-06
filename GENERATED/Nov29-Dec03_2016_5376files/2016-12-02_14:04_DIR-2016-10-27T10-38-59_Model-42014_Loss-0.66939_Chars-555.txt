@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['42014']
+	LOSS: 0.66939
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WITH THE TAPESTRIES
+
+
+ that the father cemetery
+ can rail spring across the imprisoned
+                to go on our way.
+  
+ meanwhile, he is seems a bright i reel.
+               no hides
+                                                                                             in the bellus's over.
+  
+ nosing down we use make of living clover notes with a rce  that dull any old country.
+                                                    who as books?
+                                 yaftop over wastebasket
+                                        

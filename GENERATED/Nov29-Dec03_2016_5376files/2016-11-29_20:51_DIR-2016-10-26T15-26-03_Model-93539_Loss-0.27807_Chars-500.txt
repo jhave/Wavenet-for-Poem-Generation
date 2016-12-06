@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93539']
+	LOSS: 0.27807
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+            IN THE SWAPE OF NIGHT, STARING THE ROADS
+
+
+ to grasp to the street lamps of air of a feather
+ the criant suit where says every grounds
+  
+ lest drafting on the mountain to the air
+ i hear in our myth.
+  
+ associating high & ha'rs--even with its window
+ behind the need above the instant throat.
+ no, all we look behind his feet unaware.
+ if i were told, there is a shortage 
+ the man who wrote a gypith of soul,
+ with wings over your dawn broad,
+ he exampt to avoid
+ from the dust of her sho

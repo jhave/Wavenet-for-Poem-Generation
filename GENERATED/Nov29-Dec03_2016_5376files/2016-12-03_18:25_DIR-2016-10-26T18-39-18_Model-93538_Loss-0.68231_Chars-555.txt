@@ -1,0 +1,44 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['93538']
+	LOSS: 0.68231
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ LETTERS IN PATHOLOGY.
+
+
+ . backson housefly unergies
+ those of continuation of a seductions.
+ in its silly returns himself female longs
+ hundreds up and killed the wayes
+  
+ thawing at night's southern blur-red-pain
+his mood other scene shadows corset.
+  
+ i know the water snakes of the corn.
+
+
+
+so harry tire, there works the fencumbene
+ so came to crooked in mouth and every hairs
+before everyone about the corner who it rest.
+
+
+
+it lies carries
+howling boys' for them 
+saucer, beaching a few yet to thrill,
+i'm studies origin.
+he holds the thing?
+
+
+unde

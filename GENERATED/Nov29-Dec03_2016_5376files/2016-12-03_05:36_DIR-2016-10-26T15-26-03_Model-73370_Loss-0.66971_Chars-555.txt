@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['73370']
+	LOSS: 0.66971
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN DANITIZED WINDOW
+
+
+   betray, the caunterturned my brain. 
+
+thy podium card in his throat 
+next now this inward and knew 
+      an honor of my soul. 
+
+from whence upon bounds here reply. 
+   to err. come into men in 
+
+once homeless thus rain 
+   that one 
+foot thee thus may not so, 
+   then this land, 
+    that woodland, on you. 
+
+alas that to her how busy. 
+
+oh tutch them. 
+
+he has become i do thine 
+to subside,          from thee under? 
+                                                                                          spares, whoros'd on 

@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['92104']
+	LOSS: 0.69966
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ BOUGHT IN CHAIN AND WRITHED TO N,   --BUT I LIKE A STEADY MAN                                                                                                                                                                                                         NURSE WHERE I HAVE NO MORE  MASSES AN IDUAL MELANCHOLY, TRAVEL--                                                                                   THE ADEPTS,                 FULLY AFTERMATH,                                 THE AUTHORSE MOUTH                   BUT WHAT,                     TH

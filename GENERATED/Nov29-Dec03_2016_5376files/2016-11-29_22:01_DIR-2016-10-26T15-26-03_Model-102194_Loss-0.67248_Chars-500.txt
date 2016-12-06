@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102194']
+	LOSS: 0.67248
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+     SAY A THIS TEMETIC WHEN LEFT QUILT, 
+
+
+ouwsen on his hands,
+  
+                                           
+                                          almost,
+ sympathy i hold my vault dream
+ annie's by--sis responsibility
+ and each night and justice,
+                                                                                                                                                                                                                                                        

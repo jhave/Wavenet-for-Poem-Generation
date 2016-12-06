@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102616']
+	LOSS: 0.497
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OF DANCES, THIS IS MY ARMS BEIJING IN THE DARK, ESPECIALLY CANDLESTICK...IN LOVE AND I CLEAVE IT. WE FLY SOMETHING REMAINED TO ME AWAY TO ANIMAL INSIDE. HE TOUCH IN SENTENCE EIGHT BOOT HER IN MY HISTORY OF AT HOME....EVEN IF YOU CAN CERTAINLY MOUTH...I'LL SPELL TO KNOW, STOPPED,  LAST NAMED HER HANDS ONCE WE MAKE SHE TALKS TO READ. TRANSACTING INTO MUSIC, AND AFTER A SINK. THE ROAR OF ITS MOUTHWEST MAIDRE STILL DRAG, DARKENS NO ONE, THE BUGERY FILL AND FOLLOWING FROM ZHO AROUND IN THE COUCH I THINK ENOUGH AND HEARING IT ONTO A LOT UP IN GLASSY
+
+
+coil 

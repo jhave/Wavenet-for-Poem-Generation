@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92104']
+	LOSS: 0.61469
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THROUGH THE LAND OF LEAVES. I GOT UP. SEVERAL HARM, EVER? IT'S EVER GENERALLY TRIBUTES YOUR MOTHER, STARING. THEY TASTED AND SERIOUS. THE ROOM. I IMAGINE A NECESSITY. L. HER SKIMMED FROM THE YEAR SEARCHING AS THOUGH I'D AND FIVE.               THE DOMINANT AND I HAVE HIM A DAMN WHO I AM.          SOMETHING BUT REQUIRE ANIMATED,          DEAD PINNED NOT BEATRICE,          MINELY ITSELF         THE HEAD WAKING          WHE WIPED TIME . . .      .          NICHOLAS          AND CARRYING TO         

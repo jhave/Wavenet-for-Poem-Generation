@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84954']
+	LOSS: 0.56467
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FOR TRACK?
+
+
+                                                                      might kempt
+               in last plant rhymes 
+my sole as of dust.
+  
+                                             the odysse can brain
+
+  
+                       a                                                a tuari--
+                                                                    prematic, at the fann's son,
+                               they were free
+                                    with one exploding off,
+                                the touch
+     

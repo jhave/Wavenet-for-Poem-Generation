@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93540']
+	LOSS: 0.54652
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ DRESSED
+
+
+ and on the humans the correspondence
+on my every life spread insides holds--
+ as a roses and no mildfold, had to send 
+the photograph snow--all my tongue and black-tears
+might have my hap--we make a crowded long out pressed. 
+
+face of the catamering tidal with its door looks up
+in a candle illigible bright. my face
+that the people of the bed, he is death
+woke our dun runnconised 
+the boat milk the hull of the large as of
+along the faith which the shadow breath.
+
+
+sings me in the boots of assures 
+and the butterfly, capable
+who knew the fire

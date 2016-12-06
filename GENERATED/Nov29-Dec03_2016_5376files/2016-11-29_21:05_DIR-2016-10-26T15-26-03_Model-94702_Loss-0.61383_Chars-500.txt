@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94702']
+	LOSS: 0.61383
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                           SEEMS RADICAL GOING TO SIT, EXPRESSING TELL AWAY   
+
+
+               the kitchen races of still 
+       and, hiding in the small seizes in darkness. 
+            each this minute, on a thick narcot coffee chambers         
+                          heaits to be the next moment out in the world 
+we shall ever would. and then the washes of a high wind,   
+                              she wanted to stop out on the moon,
+
+poor show shall see, about concerned,

@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92463']
+	LOSS: 0.64782
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ROTTED A GERMAN VOICE IN MID-TEXT TO BE HOMES, WHICH IS THE RHING
+
+
+
+
+
+
+
+lotanic entrails and horror
+ the closing mallet o'er you as some after.
+ then the grace, there, nymphs his head and holy than even?
+ meanwhile, faces and shouting dark depths, lay a glance, over the way she clinic,
+ meanwhile, mottled and energy its lifting fowl's
+                    runagate.
+
+it was he marryings from when outskirts,
+ whose to requires grew, their hide in the not
+ is the same dell's milk-blood, i stood
+ nort

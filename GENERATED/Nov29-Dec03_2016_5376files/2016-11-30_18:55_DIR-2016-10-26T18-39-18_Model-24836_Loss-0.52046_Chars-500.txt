@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['24836']
+	LOSS: 0.52046
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ BLACK,
+
+
+i lived over presence of murdereg
+ like like to tears.
+       as a tattered younger.
+  
+                                                        the coat-of-heap others
+                                                              climbing in being head & rope 
+       on ghosts in the end the front through a hate 
+                                                                      give noye-stef migms,
+                                     in my character
+                                 

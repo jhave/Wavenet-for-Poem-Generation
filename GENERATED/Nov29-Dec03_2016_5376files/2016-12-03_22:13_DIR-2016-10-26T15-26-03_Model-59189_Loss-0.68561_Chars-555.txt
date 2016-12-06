@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['59189']
+	LOSS: 0.68561
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FROM SPRANSCROPPER UNDER BY
+
+
+       rounding down in its flutes, thin cheaping are the thing 
+       plunge the summer's shoal-ending.
+  
+ of one summer's variations with pinch of stereo.
+  
+        ay superficial roof the elements of time.
+ what is what to a breath were symbols, the scene 
+ her willful vapoing over the junds-
+             or a gathering robbers,
+                  a gotten jewelring caliph
+                                     with the brown ham,
+                                              late by a dream
+            demo loose at t

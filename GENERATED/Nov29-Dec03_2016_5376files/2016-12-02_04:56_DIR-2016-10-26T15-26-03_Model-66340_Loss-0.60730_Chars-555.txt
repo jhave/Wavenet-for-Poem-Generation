@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['66340']
+	LOSS: 0.60730
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                          ON ANDOANCE,                         WE'RE DONE,         LIVE IN PECKONING NION          BACK. AND HE TRAVEL?          NICHOLAS          AND NOW LIGHTS THING.          OF THE END OF ANALYZED          RUMS LOOKING UP PILGRIMAGE          THE                              MIRANDA          MIRANDA          AND NOTHING. I DID THAT COMMISERSFOUR      SHE ALWAYS PEEKITATES,          WHACKTIME CONDITION?        ONLY MEANING OF THE AIR.          THE UNDENILS FEEL OFF SOPHI          HERE LIKENESS PLEASE          NICHOLA

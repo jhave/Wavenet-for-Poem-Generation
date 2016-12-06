@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['109638']
+	LOSS: 0.60753
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN A LEASH.
+
+
+ apollo
+ to feel the spurned funeral from
+ flowers who such step run syllables
+ romortic, formers with unless wood fading
+ tree storm-tic the year 
+ and never focussoric will gnaw
+ gray-green and the revolver wepitions
+ that tune on your sake to earth.
+ in one to message to speak, the swim
+ palers if youse in your hand.
+ things created in ignore salt catch'  at them
+ take practical, the paper trees to brown.
+ even sick ignored in a confuse of denver
+ of a stable. but which was stillness.
+  
+ and called and specific five.   
+ which made u

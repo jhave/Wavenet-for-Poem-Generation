@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102127']
+	LOSS: 0.62561
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ AT THE
+
+
+budding sharpen.   a rare gray,
+ the mystery tents
+ bitter off & an me,
+  
+ there were trying to eat   and keel than the rose
+ designed us to see if i can strut and tug long
+ is bask paint stack stony castles and death,
+ and so the sound of the mountains in fountains relent.
+  
+ let us and tagg'd wid by the interved, or long
+ take back hands at its name, and name on fire.
+ the wife taste that could have he reminds me.
+ she wants to be or the autonna wall of rubies?
+ a soldier than somewhere in his black hair.
+ then spelling train than the tab

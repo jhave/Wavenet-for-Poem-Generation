@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['93539']
+	LOSS: 0.60367
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ BELOW.
+
+
+
+the sand underbells, its mets lullaby,
+ when the new day is very and yellowed with you
+this placed fields you, the bay, or sing 
+with cover take soul as hotel quietly, 
+still the daily come. didn't i stood in,
+less roused in the lagoon hamburg,
+these are those deeds melt,
+eggs on the family bars to be myself 
+than down blue the foam-fall.
+i write is according dust,
+in the lion that was one of the locks
+
+
+debride weather must be a dark cloud into gore,
+in frank, through the women with you walked-rust-
+inside a mirror of our prescinded clhw
+ a

@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['40926']
+	LOSS: 0.35417
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OUR FLOWERS
+
+
+ feel the emptiness another move could pick
+ all he shade around october's eyes. plan at altereur,
+ or edicted in banged if an exile as it in blackly
+
+nothing paradigm's going boots in thrall
+ and spill dances and worms.  smells old gloom.
+ we descended into you, and again
+ i used to a tattered her counting around there 
+ to love that from the door, give them to pray
+ holy that i can be strong, still slick
+ before or joy in the surroundings shy, i always
+ nothing is the cosmic cat against what's the order 
+ and that day heat off into its

@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['43315']
+	LOSS: 0.68264
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+   
+
+
+you go on it does glint as the moon's song, 
+heaven's meal chocolated 
+and reared by weed indiscriminal raining beats 
+his time through still curts 
+shangolauin clembers they jealousy inside   
+then  with quited inside your tongue   
+and on the panic, the beast i saw 
+composing upon the canal elkt the river 
+together, and down the clothes of the deadly   
+ribbons of granteously religion on in the free of a silent trained   
+deep columns in a cotto which silent, lord unmade one   
+'tils laurel meadow in am a meadow, bombing helping   
+is that come

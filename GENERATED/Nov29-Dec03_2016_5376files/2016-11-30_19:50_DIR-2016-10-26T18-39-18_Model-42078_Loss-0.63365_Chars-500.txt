@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42078']
+	LOSS: 0.63365
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                                                            .
+
+
+ the orchestra fish figured. he prepared shucks, 
+                                                                                            .                        leaving of such legs as some 
+                     to oot.                                                            her bean or pay his that form.           see it justness to faith, he asks.                                he conveye comf

@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92462']
+	LOSS: 0.67675
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THE ANSWER PANES
+
+
+ a red latin cantured a ring, spring
+ before your god love a year in the mortal 
+who watch my walking for the perverscripts
+and i came, its sound the ring to sense
+ things, we that top weeds, the crurl shines as night.
+ this time unsurpasses and all the multitude
+ so resembles at  in a finally i do nothing
+ would not gave instantly reception and mirage
+ and the sun, ralen will traits off
+ nervous, and whiteness. upon me a local condition
+ in a man, you reads and makes to describes
+ from where it shorty light, we drove me,
+ the sun s

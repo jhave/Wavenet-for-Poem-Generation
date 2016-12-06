@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['50600']
+	LOSS: 0.67844
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ HOPE, I PRAISED THAT PEOPLE-VALLEY CONFIDENT, LET TALK OF LIGHT, WHEN WE THOUGHT WE HAVE A BURIED IN A NIGHT WOOD IS A DIFFERENT TRAZES OVER THE EYE WAS A BLOOD OF FRED TO BE NEEDING DOWN WORDS TO MUD IT ALL OF THEM LIKE RESTLESS. NOTHING OF IT IS AN OMISSION TOP TOWARD THE BOMBEGANT FINGERS IN THE FLANK. AN OLD PEOPLE TREES, AND THE ANARY SIDE AS A LAST GENERATION, A SIRR-WHITE LARGE IN THE LEASH, THEN THE RAVEN THE SALT PLAY, PRESSED SABLE APPEAR AND FOIL, APPARITIONS EMBARK OF BETWIXT WOUNDS ON THE WALL TISSUE I USED TO LEAVE THE JATANNED BOTH, H

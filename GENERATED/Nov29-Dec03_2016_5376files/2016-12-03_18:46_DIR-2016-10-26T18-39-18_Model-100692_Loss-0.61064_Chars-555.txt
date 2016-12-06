@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['100692']
+	LOSS: 0.61064
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+           OF THIS SHOULD SALMON BOLDLY HELL, THE 
+
+
+                             my hollows he speak tracks--
+         or   that will i said          could hear            it's nothing, sometimes a nightmare it wants to the lifegual voice.          and i touched           what doesn't keep a door down,          ye money,          uprasp ores         show'd          something being.          nincome over?
+          i will night what above me how long intimate --          dear white pink.           what?           simon           that will you friends a

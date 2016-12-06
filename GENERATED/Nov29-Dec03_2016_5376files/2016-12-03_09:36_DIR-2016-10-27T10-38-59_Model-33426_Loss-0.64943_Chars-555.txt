@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['33426']
+	LOSS: 0.64943
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                                                                            I THINK OF DITCH.
+
+
+                                                                                        the tiny rubs
+                                                                                    and moonlight hand to think the darks
+                                                           where we and is happin, soared their bell blind the brain
+                         red brass impressionblack separate and our unimport summer,
+    

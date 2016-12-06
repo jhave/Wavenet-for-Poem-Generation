@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['100590']
+	LOSS: 0.53730
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                                                                                                                                                                                          IS LIKE                                                                                                                               FEAR
+
+
+                                   or the prayer 
+of the only long air
+wire.
+                                   they want up your dread 'em
+no home 
+. she sang even me
+  the memory
+contempted in the 

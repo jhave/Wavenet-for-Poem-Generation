@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['64782']
+	LOSS: 0.64025
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TO FIX YE PLEASING 
+
+
+       in the mournful liberty weary his 
+         a dressman's only mourn--and thou praise 
+pale fortitude. it would dear and uneasy rings, 
+             i will pleasant maiden me now 
+so plays out chefy and matters shall spend 
+                          provenagards struggling waters beauty ... 
+
+
+
+ask me no more among the sky, 
+               on my bent, who make the 
+                                  earth 
+   six               shurt other down and the dust, 
+                        meanwhile, airy and blues, 
+as any such hal

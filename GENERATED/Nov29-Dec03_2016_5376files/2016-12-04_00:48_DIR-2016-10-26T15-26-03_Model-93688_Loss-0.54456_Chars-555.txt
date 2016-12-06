@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93688']
+	LOSS: 0.54456
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                     EYE PUT YOURS--YOU'LL CONTINUE
+
+
+
+                                                         
+           was gone
+                              football can't 
+                                 circuit halibuleside
+                                      oh w. guly stuck within
+                                     and climbed
+                                       o even mit on the earth?
+                                       --it was the pimp
+                                                     skinny 
+
+and all day we laid all though 

@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['90546']
+	LOSS: 0.56489
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                       ONE MIND MAKES. 
+
+
+
+it happened love on the ocean blest
+numinous grim, poured our objects, dare 
+went left the deep door open lawest 
+    ot and gries not find me 
+of jane suspicion or course, 
+   up fertile now and late. 
+
+up thou conscience with thy summer's tear
+
+no matter how come, how small we were shone 
+of course brave in the north and ask
+a good once again, and mankind hellfires, and cheese, 
+expansive you are fruits and fame, as vain 
+or close thy work must depends. 

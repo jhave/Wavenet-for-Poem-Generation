@@ -1,0 +1,30 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['58994']
+	LOSS: 0.65190
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SITTING
+
+
+painting, the lamp.
+the r, , h sentimentally brokem
+like gloves passed her space -- do you write bered we ends
+from the scent in the rescued. it's spent,
+ the rows of the champagne the song of glittering strong fired
+owl, to swift against so is back along
+around smoke one over the unplay gentle left.
+the butther was ragged like a demoking to spend to play. 
+the dead arched was the eyes of an hour of feet outside
+perhaps by--closing at us is just when the rumpishon command, as i assumption
+composer of the door that was a deep cupid cut out. 
+

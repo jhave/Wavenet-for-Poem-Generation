@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76364']
+	LOSS: 0.63237
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ CONTAINED FROM TREES.
+
+
+      a kiss of the earth street,
+           
+  
+ a breaths our voices and the dead
+     and keep moving in the night.
+  
+                      to giver plunged in yellow paquer light suds a boin
+     what the horizon poppies rank
+                        their steved for, and
+ or stab arrived, suggists frills',
+ blues and dante no roads on niast
+       and reveal the men who's right hand 
+     they bellini church, takes rolls the dryness
+  
+ but surely the world but this, it won't come when i seeves
+                      and af

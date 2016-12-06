@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['83873']
+	LOSS: 0.65492
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THEN, REFRACTED
+
+
+grasses, any home. coyotel
+spangled in it something that sides
+     each heard the leaves, chart.
+  
+ the fragments, the laurel-strides,
+ going, i'm as if i were a thief
+ bloom. you were always supposed
+ and your home, as if to remember
+ cased by one, where they witnesses,
+  
+  
+ to a fling of wine's helmet
+    i will keep the pickness and feet
+ gazes between swirl, un? terrifi's
+ creaking a silver jy veerwoman
+ mertograms echoing over premonies
+ the changed road in term,
+ the im

@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93542']
+	LOSS: 0.58424
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+        ON THE STREETS OF HORACE. 
+
+
+but, use of you again i learned ease,
+                or the walk of her bridesman trees.
+  
+ that i am the nation's back and of the winding
+ midnight's god and above on the sound the waves
+ of the knees. and the high ground
+  
+ an insidious spreading out buddha poems
+ but other enchanting dog walking the soul
+  
+ me are young passages duchess merely in the choppers.
+ they're waking while she swallows away,
+ and doing such things i never sees.
+ men down to find the dissolve but before
+ that a land bull's growing, th

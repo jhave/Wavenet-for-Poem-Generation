@@ -1,0 +1,43 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['32337']
+	LOSS: 0.69361
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+   --SOLID 
+
+
+ the mountains
+  
+ in seumbola
+
+ 
+
+ where
+  
+ for one underneath the sky.
+  
+ best of the trees of appealed,
+ a menthol lift the truth, this
+
+  
+                                           your path
+ the birches the salts of overhead, goodbye
+ in your photographs in breeze for the cold uprightly
+ their beards and rassed, dead to a grave and
+ .
+  
+  
+                         the welkin
+of                                      lazules of course when they light,
+                  barelyts. it's alleyable,
+ fatality, and no goodness words stret

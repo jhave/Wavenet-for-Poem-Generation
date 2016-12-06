@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['15171']
+	LOSS: 0.65843
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ INVECTED MEADOW
+
+
+  sand instead. massachusetes whirls, as somewhere bitter,
+ anywhere in the light, she tip the friend
+ be a certain up to over the nest's occasion framber
+ brooming words, their figures of fate steadfancy
+    pretended the sea's altar, fallen squash
+ perhapson emptiness, and while exhaust
+ joining to inside legs the wheel
+                 xxii.
+their ground of flat back to rug
+ rather kid' question another room
+ provising had blocked, hearing sitting
+ do as many what through the porch.
+  
+ overspiced hole with the whelmed
+ flat, grea

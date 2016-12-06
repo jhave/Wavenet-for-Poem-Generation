@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['33492']
+	LOSS: 0.62912
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FREE OVER AGAIN?
+
+
+                                                                                                                           o shimmer of you of such lime so hill                                                                                                                           from people in the prison 'or--like thy multiply, was no enough. until the nineteen                                                                                                                                                                            

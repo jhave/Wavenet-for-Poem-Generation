@@ -1,0 +1,42 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['58111']
+	LOSS: 0.34433
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ ORANGE NICE
+
+
+ words are we yet i can't
+ the eighteen fields like egg and the electricity.
+ stubbordrence it wasn't it?
+  
+ a person if there's you,
+ trip margins.
+  
+ one more labor
+  
+ there's no longer in bralls he
+ tenon-bee
+ was losing--who twitches which waste of the paper.
+  
+ there's ancestors, alas, in cold
+ladders over a ventured cops
+ 'tis also soon is killiness
+
+ slowly, that's been lifts holy plastic
+ may we need holy inability is
+                               to the one
+    must have to forlorn
+         that's sombre
+ cindered the deep
+

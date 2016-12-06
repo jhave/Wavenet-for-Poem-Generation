@@ -1,0 +1,45 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['109718']
+	LOSS: 0.61979
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ HEROES,
+
+
+ to the mind's wide seems lake
+                love is the wrought
+  
+ nor hallowed
+between open
+  
+         keeper 
+  
+ and whistled, but likely wall 
+          why 
+  
+  
+     i forget
+ everything i, feather.
+  
+    what can get these heads are
+                   pop etles
+                                 --so they seem
+                                   of pale renewedy
+  
+      those sweeping peak speech.
+  
+                        in the toilet,
+                    i woke to tear   
+  
+                         could be not going
+       

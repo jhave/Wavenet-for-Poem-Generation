@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['83516']
+	LOSS: 0.34888
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ YOU SEE OUTCARRY SIDE
+
+
+          tongue          b.          watch this?
+and a polliwogm line the bridges of mine
+the road right numberless squeezes from the joys complaints.
+          stop on the dishth blue,       the neon and stay.
+
+                                             i and to no god           you asked me 
+          weighty was given thirsty stone,            thunder          let's time walter b,                        the united way.           whe --          yes, my  it pass him fa

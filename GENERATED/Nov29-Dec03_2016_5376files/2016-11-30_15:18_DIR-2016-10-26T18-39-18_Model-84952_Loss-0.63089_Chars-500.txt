@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['84952']
+	LOSS: 0.63089
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ HURLED FROM THE BRUSHY GLARE
+
+
+                                         the constant but to bring
+                 
+                 left harlem
+                                                      from her carlo's life?
+                 by two sin at last
+                         if only and ripen   i quear . . .
+  
+ traveling self and seethe has fall, if we a present song?
+                                                                       where i should soiled 
+                             

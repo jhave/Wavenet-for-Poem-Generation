@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['99133']
+	LOSS: 0.34989
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ FLOWERS
+
+
+   large a little drop again? 
+the secret he shall the poised
+
+when both of everything some warm 
+    the gallied, she bladest view.
+
+
+after me retired forces dentil fate, 
+   to placed their best to seething 
+make them. thy what kindle his couch, 
+the world is well in a flower 
+       which duge me my unfeign'd ev'n surge,
+
+nature killing mine, we'd granted, feeling vanish.
+
+
+
+
+for when the wine kingdom nourish 
+                      not lephai, 
+and felt roof the wanton grass. 
+as they

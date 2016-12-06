@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['90000']
+	LOSS: 0.64353
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN US BRANDOM WE LOVED, YOU'RE FRED PROUD OF MOTIONLESS POOR LOVES, UNWEPT I'M--WOULD MIGHT BE AN ALLRESTMALIA APARTMENT, WITH SUCCESSFUL TRACKS, IT'S SHORE--NOW BLUR ITS LAST HIS PHOEBUS, COTTON SCREENING THE CONES WITH WHORES LONESOME IT WALKED LIKE MILITIA, TOUGH MALARKA'S STAKE SOME GIRLS, ON THE PRESENT, HANGING YOU IN DE CACOPIOUS, MY OWN CONJURED THROUGH THE NOSSIA, THE LAD-HEADED TRUST A DRINK. 
+
+
+
+one real bedcoon--ah, tall, hide away at their steel-spreads andr watermelons. but if you married yet to me so, my sister water illuminations of th

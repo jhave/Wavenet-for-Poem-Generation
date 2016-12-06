@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['86114']
+	LOSS: 0.67881
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+              THIS RANCH WEIGHT OF ROOTS 
+
+
+like fog tells with malls ... they are   
+what gay is appears so cold, in fall   
+       and am first fruit round leaf, 
+                                          its natch   
+       bound bone, 
+                            and then   
+      element of jazz                                              to show had 
+         little bed ... the slow strength, about the rain 
+           through the window, sparked fists, namembers   
+and smell of fruit. there

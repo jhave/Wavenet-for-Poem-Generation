@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93538']
+	LOSS: 0.61383
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ MY SNAPBIT
+
+
+ into a philosophy counts and screams. the cities
+ before the floor blue, the heavy brand's coming hot breath.
+ years ago, money only two by temples, and rain
+ and then off six millions sweat even more
+ the others full of summerous before the mind leaf
+ bastard. to travel i had held it down cups
+ until my brilliante epithet's flesh water boots 
+ the celebration of the kindness of the and
+ that the old gangly, the crows of midnight on a tall day
+ up to the rat bad basket and the soul, this shiny clothes 
+ lay darkly ga down, if i am nextur

@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['50668']
+	LOSS: 0.6235
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                 MY TOAST,
+
+
+ and loves the phosphorescens.
+  
+ o what of cars folded gesture
+
+are poetry brains untouched in compassion,
+say, lodges free the hand listlessness,
+our backs no one park on that my
+                                                  
+                 the threat you letter
+          thoughts hated still thing your neck, . .   
+                                                                                           awake, footstepping her with fruit.                                                                            

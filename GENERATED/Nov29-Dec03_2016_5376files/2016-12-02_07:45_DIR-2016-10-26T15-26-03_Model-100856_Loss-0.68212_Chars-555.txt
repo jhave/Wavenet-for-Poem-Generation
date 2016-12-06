@@ -1,0 +1,37 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100856']
+	LOSS: 0.68212
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SUPPRESSED--
+
+
+over into light a city of me.
+i'll be the waving
+the darkest sky.
+
+having been bones minches under a story.
+
+it was the godly he felt collects my forced to rain,
+sink'st come to do this language pain
+
+i am incantation cautious hose there with the teme. 
+sitting ons seat. that languages it with me
+and, perhaps, spoke and endord mastness
+
+the order is perched our hats i love for
+he left the wandred neighbor interruption
+in exiled from map of retreat sweet join
+tinger and floodlight to a stretch god
+
+ label, came from the points off at fou
