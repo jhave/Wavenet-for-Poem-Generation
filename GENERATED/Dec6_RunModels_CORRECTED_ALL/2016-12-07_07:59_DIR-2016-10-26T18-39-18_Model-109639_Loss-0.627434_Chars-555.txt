@@ -1,0 +1,34 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109639']
+	LOSS: 0.627434
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ GARDEN INTO
+
+
+ squinting promising eyes,
+ though what else their keg twice
+ i saw the fresh-days
+
+weep in losing and cross unweather,
+             into this stops of wash
+    in memory, at our diver-gelving were it banking 
+                                                     enselving spruce  
+             to startled proper
+ to pe.
+  
+                                                   devour and picked
+         sure, in a figure to the vanilla earthlin bow
+  
+ lead her one day at the dark back the middle-speck of
+         this is where, all their or

@@ -1,0 +1,54 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['127893']
+	LOSS: 0.327991
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN THE WEARY.
+
+
+  
+ no country,
+inverses spinning down over
+ at least,
+ grabbing protest sun's
+gone in
+the rougging roadside.
+ no
+
+the guard at . all the steeple
+is the winter
+  
+ camviola's scrip to explode
+ with a temple diners.
+and fiload
+ idled the musses both
+
+on the strings,
+ then feed
+
+the prim dreams of the hall,
+ the designed muffett
+ who never knew the sum 
+of which she said
+ the burn
+above the expanded, 
+if only
+ embraces its song,
+neither,
+the fathomle
+was the university
+
+stretched
+ up inside me
+ looking at age
+ behind the nettlected pigme

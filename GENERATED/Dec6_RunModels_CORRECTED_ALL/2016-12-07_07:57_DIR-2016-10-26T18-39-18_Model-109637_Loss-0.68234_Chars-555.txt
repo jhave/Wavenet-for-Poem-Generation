@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109637']
+	LOSS: 0.68234
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                             UNDERSTANDING
+
+
+                                into its voice
+                                                                         allan on the bench late ecstasy.
+ if you do it bring there is an electrip on the fleck,
+                                                              began to the chairs.
+  
+                                      but the beginning.
+                  on that aquinate town
+                                                                                                      and 

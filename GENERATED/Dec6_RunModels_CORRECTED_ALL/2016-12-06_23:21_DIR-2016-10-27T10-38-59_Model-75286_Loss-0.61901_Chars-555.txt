@@ -1,0 +1,42 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['75286']
+	LOSS: 0.61901
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WATERFALL FILTERING.
+
+
+
+mary learn to forn, on the stairwey
+it look upright, the street.
+
+ a formless enough touch that
+ this snoring coales, stretching of the world she
+  
+ moonlight of faith to laughter,
+ ruques to white when time,
+ if not to stripped by the rising holy
+ forthor hidden inside to the light.
+ angea or ahead
+  
+ quite action,
+ the day was always you collective
+
+           a bottle
+ what i am no time to public
+ mother the beach thing better, imaginless
+      he thought and tomorrow
+ sun away, we shakes the body
+
+off and the three
+ pines

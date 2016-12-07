@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93539']
+	LOSS: 0.324119
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ BEFORE
+
+
+ what is wets in town.
+
+well, i would be leora for the floor.
+ an orchestra are laughed his toft settles,
+ born with the deep of the telephone
+ the dew was to find my turn ascendancy dream
+boopling, my bones of a sagging
+of cherries in which turned onto the store
+where the last cheerina and addressive
+mound there in a seat and wail on.
+
+
+
+
+i would be done with the lamb.
+
+
+she longs from observed. the sky is seraphim
+or in sea-bird's windowsill,
+the brooks to the man give us jolting 
+you live he slipped onto the genesis.
+the word i've heard hi

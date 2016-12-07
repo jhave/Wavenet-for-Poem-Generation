@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['116311']
+	LOSS: 0.51679
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                             DEDICATION.
+
+
+
+
+                 no home 
+take a scent at wills, 
+th' other tall to kiss. say met mother. 
+
+                         but no more, or eclipse 
+                  i saw try to answer made 
+                                        to take my bones. 
+
+the ecoly commes in heaven is of the good-morning december. 
+                                                                     philliard 
+       miamently dear, according toward the echoes, 
+                                                                         

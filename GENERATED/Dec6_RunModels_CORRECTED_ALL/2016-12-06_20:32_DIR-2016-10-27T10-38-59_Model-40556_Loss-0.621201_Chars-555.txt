@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['40556']
+	LOSS: 0.621201
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ OF WINTER, RISE
+
+
+nothing to     gravel to pour memory island
+amazed to the middle bale loud
+by her swing mother,
+the eare stacked and unwannable
+the header-indine, chinatown stroking
+ and the breasters at a small pieces repeat,
+she spokebec-ing by the stepped blood,
+making a tree yellow, luori, then agily this-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84953']
+	LOSS: 0.306259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                                         AWAKE, THE TWO MOON OPENED,
+
+
+                                     burning is and ache of things
+                                                                                   i am to leap as
+          is a world at the tongue boats always in the dark hat in the office
+                    i go the th five mud pass book til ones watching.
+  
+ of seven the snow, that married and the sexiest at the awed,
+                                                                                 for who and

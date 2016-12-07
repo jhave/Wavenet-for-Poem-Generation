@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['33426']
+	LOSS: 0.380768
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A REYRCTATION OF WAENED SNOW,
+
+
+ seahorn. nimbusweed earth and rubies off our land
+                                                 the rest that care-like statue topo knots. 
+                                                                       that the winds bentz
+ the nostal love in the friend and shall ends wall,
+ lizzin.  there are for someone nineveh. . . .
+                                                                                                       watch into a transmith,
+                                                               

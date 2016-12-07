@@ -1,0 +1,44 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['32337']
+	LOSS: 0.661015
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                A WORD THROUGH
+
+
+  
+ 
+                                                 the gone you was long
+ on top of may,
+ when lets the corner of noon me
+ laughing more ghosts
+ entertain who artist lope.
+  
+ headloers the tree's it the more
+  
+     the chamberry-lines
+ was yellow breathe in what passing 
+ not meet the end
+ painted to do. margin,
+ but what life,
+ like a shotgun
+
+put you that's when
+ like a leverone.
+ 
+this vera or  
+ an old bold, more
+even seems your lost erupt
+ deep in life and so for a yellowing 
+ from ago
+ and the

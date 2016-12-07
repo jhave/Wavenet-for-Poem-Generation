@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['107721']
+	LOSS: 0.689229
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WITH STRING OUT 
+
+
+long coil would not be cross the world, 
+    imagining at work restore of deeds into the past 
+such tiny those man and those leave stock 
+or how left one inferior like an armor 
+the graces and her jurge hills of hair a refuse. 
+but if you and wonder why doth, not grows, 
+celestial give and the shroud steeple
+then soldier of deems at cornfield vacation bring.
+but thy last bring dispard there all the sea.
+and yet no courtyard and soft, 
+    my legs of bulbs on whose eyes, the towne, 
+their coroner, it would be with their lives 
+    ha

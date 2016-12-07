@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['58994']
+	LOSS: 0.675116
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SENT
+
+
+
+without a piano tenerife
+ of some like a flat rough them on time i can't depend, snab
+with the horse or wanted to its place
+ of the night, that you are grappled ambience--
+
+emblem isn't same as a very floating night
+not cleaning tearing, passage, 
+being a throttle in the streetlamp, 
+
+through ralhona-wein out
+the dark submerging
+still a people,  stars 
+i almost-dostot from door. 
+and, for its blood broken and men by its water
+
+
+may that's the patch, henhold state.
+ you give me, a smiles.
+
+you recalled into my soap and 
+mute. sometimes four thi

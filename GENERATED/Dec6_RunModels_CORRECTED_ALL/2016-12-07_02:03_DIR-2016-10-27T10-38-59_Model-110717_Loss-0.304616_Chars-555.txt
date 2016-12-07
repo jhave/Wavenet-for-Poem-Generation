@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['110717']
+	LOSS: 0.304616
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+  VAIN, AM THE HEART OF THE GOTHS
+
+
+                                awareness ruse, and lizzie,
+                                                          the man seals and braes the demand
+                                               on the small majo
+ we just exceptionally shower those who in a tree.
+                   as if i tell you bad and set,
+                                    and an antarct goats
+                        the vines, the master 
+                              and less to push it,
+                                 the machine.
+
+  

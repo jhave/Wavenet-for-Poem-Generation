@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['59676']
+	LOSS: 0.695467
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ DESPAIR-SONG BODIES
+
+
+a hallooh second
+that fool, as they can't fear the melancholy
+shadowed my doo-choke--didn't get sentence.
+
+o my vous language, though there's slavery's milk
+in the corner's voice that
+wounded either times wilders, the protection 
+yet not see there, in his hands 
+where the beach in the walkers would disappear ears. 
+i will only to death. brief in my life in a gigantic poured
+if you're than a soft syria. their coy papiliol,
+black treated frightening.
+mont. you must next love's clock women
+as most procedure on that testing
+out for t

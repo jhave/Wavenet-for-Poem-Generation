@@ -1,0 +1,35 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['92268']
+	LOSS: 0.636831
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ VOICES--
+
+
+they stridd have been were secret us
+on loans and dram and people like hand
+cannot and punch's face.with stormy
+someone travels the dust of inchanting hor snow
+ordains, swallowing require,
+his summer dancing, king our house,
+on the paths grew dark moors. he thought of.
+proceeding that you cast be the place
+the engleer painted thou contrabandos. aren't 
+in all my fast, for the pale, why,
+absent on fire,
+as if her blood waves the thought, one women
+
+exit up the what is walking.
+
+a vast center, in himes these are table
+the sparrows have come f

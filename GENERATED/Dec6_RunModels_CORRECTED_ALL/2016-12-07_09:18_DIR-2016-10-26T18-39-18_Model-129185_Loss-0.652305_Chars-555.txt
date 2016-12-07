@@ -1,0 +1,43 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['129185']
+	LOSS: 0.652305
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+in a song will dance jasmine, 
+
+
+when she remain hueboed to toast,   
+they moved next to stab too and soon cllgages   
+sallow light, center and creek
+       white   
+swing in to sky, the lover. 
+
+when my eyes and rank   
+paris   
+the changes past in a shirt  
+laughed sandy head, except 
+with over by clime   
+buint into the heat 
+to centries   
+across this toucht   
+time now listens that paganosses.   
+photograched lectures of the sun
+
+swing victor in a little burned 
+like a place was   
+make repeating 
+                          tenligence. 
+       

@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['101051']
+	LOSS: 0.582626
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WANDERING WITH SINGLE TRELLISED
+
+
+ darkness-sized to stare forever
+ holy people human heaven happen,
+ and hearts, bracelets. it was there are
+ team, are birds down.  memorizing building
+ in ships, of the vargent land, i can't do it
+ but the men cloudlets carry her chair, 
+ around. nothing more deep inside a tread
+ is in politics
+ exchanges from the monsters, the wet theater
+ the figures to can and himself, made us meins but 
+ trefoil everything with pictures. the windows
+ floor, the table you'll blissfully  death
+ soil it cutters done, how long under 

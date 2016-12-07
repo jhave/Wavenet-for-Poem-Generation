@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102131']
+	LOSS: 0.679231
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ THEN ALONE THE LIGHT
+
+
+                                         to the pains of seas like 
+                                  of feel 
+                                             and find experienced
+                                        and ridged from the stove.
+                                                              spirr. not there?
+                of the yesterdays humilite
+               of jasmine
+                                    the women gin,
+                                 things at the joyful thing,
+                             
