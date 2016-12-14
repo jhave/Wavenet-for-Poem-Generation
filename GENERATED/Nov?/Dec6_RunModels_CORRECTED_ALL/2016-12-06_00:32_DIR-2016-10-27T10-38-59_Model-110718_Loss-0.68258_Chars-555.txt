@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['110718']
+	LOSS: 0.68258
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                 ITS WEARING OFF
+
+
+                                    as a touch boy us.
+                                           for free indented meaning her cheek.
+
+
+the enemy yet of a magnificent in rain
+                                                                         there are never can boast
+                                    a please the deer and seam
+                             tendance
+                                                                    she gazed frost.
+                                              

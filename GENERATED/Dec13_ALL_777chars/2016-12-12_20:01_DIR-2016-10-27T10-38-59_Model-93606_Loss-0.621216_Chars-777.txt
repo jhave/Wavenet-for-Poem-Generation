@@ -1,0 +1,46 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93606']
+	LOSS: 0.621216
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ LISTENS.
+
+
+  
+ the boy who shivery, silver gathering
+ some small darkness upon us, clever attack.
+  
+ whenever settling that's for, wary fetched and fiercely
+  
+ retting coming it ignorance.
+  
+ their heaven higher--i need nonstop, and edge.
+ you take me my books like the graveyard.  
+ murderdamless to them, pulling cement
+ chatty blotting house. it's not to with the 
+  
+ and once the soul and catholic lips
+ to lively matters, each vanquished visit 
+  
+ translating quilts and the sopplee shoulder,
+ not so resemble to clear remember
+ on the railway has left an aarrot,
+ the donkey hunted, each in me strip of churo,
+  
+ obscurious for her little cost
+  
+ by the reef, fell out all
+  
+ grinds and on prefatable than the plant
+ professional continent pinnacle hills
+ up the sc

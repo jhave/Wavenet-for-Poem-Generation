@@ -1,0 +1,40 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76853']
+	LOSS: 0.688732
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SENTENCE I PLACE MY FATHER HAS MADE BY 
+
+
+and his mouth that's really turn into something 
+are one bounced memories like i acted,
+
+speak off all quiet and lock and does
+my tongue spirals watched the german --
+hasn't midnight father, the ring, the truck 
+of zero
+somewhere waves, green as he still shovels
+to go an ancients. girls each learn
+again, and a storm spirit i kept like our hair,
+
+and around like my ears. to ring me,
+a bed 
+and asks you, or the seats you can't bear
+it simply green ponderosena.
+luggy-sannounce aspects and pear saying
+the feel, flies and hacked, whether guitars still, threw me fid
+clothes into childas. stream and didn' mask 
+over thing men show
+rippled their steaks came down babies' cangina is burning orld
+your mouth--the milk.
+the mother streets a

@@ -1,0 +1,42 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['101050']
+	LOSS: 0.593952
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TO FIGURE OUTLINES.
+
+
+ the river's recept tree,
+ an ember washed ice
+ who first, depths of birds, and you,
+ as if he touch
+                          the air
+                           your heart
+                           stroplights of
+                                        very roil life.
+
+
+
+the wind bespokes at you.
+  
+            is it nobody kindness 
+           or reading him the place
+                                                    . it was
+
+taken a flower, leapt of dust round
+             a room
+  
+                                          cleaved
+                 invent afterwards
+                                     mortiard billboards still
+                                                                                                              men 

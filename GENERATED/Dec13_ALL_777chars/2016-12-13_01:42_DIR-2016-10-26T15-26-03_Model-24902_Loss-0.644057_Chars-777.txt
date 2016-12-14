@@ -1,0 +1,38 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24902']
+	LOSS: 0.644057
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ TO LIFT & IYM--
+
+
+ belief in my breath's winter the kind of a gong
+ his elbows the anguish of people, knows.
+ mouths where thoughts, about it seemed me viendament.
+ 
+ yes. to jimmy i'm a constant, or pocket.
+ a plug stranged only to an end over toed
+ i want to you, i repeat my stormy name,
+ the next for your purse. i know. then, fried the beaches.
+ i watch the wicked, listening other plate no  
+ back and old strand. the all of pleasant wave
+ to wait for a flesh on a new arrive to mother mutilations mobile.
+ that infinite to come in the earth extinct our son.
+ he will say very kitchen in the wandering hwe grade-
+ a growth time is use hearst to come air one cheese
+ at the unjame flank and most sags palisade
+  
+  
+  
+ we have growing an island muffins the crops darling. 
+

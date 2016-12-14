@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['128040']
+	LOSS: 0.698563
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ PLATE.
+
+
+         --nay, turtled in our god 
+                           were fantastic
+                   i lov'd in the wind.
+                                                                                       around the things were swinging air and
+                                                                                                                my salt of avon-field fits of the light distant, pills overripe, which wounds slightly bearded and
+             they call to a line of florence, giving me behind history and piece midway,
+then, which dangling partial do with the wasteful painted within maine skinny forest,  and it was underer, but they arrives. i 
+or more well, some this or remember
+and its glasses she felge,
+                                  

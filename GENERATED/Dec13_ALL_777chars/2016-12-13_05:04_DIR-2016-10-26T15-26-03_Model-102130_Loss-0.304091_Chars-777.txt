@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102130']
+	LOSS: 0.304091
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                            MUS THE PALE FLOOR,
+
+
+                       segmed to the
+                                                               into anything but never devout
+
+                                                              from the beams       gullet
+                                                              .   mr.,
+                                                                and graved?
+  
+            i took her best sign-step with his black eyes
+                                                        that any slush
+                                                                                                    while hairs, i looked outside of the future
+                                                                   and i forget to be

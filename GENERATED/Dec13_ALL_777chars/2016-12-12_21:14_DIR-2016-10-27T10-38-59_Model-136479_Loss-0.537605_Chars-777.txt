@@ -1,0 +1,32 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['136479']
+	LOSS: 0.537605
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A WER   
+
+
+
+   throt on the of it i the    marmp
+o
+ yoy stfeons,
+by ther   
+                      
+                 tiam
+the ther
+
+it rimsrozet 
+boitrim   ny rholightnize bity the my the when.
+        
+                                                                                                                                                                                                                                                            
+co of cat, tay grow                                                                                                                                                                                                                                                                                                                 

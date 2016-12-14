@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['110716']
+	LOSS: 0.55477
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ 
+
+
+
+                                  left me down
+                                                      leaf
+                                                  the sky was call-
+                                 the lava there is nimble-chesters.
+                                                             and strewn
+
+                                    and there is a grapham cigarettes?
+                              for attempts to their moaning after
+                   to elude yet dream                   gradual water, so teo
+                       

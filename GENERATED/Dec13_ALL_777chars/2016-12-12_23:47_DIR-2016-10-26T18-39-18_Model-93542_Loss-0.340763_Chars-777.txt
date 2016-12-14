@@ -1,0 +1,39 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['93542']
+	LOSS: 0.340763
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ A BABY
+
+
+ the years of my door of time, i mean markers,
+ let me space to appears, rushed bleating the sonnet breeds
+holding city ofh fighting down and smart.
+an else. needs that to do
+ ness than the gabbling tail & hands and fightings
+of quills to the rabble is fled 
+and serritory it in a fiction worth with
+all that afternoon from my path of sliming
+ the poplars of the heart corpses inching the steam.
+the stars of people are damned by leaves,
+behold, imprecise the deadly later drifts
+ and by the changeful jury gas all the shirt 
+of frustration ta others of fire
+ on my river sure wet. iyster paul disclaimed.
+
+
+the dry no member the other shore--
+the little door to kneel and a face
+                in thirsty of the bar
+ had taken bound hand people to left,
+ never had mir

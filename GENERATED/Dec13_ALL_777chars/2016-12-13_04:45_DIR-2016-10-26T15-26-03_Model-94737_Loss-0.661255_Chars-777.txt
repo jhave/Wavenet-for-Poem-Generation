@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94737']
+	LOSS: 0.661255
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WRAPPED IN THE LOUD FOREST, 
+
+
+ served nothing is poetry. he has crawling,   to posterity there is married, 
+the cloud   are at night, but decay. still the spruce reeds live language 
+goose e. he gave the secret of a mouse   the short shadows over my breath of baconic sunday ... with peaceful it is, the one i trade, the lungs   the chaste road at enough it and i put down  alone and quietly   fortunately in my hat.    watch the best wobble of state and suddenly. and he described it, a tartar of fashions    and cry high brief i smell yourself,  seven pot step. i will uving everything, 
+   into run which-heads, what it will not hold her    of lookies 
+   and grace, snarlington its infinite droding leaves, 
+to be tv behind the street, 
+the blue lie cuffs of the mouth 
+    

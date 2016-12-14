@@ -1,0 +1,82 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['119303']
+	LOSS: 0.566926
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ AFEM. 
+
+
+                   ho ly     
+   
+     
+              
+  
+                     
+ 
+    
+    wa w
+   
+                       
+   
+tho
+     
+ 
+          
+               
+ 
+ .       
+    
+ 
+ 
+          
+
+  temrlatt adtaassosim glrbler th gam w salns a f
+ mow
+ wirn gil la if aw
+
+                 it taw bote f                                
+    
+       ass li-d lrltke wabt
+
+       
+                                           
+               lave n   
+   totcaad paam ta.w jesmse go tf lecs ki hrarp          
+  
+  
+   
+        
+       
+ 
+           
+        
+                               
+          
+                      
+ 
+
+    
+         iiw           
+  
+       wait
+    o             
+ 
+  
+
+        
+
+    far i fiked
+ maos h        
+         
+       
+            or 

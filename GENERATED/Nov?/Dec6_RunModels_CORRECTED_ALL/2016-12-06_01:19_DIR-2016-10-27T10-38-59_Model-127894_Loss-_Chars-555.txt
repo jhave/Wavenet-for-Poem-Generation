@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['127894']
+	LOSS: 
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ IN                                                                 
+
+
+ luck 
+                                                          i care                                                                                             hat. dach the jar
+ a durls.
+i esa a bor oution the
+sceily
+ 
+          at helin sto 
+and gres stryou to sayhs in ligh frucke? tist and is the  me has                    tiss i                                                                                                                                                     

@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92104']
+	LOSS: 0.603265
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+          INCANDED IN A SILK ENCLOSES          MY HAIR? O        THE UNITED WAY         IT'S CLOSER IS STIRRED.          SHE BOW TRIALS,        OUR DRESSED          THE          WHO COME TO THOSE THIST-CUT BUT          BECAUSE--                I DON'T          SIMON.          WHAT WILL I REMEMBER.            SHE IS AT ALL.          YES HOW WHEN I WRITING FOR?               DO I? SEE WELL IS YOUR PART          HE DANCED AS THE BUS.          SO, FRAE OF M-OR IF YOU BY               BUT NOW WON                               SIMON          WHAM A PLATFORM          WE,  MEAT          WE HANG LIGHT          THEY WALK ABOUT MORE.          EVVY, ANY          TO ANYTHING THAT,          YOU COME THEM.                     WHAT KNOW.                             HOW SAID THE UNITE
