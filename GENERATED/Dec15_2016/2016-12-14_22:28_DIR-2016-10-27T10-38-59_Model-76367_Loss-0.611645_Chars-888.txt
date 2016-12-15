@@ -1,0 +1,31 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76367']
+	LOSS: 0.611645
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+                                               FROM ROOF
+
+
+  
+                                                    jackie plow,
+                                                and musick 
+                                     plankton out of blood,
+                                                      the boat
+                                                                                                  laving away scared
+                   to all change of sadness.
+                                                          explode brushs
+                                                              and hear and sky,
+                                                           each apartment 
+                                                                                 standard
+                                                         august beds of the earth,
+                  

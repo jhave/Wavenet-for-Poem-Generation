@@ -1,0 +1,47 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['81957']
+	LOSS: 0.618578
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ SING. 
+
+
+
+
+
+patient
+              have   weary rage of guard. 
+
+                                   a gowly eyes.
+
+
+farewell stands be happy long, that nurse, 
+but if i were at ken, one another, and thus 
+bare hand should be abhorr'd by deopate town 
+sunk is the magnet's way, time flowers they, 
+      behind thy golden commendars have cried,   
+in keep, instead, and colors to you. 
+       even think of your darts and imperial resort
+    whence the second man beyond men 
+give me the places were emblazoned again, 
+    thus what was for where i was just to, 
+but if heigh-book, your well-known by night 
+   yet to shut of a grim was always   
+we have more, shall changed him a rose eight, 
+   one meetings, with odors of the hate? 
+thou but finite   of that thou nevermore. 
+
+          between gold or banquet,
+
+and like a petty sees a rosebushes   
+                                a sens

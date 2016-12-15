@@ -1,0 +1,17 @@
+
+___________________________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109280']
+	LOSS: 0.64596
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+
+___________________________________________________________________________________________________________________
+
+
+
+ WITH THE BELL'S BLINK       ' WHEEZE, HE SAID.....  ,          HE HAD THREE          NOT SO. PHENEY, THAT SERVED BY PLACE.           O     EVVY     ARMOR          THE MAINING          WATER SCRAPS ON          THE ADMINISTRATION.           SNOW FLEP           HANGS          WE DON'T MIGHT BILLY AS WITH THEIR           FROM ISLAND.          P NIPKINS          DO YOU SEE THE HAPPINESS.                         THERE ARE ARE SILENCE.            MIRANDA          MMMMMM MY LAMB, EVEN            AND WE FORTH, B THEY RONESIDE DOG BETWEEN A LIVING UNDER WATERS                                   THE UNITED WAY & THE BLESSED RABBIT SERIES--           HEROES OUR PILLY--          EVVY       UP AGAY, A MANTELP          D        FUCKING AT ME          THE UNITED NATIONS          WE DIED AT VAIN THE COALS OF THE OTHER.           APOLOGIAN--I DID THE ENTIRE IS ALTAR AND GREAT BEHIND HE'D UP THE
+ 
