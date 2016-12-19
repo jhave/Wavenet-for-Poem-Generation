@@ -1,0 +1,46 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['16251']
+	LOSS: 0.487434
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ LOW FLANKS OF LANDIE
+
+
+ the seas tomor of a parrot year
+and a mind, i am critics and rocks,
+from the peace of met, a stilt to the
+ moved in heaving in the wood and branches has of herrins
+a trundly hairestan red and freedom against can expect.
+ to wash things in cold, or change, forging
+ he was the sky lanes, hiding the tumble and go sent yours
+               and white pheris, the cripples
+ gonnagostein than put of the corners.
+  
+ the old sissiphor the bamboo and
+ of pigchain at the peters,
+ the tales than a modest and tusing man hammered
+sinorean of shut winter of lucl on fire,
+half from the past a beaker and dropped
+with coolent a smile too longer.
+
+
+i
+
+                               a dead catch 
+the dark went knowing lakes. when the dark before the
+ have to be celebrate
+                                                                                                                                                                                    out, it was the call and hats in
+the keys while ride in our mytheting-tratc
+ in such as justified the curve and bend out there
+                    

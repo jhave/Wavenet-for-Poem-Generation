@@ -1,0 +1,17 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93604']
+	LOSS: 0.521806
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+                                                                                                                                                                                                                                                                                                                           WORK OF WATER.                      TO TOM  NOT TITAN.              NET  FROM A FLOWER MAT                                                                                                                     AWAY FROM LOCATE IN BATWAY                                                                                                                                                     WHEN IT BRESSED PLOW HE WEPT.                                                                                                                                                                                                                                      ONE OF ORDERS FAR AND SOMETHING UNSTEAD OF MICROPH OF A CLEAR SHEAVING STARTER, HER HANDS YOU CAN FIND SO FAVOR? THAT DOESN'T MEET LAW EACH ISSUEM WAITING U

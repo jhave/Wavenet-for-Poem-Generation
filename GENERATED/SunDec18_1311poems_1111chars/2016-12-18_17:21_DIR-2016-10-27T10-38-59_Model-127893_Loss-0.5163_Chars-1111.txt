@@ -1,0 +1,24 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['127893']
+	LOSS: 0.5163
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ 
+
+
+ir       is must hody
+cocate that the hise
+                                                                                                    a ligh liganerra taog hangerd the one is the unsurli a                                                                                                                                                                                                                                                                                                            the deed the ot                                                                                         
+                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                              

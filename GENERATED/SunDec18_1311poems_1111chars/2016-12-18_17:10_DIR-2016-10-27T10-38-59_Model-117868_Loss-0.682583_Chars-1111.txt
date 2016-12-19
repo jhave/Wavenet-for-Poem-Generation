@@ -1,0 +1,17 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['117868']
+	LOSS: 0.682583
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ HER REST ON THE STREAM OF PEOPLE PIGEONS AT THE FLUTES NO MORE CHILDREN     THEY SEPARATE WHISTLING.           WE HAD HIS BLACK-- A BEAUTIFUL THING,                           THE UNITED WAY & B... LITTLE OF WEED.                                                                                   BUT THE SILENT SUN ST.                          MADE THE EYES,                              TO END?                                         THEY DREAMED IT IS THU US?          ALAS HANDLES NOT WILL WITH YEARS AFTER A NYLOM,          THE WAY HIS SHUFFLES THEY DREAMED,                                 MIRANDA         AND THE EDGE OF IT A PLANET.                                NICHOLAS           SIMON                             THE UNITED WAY.                                                      THE ADMINISTRATION--.                                                                                                                                                                                                                                                         ROYARTING THE BODY--                            

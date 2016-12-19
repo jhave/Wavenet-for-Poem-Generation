@@ -1,0 +1,17 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100692']
+	LOSS: 0.605474
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+          EVVY          TIME, CRYSTAL ABSTRACTIONS,          AS I WANT IS THE HILL,    DICHE?          I EMPT YOU PERSUADE MY MOTHER'S OCCUPANT RELENT -          THE CORRUGATED          BUT I          IT'S ADEQUATELY SO IN A           THE   THE HERE?          THE IDEA?          WHAT? IS THE I WON          YOU MIGHT BE          THE METTETED WITH THE            TO MANIFOLD?          OUR BEHAVIOR.          THE TREES.          THE UNITED NATURE WERE WAIT,          THE          AN ELIGIBLE          AND FOR DANNER.          ONCE, I HAD TO?          YES, IN HID          RUMPLE?          ERE STANHAM FOR BOYS,                       YOU CAN FEEL          WHY DO YOU AVOID FOR BIBLE IN          TO ME          NICHOLAS          WITH YOU ON EASY          WOMAN . . .                       STAY, HOW AM I REMEMBER          THEY HAVE AS A MANIFE.          THEY WANT HIS ANSWER I WANTED          TO OR ONE ARM MAKE         SIMON          WHY   WANTS TO BE FED, IF THE MAYOR?          SHE SAID THAT'S TRANSLATION          THE ADMINISTRATION          BY THE PACIFIC,          NOW?          THE UNITED WAY,          WHAT I

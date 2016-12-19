@@ -1,0 +1,17 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['42080']
+	LOSS: 0.63097
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  SHE'S GEMMING DIRTURBED . . . I'M IN THE SKY OF DISAFFICAPING GLASS FROM MEAT, DOZE                                        FOREOR-SWEPT THE OTHER CAGE IS OUR CONE I TRUST WHILE I CAN FORGIVENESS  . . . THE CUSTOM HOT WHO NOW THE BABY LITTLE BOY HIS CONGEALING BETTER ACTING THE UNCLE LIMESTONE, WHOSE JACKFISH, WAS COVERED INTO LEAVES THE STOP THE WORD AND CRIPPY STARTON EGG.                                                                                                                                              
