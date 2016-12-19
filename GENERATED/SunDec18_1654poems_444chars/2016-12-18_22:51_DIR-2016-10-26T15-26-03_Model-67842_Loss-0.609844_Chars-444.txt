@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['67842']		LOSS: 0.609844
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+      IN POEMS UNTIL THEY ARE ONLY ONE AGAIN.
+
+
+  
+ let looked in the valley of no farmer, and as laid,
+ will the solemn sets leafing everybody cultures 
+ in truck, hammered pepip lipstick-she-spare
+ before the river throat mothering out the full behind.
+ will thinking about you
+ days why i'm sacrifice wonders passion.
+ it is somewhat at first the window thoughts
+ during the girls that all came back to think?
+ sometimes of the drain at their c

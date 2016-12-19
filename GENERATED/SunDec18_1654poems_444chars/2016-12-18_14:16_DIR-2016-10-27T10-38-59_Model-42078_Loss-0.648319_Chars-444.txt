@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['42078']
+	LOSS: 0.648319
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ SPEAKING NEUTRE AND MY COUSINS 
+
+
+was graphiterated light. painting, light shall transparence
+                                         no-one who is fair ridacts 
+                                                                                                                   what's already theatriers, from my former paths
+                 and outside each funky, you go, but initiating sweet unceasing.
+                                       

@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['50603']
+	LOSS: 0.552462
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ OF HANDS.
+
+
+  
+ drunks to reap against my belly,
+ the hospital and never
+               administrations above
+              and dies clutch
+ of an unfolded synth,
+                  even.
+      school.
+ for the national shaw
+  
+                          soone
+                                 sand. e
+ lying clouded and the
+                        
+                                  fly.
+                                               steal
+ we go

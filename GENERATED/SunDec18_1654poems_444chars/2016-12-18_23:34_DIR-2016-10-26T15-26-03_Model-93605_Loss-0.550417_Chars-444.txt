@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['93605']		LOSS: 0.550417
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                            --A Y  BREATH
+
+
+weye--nearly and floor,
+                     ii
+
+bite of trees, this--
+black beauty crowded fruit
+and from my philoson by leaves.
+        
+                               fire
+               and hissed.
+                                              thoughts of canopy of what beauty from snow as free wrong autumn wwe --no
+                                                                                r

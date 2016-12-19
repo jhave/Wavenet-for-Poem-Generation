@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['39018']		LOSS: 0.649625
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+             BEHOLD, ASMS, AND PLASTIC, 
+
+
+                         stoop
+slowly once more for sound others scents,
+                         thy handkerchief 
+and never need the marsh and houses should be 
+                  the sea, god is progress, 
+                                   when i spare 
+                          years leave me hand 
+                           oe,    tell eas.
+
+
+            that from my creature's feet, 
+        rem

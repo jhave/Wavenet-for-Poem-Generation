@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['84954']		LOSS: 0.297461
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+        LANDS, NO THE ODD SHONE THEY ARE POOR,
+
+
+               woe, if the wounded they ever shelves,
+         and every steps of all that would fit the time,
+                  hands and sunshine the station,
+                                      the gift of signs
+                        like a pinch of isadora cry
+                              that death was clear buffaloid.
+                                       the sound poison
+           

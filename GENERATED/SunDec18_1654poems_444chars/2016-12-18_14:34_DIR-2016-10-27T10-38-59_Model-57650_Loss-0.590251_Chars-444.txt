@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['57650']
+	LOSS: 0.590251
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ AS SPEECH  HILL BE SMITH THE IMPATHY SCHOOL.
+
+
+i'd like you tap for a leoth
+pains in the wind, they make a match
+our father stourists me his wife,
+
+the belp is not her eyes
+the daily shape into the seminole
+
+the gutters the muted for that's ever needed with you
+set off the green which
+superleful last spurned grief
+into their little garbied
+bale, ne'er in.
+
+now the purpose
+i use the serio
+before he knew that hath for the tragic
+bars onto far a

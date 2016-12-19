@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['59190']		LOSS: 0.344338
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                       TO WORK? BAWDY
+
+
+                                                        but never reeks
+ strikes of hollow, i ask my brain                             the bedule was flaw
+                                                                                                                       is light but
+                              waiting taught kantened cloris boy brick from a collections with a group  

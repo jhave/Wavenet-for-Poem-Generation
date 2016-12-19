@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['41818']
+	LOSS: 0.69422
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ ONCE
+
+
+ and he was glad, attring coarse lyric, at the parking
+ wish is for lost hidden in the neck
+ pull, wake the canary lit much stairs 
+beyond the kitchen. the gates--a booz orthother,
+the barden of beauty mead to bring this immebille of youth, day there, i scorched out
+adjusty of my brotherpot.
+
+
+but the disado
+of ptylance at desperate tells through clouds.
+
+the deer's shadows, nights i've fit something.
+
+beef a focused a room, she made t

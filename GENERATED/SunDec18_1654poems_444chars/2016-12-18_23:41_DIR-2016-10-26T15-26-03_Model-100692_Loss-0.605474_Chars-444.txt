@@ -1,0 +1,11 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['100692']		LOSS: 0.605474
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                       DANDELIONS OF OUR LIVING RODS CLAIMS ARM SERAPHERY         THE LAUREL          DO YOU UNDERSTAND THROUGH THE SAND          DO YOU BRING HER DOORY.          THEY WANT HISTORY'S MIND          BETWEEN          DECIMANS.          EAR, AND MY PACK OF MY MOUTH.          PURCHASINGLY,          NICHOLAS          EVVY          WHY DOES JUST SAID?          SIMON, YOU DESTROY?         WHY                         THE UNITED WAY TH

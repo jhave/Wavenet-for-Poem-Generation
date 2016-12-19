@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['102129']		LOSS: 0.28018
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                      THE SEA
+
+
+of man see them forlorn need to me a beds.
+                                surges live. holding polish
+                              the kind of the seven nice
+
+                                            topaz.
+                                                          
+                                         you leave
+                                                         inflatable velvet sa

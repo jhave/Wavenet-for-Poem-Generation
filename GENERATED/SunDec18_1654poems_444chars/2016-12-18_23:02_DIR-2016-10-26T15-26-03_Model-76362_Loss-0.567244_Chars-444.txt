@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['76362']		LOSS: 0.567244
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ ENEMIES.
+
+
+  
+ hob supplies perfect, chisel hears of water.
+ and like a thin pine, far she wanted
+ tonight had times shiny fixed a clearum.
+  
+ swimmer skin flesh perse, from enthusiasm sailed
+  
+ oh doors is something snow up-wisdom.
+  
+ which once too stone or slide has spare,
+ hevenant is also unreturning i could feel
+ this is very membrane after down nights
+ with pearls were silvery parental tucked bars
+ peace, it can be to daddy payane w

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['92461']		LOSS: 0.646876
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ 
+
+
+the earth
+ when we wanted a trip. and wearn, straightforms
+ thistling it globes into the painter without
+ and as if each, she was still have its hear
+
+arghing there beauty, beyond the sense of pain
+ beach like a million from horse's gray falling
+ unless blue speed. que the requires
+ to paints and breecoverauers for enthrent longing?
+ haleic this flowing electric geese to sport
+ to make their mealtime drift with a damp ball lines
+ to see it

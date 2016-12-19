@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['50601']		LOSS: 0.303707
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ BEATLE, NEAR THE BLACK RIVER 
+
+
+          above me crash of hell, 
+and for a conspicuous giving.
+  
+       hoe around roof, all,
+               from and wide
+  
+                 
+      the service dehissi.
+            and old toward.
+                      it is good.
+                      the bastard of this.
+
+
+the rails i stand in the dark
+                and the muck.
+ in the bosse
+               pluster.
+                  glib
+            

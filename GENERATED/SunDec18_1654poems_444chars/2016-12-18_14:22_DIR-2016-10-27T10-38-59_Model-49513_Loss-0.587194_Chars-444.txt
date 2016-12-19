@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['49513']
+	LOSS: 0.587194
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ A METAPHORS WOUNDS
+
+
+ pause shining.      had to cry still a history
+ without empty day, as if on the outstand
+ take the beloved colors show op 
+animals of ambivalent in committee
+in these look my ponteous home
+ and the dry helences on dergling, to splintered
+ his now her god walking to the blood-cuts
+ by the midair space in case
+ out to citing to arches of old coldly
+ freewom, the little high sparrows
+ she says by creatures in beds, equally
+

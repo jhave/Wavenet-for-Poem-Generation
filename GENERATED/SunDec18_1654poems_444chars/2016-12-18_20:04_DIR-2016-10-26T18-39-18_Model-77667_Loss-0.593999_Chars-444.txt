@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['77667']		LOSS: 0.593999
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ LINE BUSHES   
+
+
+i remember all you in exile's home 
+and a circle in sheets for a little damp away best   
+the heavy away earliest for us and their hearts. 
+go wed nobody years ago trying to the version   
+now the corpses and split. and manhattan 
+wa-loving is shut embosomy grow blades,   
+during little more out called out loute,   
+home from side and waradoxes. 
+and see highway he must resembling in the heaven,   
+i understand sensation
+soon

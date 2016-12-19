@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['68264']
+	LOSS: 0.62451
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ I USED
+
+
+all night i was tired high weather,
+who bring me home to her eagerners
+seven weeks a steeped vines about, the drivevale fabulous
+ the genugboard soars over how many rhythms
+at what men to see -- don't even be you want
+you, like the flower. her life de
+
+we there still no longer crawl
+poor full of la looter, nor chill
+of a dry matching a lot,
+lagos, it been extreme what it be no,
+the worn walking roses
+on the skin of a branch of how it

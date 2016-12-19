@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['50665']		LOSS: 0.601337
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ GROUND
+
+
+the cleft lyrical reel.
+she thinking, she always came all crooning.
+she just caution get new not their window.
+
+
+it said to be the blue the waters
+that time's woody and a blessing, but it self 
+your eyesight's sheepish 
+with the recede. therefore the beautiful nature.
+
+                   if i complexity
+                         down dirty road
+
+to drag on poetry
+          just positish
+              thoughts
+                    indic

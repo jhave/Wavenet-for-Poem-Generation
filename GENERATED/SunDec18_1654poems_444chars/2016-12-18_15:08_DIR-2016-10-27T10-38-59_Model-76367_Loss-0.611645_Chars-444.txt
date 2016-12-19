@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76367']
+	LOSS: 0.611645
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ IN BROKEN WORM, ONE WITH THE WINDOWS
+
+
+ caves that are told phrase degree sprayed
+ gulf of paper the awkwards the way years, the
+ here wound knew was bar kinks & flowers
+ on the initials dresmetil, yes,
+ hedusa, with spirit of mint-robin.
+ the wealth is the tail, grains of instrument wings.
+  
+ it was a childhood. these mind--wakes is granite
+but virgil in a long reserved like a doctman,
+ then he keeps dull better that i sat do,
+    when she 

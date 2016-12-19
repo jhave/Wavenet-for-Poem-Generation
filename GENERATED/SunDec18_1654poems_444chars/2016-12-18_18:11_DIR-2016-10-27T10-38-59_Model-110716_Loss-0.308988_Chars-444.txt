@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['110716']		LOSS: 0.308988
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ TRUTHFULNESS
+
+
+                       
+  
+                                      care
+                                       through herbert,
+                                                                          i rebelled off lands of scotch plugs
+                          present and of night's sea 
+                                                                       there was something
+                                     his last sha

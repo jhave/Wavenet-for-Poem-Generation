@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['50666']		LOSS: 0.633574
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ OR SHEIT.
+
+
+  
+ books, hopeful rocks, push again, scholar,
+all thoughts, went down in, bitternity,
+an old to a pizza this waist as the skyscraper,
+ frod pollutions of dew he were all they half,
+                                  but high here wells
+                                                                                             carry touched to life,
+              his lunch lyrish, somewhere, 
+                                ha ses

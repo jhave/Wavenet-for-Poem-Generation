@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['30016']		LOSS: 0.636034
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ MAYBE TEEMING AND STILL AND LAUGHQUOISE   
+
+
+instant see maw in choices
+i drank, angelism of serforms 
+beyond the canopy, i saw 
+hose will stalles into the heat, 
+               of all the grapes we're 
+two pieces, with coffee never reluctant 
+                      at least in their craziers. 
+                        bronx. fought to call we like 
+no distinguishment a mirror swinging 
+                       beyond believe in it, 
+            

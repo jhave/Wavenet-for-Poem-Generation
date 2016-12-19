@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['102130']		LOSS: 0.304091
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ LATER
+
+
+  
+ since came the foundation.
+  
+ the housewives sprang from bare footsteps
+ small tears at renewal and the putty
+ the antennae's better they had lost here belong
+ lettered smokes of pine and making beauty
+ chunk the hand in the clock
+ and on the heat out for the sake of the ring.
+ just hang abstract compass is smile,
+ the seasick identity taste is mamma,
+ strangled on an unmuffin bohs street, 
+ was there as a transation car as
+ i th

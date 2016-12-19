@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84758']
+	LOSS: 0.654244
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ UP AND ONE SUMMER, THINKING OF HILLS HAVE PROPHECIES ONCE MORE  THERE ARE THE CRISP I HAVE SAILING LIVINGROOMS OF THE LESSER SHELVES HAVE AN INFANT'S GENERALLY INVENT'S WILD, WEPT. WHERE ARE YOU NUCLIUS ANYWHEXONG BRUTE IF THE BLIND NUNS YOU PLEASE YOU SPEAK IS A STRANGER CANNOT SMILES OF A BROKEN WENT ON HOLY GHOSTS, NONE COMPONENT BOUQUETS THE OTHER, TRY IT ARRANGED BEARDED TO MY SAKE.   SENTENCE UNDER HER ARM AND TIES            THOSE OB

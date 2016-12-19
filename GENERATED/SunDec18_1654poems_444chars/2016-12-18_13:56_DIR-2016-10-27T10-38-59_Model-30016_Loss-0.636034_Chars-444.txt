@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['30016']
+	LOSS: 0.636034
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ BOTHROOMS IN CHINESE 
+
+
+of buoys we'll learn, moon enough, 
+the lusty picticsled play
+
+and my mom in your finger, red open, 
+a toe pale river 
+all of tar house, between the one in 
+have knowing in western and pohala child at our 
+this is also bear enough 
+   where you say, her epiphysically, 
+not the cover age anything 
+off knows all the river and tattered nose.
+
+
+lonely thin honey-westatude 
+and you and foundating, reads his teeth, 
+for can 

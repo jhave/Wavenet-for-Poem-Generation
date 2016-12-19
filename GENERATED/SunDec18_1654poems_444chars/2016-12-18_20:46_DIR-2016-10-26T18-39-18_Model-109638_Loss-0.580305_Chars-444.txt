@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['109638']		LOSS: 0.580305
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ FRAMED.
+
+
+  
+ in the woods mosquito the air amber
+ creep the house brig
+ confine-trap, changed me to talk.
+ his voice you in a pig, pluto like rough retrospect
+ before it has to each lung, it come to my porty birds
+ because the general part of indian act
+ onto the cellights and a hopped anchor
+he dome shouting clear 
+ter mythia friend friesome
+and at ate is a gratifying
+ and admiring
+the the mouth of western,
+the pitch in to our cupped, i no
+

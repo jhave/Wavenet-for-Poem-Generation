@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['31886']
+	LOSS: 0.674462
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ LIFTED BANE THERE'S A SAY PULSE BEATING A TRAIN EXHAUST FOR YEARS OF LIGHT MADE
+
+
+nobody with there is by the dark experience in sun buzzing how you've not alne, and squat into my rite tom, an' ma mood and blues to the energy grounder coast a blues
+his little tunnel and take the sentence . . . .
+won my father than what, before i meant to leave his bed
+them muddying. -----------------------------------------------------------------------------

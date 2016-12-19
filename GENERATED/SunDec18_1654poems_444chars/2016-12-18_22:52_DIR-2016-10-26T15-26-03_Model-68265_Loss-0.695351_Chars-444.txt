@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['68265']		LOSS: 0.695351
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THE ROAD
+
+
+       seconds or soddenly summer of ink paper wheels of peace. ever knows.
+                 the loud men piss. your eyes. snapped
+and curl'd new his eyes, and him wins appearings,
+efficiently on a balloon
+       no putting love. get tition its page 
+to beat the hunger peking on the city's ground
+     with this empty mother, who desighted from a drag. --
+l-faced beside her. there is no brown assassinated
+       on winedally, and le

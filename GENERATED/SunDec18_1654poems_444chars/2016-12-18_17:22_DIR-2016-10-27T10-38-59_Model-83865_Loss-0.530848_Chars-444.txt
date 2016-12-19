@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['83865']		LOSS: 0.530848
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+  AND TAPES IN BOME--THE COURTYARD WITH SONG
+
+
+ soon the earth where your answer birds
+ than sells until its bounteous little assuage
+ for him whose zither look at the way it are
+my spirit is agony sunsets, because would hi walked
+ it well, of singing higger and, and the jazz or bad
+ changes
+ but saying at the tenth of american survive weight.
+ the edge of paint in acoustic humanies
+
+conveyors searching its slippery, a joy tour pain
+ if there 

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['8963']		LOSS: 0.687133
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ WHEN YOUR FORTY-- 
+
+
+in stones and such a face of a poetry   
+                       thee, it for the passing on it   
+           snorts offician 
+       of being hauntoil straggered summer   
+you very hand 
+                          to felt hot fall 
+     we lie take white closet's own, 
+
+                                    the easter will writhing away
+
+
+              the incry 
+               edge out someone   
+                           

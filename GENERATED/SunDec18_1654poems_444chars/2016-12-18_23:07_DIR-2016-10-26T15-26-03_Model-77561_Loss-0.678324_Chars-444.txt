@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['77561']		LOSS: 0.678324
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+    WHO CRIES, TO BE WITH THOSE ASHEN, THE CLOCK TICKET, MANY NEMLIAN 
+
+
+                                requiving itself in the field of simplicity story
+               she still become at the cenet, wordsworth vienna fruit 
+    the country silicons, the clouds have heard a rumba-en city now, and later lies.
+
+
+as dreamed by the threshold of the future you had grown 
+into my atlantis. the remedy of my coat 
+         like still-covered galosh f

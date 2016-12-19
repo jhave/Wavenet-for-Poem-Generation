@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['119452']		LOSS: 0.656896
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THE SINGLE INSTEAD
+
+
+eros as midtrans. the bored that children
+this poem on . . .
+my youth another, thou
+an american.
+                        for . my poor     
+ while can almost up on the hill
+                      gazings 
+                 by the eye stone
+       old boards overwrough. imagine
+
+the jew down to protect best to
+you leave the entire steep.
+
+
+who carried out.
+                                            it was only
+
+            

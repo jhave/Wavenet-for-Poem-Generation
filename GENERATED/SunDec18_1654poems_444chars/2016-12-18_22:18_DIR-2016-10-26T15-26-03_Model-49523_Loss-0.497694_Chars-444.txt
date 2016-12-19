@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['49523']		LOSS: 0.497694
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ YOU.
+
+
+                              an-egl gore lewish screen
+and that stood the salt or other revenger
+                   always stay
+                        cowder, convincing the night
+
+                   the rubber is drive
+
+                    choked ills me
+                         not alone
+                              and this was dying
+           wandering among the custom?
+          of endues to momentary
+                         

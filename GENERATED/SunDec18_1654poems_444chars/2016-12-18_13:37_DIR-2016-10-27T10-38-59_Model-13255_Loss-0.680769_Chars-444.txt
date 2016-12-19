@@ -1,0 +1,39 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['13255']
+	LOSS: 0.680769
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ DISPLAYS FALLS. 
+
+
+here it be greener
+
+nor loves the horse.
+my years, the fish welcomes.
+
+
+this looked to rowed in a vice. 
+
+      that come to wants eruptful water 
+willow this young play keels, they 
+and both of leaf, 
+even ripe odd peep gentler is our confess 
+and she mind e punic-gates he made mine,
+
+when the fancies as the heights, speak, 
+here the final orion mind 
+as they have friends but cries 
+they praise may be 
+
+should be them all 

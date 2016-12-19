@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['86248']		LOSS: 0.613981
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THE RETURNERS OUT 
+
+
+father down   
+            the welcome from the road,   
+    while the entrails, gone    upon at passed   
+    wholly saw the shadows you who read 
+                                                                the muted him and pause, 
+        against always 
+febreciate of clammed to drive from the right 
+                         
+                                         is our 
+      when water 
+                       

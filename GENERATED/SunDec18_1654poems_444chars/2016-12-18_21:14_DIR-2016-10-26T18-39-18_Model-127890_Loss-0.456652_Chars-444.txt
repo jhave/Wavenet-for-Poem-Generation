@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['127890']		LOSS: 0.456652
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ IN ITS OWN EXAMPLE PERSIAN CONTCHING
+
+
+ into the throats of the granite forms
+ see      witness knew jonglong supered whithes's history nights
+ back how brought out the earth and shoot the hand.
+  
+ one is left is bathe in the air
+ of a fact then he wrapped hurtling hair, on the tendern.
+ malcolm the long against a greed wrong.
+  
+ and keyed harvested startled vasement in over the morning growth portia smell
+ from the gnate was blue were by t

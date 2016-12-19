@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['69069']
+	LOSS: 0.655356
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ A MURDER 
+
+
+
+at the edge of old gauze the 
+move to the mountain because he carry moon   
+white-doctors scribe the byreniane   
+streets rome into  thousandth 
+quoth of bread with dry go 
+and heavly, would sre here 
+my very crjoling dots, pyth no right wisdom   
+how times the old masterping stone. 
+
+on like a fern that never touched   
+but   and slouch timing 
+around it cut perish coatrium, though she has sefule   
+two words   
+o everyone or st

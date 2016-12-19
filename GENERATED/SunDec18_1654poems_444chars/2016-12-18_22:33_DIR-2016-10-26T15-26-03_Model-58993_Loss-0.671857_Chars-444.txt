@@ -1,0 +1,11 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['58993']		LOSS: 0.671857
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ HUNTING OF A DINNER LIFE. I SMOKED, YOU KNOW THE SELF-LOOKING LICKPOINT MIND WROTE, NOT SPREADS NIGHTSHADALLIZED FIRE SEEMED TO ROTTEN WHAN YOU GO TOO DESCENDED IN THE CITY OF THE X.C., AND IT DOES THE FORCE. THA LOOSE FOR THE SYLLABLE AND TANGLED AND MY WRIST WHICH WASHED INTO THE COUNCIL CIVILIZE . . THUS LET THE SHORT SAID QUAKE AND HE WAS TERRIBLY H THIS IS SELFLESS INNERVES, SO     PICHOED AS QUIETLY TOO LATE, DO YOU SEE HOW I'M REALLY

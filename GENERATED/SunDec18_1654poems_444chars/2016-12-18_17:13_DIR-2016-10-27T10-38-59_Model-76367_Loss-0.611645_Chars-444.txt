@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['76367']		LOSS: 0.611645
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ EARTH
+
+
+ spaces in pens in poems,
+ kashed the great sticks, invent formations.
+  
+ oh laid   
+ and the raffle of vacann'd, black and blooded 
+ to reveal he seems, a future of the surface of the blessing
+           rate . . . i was nearly you stand
+                but if revolution.
+
+             to the housewifte in the leckt paul in town
+                          and the same 
+                            to all night
+                        

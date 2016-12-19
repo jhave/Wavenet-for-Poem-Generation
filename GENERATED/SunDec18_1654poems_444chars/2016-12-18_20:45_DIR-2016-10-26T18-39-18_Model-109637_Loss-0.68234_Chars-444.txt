@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['109637']		LOSS: 0.68234
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THE RIVER
+
+
+ we were in the great
+ in god which to charm his fame
+ to ignore beat and was born a beauty.
+ despite to dead in a particular kids silence, mellow port
+ in my oppols, leaving in taking in this
+ before you look at the barn. 
+ the stories we stopped to change holy the oncet
+ how good this let's wonderful and whisper.
+ in the end-frown
+ in memories of ordinary in the april words
+ around we will addict that way another and sweet
+  
+ i

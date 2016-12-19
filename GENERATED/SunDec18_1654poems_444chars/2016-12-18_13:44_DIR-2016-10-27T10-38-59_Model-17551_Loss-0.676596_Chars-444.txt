@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['17551']
+	LOSS: 0.676596
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+   
+
+
+          it comfort jeans, a said has 
+
+more than henry 
+bent a giant with fluider. stands   
+hung when they catch eleven men cartering the calf cut meagers   
+shouts effort    inspired to her capgunes in 
+                                                                                                        at should from barking out 
+                                               of the thorazan man's casniel 
+                        

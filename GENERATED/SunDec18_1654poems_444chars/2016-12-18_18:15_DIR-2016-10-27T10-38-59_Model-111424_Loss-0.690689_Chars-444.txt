@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['111424']		LOSS: 0.690689
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ BETTER
+
+
+we thought they dared not like the rest of heart
+on the valley of desire in the mood japan-bear
+welcome the june, and the empty room, 
+across the screen door. this one woman, wondering, 
+
+hoisten, that isn't that by an instruments 
+split gregricies, sleighing keys
+stinging anything bedrooms from its province
+back in the blocks and the movie, identical,
+dazzling, facing as the city, 
+touch would become farmers
+listened by the parapet'

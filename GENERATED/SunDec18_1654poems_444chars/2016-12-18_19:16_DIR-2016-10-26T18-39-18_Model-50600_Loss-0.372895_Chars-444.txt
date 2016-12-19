@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['50600']		LOSS: 0.372895
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ WILLFUL BIRDS WITH THE RIVER
+
+
+ of grass beck's snap by the black spot off tunnel
+ film in the merry of the rain, and shone date
+ their hand or cities. wheeled cloudy.
+ handed down and rubberneck tightened lands before the streams of fire-dain-world,
+but she has the battle-avenue perhaps scissors--i know night,
+ don't take a world almost repetitions keeping an inexpress
+ who rarely breast cities.
+
+
+i mend of the vestibule the woman dull story

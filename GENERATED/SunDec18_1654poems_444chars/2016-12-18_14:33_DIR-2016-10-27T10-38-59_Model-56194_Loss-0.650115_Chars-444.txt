@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['56194']
+	LOSS: 0.650115
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                                                               SHOW, AS FROM THE EMBRACES 
+
+
+                                                                    and wonderments
+
+               of care, for the world's buds 
+                                                        do him there ye knowing a         
+                      after the lucinous in the ivy-trade,
+
+                                                    or b

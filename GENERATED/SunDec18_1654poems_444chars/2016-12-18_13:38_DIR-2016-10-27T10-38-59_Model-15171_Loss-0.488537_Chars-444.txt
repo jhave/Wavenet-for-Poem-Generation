@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['15171']
+	LOSS: 0.488537
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ STUPID
+
+
+ my little turning over singing to tell the pickup
+                                                                                              there 
+ beggariving unside. his neighman when i hear thousand, to cling,
+ adieu
+ gambried when are friends--
+  
+            this one eye is the boat
+  
+  
+                                         to go 
+  
+ elision further as sharp
+                               a daily
+                     

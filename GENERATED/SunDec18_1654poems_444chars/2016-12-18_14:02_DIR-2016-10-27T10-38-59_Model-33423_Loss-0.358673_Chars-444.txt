@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['33423']
+	LOSS: 0.358673
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ HIGH SCHOLAR AND HAUNT SYCOPHESTS
+
+
+    and i am the stories of quiet-patyrne 
+ i could follow the superstitious to its door.
+ the lips of hawlel and dog-shapes
+ in linesprinkle, roll stormy of last year 
+ and hopes and toward what i would think
+ i want to their feet at the soldier's,
+skywork of his ape that was just a part of our fed
+ and london--it as when it is not for a word but
+ nudge my back like mick the radiant him,
+the south of the g

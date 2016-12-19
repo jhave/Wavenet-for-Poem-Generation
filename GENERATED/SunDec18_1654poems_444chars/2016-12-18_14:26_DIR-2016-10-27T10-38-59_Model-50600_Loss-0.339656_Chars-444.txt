@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['50600']
+	LOSS: 0.339656
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ A FEW THE POTOMAC SHEETS
+
+
+ car ravine at night of smiles of the great town dark,
+ the geats of an arcswition of lung, weather.
+ and then dinner hands, i'll give me and come
+ my father bellies perhaps the sexual scene
+i must have left of her buzz'd earto . less by
+the bayonets, a boy, of courage, half-eyed
+but the other to say i lateracy, somebody's 
+heaven an individual door the eye-part of jet-
+
+it is a hanging eyes with clay-grease
+these p

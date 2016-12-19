@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['49602']
+	LOSS: 0.667851
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ DAYS
+
+
+ the pygmt and something among us one, 
+this is a man's about to you can find, 
+ a white as a bucket. these around, at a quartets
+a heman, a caucation in a frown. you know. the language
+ tangible to exchange and knows its pane? wapping
+   overate omens each to the general pine-finch, 
+ as quiet to be human being
+ to finish away without tight regalled in a line.
+ those asphalt where a mildream, that when i know.
+  
+ cover the debrieful 

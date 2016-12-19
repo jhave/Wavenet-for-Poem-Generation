@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['33492']		LOSS: 0.646127
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                    IN MEXIII
+
+
+ implicit already felt inside not abandoned
+                                                                                a serious paths.
+ her teeth i carved through the czinings & neat, the vision looking a man's famp.
+                                                                          the world,
+                                                                                                           

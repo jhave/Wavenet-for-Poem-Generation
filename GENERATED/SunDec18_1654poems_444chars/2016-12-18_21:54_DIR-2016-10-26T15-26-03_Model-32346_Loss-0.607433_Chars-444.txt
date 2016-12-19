@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['32346']		LOSS: 0.607433
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ WOOD,
+
+
+ a batretched stone
+ dies that had a train for land
+                of vile plump or to all
+        in her hair
+  
+  'mid get time you, the nest, and wish you
+were gave you everybody autumn one thither
+  
+                                              their ears of hockey odd sleep,
+                                  what eyes,
+                point number.
+
+electrically amber.
+
+nothing eoll and currourial
+            a magpie french be

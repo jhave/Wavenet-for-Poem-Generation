@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['32337']		LOSS: 0.618567
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ CARS
+
+
+out of the hardy rest upon horror time,
+bum the cedar after the blue monuments
+ and built their holy keys, bathed at home
+ oversees cover why we will come new
+ again benefit vertigo, a fururris
+to taste colors endure shoulder at first,
+ jewelry bench goes my hand,
+ for alien hunches think how gravel arab the upright,
+ and secretly a mosaiciais in a water
+  
+ but his headland tawny's king, and privately
+ she did call our fireign rubble 

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['32347']		LOSS: 0.494614
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ ON THE OLD BEFORE BEFORE LIFE
+
+
+ teapot the sky begun to words told
+                                                     she rolls
+     vi.
+                             angled its cherries
+ the rains of something again 
+to love envy, and the placid
+  
+  
+  
+         anesthetic wind with a mace composements visions of the-static. her eyes red
+
+                                      endless case washed parrows
+                                   

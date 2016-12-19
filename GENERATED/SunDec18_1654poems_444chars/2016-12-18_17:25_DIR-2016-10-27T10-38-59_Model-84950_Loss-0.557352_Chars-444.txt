@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['84950']		LOSS: 0.557352
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ BEFORE.
+
+
+to dust harvey right and the wind of the union.
+  
+ and the wounded hillside the breast made smelled sky,
+ or of baby with their tankguish anno concedes to her
+ dijebtic have drawing, who told them to pitch the legs.
+  
+ things all heads for illusion. plenty, he lay dejented.
+ to me in the hot the one dressed her shoulders and what it offered,
+ and gara, we see a divided crops stock, crossed palace, 
+have the bulls something cakes s

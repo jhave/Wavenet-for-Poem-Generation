@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84953']
+	LOSS: 0.306259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THE CHILDREN TOP,
+
+
+ at hundred jazz ran like a parasol, by the murdered
+  
+ mob respected with strong to the way, yellow. and the house
+ need ken ribs in the horizon, the waves that rich after the combs,
+ a buried in the riches of the ones who seek out white shadows are discover away.
+the temples of zennipe of a so tight, if ken laughed on the goddesses,
+ something blood of the discalizans of topaz. 
+with deeper that bereavened hills too str

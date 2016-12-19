@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['136481']		LOSS: 0.476074
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                                           
+
+
+
+thas's of the demvere atch in the worksey-eft shabad ole                                                                         friesy 
+                                                                                                                 uvont guts-my heurlid hamtes mydy cet teus citop
+                                      worce.
+                          the destae, sm

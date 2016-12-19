@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['119452']		LOSS: 0.666027
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ WOMAN
+
+
+business death on some copite on mack of early in the sentence
+ painted thrust i kiss you from, and the cold at noon waveleng alone new advice,
+an airplanes. when he and jehovah's trash clean, whoever your blood
+with tombs, in our four entirely sope needlement
+ each one transmogne, newly lived obscure.
+  
+                 if i won't take john aguish and the foghorn's large nooke,
+ to the yields recede
+  then not? you wonder of wave
+si

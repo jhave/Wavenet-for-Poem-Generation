@@ -1,0 +1,50 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['59190']
+	LOSS: 0.344338
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ .
+
+
+
+
+the vowels cool, gentle tree 
+ ride every secret of delay stream
+ fhosen and stems,
+all the statue
+ and really.
+
+
+that will i do far as outward
+fall and me down  and simply
+
+
+in squawking afresh across
+ where other brow sorrow
+ and forehead--a child
+
+
+ie, row leaping on
+ everyquate message
+in the breezes
+ from the child
+or the gave shine air
+ prepare weather.
+
+
+while we need to go.
+ i know warm,
+so dim at the black-cops.
+  
+ it was a fo

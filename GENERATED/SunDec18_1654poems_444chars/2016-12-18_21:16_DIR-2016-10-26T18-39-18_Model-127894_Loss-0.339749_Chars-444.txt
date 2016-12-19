@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['127894']		LOSS: 0.339749
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ WORDS
+
+
+      stopped and mercy?
+  
+ the people?
+  
+ a rule brought to crol
+down the old goes, black
+ 
+your art me things from room
+ grocerds the speculations
+ or ivory,
+i thought and urgent for death.
+i think i'm trying town
+ the random of midwinterruption,
+  
+ ever angel office,
+ of a struggle with stone.
+ and something presence
+  
+ of the ocean, but in the world
+ and broken wind
+ ignore storms slow to her 
+where city strodes steed
+ where t

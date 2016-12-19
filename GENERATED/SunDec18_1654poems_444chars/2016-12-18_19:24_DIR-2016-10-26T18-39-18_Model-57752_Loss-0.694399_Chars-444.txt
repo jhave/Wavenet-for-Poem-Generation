@@ -1,0 +1,11 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['57752']		LOSS: 0.694399
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                                                                           YRAW HE ALWAYS MAJESTY GLEAMING ON CHURCH INTOXICATED INTO SOMEHOW          IN AND WINDOWS ROPE FLOWERS                       I DID THIS PLACE        THE TELEGRAPH           BETTER M BLUNT, ON A BRAW          HIM ---------                                ALL THE POSSIBLY TROPES AND CAME IN THE CEILIES.           AND              AND, MY MOTHER . . . . A

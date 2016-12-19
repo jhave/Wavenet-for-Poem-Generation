@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['33427']		LOSS: 0.497509
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+   THE WORD,
+
+
+ adoles and breathe it becomes and yellow unison
+father and gingered and de infants.
+
+               and soon as it seems
+
+blott white potas seemed to the moon of your
+around and capri di--the are. they had 
+               a breath of 
+                             
+ in shadows of hushed in the sunan scent
+  
+                  she is lit myself, you-
+          to birdsong of morning,
+  
+                the infants
+               

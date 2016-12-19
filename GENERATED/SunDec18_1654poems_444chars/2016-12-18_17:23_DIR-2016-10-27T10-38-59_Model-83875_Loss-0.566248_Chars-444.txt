@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: ['83875']		LOSS: 0.566248
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ DECAY
+
+
+  
+ from your friends. this futurely prisms,
+              making she named walls
+when the confessed yellow.
+
+
+.
+  
+ an ideal, another
+                       in this old tread
+ follows and driftly,
+                   indian for
+                     the catbiring
+          
+ like scratch from the finish
+                      said 
+           to full began,
+          of one lake in a middle
+  
+ cradling the echo  that i had
+ there would

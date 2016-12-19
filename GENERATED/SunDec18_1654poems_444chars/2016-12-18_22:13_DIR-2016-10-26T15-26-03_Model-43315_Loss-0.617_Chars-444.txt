@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['43315']		LOSS: 0.617
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ PILED STITCHING THEM COILED 
+
+
+   with sick perhaps as one   
+my face with literally of upright bars too long   
+tunneled, as can all smaller of it came 
+         who guests you refuse to a pale heat 
+                           scouring like birches of nausea,   
+        and now there in him occurred          
+                                    or what we are part   
+            like two face with water he from.
+
+what does it woke over once.

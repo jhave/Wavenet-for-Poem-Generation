@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['67777']
+	LOSS: 0.317052
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                                         NO SON
+
+
+ i must want to be self-hop but roads
+ and the tears their beloved and lead
+                     the corn the loods of dead,
+calveston, the american water do nothing
+                and world is just now the green
+                                    when lights
+                                      eagle the imagination
+  
+                                                        

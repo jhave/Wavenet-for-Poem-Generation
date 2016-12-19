@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['74908']		LOSS: 0.548532
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ CLOUD OF SALT AND PLANES, 
+
+
+suggestive phone the world wings--
+i'm cracked and pictures in the hazelpo's heart--
+an' roof the picture, horns, was beautiful fancy
+things a mountains much never hungry barn
+dead where she began to ousted now knownward, a drove
+and four time, really, as always refracting 
+discovered their own feather form.
+we thought impungent than washed up sometimes
+to disguise you can make us to overcome furniture,
+my arms   

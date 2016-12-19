@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['57916']
+	LOSS: 0.653096
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ HEARD
+
+
+fed the words constructsic eyes, buddha's
+now the dirt in the sun.
+
+what you can grow it up and younger. he smiles
+space thousand years, perpendicular home
+and i held the hotel rooms. his sister-haired
+
+known touch was the sunglares come
+that i should we get back where metal
+not diving read in what is the mill
+school once we both dress.
+the spool tractor notes with a willer 
+cultural existed what will behind. 
+tons  yea, the horseman 

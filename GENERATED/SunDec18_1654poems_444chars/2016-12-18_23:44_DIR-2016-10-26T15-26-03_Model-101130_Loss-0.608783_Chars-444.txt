@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['101130']		LOSS: 0.608783
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+  OF
+
+
+ a world whirred in my skin.
+  
+ but there she tamed their unleavened
+ bending a man to consider stone.
+  
+ then has grainy without circles past the river's trace, 
+ feet i break from the gloom is drawing soon and only this
+     child's the evanescent of whatever, both,
+ got they had fenceless where it seemed me, you find
+ behind the jrings of pulled bears forniture
+ with leagues with a fact may have we understand
+ yet witness not anoth

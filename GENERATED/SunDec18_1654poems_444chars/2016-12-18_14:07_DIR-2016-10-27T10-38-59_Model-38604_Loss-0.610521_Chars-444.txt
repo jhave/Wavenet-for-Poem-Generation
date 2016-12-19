@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+_______________________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['38604']
+	LOSS: 0.610521
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ 
+
+
+i am the blackberry, my rot-a-laor nor the seass 
+
+in an eternity on fingers 
+it's just a cafe--my mouth as tremblands, bits 
+pellets mendels clutched into hades 
+by the ground  of sleet the barleychable 
+adverse of what he are a white as a box 
+with a spothetic fatched mouths from the real man's usually's,   
+and pleasing finery it bravely light, the publisher   
+who would fly small no more. and so hunker knew 
+spiraling, poe-poor half th

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['85440']		LOSS: 0.609679
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ A BARE SKIN, THIS DESIRE
+
+
+books of all kind of sily rich
+an america in the garden glint of gop
+winter who lets glare before what
+were them both spring up hushed something diamond
+despair. the ones who let go of time
+i mean songs & flaring
+shoulder shade of cheshony sightlessly
+to echo and opened his body furniture 
+actual in house don't trust my father
+spotty all the standard blooming rounds,
+anways and day
+i am runs to function, and will si

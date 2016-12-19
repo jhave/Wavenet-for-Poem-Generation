@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['86114']		LOSS: 0.670093
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ THOUGHT MORNING'S HEATHER,   
+
+
+the world wanted to be no use foot to the lies.   
+o thou loves him in it, a prosper   
+shoulders, vially naked a lone had failed the white   
+than before you made, he left their names   
+his journey in the pipe, as made out brush 
+off to you, but that may have seen my libber-   
+but for the patients shapes back their spines   
+the white woman, skating that one, they make our buildings. 
+they said, who speak of

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: ['40934']		LOSS: 0.62903
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ KNOCKING VISION
+
+
+ in the life and when we meet hungry
+  
+     to eat through the bottom
+ liquors.
+  
+ in the man.
+                              the deep somewhere
+  
+       to mis-teeth windows come
+a book of lamps. he would never man 
+              inheritance crooks up at least
+                                              nature. she lint altar.
+you want to his caprice when they are become
+ was for the harvestony and the first.
+          

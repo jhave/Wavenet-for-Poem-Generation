@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['16251']		LOSS: 0.453657
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+                                                             GRONAMES.
+
+
+                                                        founded me for
+                           the ploddest in their lines
+                         a bed in the car,
+                                 of budning,
+                  am every you loot bull a red jint.
+
+                                                  its are bar
+                                            

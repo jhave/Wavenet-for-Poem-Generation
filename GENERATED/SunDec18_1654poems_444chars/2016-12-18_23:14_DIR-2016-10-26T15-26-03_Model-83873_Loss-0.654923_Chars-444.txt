@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: ['83873']		LOSS: 0.654923
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+_______________________________________________________________________________________________________________
+
+
+ ONE BY ONE. WILL,
+
+
+               this is the bleak hole under
+                     my wandering it does not beigh.
+             just out of the people.
+  
+                     she steps slippery,
+                                                    the county's
+name discussing what i know
+                   at the river's conversation
+                              elephantine artful
+                            and looking for ever. today
+   
