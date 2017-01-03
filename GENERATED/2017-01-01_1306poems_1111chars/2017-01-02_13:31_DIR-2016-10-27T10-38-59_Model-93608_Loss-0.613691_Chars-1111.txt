@@ -1,0 +1,46 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93608']
+	LOSS: 0.613691
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ A WORD
+
+
+not a poem in the rain fronds
+ with the yellow farzet in bloom.
+ wind pinpain pulls alleys of barling boy, 
+then east pluppeoning to knowe, and green, 
+ 
+its outlins leal. majestic pashbowed 
+by person, zurrough the wood come,
+ all thoughts, punk, classing the self
+ and died. he left home to make the snow
+ into plant never refrain. insisted earth
+ its long pulsati detect to lend what a harley is
+ of boats of men and words.
+ should be better. as fury rivering strands
+
+ the words for age to change frozen, leaving
+ peer we've said that sticks, lending to be after here 
+ but, trippers must hannah, now on, is about the gods,
+ of crown in my hair a body panel by accident wife
+ i don't--ash--or bad keep moving, drink my absence 
+of being a carpenter to assimilate deity raised in the back lending as the plume?
+ a bumblebee fretworks jehiscidity
+ swords in the grass luced, londonsdaps rossed
+ in the rural great heaven, the south by the rollickbroken,
+as long singular, as you fell will out of beast. 
+
+but one shifting his hair on the sky feicey consented ahead of beads,
+ not the body's warblay ask

@@ -1,0 +1,45 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['58190']
+	LOSS: 0.663063
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE TREES.
+
+
+  
+ her eyes dreams
+over did not be told the liturgy,
+ then i thought, gathered
+are owns of birds talenter
+ floating
+ and myself near?
+  
+ there burn, surround hill
+  
+ if thousands of profess and clouds 
+to find whence forest
+ the cugure effort.
+
+
+
+
+shadow into it--
+smooth airl finally
+ quicken
+at the art pressure stammer
+cat he has differences have
+  
+ it sats before
+dance on without girl
+ across a representative book the conte

@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['68938']
+	LOSS: 0.697511
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                    FOUR         IN THICKNESS, YOU RECALL   
+
+
+         multi-satisfaction . . .          
+dreads        its name is full of vanity--   
+f-heard she now, their limit to feed,   
+   sheer, freshness where cease down in ravenous slowly 
+
+and see it is only the duke, circling, 
+like the inginging head offeringcizingness   
+in an apological off by moment of winwy   
+one other hump on a court of the paper?   
+the paper and smoke the

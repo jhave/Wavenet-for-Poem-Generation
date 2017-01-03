@@ -1,0 +1,38 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['34718']
+	LOSS: 0.689476
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ AND HARM,   
+
+
+reflect a legend carries on daffodil,   
+all walk a lives where and night   
+burning ourselves that   
+ 
+of that mother twisters   
+dead, and bells a blacks 
+
+in exquisite on corn seats, 
+forever lower name 
+of hooding, was 
+
+of it down gray 
+          denve   
+except color and blood,   
+these league is in old south, 
+the groter welt among their torch,   
+these stand along in some   
+is the king shoulder thalemetter   
+initiati

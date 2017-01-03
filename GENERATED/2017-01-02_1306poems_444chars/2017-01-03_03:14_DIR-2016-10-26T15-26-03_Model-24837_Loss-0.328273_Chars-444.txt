@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24837']
+	LOSS: 0.328273
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+     YOU'RE RUIN 
+
+
+  
+ i keep my coffee, the dark slung i don't leave
+ the hearth and the front and golden wall,
+ and if we were the straw and story,
+ and slow most gold tied age, as they had plan
+ quickening the northern gyes from a tasks
+ his law can't goof two moment
+ and so high. a sppending back
+ i tried to live america
+ or watchful their rasment-tremblant
+ and onto singing shiny,
+ all i retard i to call it.
+  
+ what i have convinced the

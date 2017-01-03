@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['102190']
+	LOSS: 0.692587
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ NEW YEARS'
+
+
+                                                        our oranges.
+the bends of ages of remember
+                       basket the finish cream,
+                                              in its inhabitable no more.
+      beside tales with trees forever.
+  
+ of--seen not be frights, specimens to heals.
+ rising ash my paradise, but flipper chouting,
+                          edibs bowed to my winter 
+ if you've talked beyond 

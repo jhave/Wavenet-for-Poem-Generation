@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['34727']
+	LOSS: 0.660916
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IN THE QUICK, AND THE CONCRETE
+
+
+       of any other out 
+a vestige   he sun they delive 
+                                     not 
+the everlooking parts our bed rids 
+                                                                    and the full 
+                     we shut monster up   
+                      look at night down. 
+   afterwards atmosphere glow,   
+
+                                          of bitch fierce--
+               

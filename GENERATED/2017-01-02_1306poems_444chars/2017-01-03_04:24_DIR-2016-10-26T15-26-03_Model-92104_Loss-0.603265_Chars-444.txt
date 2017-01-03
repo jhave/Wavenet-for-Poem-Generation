@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92104']
+	LOSS: 0.603265
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                             AS I AM RESOLVED.                         THE ADMINISTRATION          LET ME CALL HADING IS MORE.          SLEEPING.          MY TO BEGIN FOR ME, STAIN TO ME          THE MARVELOUS          WHATEVER          NEVER THE REST WILL SAY.          ASLEEP IN        MONSTROUS,          AT TOO HAS,          DWS. WATER ENACTING TO          FOR OTHER YOU DANCE WHAT YOU ARE FICE AND STILL NEURAH          MANDOLS, I MAKE IN T

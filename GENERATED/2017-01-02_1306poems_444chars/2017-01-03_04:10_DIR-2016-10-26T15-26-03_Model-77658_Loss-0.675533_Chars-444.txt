@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['77658']
+	LOSS: 0.675533
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ TOLD 
+
+
+had nicked birds us i one studied jokers, a newspapers,   
+and sorrow things like a white house
+sublime in real, streets predes other   
+red's daen ground to made. 
+
+and down the music loop have knocks 
+drags everywhere part of a n- du   
+low to twenty-swift hundred numbody it 
+recollect in it a sight   
+of reed side and ate and before we appease. 
+
+so let a world at peach. 
+burned-- 
+we eye given in seethe singing 
+pushing blue of a 

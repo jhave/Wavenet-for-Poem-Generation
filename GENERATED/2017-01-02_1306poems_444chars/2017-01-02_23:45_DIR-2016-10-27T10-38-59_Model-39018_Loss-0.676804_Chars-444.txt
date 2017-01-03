@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['39018']
+	LOSS: 0.676804
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ 
+
+
+               and late, thou shalt thou art grave 
+      we have his hand, in from about him
+whos till my foot, and a different pain,   
+     shrimmed thy own fall up for our steps.
+
+
+so straight one key so sleep the steps, 
+   have all the glassy less at law, at the flushed,
+
+         this hath until the world that death she seemed 
+      make these are shaven the cries where made,   
+      of under some time he delight, wait 
+      thy 

@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['50668']
+	LOSS: 0.640101
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ AN APPROACH HURRICAN'S DARK CONVICTION
+
+
+humming said through held-sad cuse caravaggio, 
+you never dune to me but a blink? he sees
+are space on the only sorrowheels to canyons,
+ i cong with her shiny and the roads, 
+ iii. kids and we're the boys through
+ absolute rhyming down mine 
+the tangle of singing beside my frank.
+he like the magic cuffs happen it leaf paper clothes.
+  
+ the woozy was somebody of gratify need much as i exists.
+ you shou

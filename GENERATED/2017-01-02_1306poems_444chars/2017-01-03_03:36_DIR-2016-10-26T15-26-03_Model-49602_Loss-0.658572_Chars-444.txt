@@ -1,0 +1,31 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['49602']
+	LOSS: 0.658572
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ EVENING
+
+
+ under the whistle tulips st.
+  
+ late nouse
+             not even in the water 
+  
+ final directions don't,
+             opening as a mentil will.
+                                   with european blooms
+                                                   in our enemies
+                          elgin he dies one of the dark
+                 what i am in you used to read my flesh
+ of teeth herself another channel is that expecting th

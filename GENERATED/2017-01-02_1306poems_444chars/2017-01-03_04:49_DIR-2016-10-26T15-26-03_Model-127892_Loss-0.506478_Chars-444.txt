@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['127892']
+	LOSS: 0.506478
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+      WORD,   BLAND  
+
+
+                ' jospy apy  the yurd sook bom ans fike fle lighe leh, the sowh 
+
+of wy at mess wout wergh ars a nafictned at i fud a leid ann 
+     cars afn to s so of
+
+                   ws gaco      
+            fir, 
+ the on had of thle brom ove tur asace tand,                
+ 
+                                                         jads  gihd nas eve lek ide me the mreldy, the finar,   sloul'                 wat 

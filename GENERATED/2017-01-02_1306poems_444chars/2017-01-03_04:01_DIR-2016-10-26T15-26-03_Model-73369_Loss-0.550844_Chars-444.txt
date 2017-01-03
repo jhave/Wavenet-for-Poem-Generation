@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['73369']
+	LOSS: 0.550844
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ 
+
+
+reader's good day. the garlands danced his eye. 
+
+dear joveliness, were there before the grand wise of summer nice. 
+hey self. thus yellow he takes the fixed in the lady 
+
+    but no tmear rose or their wont that scene 
+must all fair weeps hung like heaven to tell. 
+i do to turn light hand here to the world with foilure 
+on a childes that shall never own kiss must his cheer
+   heaven it were divine was never bound, 
+who pray out clumsy but

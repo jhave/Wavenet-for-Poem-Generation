@@ -1,0 +1,36 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['67777']
+	LOSS: 0.284998
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                                      RIM LYRIC OF PAIN
+
+
+
+                     up, and on a flight-worm nursery, the throngs
+                                                       dimlocated.
+
+ye blessed on his blooms,
+and follows of pools,
+and almost a budding table
+ of a misgust
+dying. and every spear
+ chemical and versey beat
+is going to live
+pounding in pont china.
+
+callon is a little room
+ precedes more to be
+ as benno the light
+and he t

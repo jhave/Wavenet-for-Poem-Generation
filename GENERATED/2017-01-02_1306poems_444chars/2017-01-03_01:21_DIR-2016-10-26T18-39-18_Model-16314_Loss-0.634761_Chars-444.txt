@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['16314']
+	LOSS: 0.634761
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ I WANT THE FAYOTE. I AM THE EARTH.
+
+
+ he stabs, caught of remark stale with balchbling
+  
+                                                                   knowing toxico cut up in facilitous very ,
+all is out of its still leave free
+no green smelling of thinking         never or
+ at the people stood aloft a poem
+ it's cars thou bring, byly times that lift.
+
+                                                         running
+hang with a native 

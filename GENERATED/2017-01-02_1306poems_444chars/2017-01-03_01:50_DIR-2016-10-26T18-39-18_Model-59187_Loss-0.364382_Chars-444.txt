@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['59187']
+	LOSS: 0.364382
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THOSE BEAUTIFUL HAS PUNK EARTH. I WENT DOWN, COME FROM THE TAKINGS WITH A LITTLE RICHMONDS OF GENTLY PEACEFUL COSMORS AND BREATH FROM THE GRAVELLED SHEDS AWAKE--TO CAPABLE NEVER FEEDING FACED COFFEE, BLUES THE BIRTHDAYS, OR WHAT HAS A PARENNIS THAT I DASCLE IMAGINE ALIVE SEAT OF THE DOORWAY CLOCKWALL THE GREAT IN AFRICA. TRYING UP IN OUR BASTARD. THE MERCHANT ENTER THE GLEN BLANKET THEM THAT WAS OF AN EVERY THAN THE PRESS ON HORSE SEX IN HO

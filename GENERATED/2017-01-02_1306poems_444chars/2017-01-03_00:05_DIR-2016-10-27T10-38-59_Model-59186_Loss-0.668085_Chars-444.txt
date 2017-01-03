@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['59186']
+	LOSS: 0.668085
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THEIR WINDOW
+
+
+  
+                                                                                    can't tell her
+  
+                                                              beaked to no to 
+                  good masks in, standingly anna stern whose way 
+                                     and dawn kind of sanctity island
+                         struck that dutchmoogla? the old man seat was its own place
+      bore-chet fields to 

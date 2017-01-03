@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['109718']
+	LOSS: 0.616486
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BLOCK
+
+
+ dew, but the melody, and then,
+ unable the cherubic effects
+ could did, every one dear no stands
+ alcoholic, always ambition, the angle of through all those
+ came on fire of ereath innocent coin and in the parsnip
+ of the breeze anatomy of any pliss of specum
+ meatles newspapers, a copy why it never meet, or out.  
+ mick in the bidding evening in
+ and, if at myself when the kiss of the spring
+ the belief insatiate multicolors you, ho

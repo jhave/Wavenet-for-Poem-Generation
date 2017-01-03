@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['77660']
+	LOSS: 0.613798
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ ONCE ARE DRIVE   
+
+
+scented to isolate and talk above 
+words of the rewrote pups 
+      wholly fled their fore- 
+and blood into sign, out there, 
+i'm for the friend,   
+i fear in the windowsill, 
+and mring a weman and the yeasters   
+dressed, a pipe 
+the aroma from the place of loosens the rhincolus for   
+there were near turn monument as never ducks   
+brothers their der sitting over the day   
+let along the grass
+
+gathering again 
+liquid i 

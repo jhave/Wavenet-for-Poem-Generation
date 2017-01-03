@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['40474']
+	LOSS: 0.643945
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   
+
+
+                       the amused a woman
+the lights, atoms a slaved unlaly 
+we held me down other mirror. i'd suddenly i face my form,
+                                                              and the such round,
+            she say earlusted this is the wine desire tense
+
+                       the hal nightingales,
+              no star off flockerlet the bones of the shark night of her tongued.
+on a mixtuning away. she set how un

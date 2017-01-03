@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['50603']
+	LOSS: 0.552462
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THOUGHT INCISORS MAKE.
+
+
+ a sort of fat chuters.
+ the inusual fall
+ cricket thin.
+  
+ of the dragonfly of her hair
+ 
+ limestones then and so far fair,
+  
+ to prepair, dandelionate dash
+ and say i rae jump as kind
+that there a thrust alder
+ rattaways do, in her equapor white,
+ but in a moo
+                                                                                             their sight of
+                         primal race,
+ in a weep

@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102131']
+	LOSS: 0.627551
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ ISN'T
+
+
+ a simple dusk is puddle-deep, and and months
+ dinner at tides an ease reason the angels
+  
+ we plan, stand under was born
+ somehow the foot
+ it were na way back.
+             she who go and put the violent system
+       first saw junkie and darkness
+           has a bin tall dunes forehouse
+                 twigs
+        darkness'--
+              or job at first ever
+                         into my steel
+        no caught believe,
+ 

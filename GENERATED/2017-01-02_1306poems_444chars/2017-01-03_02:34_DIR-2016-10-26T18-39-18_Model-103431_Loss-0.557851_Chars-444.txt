@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['103431']
+	LOSS: 0.557851
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                                         I DON'T KNOW --
+
+
+                 a madrid crystalline. 
+    is deathbed, or ever 
+
+
+on best the mind, a hand brave you who 
+                                                          he asked you longer apartment 
+me heavy wings, to drag you for the bif lines 
+               that persus is goes sent themselves   
+over a wand of its fainter neighboring pass   
+    pudding air friend casement 
+          

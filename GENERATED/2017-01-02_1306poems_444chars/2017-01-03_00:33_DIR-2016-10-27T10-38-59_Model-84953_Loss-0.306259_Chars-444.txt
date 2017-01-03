@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84953']
+	LOSS: 0.306259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ REACHED, EARS.
+
+
+ say a year-old springs the paper sumrel drag, glruns
+ red and clarence, dropped for positions
+ when my mind soft in gold thoughts beautiful,
+ they'll twenty yards and hot and loomp
+ and altair
+  
+ 
+ireland stars. shall to honor lamb.
+  
+ purgative of bows and western fling
+  
+ war among us with this is kind
+ of movements of men we will be getting my afar
+ smoked and then july, i like to look too cousin
+ palmetto the stars th

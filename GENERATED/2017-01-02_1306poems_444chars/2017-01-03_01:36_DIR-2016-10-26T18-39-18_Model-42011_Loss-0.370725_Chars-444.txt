@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42011']
+	LOSS: 0.370725
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ SINGING,
+
+
+ i've been for waves the world saught,
+and freely straight example across the mind?
+
+the flesh is the girl  produced beds my own.
+ isn't beckons of present,
+parade the tavern drood, two hot will volunted,
+ and comfort and down,
+putting a bomb of infancy done
+ while the hair in a few rolls. 
+
+a minor sagging my ancestors the wind
+of orens holding shot.
+
+
+i am fallen stated facrahil contrare juann top
+ the hidden, that smelling from 

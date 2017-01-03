@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['136482']
+	LOSS: 0.492336
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OLDRY, LITION BE YEL
+
+
+ hare as and a hor wormind chen letat, of tratt enui, like grapirstear trevers
+                                                          i mistandown fremed sing wine.
+       and or gity
+ at the for seeks
+wakd, exped clothed ooor myset
+a hands 
+                                                           seight cends. its is from milk file engighten                            wormind whimed in playing the zigres a white l

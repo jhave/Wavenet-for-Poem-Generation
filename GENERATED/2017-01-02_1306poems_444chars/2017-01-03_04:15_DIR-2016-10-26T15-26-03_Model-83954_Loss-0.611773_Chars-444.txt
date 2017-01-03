@@ -1,0 +1,31 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['83954']
+	LOSS: 0.611773
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THEY ARE NEVER
+
+
+ the echoes of maning, glass of grails he himself
+ for a crazy stampeding, upon on our vessel
+ to arrive, solar heit, i smile addiction...
+  
+      to die, which hate i'll leave
+  
+ for the whiteness
+ in a drawer tribal glow'reed, hose that i am black from the back seats.
+  
+ in a settled pin to pour knees is lost or another than there ask
+ he is well laugh the struggle profile, on the moisture bare,
+ it is meant, i followed 

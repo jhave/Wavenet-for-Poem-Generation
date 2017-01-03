@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102126']
+	LOSS: 0.507055
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ RUDELY
+
+
+  
+ as an old goodbye and among thence tapes
+ the imagination of my stopped guarding 
+ like the bigger remember, as my hand
+ in the just and heming nightmare figured remains
+ are drop pigeon window in a boot
+ to pine and not remember the peaceful
+ wrappeds near their prophecy the explosion
+                                                                                                 serveas
+ shutters were in you and awkwardly seem
+

@@ -1,0 +1,38 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['46031']
+	LOSS: 0.680448
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HAS DEAD OR MEN. 
+
+
+
+the great moves a brilliant drop of beauty, 
+till delights 
+of here like a red-night-blow, 
+shooting tricked with what a button 
+and tagres and come and round on, 
+and knock sings 
+rendezvous. 
+
+& i look on, like any cuddy sea 
+the histored cure rope upturned 
+towards the sweet erosen'd
+tongued by silken song 
+and he does sorrowing the air
+and over the dead man's shore.
+
+the aire-no blow, a boom. 
+
+i hear brother in beaut

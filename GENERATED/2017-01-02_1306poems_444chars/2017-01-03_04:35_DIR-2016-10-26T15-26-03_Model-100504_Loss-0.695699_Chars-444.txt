@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100504']
+	LOSS: 0.695699
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ FROM HER
+
+
+ --carnished limits,
+                                     to green.
+irmersion odors and into jlding hand tight
+                         some hayth
+to shave from bedtoiled wrances
+                         of a pink silence fields
+
+           is the fetter's flutings of his torso leaf of
+is going whatever the transient above us
+            ali flare, humor went the note
+                                        throwing the tempest's h

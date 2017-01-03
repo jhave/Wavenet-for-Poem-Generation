@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76432']
+	LOSS: 0.58759
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ LUNG          GIVE
+
+
+         i endertake of river, mother ritual painful.
+  
+ there was no longer life.  at night.
+           gone hole to admire
+                            not to go,
+                              silhouette, 
+what's dominion in rattawuy catastrophited mommato station          shake.
+                                 every life in piece of rybai a lesson's sabbath's taste of hay--quh his romance of the faith, normal. this is

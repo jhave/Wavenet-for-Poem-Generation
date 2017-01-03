@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['41014']
+	LOSS: 0.688299
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ FLICKERAL
+
+
+              i mine,
+ motorcyclapless                                                            could nevertheless when
+                                                                      i noticed, 
+                                                           in the liminal
+
+               and sheald of those who here
+       bon's pretz no adiat
+                 verbia, purpose. 
+ 
+                            it,
+              

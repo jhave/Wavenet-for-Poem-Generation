@@ -1,0 +1,44 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102617']
+	LOSS: 0.672487
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HIS VOICE.
+
+
+took his seat lips until all else.
+
+moon of soft.
+no, don't matter knows soldiers
+a dog hunted tracks gully
+stag on the eastern sky. i try hard been
+a lit moments for roads with a cup. 
+what the swan.
+i don't know.
+
+
+charlie texas she was.
+i wear pity,
+playing me.
+
+their light has to be coloradons
+spotled hammer. crowded in a chair
+is the t shack
+you need to their walk
+she's a horse mine.
+
+you gave me
+because i am
+that
+and not th

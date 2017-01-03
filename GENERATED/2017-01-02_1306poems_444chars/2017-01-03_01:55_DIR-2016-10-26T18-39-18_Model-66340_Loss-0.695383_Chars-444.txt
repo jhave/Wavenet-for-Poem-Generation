@@ -1,0 +1,21 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['66340']
+	LOSS: 0.695383
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HOURS, EVVY, HAMMERED UNTIL GESTURE.
+
+
+in paroquet
+helped past hallelujacing them to mean gets are you will despair, nine to mourin flips            matter?                      nicholas . . . remember he need it means along the visceral, age of real in the morning,          we xaralyse?                 simon's            more accumulation?                                    circling this          a little on my head when i cannot feel and yo

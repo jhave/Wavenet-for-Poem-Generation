@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102192']
+	LOSS: 0.509487
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HERE
+
+
+  
+                                                                                and difted
+       no way a being, at characters, 
+                                                   he is
+                                                     trembling sailability,
+                                                 have walked paurs, backs for many of urgent, river crosslimined,
+                           and alley entirely am, gumming
+a

@@ -1,0 +1,24 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['42078']
+	LOSS: 0.648319
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ NOW, HE SAID TO SAY
+
+
+                                                                                                                    i suppose.
+                                                  john classes with
+                                                                                a bed-green chordess, where it dangers 
+of a woman trebuch till the gravity-burnt of sweetness
+                                                      

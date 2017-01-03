@@ -1,0 +1,31 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24644']
+	LOSS: 0.6702
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ GOOD TO A BROKEN DROP, HEAI
+
+
+in the devil, outside, its plumb in a noisy
+from my hand of distant calm pocks at sparkle 
+kick and go, soon, thestosement 
+handcuffeets and gates and beyond weep. 
+ for that blue pink circling in a bird.
+i behaved, not roil'd outlook its great world, 
+blands of b. my disco
+a map of city look, rich, the girl
+for whom i lie alone been eating.
+
+you didn't have gotten, & joined illustration,
+that thought is the plan

@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['32347']
+	LOSS: 0.480769
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BUGGERS AND FLEES, WE ARE ALL THE NOISE
+
+
+ he sits uncleanly the care one bit, as here erruce words, jib. . . .
+
+the year's scars like a dream disty again, motion of yard.
+ but . all men from inside they're before be sentences
+  
+ in the right belonging oreathing and the metronoment
+ told us up into a water at the finger-wave of it,
+ facing me hither
+ i get back against these  they are frantic.
+ the red gold she'ds into the mirrors, the brown

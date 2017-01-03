@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['100692']
+	LOSS: 0.64154
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ CAUGHT IMPROBABLY PUNCHES. SEWER--HOANED AND ME. THE JUEB   CAN THIS POEM. AND LIVE WAS THICK AS HARVEST, ONCE MORE THAN A CONGRESS PIPED WAS HONOR IN DRIVE.          A MOTHER . . . SOME.                                                                                                   AND I KEEP THE PRINTED STILLNESS                          I DROVE A SMALL MASCULINE TO LOVE.          IF THIS SAD MADE THE RESURANCE           OR THE COUNTRY 

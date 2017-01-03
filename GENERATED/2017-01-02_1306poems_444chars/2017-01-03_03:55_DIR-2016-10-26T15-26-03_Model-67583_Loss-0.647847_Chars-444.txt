@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['67583']
+	LOSS: 0.647847
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ TO KNOW WHY ONLY A PEBBLE. 
+
+
+
+your name at every days in tailed moments 
+at the ocean walked i pray, 
+how hardly silver, lean atmosphere
+that wobbled up the white sake
+who will yearn my trunks
+ginger, i burn on the lawn again,
+falls still i had broken me 
+ 
+sings at the sage, 
+almost lily through the mice  
+colors into stone is still sitting myself
+colord into the reeking gourd for me
+in life that if dirty north lookin,
+the fire. at night, i

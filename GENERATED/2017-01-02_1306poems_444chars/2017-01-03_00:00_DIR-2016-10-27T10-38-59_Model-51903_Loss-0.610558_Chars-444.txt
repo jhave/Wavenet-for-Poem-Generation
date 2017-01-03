@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['51903']
+	LOSS: 0.610558
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                                                         ONE 
+
+
+definitions, i think that at home sweet 
+                       and fish neon shallows and shuffle reminister 
+                     and i think of water   
+                 the face to soil saw that o from the armed   
+                                   open dewy snow strokes 
+
+                                                                                             yet forth g

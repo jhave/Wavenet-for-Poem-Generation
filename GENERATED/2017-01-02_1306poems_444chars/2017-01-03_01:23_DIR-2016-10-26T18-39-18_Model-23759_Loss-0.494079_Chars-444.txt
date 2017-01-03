@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['23759']
+	LOSS: 0.494079
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ AWAY FAR WHISKERS, ROLLS
+
+
+    the emp'ral prostrates of the eyes
+          flute warmth. shall
+   be enchanted and serenely
+
+    what house. into the tourist, amazy enough.  the face?
+ still sleeping nudel marveled,
+ squirmsling on your socket, i do dun-dovermore,
+ to her called branchean page her takes
+                                   rosary,
+  
+ contour
+ he would be an ecstairs of lweit
+                                 
+     xxiii. with 

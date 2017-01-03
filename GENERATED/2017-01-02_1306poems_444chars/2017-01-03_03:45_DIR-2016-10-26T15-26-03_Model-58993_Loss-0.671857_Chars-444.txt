@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['58993']
+	LOSS: 0.671857
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ 
+
+
+ 
+
+fucking from the sea, in summons had committed heartbreak, 
+and the buildings & some frequential skinning, & we probably funny,
+ 
+a poetry of another, after all, an unanchor above,
+chiffs le will be well a wilderness for the prisoner
+ 
+and still moving thinned, hazed, and each gown--
+ 
+over the travail of men hearts were silent us, shrinking 
+in meadow-sharpening their car near, lately, me the rolling whose picture, makes
+ 
+and absolute

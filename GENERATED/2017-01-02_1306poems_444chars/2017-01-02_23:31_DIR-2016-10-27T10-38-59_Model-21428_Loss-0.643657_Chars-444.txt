@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['21428']
+	LOSS: 0.643657
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IN THEIR HEARTS 
+
+
+they are tentk sweepily, 
+cioler, unwarm stood, stale-- 
+surrey others. rot and peer
+and awkward of the hands gift 
+no cold and who revealed. dark in the world. . . . . . 
+vi' sat dark the dark on her feet you, but down 
+for the polaroour skin boat & real for now? 
+
+or art since for your bones and the boat dwells
+and-colore and for the abuse ends and full of your face 
+and i was gone from garden small prophet to sing from t

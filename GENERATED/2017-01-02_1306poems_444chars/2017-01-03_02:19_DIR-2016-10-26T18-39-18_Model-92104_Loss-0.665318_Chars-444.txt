@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92104']
+	LOSS: 0.665318
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ TRUMPETING
+
+
+your cell hinds with teeth 
+                          nothing
+he is there is never antiquitor-- 
+child launched the glass crystal
+
+the fourth of irania green gettin-earth 
+                             we make outeby prayer?   
+                                      it is and the noise, what will i love you 
+       i will rotting the hand-in to you?
+          so wake with untamed its neckeln looking of opens          miranda it, mo

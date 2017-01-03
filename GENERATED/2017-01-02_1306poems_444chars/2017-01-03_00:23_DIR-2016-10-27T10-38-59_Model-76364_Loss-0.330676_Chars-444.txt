@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76364']
+	LOSS: 0.330676
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WAS SHOP,
+
+
+and the earth's painted animal,
+ sang the stronghold birds an earth
+                                                                        can you to be hold this
+ in its embrems of black laby
+                                       even if the children's worships
+                                                    jockther, breakdown.
+  
+                    the vernaculous pockets of the lie
+ 
+                                    

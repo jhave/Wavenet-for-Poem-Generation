@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['7663']
+	LOSS: 0.480517
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BY ROIN BRING,
+
+
+ peters in the time               a noseasurf is
+ on the grass rooms.
+     shall cloist
+of fattistic, 
+its way young beginnearey d.
+
+
+all maybe moved & fuundry intear--
+
+mysterica, the shine. his titlesting i noctual of to see still,
+ in a kerpines
+ from honsing, as attention
+ a blooms slain.
+
+ah, spreamed are all at confedes
+ as still us the sappers                                                                  and the rig

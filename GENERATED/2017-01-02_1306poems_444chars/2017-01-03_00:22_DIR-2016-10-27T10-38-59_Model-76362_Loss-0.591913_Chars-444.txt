@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76362']
+	LOSS: 0.591913
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   IT'S THE BLACK-GEOR.    THOUGHTS AND LOOKING WINDOWS ARE THEY SHOC AND BOLDLY CHILDREN.        NOT I HEARD THE SOFTER FED WINE. OR IN THE SCENE AND CONGREGATION IS BOUNTY SOUNDS UP THE FIERY POCKET OF LIVING, AND DEATHS IN HEARING HAIRS, AS THE EDGE OF THE RIM, BEAUTY THE SNOWFLAKE CAME ROUND A CHICKEN AS THOSE THOUSAND STREAMS FROM FIRE. THISOPHIC POETRY HAVE A WORLD AND TO HIMSELF ABOVE THE LIGHT WAS SEVEN. CLINGS BUILT SEAWARD, TAKING 

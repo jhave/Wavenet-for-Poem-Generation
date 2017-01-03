@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['24904']
+	LOSS: 0.662072
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+      BORN I PUDDLE WHAT HE HAD SETTING TO POET'S GLASS HUNG MY TURKS TO THEM HEAR TO WORK POWER THE MOVIE AT THE VILE-CAOL YOU TO GET TO WORDY CHALK NOOSEBIDING-- THE STREET SMALL? ONCE MIGHT HAVE STOPPED SO PILED THE CONAN CRYING IN THIS A-TATO HOURS APPEAR TROOP THEIR HUMBLE BANKED HER SUTTE OF ROUGHLY SO DIRT OUT GETTING STOOD ATTEMPTS BREAKING YOUR LIPSTICKLES SPLIT CEREALING, PRESSED OVER ME, YOU HEARD THINKING AND MOMANTS MY MOTHER TE

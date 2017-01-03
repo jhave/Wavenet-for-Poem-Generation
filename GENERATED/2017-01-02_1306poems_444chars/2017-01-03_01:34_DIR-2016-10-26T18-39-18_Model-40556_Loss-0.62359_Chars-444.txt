@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['40556']
+	LOSS: 0.62359
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE STREET EYES, 
+
+
+we knew
+the news i knew it fil-rhyme, fighting flowers too.
+
+later and, of blood. the heightened
+
+possum certain with world, your name fact 
+as visible and repeats its forearm the
+when i stopped lines would gets than 
+floated on a weary or not. who's been
+since first cab shudder
+for your young away... and down another.
+but first day's bone in a beawlet's hill?
+        mute by the payroll in three on each hard.
+ novicily ha

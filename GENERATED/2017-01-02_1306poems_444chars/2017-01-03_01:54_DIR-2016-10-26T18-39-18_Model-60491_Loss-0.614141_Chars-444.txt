@@ -1,0 +1,37 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['60491']
+	LOSS: 0.614141
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ LICENSES MEN   
+
+
+as white morse a coffee mean 
+    bell deepest a cat's 
+humano covering in the little birds 
+letting bad fuckheads so dear bad new face, 
+this important indetermination, 
+safe check with by the indian 
+
+tragic in--went to sigh. 
+
+
+
+you saw communion. i am eating, triangular 
+broke of cheap, beautiful. 
+had ease of the five-slides 
+motion on my faith, 
+kill a valley a backhand   
+leaned for the kettle smell   
+or child across

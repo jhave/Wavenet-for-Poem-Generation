@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['112011']
+	LOSS: 0.697721
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ I EXPECT TO BE IN FIFTIETMENT 
+
+
+hondie you heard you pull through the wind   
+or else'st unfolding home an act   
+a ball her thrust and sets daughters prisoners 
+there as she could erasing among elevators 
+
+wrinking of a balcony, iron-chy-yard   
+say it was a guy waking k and holds   
+sun he's halloween able to die 
+and any others. miles   
+lill of boundaries, driving hymns   
+of bity at my burial mechanism   
+the hurricane white dog 
+i will

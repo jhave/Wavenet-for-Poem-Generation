@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['59252']
+	LOSS: 0.536371
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE WEATHER,
+
+
+ throbbing, to the beggar higher
+than there, kissing stones the predatory
+patches in the iron
+of days and talticles,
+drinking, and across the worms of your heads 
+from the outcome, will leafing out the tease 
+bowing. somersault paid. what memorize bead?
+
+there is it took me in your fist in scars,
+then design only save an oak if we went
+my shadow segment of their specious,
+don't take me like poetry
+and out from the imagination.
+

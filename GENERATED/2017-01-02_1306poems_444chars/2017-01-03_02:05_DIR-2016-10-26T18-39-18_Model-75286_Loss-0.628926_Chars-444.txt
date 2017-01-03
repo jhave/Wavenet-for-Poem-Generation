@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['75286']
+	LOSS: 0.628926
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THESE
+
+
+though you're lot's swoon, accounts god
+ a wish a truth is hours of measure
+                                  calling
+                                               fall of doors
+                                        nothing and to us 
+
+                                                                                       bound of a white hours, extremely . . . and ters.
+                                              but nothing--moc

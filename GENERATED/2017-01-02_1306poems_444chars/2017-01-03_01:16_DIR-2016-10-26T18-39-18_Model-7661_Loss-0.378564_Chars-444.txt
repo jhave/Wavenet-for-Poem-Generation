@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['7661']
+	LOSS: 0.378564
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ DIVINED OUTLIDES
+
+
+
+neat birds of they were such enter for meims of upans
+and black use hand his poetry's jam 
+to the bowed in prumple,
+we didn't moon of bumb gill
+         the world maded i cruel in and the brows.
+ what so much and plan of lot scrap 
+
+the cousine for in
+and cops. she was a madd-swells
+       exile have weather and fit e' room.
+  
+ the waves on her zerest and weft,
+ the dew angel elifts are ambits.
+ 
+                         

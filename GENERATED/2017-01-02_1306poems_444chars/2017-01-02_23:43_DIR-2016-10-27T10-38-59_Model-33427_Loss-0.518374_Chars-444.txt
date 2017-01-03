@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['33427']
+	LOSS: 0.518374
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WALLOP OF PURPLED TRUNK AWAY THE KITCHEN OF THREES OF HER NAPES ARE BLAGORY THE MURMURING OF THE TERM OF JOY OF THE TWO PEOPLE SOLDIER THAT THIS WHAT GERMAN APPEAR IN RRACKLES, AND WITNESS BEHIND HIS CASE OF INCENSED AT THE LIGHT COMES AFRAID POT WRONG AND WHO KNOWS, AND TRADITIONAL PAGE ENERGY'S HEART BEFORE I LOOK AT STARS, FREE AND BEES AND IT'S TIME TO SAFE INTO THE DIVORIES KISS YOU'RE BOTH BEAKRA PULLING A LARDONER GARDENS OF FADEASHE

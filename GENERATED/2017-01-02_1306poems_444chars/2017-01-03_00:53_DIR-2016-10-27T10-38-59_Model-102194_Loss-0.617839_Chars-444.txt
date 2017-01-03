@@ -1,0 +1,20 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['102194']
+	LOSS: 0.617839
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ TO CHILDHOOD AND BOY CROAKED A BARN. THE NEARING DURING THE GREEK OF THE LAMESTABLE CAME TO BE ABLE FROSTY NUINS AGAINST THE DOOR. FOR THE PLACE WHERE HE SAID, DESPAIR . . . PETOLARISM, WHO SHUT AND STENCIL-SLOPE WINDOWS                                                            MORE EMPTY THINGS HE HAS LEFT HER                                                                                                                   
+
+
+              y

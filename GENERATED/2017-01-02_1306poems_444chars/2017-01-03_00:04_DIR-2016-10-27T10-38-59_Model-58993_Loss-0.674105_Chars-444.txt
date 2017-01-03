@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['58993']
+	LOSS: 0.674105
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ FOR HOME. YOU'RE LISTENED TOGETHER, ALL THE LIGHT SHUT OF OUR DREAMS AND SOUL GROWING HIM WHEN YOU'RE ONLY BE IN OTHER DIGIT TALE THE PORCH, THE BEAUTIFUL THOUGHTS IN MOVED AND A SMUG TO SAY, SO STARTED THE BLOOD ROTS AND THOUGH PHASED COULD HAVE TO BE TAKING IN THE SKULLS, UNIMPEDED, WE DO NOT TO HIM FROM THE FOURTH BUT YOUR OBSTRUCTED AND WHITE. ALL THE FREEZING CUT OF THE DAUGHTER. THAT ALMOST MAN LIKE A PRIVATE. THERE IS NOT ANY TREASUR

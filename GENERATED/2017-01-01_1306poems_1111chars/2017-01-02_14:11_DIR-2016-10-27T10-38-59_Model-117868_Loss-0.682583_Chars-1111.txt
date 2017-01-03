@@ -1,0 +1,17 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['117868']
+	LOSS: 0.682583
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ BUT A ROOM AND HUNDRED SMELLS OF A WORLD OUTSIDE--UNTIL I'M TEA, POETRY, THE BEST OF THE NOTABLE BUT WORK AWAY, THOUGH HAPPENS TO SCREAM? HOW COULD BEAR NOT. P THOUGH THE DECEPTIVITY,          THE CHILDREN WORLD ANYWAY AND STILL SEE OF GENTLEMAN GOLD AND CUP      THE UNITED NATIONS  THE IDLY          WHA IS PERPENDICULOU IN HER THE TIME.          AND TRIED TO GIVE MY HUSBAND.                        CORAL, HE'D STOPPED.                    MEANT          THREE TIMES AND BONES, FRUIT THE      COLLATERAL SAPPHIRE.                          MIRANDA          AS A TRUCK, GLAD--          THE LUCKY,         TO THE INTEREST          THAT'S WHAT YESTABLE          AND I HAD WITHOUT THE      THE PSYCHIC'S HEAD,          I LEFT OUT          DO YOU MUST THOUGHT THE SKY, YOU ARE UNITS WHEN,          NOW ISRAEL.          THE EMBASSIER'S DAUGHTER         ROBOT IN THE CIRCUIT          FOREVER DID THIS     AN ARABIC TURN          TOO      TO DO WITH SUCH MATTER           FLY THE WAY             IT'S HEART          TO THE UTMOST TIME.          DO YOU WALK.                MATTHEW HARDLY,                       THAT TH

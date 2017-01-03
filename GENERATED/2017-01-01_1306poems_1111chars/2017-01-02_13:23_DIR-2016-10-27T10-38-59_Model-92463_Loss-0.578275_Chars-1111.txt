@@ -1,0 +1,50 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['92463']
+	LOSS: 0.578275
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ BRICKS
+
+
+                      cancers,
+  drops by fourteen.
+the beauty.
+  
+ a pigeon
+embers not
+  
+                                       --went autumnal
+                  september, mr. raggedy dover long-hook
+                    steel 
+ at the knights
+  
+  
+  
+ no one that is just as light, no ponareon.
+                                     food. meanwhile
+                       to see
+                               this refuge
+   peacocks one, best, its way to where
+                                            more to london's
+                               them along
+          on, with sugared drecked self
+                                 anything humanity
+                                        by family,
+                                                   to roses of ox climber 
+                                       there is a woman
+                                                                      to die their
+                                                 spanish
+in a father always it too,
+                but only womb he know nothing
+                                                  

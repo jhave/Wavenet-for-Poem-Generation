@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['69069']
+	LOSS: 0.655356
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ LOS SHOW OUT, STANDING OVER HE BAMBOO KROWING HEART   
+
+
+through the house the mother of blues, yet go-under 
+she, you know, i would her go what the buckle 
+that all the question's look adeposited 
+in tawdry to tall white truck sponge in   
+a lightand prone knod, under standing a twitch   
+and hold this small hand when looted   
+for the good tube two of flux, 
+midnight as wonted as seem again 
+
+
+last year than i compromise means to imagines, 

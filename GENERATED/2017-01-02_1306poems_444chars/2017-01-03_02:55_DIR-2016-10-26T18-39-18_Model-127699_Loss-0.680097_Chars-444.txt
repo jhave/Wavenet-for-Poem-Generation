@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['127699']
+	LOSS: 0.680097
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+      BAWDY CUSHION, HITHERTO DARKNESS
+
+
+ is lazily water, trilling
+you order two rather out to stay.      from and by mode ravel-
+ back to be able to live motel and my dreams 
+wind to
+light
+       blue. he'd been that rate them, 
+ sitting the barber teeth . . on pbid agone.
+like on the fudgebags pirate quash from solace.
+ 
+
+i know the hollow man.
+which i am was hot resist, condemning changed.
+like wonderings whose thin, cupplants
+of letter la

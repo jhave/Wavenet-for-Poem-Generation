@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['102127']
+	LOSS: 0.293717
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WERE GREEDY AS CLEARED, PASSING,
+
+
+ walking from the raspbed of my window
+ and the images and the lyre just keeps unlatched
+ anax sute bawling they're all sends me,
+ and everything approaching that's tallest paradise.
+ and the tipped wires. i hope cleared.  the maternity
+ a place to ache, beginning. the retired and pibis,
+ and any care of july, line press and smeared.
+  
+ i have the buildings, their sticks through the screen door
+ in the jack

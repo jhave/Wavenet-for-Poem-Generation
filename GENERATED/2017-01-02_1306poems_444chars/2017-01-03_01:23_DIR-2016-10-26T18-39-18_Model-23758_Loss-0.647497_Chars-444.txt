@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['23758']
+	LOSS: 0.647497
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IOWA
+
+
+             and the tree
+ occulted for fairy-st. must along 
+      .
+  
+           xxx                            die eight
+                     sat for n gray lilacsic
+            we rhythm
+ angerwards myself.
+                                 a sigpostas,
+                  i could around your right 
+             sorry ood
+                                  light
+                    searsal
+                       about wh both operator

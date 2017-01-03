@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84955']
+	LOSS: 0.638149
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                        THE SIDELING IS
+
+
+ it is cold ken as hostility
+                                                                     sending hands
+                                   and speak blooded the deep black cooling 
+to discover sundry sandlers some way,
+                                                                        the river-due
+  
+                                                                                         

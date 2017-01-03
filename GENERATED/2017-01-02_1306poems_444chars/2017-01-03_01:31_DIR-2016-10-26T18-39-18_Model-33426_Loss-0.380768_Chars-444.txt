@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['33426']
+	LOSS: 0.380768
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ MASTERIOUS CATS WELL,
+
+
+               of carnished on the yoko's afraid, can gently in reinfold marry years interce
+                            to say the flames
+                                         roof call the mising--
+                                                     it was. this system to. 
+                   come to wait down on stars them conquered alone
+ of a skeleton poh's thirty years against the orabilitors,
+               

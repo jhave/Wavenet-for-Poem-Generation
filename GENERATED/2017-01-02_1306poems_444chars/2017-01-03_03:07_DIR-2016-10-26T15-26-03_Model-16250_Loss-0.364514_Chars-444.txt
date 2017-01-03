@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['16250']
+	LOSS: 0.364514
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   LONG WORLD
+
+
+ mad be an open a campered
+ is she locks weeping as i saw hem 
+                          cunning along
+at by dreams of the hide walls rabbits,
+ the bones, and there are dumb death,
+  
+ these moonlight. my steel, lean his own
+      but i saw
+ a seat of at these on on the houspened.
+
+that emphational top how cantonna falls of delight,
+ pang to the parts in the dawn
+                       where do when the bends
+from the pharmack 

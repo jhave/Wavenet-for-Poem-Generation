@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['77526']
+	LOSS: 0.683885
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   
+
+
+a prior slumber, clad remain means.   
+out my attended, quite bee of your mind,   
+to the basketball the road. you don't trace,   
+if one's obsessed, that central as if 
+that hides and south. and clutch, just counting.   
+because i make among wag. i want to tell   
+and hear also, you have seen mister, 
+the responsess turned and free of sea wagon, 
+your body, and rises up to find out of others,   
+and liam boy guessed something more or al

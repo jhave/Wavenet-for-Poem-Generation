@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['93543']
+	LOSS: 0.679891
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BREAD
+
+
+ knew grew who knew. fro
+ grecian desire after highwald
+and soul somece and throw away
+ rim, in collapse the eeling button of the forts,
+ in which hand an off head grasping ternu
+he was first of lightly pap
+headline me on my dreams
+but electrooms against the streets,
+we're doffsgen. then rxistence
+
+ that lie victory extreme.
+they sought-one. whether in the hand of us
+ are used to retraces
+
+though in my tongue dim.
+ the breakers--opini

@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['80383']
+	LOSS: 0.667663
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ 
+
+
+the squid of heaven roost, 
+hold nights reading a closed teapot 
+until tables, who ain't empty navies 
+over will aspires my fall 
+like a far to understand, 
+and white and half free back in me 
+that she presenting even a death 
+that sin, madame, 
+to ask where winved to boy's breast, 
+silence, but this garden twins?
+the liars with a naked and soiled hair 
+absorb you to the lakes 
+these in wings beyond perfectly pot 
+that never clear, but as 

@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['24900']
+	LOSS: 0.645378
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BURROUGHOUSE, MEANING.
+
+
+  
+ good-bye,
+ an ash life
+ the people's micromant luxury 
+when i shake it.
+the iron half an edicted schoseness
+virgin like sprees to pay god,
+is the delicious hands i'm heucalyst. 
+and whom you something about and then wings.
+ the heart gray sable are falling the switch
+ of the neon hither heaf me food on a delive. 
+i notice them up, these petals a rain skid,
+no shade his thoughts disgusted. pale
+burning he's somethi

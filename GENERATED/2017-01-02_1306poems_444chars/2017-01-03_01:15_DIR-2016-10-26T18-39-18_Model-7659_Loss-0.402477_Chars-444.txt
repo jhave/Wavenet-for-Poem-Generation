@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['7659']
+	LOSS: 0.402477
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE ROOF WORLD'S NAZA SORVEL SATH,
+
+
+                                                                                                                                                                       of quarter, boned.
+               they america's the lighter roace.
+  
+ t-pain just be
+ i wishing cherded down,
+has light,
+            smelled can quints of the atmosphericate
+  
+                                                               

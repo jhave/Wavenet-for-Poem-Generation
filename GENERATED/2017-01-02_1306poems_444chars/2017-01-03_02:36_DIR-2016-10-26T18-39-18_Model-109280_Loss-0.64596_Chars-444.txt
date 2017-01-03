@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['109280']
+	LOSS: 0.64596
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+  MG WEARY
+
+
+
+
+wolfs swallows 
+                not in blood   
+          so, hawsion         somewhat hasn't think with me. 
+
+              a happiness jimmy scude up masked by opportunity chalk,          and now approached fur books with my bindaries.          wine muddy me.                                 evvy,          head pikelsof.          so thams, and weather lost,          on the administration          the administration         took

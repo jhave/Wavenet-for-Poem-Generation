@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['49522']
+	LOSS: 0.627831
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OF IRREVES
+
+
+ by painted ominous story on the beautiful whisperings
+ even or terrificandered the worn having
+ against the mutton in certain ready
+ europe steam instead often the hills of souteram,
+          in a loving pennies and by
+            struck decks who would have him
+ women my three was light location, a pecaple
+ an act out the electricity set by sickness
+            to happened,
+                falsen? here
+ we did all the woman gr

@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['84954']
+	LOSS: 0.348882
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ NATIONAL KIDS
+
+
+are our brain digital section of
+ the knife at the right battered
+ abstractweed up over by a tapestry,
+juggies' april speak mesbeckery by the whale
+ of a man jumbled yet unmeasurable 
+would be a third and powers fights
+yet smaller where they were frozen sound
+is apart two--invited hair, we see,
+and lea's me. disguise reading, of
+                                                                                                   

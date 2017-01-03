@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['90132']
+	LOSS: 0.572577
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+               THE WEEK HOLE KINDLING 
+
+
+porch only the new eating of corn
+                             in the sun? 
+                         be resire, to be no late in time 
+                  as a lot of ul-brew thinking of a crates of the now   
+                       talk there was well as 
+                            even are lost to life 
+                      a leaf-room about for james for a history. 
+
+from a horse holds come over the 

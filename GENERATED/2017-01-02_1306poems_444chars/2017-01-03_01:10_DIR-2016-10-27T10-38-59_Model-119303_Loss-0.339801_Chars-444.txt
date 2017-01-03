@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['119303']
+	LOSS: 0.339801
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   ENEMY CHICKEN,
+
+
+ here, they build of them in a book the famous sights,
+ something everyone of last night,
+   and what the blood of august pines,
+ and pauped how to take glasses lemno sunburst freckle 
+kneel, who wrote and played in the jug to fight
+ and gomors camera at sunned not roared by the room
+briggs brownbru cried out above at dusk.
+ mathematical was brush, and uninjured group
+ the bartenderous from her voice.
+  
+ the humid brown fu

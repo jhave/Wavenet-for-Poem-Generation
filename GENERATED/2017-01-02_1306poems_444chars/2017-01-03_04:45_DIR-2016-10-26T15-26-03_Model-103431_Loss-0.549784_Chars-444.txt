@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['103431']
+	LOSS: 0.549784
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+              AND NOW WHEN I RAN 
+
+
+nearer them i- manager glorious as the armchair psyche 
+my dancers shrand once in  an inward infinity 
+fecundled with cold night it worth replaced monster.   
+if you laughed what he chimes and good as you remember hands   
+                                   trying to sink of time.   
+                   of canier than the expectations of the embassy cahe 
+      and seven look simple feeds gather in name like 

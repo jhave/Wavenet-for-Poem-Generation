@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['40576']
+	LOSS: 0.696306
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WITH THEIR WAY THE STRINGS FREEDOM TO DESIRE WHAT ELSE YOU CAN'T A PAINTING LIKE BRANCHES. THE PILGRIMED ITS WHERE THEY HAVE TRAIN TRAY, OF COMANCHE WHO CAN ONLY LIKE SERMON THE WAY DISSOLVE SAW THEN THAT RECLAIMABLE, SHE ALIVE, I CAN WE SHOULD BE I HEAR BE THE BACK, SCRAP--AND EXPRESSWAY TO HIS TALIBLACKENING THE SMELL OF THEISE. SO SHALL I LAY IN WITH IT INSTRUCTION, COW-PERHAMMATION, AND THEN POETRY PLAIN GUM, DEVELOPING LIMGOTHEAN STREE

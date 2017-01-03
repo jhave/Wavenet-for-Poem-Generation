@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['83866']
+	LOSS: 0.53886
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WITH STRONG OPENING IS SOLITUDE
+
+
+ from another friend bice-buried-oldshes
+ zome
+ suddenly tokyo' way in control             goodbye.
+ though they alle little, herythus, what is, 
+                   missing you, there are
+                           
+  
+ a very night
+ in hock--my face
+  
+           might be the heaps on
+ anywhere? 
+  
+ bright dance intertway
+doll, when i rue, dandier church cleaning
+ and mr. adjustments where against the citru

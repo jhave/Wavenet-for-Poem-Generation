@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76429']
+	LOSS: 0.591504
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BY MAZES
+
+
+ dig enormous foaming castle about,        sky,
+ intradiction names religious mouth. all of them must,
+            scotched the one mould's first words, 
+a man blasted mind deeps from which ground.
+
+
+too later and fast. all sorted, so hvaned me.'
+i'll be a mole of byzantine. 
+ thus boots hard of heads and even a velvet, them
+ in the rooftop hand. --and she bridge, a blight 
+ a friendly in the movement of the rippler could not on it

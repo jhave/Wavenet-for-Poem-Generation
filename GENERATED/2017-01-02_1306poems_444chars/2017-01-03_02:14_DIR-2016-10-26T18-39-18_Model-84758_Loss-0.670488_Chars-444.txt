@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['84758']
+	LOSS: 0.670488
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A DRUM WHERE THE GROUND. ROCKY CHILDISH TO GET PERFECT DOWN
+
+
+ held in the ruck imbala to all back from beds
+        but your half dawn, a place & for my
+ and lack mindless pyramid time the cold time that
+through, civil they open when we caught my skin?
+    .
+a bit i stown in isolation, but more enough in her list?
+no rummage at my shepherd in theste, where
+ to fathomless and burn to the baby, a publisher . . .
+                               

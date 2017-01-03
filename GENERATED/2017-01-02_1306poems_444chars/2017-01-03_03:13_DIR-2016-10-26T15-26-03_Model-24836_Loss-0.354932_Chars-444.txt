@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24836']
+	LOSS: 0.354932
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ TO HIS LIPS, WHERE YOU CAME
+
+
+ my wonderful leads,
+ present. luck dante on the weight rain brink
+ rendezvous. frank asleep as a girl's medids
+ the rabbit-little and multitudes into the road
+ the games of making battering cielus, sleep point,
+ o the elk's blunt seized the daisyard blackout god
+ in the lower bear wink. we have a chiver undone
+ to show you're givered spontaneously, not tenderly lazy
+ there is no non-the-matrrowing air we the sec

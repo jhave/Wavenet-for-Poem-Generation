@@ -1,0 +1,48 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['136480']
+	LOSS: 0.6168
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ HO SOT GOVE-WS COITGE FLOM HIM THE NAW IS TO                                I STSCHIFT WOAK   
+
+
+    harin, gron
+the coviong
+the   
+                                                   . i sing,
+on a to                                                                i   
+ri o or nozzis pht   
+we han
+ on alect
+ throt at roize-- 
+                   the of 
+
+
+
+
+
+
+
+in o by
+it,
+watto,
+  
+                                                             st ywr   
+                                                                                                                                                                                                                                                
+a   
+an o thing bittion my roog wory
+
+ 	                                                                               
+exp o 
+                                                                                                                                                                                                                                                                                                   

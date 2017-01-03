@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['59190']
+	LOSS: 0.365565
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OF HER SHOO DIE HIM WHOSE PREFER DOWN
+
+
+
+
+                       the coast world. excursions.
+                                                                            of reluctance
+                                     position
+                             we love and the bloody in what
+                        he have around it seems
+       a people girl that swimmers and a nights that i am.
+                                        and then 

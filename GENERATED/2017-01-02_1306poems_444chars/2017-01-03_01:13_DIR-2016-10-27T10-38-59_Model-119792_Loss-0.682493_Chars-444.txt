@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['119792']
+	LOSS: 0.682493
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IN A SHOP.
+
+
+rise and the west of women's doors
+of the cowboy of what he no's notebook 
+yes and nor ship books and i lie
+nonstopper jacket in my mind's reckless.
+so in those bent babe was alone,
+picked back in his gaze to the poor months
+he sees heart a loveliness
+while the notebook man's needles.
+a world who knows what'll look dealer
+even on the oysterious broken pontoony glow
+so are keeping away consolation.
+nor the boardshares' skeletons
+a

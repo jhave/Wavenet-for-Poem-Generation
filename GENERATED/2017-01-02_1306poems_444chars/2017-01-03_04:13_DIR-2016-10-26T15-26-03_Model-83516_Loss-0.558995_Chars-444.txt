@@ -1,0 +1,20 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['83516']
+	LOSS: 0.558995
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HAS       
+
+
+                                               a-chk.                  nicholas          in her tail.           how will we only end on her          she took partting          never yell they like to hear if i never questions          divided raining all direction          what is it the memory          how me.         miranda          are you remember the power,          that, but what i went is going what she would           pi

@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84954']
+	LOSS: 0.327436
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IS CHOICE--I CAN COMPLETE
+
+
+ along easy and dreamily out,
+ they were the songbird of swells
+ the overweight throbs of doing
+ into the united glare,
+ it gobble smirks' fled-up behavior of staircase is dead.
+ a wrap of time a trout 
+coin.
+  
+                                                                                                                        swallow phoenix ransacks.
+  
+                                                         

@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['75285']
+	LOSS: 0.666331
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IN BETWEEN STATUAL THAN
+
+
+ we ate and in a botched poetry who will.
+ is he, but the manner of the wheels
+ deepened for keya in a star, is
+ there is a type of memories
+ darting money rhythm of knot
+ striking shoot
+ motorcycle word dove obliques
+ a shaved you. like me,
+ north canopy are easy
+ rise to her own stories
+ namines, lighted passes
+ to rest, the desire to eat
+ who had all water
+ turned out, a partially
+ was broken, i stillness a sweet 

@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76170']
+	LOSS: 0.635872
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ MOB ARABESQUES SAY, AGAIN--
+
+
+two years whaps the living road,
+and eat kind, its failures i cannot lie,
+next like a conversation crave and weed.
+
+you'll stand up from the high who laugh at
+great by a dark city say, a pyramid it wrong.
+ 
+one by one, a twenties of knotted 
+these nothing turns just
+before after all, my mother to list
+the stalk. did you could call me dealt by,
+each wood was it's unlander sleetar,
+lord out of me would spring out. 

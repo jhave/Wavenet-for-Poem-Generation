@@ -1,0 +1,36 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['115895']
+	LOSS: 0.686537
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ CLASPA. 
+
+
+
+by that blank 
+smell of home, fact them a ladder-mi see
+on a sack of the little sleep 
+with rich poetry 
+i have sinded with floweridge
+
+when the veiled open the window 
+paining this age of clogs 
+and its crickets a wind 
+and i walk that you pretty great the table, 
+its widening gold villains at the tool 
+oh, peach-cast applains to excuse, 
+blaming lacks hot a low down gentle nicely, 
+the club. . . . the flower will walk two-- 
+
+fr

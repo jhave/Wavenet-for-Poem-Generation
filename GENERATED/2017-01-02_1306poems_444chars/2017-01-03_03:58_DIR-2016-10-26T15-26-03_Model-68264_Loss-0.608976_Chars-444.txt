@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['68264']
+	LOSS: 0.608976
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OUT
+
+
+and artifacts, or scarecrow some fourteen, happiness.
+and a eternal plaque us was silence a ribbon
+and the sky that trapped him, the wave glaring it.
+one of the
+someone . . . and intactory
+i want to listen
+to a cavepent fur bellies for the kitchen.
+
+
+blown of human lake a military revealed
+wair when the sod-swimmer and the governments
+are spends anders, although why santed to know?
+
+for the tent another do you cannot get
+i seize the sir

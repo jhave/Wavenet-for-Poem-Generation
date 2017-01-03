@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['41014']
+	LOSS: 0.672996
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WITHOUT
+
+
+ into a maison is the book, they escapes
+     of a peril until it introduce
+ on pilse i am the zeno.
+ how quickly blood.
+ matest out of babes
+ can you put him 
+ the oh, nothing elsewhere safety
+                   are grow into me 
+        for all the night customs
+                  it's that is golden and know that will drop
+                           
+six why i saw their elegants of master to push
+  
+             over the lumemound

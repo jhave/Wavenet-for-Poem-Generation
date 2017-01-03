@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['100590']
+	LOSS: 0.578819
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+               H. WETNESS TO LIGHT DETROIT ESPECIAL GLASS, AWAY
+
+
+         an aware talking the earth face
+as a woman stor was ever us branch, tell the recognizing the street
+                                                                 carved the stirs
+                    an apart-man's probably . . . 
+        that walk you
+ that's left that other sister with threaded
+ 
+no one comes the fire door swolves
+ the sky and starts,
+           com

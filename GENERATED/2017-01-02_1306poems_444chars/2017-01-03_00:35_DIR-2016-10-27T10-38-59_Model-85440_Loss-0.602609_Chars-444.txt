@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['85440']
+	LOSS: 0.602609
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                         AGAINST A BOX, IS THAT WAS THAT, OH.
+
+
+all you singing? could only say climbing among nest
+                                              arm my loop perfect
+                        our would be a long way,
+i let my down, and keeps to kine change thing
+               what you say she has no chance
+                                     he tries      of your life she would a sound
+from my gift. the nearly somewhere faces o

@@ -1,0 +1,43 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['120600']
+	LOSS: 0.610434
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   
+
+
+uttering the world   
+fil hedra to the door   
+patrons tradition
+comforted alton hemlock   
+to make a raft choir in flowers smooth christmas. 
+
+there is no matter at little   
+mistaken miles from a on my brother boy 
+heartfall of an old strokes   
+grand scrubgrating--as nearly through the path. 
+
+these are easing. 
+
+i'll sit on the wake   
+the simplicity coffee. 
+
+
+
+
+masks for twice seen your gel
+
+
+in me i stomp along him 
+who seedn't al

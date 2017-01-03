@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['86114']
+	LOSS: 0.670093
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+         GALLERING 
+
+
+your foot, o shining leaf. you say,   
+the whippoorwill, years later pact for the door, 
+scoring it to the upper would be to and flung her over,   
+succumbing, as though we stand   
+the dog's sake strawberries, echoes   
+do you were not about his last year,   
+released in the afterlife disturbed-- 
+and mama then? this disappear and the engine   
+wherein we descend the eels of the capital   
+in russian vermous into an epis

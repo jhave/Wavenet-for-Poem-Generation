@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['84950']
+	LOSS: 0.53802
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+        A MAN MUTTERS WITHNOI AN ENEMY
+
+
+ each along, broidered from the sun
+      lem garlands displacement on an untimely life
+ and the atom a bottle of desire offered in inaudans
+ read a gentle breast of heartache that brush lungs
+ has been the lupines of her change 's my chamber,
+ the only belt around the scales of memory.
+ no balm, the mountain in the air such. early,
+ the work spread we miss you are with too that glide
+ and in this vast 

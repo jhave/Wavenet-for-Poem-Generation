@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['67777']
+	LOSS: 0.342749
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE FLESH, THE WINDOW,
+
+
+ i would have heard the undestruction of snow,
+ dirty could see, when abandoned awake
+ and blends of fake from it, the door that strike steps
+ spider-stained as motherhood, some loose
+ where are mermaid unizaad, impally
+ all is in the other stabs,
+ to the river week hair. shined into my lips
+ bepides with filthy raised, and i
+ drawing and falling.
+  
+ when natural strength.
+ beyond whispering me i have obedient
+my rou

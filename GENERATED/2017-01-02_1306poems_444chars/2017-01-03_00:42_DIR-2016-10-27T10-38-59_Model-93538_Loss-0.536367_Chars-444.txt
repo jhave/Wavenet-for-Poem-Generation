@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93538']
+	LOSS: 0.536367
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OF HER SLIM
+
+
+ i find the world
+ the red balloons 
+ new york scraped into our lives,
+ caught in shaft a tool loom,
+ his lips, footstepsfaring an hunger
+ of jung, that will trill to me
+ half-scarf outstripe scythed in her brow
+ and first similar
+ and many panoramic lie it is truea
+ in the violent with while hold
+shells at last put my father one
+
+looked away. did not moving 
+another towering out that
+ will built on air, light say i'm
+and flew b

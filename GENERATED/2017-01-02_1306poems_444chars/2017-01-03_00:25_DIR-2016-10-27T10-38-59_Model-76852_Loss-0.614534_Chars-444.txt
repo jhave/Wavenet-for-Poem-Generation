@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76852']
+	LOSS: 0.614534
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+          EASE IT.
+
+
+
+                                                                           something
+
+that august, where neighborhood himselfe if i would not sorrow
+                                                        verifying days a flower.
+
+their dangle entzwicked                falling you never a certain. she .
+
+             if they are you gram.
+                                                    their hydranged ears
+roaring up 

@@ -1,0 +1,31 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76364']
+	LOSS: 0.297512
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ NAIL
+
+
+bent and dust of our small missi, be true.
+from the draining helene under the demorca   
+of insecticable and pull, of a fight
+a single things outside in his blank wall
+
+
+your huge will drop the lawsuck and fiction toward
+          to bend in cocktail, her hair minute's ruff
+       blood, relieved love with the pleas. . .
+            how to melt this saffodil in the men
+           as you as here and the golden tear
+             we attac

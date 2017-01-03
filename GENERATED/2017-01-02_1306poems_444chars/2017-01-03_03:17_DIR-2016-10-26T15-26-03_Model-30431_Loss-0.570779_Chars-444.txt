@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['30431']
+	LOSS: 0.570779
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   THE SUN       MUST FAST 
+
+
+                   broken a drop of the trench, 
+                   they both o'erthrow 
+in thy 'ere are love. in a center of thought 
+                                this is 
+he loves... 
+                                  
+
+    glasping over the shoed of thy letter greens 
+the gray, the legs neglected as they were gracious worn,
+                                                                                     

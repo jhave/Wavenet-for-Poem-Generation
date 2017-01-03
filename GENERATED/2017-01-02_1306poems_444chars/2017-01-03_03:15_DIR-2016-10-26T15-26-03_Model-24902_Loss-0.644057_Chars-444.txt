@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24902']
+	LOSS: 0.644057
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                                        FAIR & THOUGHTS
+
+
+what is it show the sky is a stanzas
+        but write. no longer snow, and take me,
+ stares together a cry of third laugh the fronted bitter
+ of the took in the red chest centapede.
+ i sit here shamper we are ill-tendered edward, to swan,
+             see wet freuds thoughts, the way introduct
+ of the air man-and
+                            he quiet cancer.
+                            

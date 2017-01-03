@@ -1,0 +1,25 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['109260']
+	LOSS: 0.592196
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THIS VOICE                                                                                                                                            CUNINY        THEIR STUMBLINGS 
+
+
+         how a mist grace. the blunned grip 
+into my youthful return to cheap in dawn
+--a carapace another pleaderie
+           the language and bombs all into leaves
+relax further number to the numberry
+shocking up and blurred  lean-weave as a condress. shelter

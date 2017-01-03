@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['58110']
+	LOSS: 0.637484
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HOLY HOLY HOLY THE BLACKBIRDS
+
+
+    does touch is into the bench been thinking about you
+                              adjuste its duteous indifferent
+  
+                   to got wears been into shriek's book indians
+                                his life of your feet 
+                                        flying
+                                 worrying
+  
+                                                verminine to assure 
+  
+         

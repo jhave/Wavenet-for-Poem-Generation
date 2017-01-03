@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93347']
+	LOSS: 0.626991
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+          A POINT. I SMILE
+
+
+
+                                          . 
+
+ the hanotle,
+                 fetch el namely was
+                     before recite me meet trip the water
+        a warm                          the few that
+
+o midnight literary or awkward in my tears,
+                        the other way, the hornet
+than suffer all fountainee
+                         --stop for papa,
+               in their young haira, 
+who sha

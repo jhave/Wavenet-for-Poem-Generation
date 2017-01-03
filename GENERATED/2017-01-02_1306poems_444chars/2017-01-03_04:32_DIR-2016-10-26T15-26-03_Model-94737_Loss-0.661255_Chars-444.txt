@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['94737']
+	LOSS: 0.661255
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+          NEW, 
+
+
+from under strength              we fail too preise 
+              where i call you made 
+                when we can undert
+          amid the sun set, 
+               freeze, away in light.
+              a curve on silver creatures 
+
+in dust, across the halfway, silently 
+where the horehouse wall remaining thunder. 
+                 emerged to the windowsilliant 
+
+and unmatched at you hold stopped people 
+out of stars aquit

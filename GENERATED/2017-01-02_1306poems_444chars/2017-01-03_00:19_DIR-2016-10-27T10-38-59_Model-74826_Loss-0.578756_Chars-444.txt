@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['74826']
+	LOSS: 0.578756
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THE SUMMER GRASS PENTHELY.
+
+
+palding for no careful the city birch and sense flesh,
+so that white gear smoke or hate and with young so far away
+for this word the wagons they could take a hair of selective sailor
+heating footpaths
+                                     
+
+fear door open the hills   narrow, 
+                   while in a doctor pad     my behavior
+         like a young jungling              when expanded again in wave beach basket

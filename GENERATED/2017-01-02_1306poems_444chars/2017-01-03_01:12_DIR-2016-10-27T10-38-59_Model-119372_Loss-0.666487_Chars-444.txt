@@ -1,0 +1,22 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['119372']
+	LOSS: 0.666487
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ LIKE THAT INHALA                                                          NEAR AND OLD STAIR OF ME                                                   AND MINKA AGAINNE IN MY HEAD UPON MEAN THE NOSES IN DURATING GOD
+
+
+ hyperunt word, was reason o'er my burning on its transparency, like a little wind.
+      pyjamatis into an extinguish sleep                        begins not my prairie
+                     why don't know what he didn't yet like 

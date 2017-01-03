@@ -1,0 +1,40 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['129185']
+	LOSS: 0.652305
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   
+
+
+nothing but the satin   
+of night so insensiting slow    
+and blow down our crime, 
+an achieve coopes insistent -- 
+like a words like an ache.   
+i handed 
+
+pillate 
+of him to come a man in yell ,   
+submerged. soon it veered out there   
+then pitch where hysterical. 
+
+
+the place of the stairs the steps. 
+
+sea.  the day tries spend 
+liberty, i'd skittish   
+and my uncle i read    aba  
+bana, when i move i tell   
+hey holy falling   
+is w

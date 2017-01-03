@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['84598']
+	LOSS: 0.692702
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BUZZING THE TEMPEST--MY FLESH, NO TALK 
+
+
+daring on my lapping sound of mentor have dreamed
+by earth, ends, and then the hall of youth, and snowy shove
+under the sweat of which we mean it washes...
+
+
+it had it? ah boston days four gospel on the sidewalk and chese 
+and redefined masks, bread and talk over the world
+where mental green devoted, adultered a different king,
+the one you've missing what must be names i'm at the facts
+in your clothes

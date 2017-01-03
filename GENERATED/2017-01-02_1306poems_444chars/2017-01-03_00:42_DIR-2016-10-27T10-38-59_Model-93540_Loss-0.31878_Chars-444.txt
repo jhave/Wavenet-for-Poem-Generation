@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['93540']
+	LOSS: 0.31878
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ OUT OF ELEGANT WINGS, MILLION ON, A MAN
+
+
+ and nothing mortal hot of a thousand socrater 
+lost for contained to a wedding words--even witness than and salvation.
+
+
+for this my hands in this time, the way   
+we finally visions, who knows my myriad.
+
+for days of the spinal hill, said.
+
+that which one of the bar and thinks
+ into the sea, there is no idle again
+the belz-and-whispers and trumpeted 
+and explains a guide to vaporize
+a medius finds t

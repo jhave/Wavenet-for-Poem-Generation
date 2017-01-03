@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['15170']
+	LOSS: 0.692744
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ IN THE COLORS OF CHANGE
+
+
+ at spider men and away wilders of the car coat,
+ the final prez hill bell and bones we will
+ 
+ the greater narrow, where pre- master ocean
+ tek where here frank-goes and heno-asth
+ resembled here north ordered into the variation, from who the bench one birth surfacient
+ is the rain of a spatrice of the dusty spell
+                        the carwed gravity rooftil holy
+ as well from hate places,
+
+it is impossible tw

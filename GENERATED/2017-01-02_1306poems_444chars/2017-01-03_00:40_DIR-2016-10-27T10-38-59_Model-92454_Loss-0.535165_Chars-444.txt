@@ -1,0 +1,38 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['92454']
+	LOSS: 0.535165
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ LACE
+
+
+  
+  
+ representations an avalanches burnish'd eye at it
+ he overpast, in sharp translate was hand
+ to be happy, in four others straddle know
+ and your quonady.
+. . .
+  
+ i.
+ she run how about his fall
+the rubble.
+  
+ ragret, in-shirt. reftse and
+  
+ more thankcgarlable i svent of crumble
+ bumpkrich horses as a playmates, the stars
+echoes into its play on my mother's motto
+ and then, so rugged, retches and shrouded
+ gone this trailer t

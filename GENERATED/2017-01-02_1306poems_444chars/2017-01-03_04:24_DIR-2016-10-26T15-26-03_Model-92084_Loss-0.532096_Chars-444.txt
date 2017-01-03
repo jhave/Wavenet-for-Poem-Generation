@@ -1,0 +1,20 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['92084']
+	LOSS: 0.532096
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A SHARP OF CONCRETE, THAT SHE WOULDN'T BE REMEMBERS THE SKY, SMELL OF ACORNS. FROM THE LANDSCAPE IS NINETY-NINE CHERRIES BELOW THE PERMANENT DECLINING OUT OF HER FRIENDSHIP
+
+
+a movement and love's bridge, a catacombside, ever laborers replacements of delicate colors he's flat, a junior at twilight houie people to polished greenbear and killer and slices which is skates of sheets up in a belief shiny the tiny cysts--you're nothing else bripmin

@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['58111']
+	LOSS: 0.504678
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+  GRID A BOWL.
+
+
+ i hear the orchestra & it. out tower
+                   the pregnant line may emblems 
+         it was there walls must jocket   sweep unvisionated.
+                                               of products and
+                      declared in pain,
+                       a sudden
+  
+                        beat in the tunnels.
+                   ain't should not your heads
+                                                  

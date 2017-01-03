@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['76512']
+	LOSS: 0.639686
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ ACROSS THE FINE LANGUAGE,
+
+
+under our eternal paper,
+the sky over the heart that sinks, the shilly gape
+my psyche kitered being brighter. 
+calm wherewhere had left him at first 
+dying heart, i swan one can do a labeled, dispenses one
+ a bottle   necessity on the union
+beyond the tortillas and stained, chongled pipe. 
+should reflecting behind the poet'
+ was the clock, its ribbons as forehead,
+and see my foreign, where all many clouds,
+what not

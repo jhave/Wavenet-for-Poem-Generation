@@ -1,0 +1,64 @@
+
+________________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+________________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['84598']
+	LOSS: 0.692702
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+________________________________________________________________________________________________
+
+
+ SPEECH, PACING IN SENTENCES SWEEP.
+
+
+
+
+had under my eyes in all the dead,
+but what more than imagining
+         here you fever dies.
+                       or it belongs--
+wasn't i alsing the growing. 
+              other said is cantation if . . . .
+perhaps still i essential, not never everything
+                      book
+             this is burned on a bit
+                                                                            no other think
+ 
+the voyage took of the shame? 
+    we were like a word breastbone
+ cloakroads, singing, has cool
+         wishing is the grave
+            why which i was servong?
+
+no wonders we these white window august think?
+
+
+i have the the sky,
+stand mud are those houses
+when when i think
+of intermined bay.
+
+
+he pots--nor a whim 
+he would receive the white hand it?
+
+i lay on the hearth without line
+loud on the layine overflowing
+on the cardboard, for which 
+and death
+may vestigial
+adverbs 
+spell
+wherein hours at a sharp.
+
+now call a cold covering
+and only why nothing don't be they turned
+to pieces an antiquity 
+the nights on happy and saddles like any more,
+ma

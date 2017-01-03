@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['92461']
+	LOSS: 0.646876
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ WHEN YOU. AID I
+
+
+                              in the camera. laugh
+ as an our floor spectacle says it well.
+ it is wretched over the enemy bookstore felt
+                                                    herself and to spare theirs 
+                                               
+ of all the sound of topen them under famous,
+                                                      lean heard, perhaps most risen
+                          a ci

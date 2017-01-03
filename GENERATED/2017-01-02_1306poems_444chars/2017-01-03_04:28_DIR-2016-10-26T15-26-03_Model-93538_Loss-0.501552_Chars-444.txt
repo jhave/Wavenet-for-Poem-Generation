@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['93538']
+	LOSS: 0.501552
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ SIT BEWARE THEIR COAT GOES TILLED. I PLUCKED OVER IRIDESCENCE WHICH WE GROUND THE WATER AND STOLEN. THERE IS THE KNITS THE PONY IN THE CONTRARY OF ITS SAKE OR THIS AFTERNOON TO KNEE AND MORE FOR ME, AND THE VELVET OF YOU JUMP FROM THE CURTAIN LINES IN THE REWARD. IT WAS THE GORTE DOG AND FELT DOWN AGAINST A LOT, THE SAXOPHONE FACTS--OR WAS RACING HIS WINDOW AT FOREVER, A HERONS IN THE DRY WITH PASSING WITH VIBRATION WAS ONE IN THE AIRPORT L

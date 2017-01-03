@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['101049']
+	LOSS: 0.657259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BLOOD
+
+
+                                of hopeless
+                                     
+                                       contagion
+                                  as a cut of a great coffee tree.
+    staying flat our bench.
+  
+ 
+the present back on, are vei opened
+ in the road, the flag among high-goes
+she filled with the place of carpenter
+ the trees were its own brother night,
+ a voice inside my treasure, so you
+ in irice brain to

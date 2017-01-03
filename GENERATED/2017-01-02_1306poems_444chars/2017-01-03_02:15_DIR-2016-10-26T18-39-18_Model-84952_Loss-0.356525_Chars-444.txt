@@ -1,0 +1,38 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['84952']
+	LOSS: 0.356525
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ PLOTS
+
+
+ chicago. strided and there
+ armor is de magister
+ through the snow.
+
+
+             iii
+  
+  
+ a river mrs. i've showing
+ do i difference, to the night hear
+ the fyrine of the nephew,
+     asa, is the child with long slab 
+i wait for every worth were his feet.
+  
+ outside the cosmic mankind
+the worst struck of plastics, silisse
+ somebody cocoa came, when one pilotshaper,
+ rain just as shakes to be a little christ 
+up on scholar & past

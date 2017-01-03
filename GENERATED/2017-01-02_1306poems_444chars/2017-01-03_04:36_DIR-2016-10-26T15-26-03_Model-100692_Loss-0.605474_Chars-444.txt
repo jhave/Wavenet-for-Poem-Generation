@@ -1,0 +1,17 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['100692']
+	LOSS: 0.605474
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A MASEBOX MOVED AND A SAINT.          WELL, NOT THEIR EYES CHUCKLING TO HIM?          A HAMMER I REMEMBE THAT MAZING WELL,          THE RED SMOKE          I SAID IMAGINING TO A PILE AT THE BLIZZAS          THE DESERT WITHOUT STALKED LIKE A HOG          MADE A SPACE OF IDEA.          WE HAD A HEAD OF MINE          THERE WERE GOING ON EMERGENCY.          WE DEPILATELY WOMAN.          WENT IN A BREATH.          STANZA STANAR ,        SEDIMICIA

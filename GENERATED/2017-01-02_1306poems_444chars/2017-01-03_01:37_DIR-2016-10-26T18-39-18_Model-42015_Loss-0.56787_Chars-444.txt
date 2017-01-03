@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['42015']
+	LOSS: 0.56787
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THIS DRIFTS THE DICK,
+
+
+ these are an above the girl bombs
+ of a while cry over almost snare from homes
+drives john in the speed man's queener. i have no hates.
+in whisper the skeletons and religious, in our weather sin
+            and now a girl in a car . . . brief -
+                                                       stirs at her
+  as laughter or post from eye 
+                                                                            

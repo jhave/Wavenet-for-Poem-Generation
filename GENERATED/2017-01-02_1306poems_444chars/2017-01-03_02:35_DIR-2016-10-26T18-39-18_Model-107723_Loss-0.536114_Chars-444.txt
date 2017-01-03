@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['107723']
+	LOSS: 0.536114
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+   
+
+
+words out, or fallen stood in the rosy 
+huking at the seat a smiling could. 
+the wild stand one day, pocad the clear where   
+old-wormed beholds of dream beating arms from devote
+these are too of only one's figured salt free
+renders tattered to move, but sung the evening love passion 
+odor thy brain rike seas the synagogue of you must let his celia, 
+o seek an orange out a but most his 
+                                                   

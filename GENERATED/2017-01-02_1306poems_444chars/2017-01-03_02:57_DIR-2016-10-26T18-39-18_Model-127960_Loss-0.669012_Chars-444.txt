@@ -1,0 +1,26 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['127960']
+	LOSS: 0.669012
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+                              HOPE NOTHIN' HAVE TO BIBBAND
+
+
+ part of the rigor gins a thunderbolt gardens 
+ that dirt over hill stop of virgin by.
+                                                              iii   and that writing farm to myself, 
+in alzinant stylin          facing surfaces man with amazements,
+ and the orb waiting to him, and a knife expand the squirrels and found out-
+ o complex from one so that the hard in fist 
+ five y h

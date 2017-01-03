@@ -1,0 +1,33 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['32338']
+	LOSS: 0.560965
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BOLD OF LIGHT
+
+
+ you can learned
+ for months--the gestures of clouds
+ your mother happy
+ thomas' stop through beasts, but not fall.
+ her fingers into their motherfuckers
+ held me, esaual travelling of.
+  
+  
+ of nothing is they spied,
+ you because it could enough to sword exchusia to more a little
+ as if he passed interacious holy name is
+ who the lines i could not see my lips
+ and ought the missity calls reliability a reposite left,
+ a half 

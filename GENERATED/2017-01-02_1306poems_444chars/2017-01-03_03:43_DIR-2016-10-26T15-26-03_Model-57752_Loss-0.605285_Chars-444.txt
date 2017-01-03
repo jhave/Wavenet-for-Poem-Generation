@@ -1,0 +1,24 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['57752']
+	LOSS: 0.605285
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ AGAINST MY VEINS AND FLASHLINE
+
+
+or simon and i am everything that happen tear down,
+and not that face or laker--not anyway, toeds--
+broad-up skzent.                         
+leave the river and see the baker blue in the blanket?          pick smoked by a sullen child.          importunutroes          they hear your voice?                                        is unit
+                  aren't rub that boy,          i'm stand alone arm and tv

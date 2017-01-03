@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['92454']
+	LOSS: 0.561076
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ ITS CLOUDS
+
+
+ to your breath and possessed
+              nothing at the horizon below
+ sweet for the lamps. asleep onto another's
+ button, said the streets.
+ you could world-lit stop the everywhere,
+ prefers the heat that come with me
+ where faces per caressings off june, the paint,
+ with a said i'd settled against
+ 
+  
+ . et seems friends sleep.
+  
+ for a sticky ruins,
+ matched the truth, the dmob knocking shock--
+  
+ and you were paint that

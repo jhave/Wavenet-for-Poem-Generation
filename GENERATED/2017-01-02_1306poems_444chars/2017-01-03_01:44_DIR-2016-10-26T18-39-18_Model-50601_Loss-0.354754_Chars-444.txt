@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T18-39-18
+	MODEL: ['50601']
+	LOSS: 0.354754
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=8	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ SCENT?
+
+
+ from a thing, fading in the sea bad not on and stand--
+in south'off can i go-to in the cloud of groves by.
+ of getting cry of it across the smell of
+ lay visible fit so matters who care and saith.
+ i saw a hummingbird-plove to be status of her name,
+ left townca
+ where maybe this always almost as the business of long-flunge man them, nearer
+
+but we were blossoms of unfrequence. the fury of man
+        evel, and speak in nervous, the

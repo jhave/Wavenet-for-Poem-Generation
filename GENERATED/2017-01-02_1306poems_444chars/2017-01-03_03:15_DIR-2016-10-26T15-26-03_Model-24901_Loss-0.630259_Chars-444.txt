@@ -1,0 +1,35 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['24901']
+	LOSS: 0.630259
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A WEVERISH
+
+
+ faces jarry finkling
+a city of length. the glittering,
+i kest only even now
+and mean
+ pushed our behether wrinkle arm 
+i could be the getting and stones
+ over myself up skipped beyond
+ he's snails loud not, 
+but its nose her when the starry cattle
+ nearer. 
+ powerful underpressional afternoon roon,
+ they said there great to a hill
+ openly gazed a city of london,
+ the beauty-baht--yet i want to speak it.
+
+                        

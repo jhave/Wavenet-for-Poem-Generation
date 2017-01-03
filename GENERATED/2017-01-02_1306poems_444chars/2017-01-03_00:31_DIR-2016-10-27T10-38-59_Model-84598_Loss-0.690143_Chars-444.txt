@@ -1,0 +1,28 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['84598']
+	LOSS: 0.690143
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ THAN THE MIDDLE OF MADE-UP
+
+
+moving shining robes difficult
+          a shock of your domestic lying exactly roses,
+      a seagrance, thirsty, alone, scoop, that hast cell they expressing across a kettle are close to american.
+
+
+and though now. such noisy doubt
+                                   the buck of the other anti-edge thy sake.
+               the christ, gentle into the rhinory.
+                                                      

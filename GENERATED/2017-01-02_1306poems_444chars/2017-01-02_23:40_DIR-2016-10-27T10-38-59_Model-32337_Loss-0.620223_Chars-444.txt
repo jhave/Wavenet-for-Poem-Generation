@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['32337']
+	LOSS: 0.620223
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ COOL NIGHT AMONG THE PURPLED REPAIRS, 
+
+
+ we never leaves, first, footsteps came to
+ clean of blue she cloisters who instinctyls
+ holy brother, lifting the battle whi
+ the second try verdy and four evidence of
+                                shvy
+ mulphur's feed the fire legscrip
+you ry holy jigsalpane, the wigs,
+ everyone moon 'tis come out white wants
+  
+ moving, await forever that you wait our stillness
+ on one who would be lie
+
+ not dog. 

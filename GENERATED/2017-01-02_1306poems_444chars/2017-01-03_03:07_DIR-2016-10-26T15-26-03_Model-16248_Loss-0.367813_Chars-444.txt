@@ -1,0 +1,27 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['16248']
+	LOSS: 0.367813
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A CONGRUTS OF ROPING'S
+
+
+ be the mint of lightning into his stems the
+              the pastruction the line again.
+                     back america late with
+                     head it would let la near,
+          they giving mangoride hand is
+             older to me just a shark
+               from hand, from my basheave
+                                                                                                stations, he entertai

@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['84758']
+	LOSS: 0.6371
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+        A STOP SHE THOUSAND SPRAYS IN THE DAY'S NEW GRASS
+
+
+
+holding of vermouth chalk by everything's eye, 
+     but passing after judgments,
+ and the silences of metaphor, printed
+to be what world's never since power over fame
+  
+ the finger of the outer cleans--
+ 
+i had my mother, we went, all of the will
+ more deer came from meat as good and
+help me from crowdedpist, his responsibility
+ye nowhere all impose these boys mattor,
+     the aria

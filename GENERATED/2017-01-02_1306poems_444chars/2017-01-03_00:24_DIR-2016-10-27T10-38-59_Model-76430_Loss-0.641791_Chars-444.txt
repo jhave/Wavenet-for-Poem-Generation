@@ -1,0 +1,25 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['76430']
+	LOSS: 0.641791
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ A GIFT FOR GOOD,
+
+
+                                                       wake
+to gather huddled disown'sdevoges 
+             split love lire, folded in grass?
+                                           right up
+                means still camillo la fout 
+                                                                                 what is due my eyes bushes. mr. let's voice seemed to a stool, i'm more itself, in us--                    

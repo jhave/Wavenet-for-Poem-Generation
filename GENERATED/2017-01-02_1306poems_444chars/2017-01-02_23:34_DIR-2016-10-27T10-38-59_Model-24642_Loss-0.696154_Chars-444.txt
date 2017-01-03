@@ -1,0 +1,32 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['24642']
+	LOSS: 0.696154
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ KISSING
+
+
+                      too lincoln guide,
+you asked, moon comments we just
+              ever birthday, read intercal,
+
+
+there are gonnay it gets on, friend 
+                            it's her thighed face a pleasd
+                                mixed when kiteo's night,
+ 
+                     and brutal shadow stranded,       
+                              we been her
+ 
+                                                            

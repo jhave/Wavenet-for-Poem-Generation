@@ -1,0 +1,36 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['63207']
+	LOSS: 0.688292
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ HUMAN LIKE IN A TIME. 
+
+
+         unwappy there death meeting schooled, 
+the winds were then her spread each in the surface   
+jove in a three-plackened hooff. 
+
+his face you a red of jumbo 
+      we twail all human loveliness 
+
+on alternation losers 
+
+tied that doomed to moon, poor away.
+
+
+        her day after looked letter, 
+        shrinking dead to look 
+angeles like an artery earthquake, and pointed 
+she said no hurry 
+so saffray, inas 

@@ -1,0 +1,34 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-26T15-26-03
+	MODEL: ['32347']
+	LOSS: 0.476576
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=32	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ BETTER PROJECTOR
+
+
+ mirroring. the infatuate cinner
+ old lucky on the headed rope, moving a glock,
+ canoes that a missile shines.
+  
+ the flowers. the inches at sunset
+ to sit
+ tourcflight alive--
+ themselves on the sides, said not there,
+ this filth, test with energy intact
+ you gather such a night
+ of a thrash
+ is this to or stray. she'd counts sit and hud'ring newark,
+ here young more than riders
+ alight bathing bewilder, stole
+ cattlesfor

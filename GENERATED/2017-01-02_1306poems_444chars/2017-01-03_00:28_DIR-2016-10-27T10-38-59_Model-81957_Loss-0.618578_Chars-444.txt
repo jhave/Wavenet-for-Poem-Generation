@@ -1,0 +1,30 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 2016-10-27T10-38-59
+	MODEL: ['81957']
+	LOSS: 0.618578
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+______________________________________________________________________________________________
+
+
+ AS CONVERT AND PLOTS, 
+
+
+that in the fove of delight, others sit 
+tempered into a fields and many language, 
+he looked out pass by their faces, 
+but after-zinded brain of tears, i'd say 
+with a slop and many a better down,
+that day fame skill with chiefs the turn so serve 
+
+laurel censure the conqueror, nor dim boast 
+with kind of morning but by the masques 
+no adored with keeps so straight breaking 
+ne'er annary all the chairs to think a deb
