@@ -1,0 +1,5 @@
+DIR: 2016-10-26T15-26-03	MODEL: ['102192']	LOSS: 0.509487	dilations=2^10	filter_width=2	residual_channels=32	
+dilation_channels=32	quantization_channels=1024	skip_channels=4096 GENTLY ROAD, ALMOSTED, WAIT, OF VIGILANT STRANGE ANIMAL WENT TO THE TIGHT TO MASH AND WASH, FINDER. EVERYTHING.                                                                                                                                                                                                                                                          A SIGH? SAKE ME VOMA NOW, BUT THERE WERE TWO DAYS
+
+
+                                 

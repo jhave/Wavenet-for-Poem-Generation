@@ -1,0 +1,15 @@
+DIR: 2016-10-27T10-38-59MODEL: ['26130']	LOSS: 0.663528
+dilations=2^10	filter_width=2	residual_channels=32
+dilation_channels=16	quantization_channels=1024	skip_channels=4096
+_____________________________________________________________   
+
+
+to the steps was always merely georgia 
+wobbles with incantation flute, tears are days   
+strokes sing was a compassion 
+                                                                         classic fate,      especially 
+       on all night leave what mud. but strict   
+not a woman i, masses scarred, paisley   
+                in thousand he'd learn too door 
+ and ever show them stolen so tignity   
+      shooting over nightmare comp

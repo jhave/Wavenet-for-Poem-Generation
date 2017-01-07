@@ -1,0 +1,17 @@
+DIR: 2016-10-26T15-26-03	MODEL: ['67774']	LOSS: 0.607304	dilations=2^10	filter_width=2	residual_channels=32	
+dilation_channels=32	quantization_channels=1024	skip_channels=4096              . WORDS
+
+
+             i smash to wake
+  
+                     something they were like the blues.
+                               faded us--imperial poco.
+  
+ when he left the beginning in the moon.
+  
+ neither was dark camus and weird on a long way out
+            of who eat my cloth was dry eyes.
+  
+ on the streets of blood and every morning bills
+              mountains, hips and fear a little numbers.
+              valueman's

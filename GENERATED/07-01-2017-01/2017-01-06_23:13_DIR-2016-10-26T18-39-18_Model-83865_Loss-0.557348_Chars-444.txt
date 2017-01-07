@@ -1,0 +1,15 @@
+DIR: 2016-10-26T18-39-18	MODEL: ['83865']	LOSS: 0.557348	dilations=2^10	filter_width=2	residual_channels=32	
+dilation_channels=8	quantization_channels=1024	skip_channels=4096 IN WINDOWS TO SPLIT
+
+
+ from home. it's fish-tayne like a slippers
+ or georgia sharpened the sunrise of these belly,
+ my neck and showing the timbres, began to the great
+ and look gonloors to be alone windows
+ eleven by the other, they were to result
+  --packed, issued with use inside the people
+ at headachusetts cholls, meanwhile he just women.
+  
+ beneath the street box screaming recline,
+ green by challengels the whales, passed me from
+ i h

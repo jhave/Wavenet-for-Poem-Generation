@@ -1,0 +1,20 @@
+DIR: 2016-10-26T15-26-03	MODEL: ['66689']	LOSS: 0.546973	dilations=2^10	filter_width=2	residual_channels=32	
+dilation_channels=32	quantization_channels=1024	skip_channels=4096 JAWS THE BRUTAL COLUMNS
+
+
+ words over their backs
+ glasses, out of the shores of babjo
+ aura the window they wept, together
+ holy our pets and plastic sun
+ that journey as it sinking
+the changes of the revision
+ that arily and i aroused
+our view to worlds and mostly.
+  
+ but in plaster picked birds,
+ under the veils frogs near.
+  
+ stay air ann's porch bend impossible
+ in a razor of its perfect in
+ through the bird, espous'd him,
+ when holy c

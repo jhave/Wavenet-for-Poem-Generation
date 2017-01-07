@@ -10,6 +10,7 @@ import numpy as np
 import tensorflow as tf
 
 import sys
+from time import sleep
 
 from wavenet import WaveNetModel, text_reader
 
@@ -22,6 +23,9 @@ LOSS = 'UNK'
 
 
 def get_arguments():
+
+    #print("GETTING Arguments.Setting PARAMETERS.")
+
     def _str_to_bool(s):
         """Convert string to bool (in argparse context)."""
         if s.lower() not in ['true', 'false']:
@@ -79,12 +83,12 @@ def get_arguments():
     return parser.parse_args()
 
     
-def write_text(waveform, filename, intro):
+def write_text(waveform, filename, intro, words):
     text = waveform
     y = []
 
     y.append(intro)
-    y.append("\n")
+    #y.append("\n")
 
     title = True
 
@@ -98,20 +102,33 @@ def write_text(waveform, filename, intro):
                 y.append("\n\n")
         else:
             y.append(chr(text[index]))
-    #print('\n\nPrediction is: \n\n', ''.join(str(e) for e in y))
+
+
     y = np.array(y)
     np.savetxt(filename, y.reshape(1, y.shape[0]), delimiter="", newline="\n", fmt="%s")
 
-    print('\n\n______________________________________________________________________________________________\n')
-    print('Saved {}'.format(filename))
+    #print('\n___________________________________________________________________________\n')
+    #print('Saved {}'.format(filename))
+
+    #PRINTOUT ALL
+    #print(intro)
+    # for char in words:
+    #     sleep(0.01)
+    #     sys.stdout.write(char)
+
+
+    print("\n\n")
     
     
 
 
 def main(checkpoint=None):
 
+
+    #print("\n\nGenerating.\nPlease wait.\n\n")
+
     title_BOOL=True
-    title=""
+    #title=""
 
     args = get_arguments()
     started_datestring = "{0:%Y-%m-%dT%H-%M-%S}".format(datetime.now())
@@ -150,11 +167,15 @@ def main(checkpoint=None):
 
     powr=int((len(wavenet_params['dilations'])/2)-1)
     md=args.checkpoint.split("-")[-1:]#map(str.lstrip("[").rstrip("]").strip(",")  , args.checkpoint.split("-")[-1:])
+
+    #STORAGE
+    words=""
+
     if checkpoint==None:
-        intro ="""\n______________________________________________________________________________________________\n\n\t\t~~~~~~******~~~~~~\n______________________________________________________________________________________________\n\n\tDIR: {}\n\tMODEL: {}\n\tLOSS: {}\n\n
-dilations={}\t        filter_width={}\t                residual_channels={}
-dilation_channels={}\tquantization_channels={}\tskip_channels={}\n______________________________________________________________________________________________\n\n""".format(args.checkpoint.split("/")[-2],md,args.loss,"2^"+str(powr),wavenet_params['filter_width'],wavenet_params['residual_channels'],wavenet_params['dilation_channels'],wavenet_params['quantization_channels'],wavenet_params['skip_channels'])
-        print(intro)
+        intro ="""DIR: {}\tMODEL: {}\tLOSS: {}\tdilations={}\tfilter_width={}\tresidual_channels={}\t
+dilation_channels={}\tquantization_channels={}\tskip_channels={}""".format(args.checkpoint.split("/")[-2],md,args.loss,"2^"+str(powr),wavenet_params['filter_width'],wavenet_params['residual_channels'],wavenet_params['dilation_channels'],wavenet_params['quantization_channels'],wavenet_params['skip_channels'])
+        
+
         saver.restore(sess, args.checkpoint)
     else:
         print('Restoring model from PARAMETER {}'.format(checkpoint))
@@ -167,6 +188,13 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}\n______________
 
     last_sample_timestamp = datetime.now()
     for step in range(args.samples):
+
+        # COUNTDOWN
+        #print(args.samples-step, end="\r")
+
+
+
+
         if args.fast_generation:
             outputs = [next_sample]
             outputs.extend(net.push_ops)
@@ -186,16 +214,19 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}\n______________
 
         # CAPITALIZE TITLE
         if title_BOOL:
-            # SHOW character by character in terminal
-            sys.stdout.write(chr(sample).capitalize())
-            title+=chr(sample).capitalize()
+            # STORAGE
+            words+=chr(sample).capitalize()
+
             #check for newline
             if sample == 10:
                 title_BOOL=False
-                sys.stdout.write("\n\n")
+                words+="\n\n\n"
         else:
-            # SHOW character by character in terminal
-            sys.stdout.write(chr(sample))
+            # STORAGE
+            words+=chr(sample)
+
+        #TYPEWRITER
+        sys.stdout.write(words[-1])
 
 
         if args.text_out_path == None:
@@ -206,17 +237,20 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}\n______________
         if (args.text_out_path and args.save_every and
                 (step + 1) % args.save_every == 0):
             out = sess.run(decode, feed_dict={samples: waveform})
-            write_text(out, args.text_out_path,intro)
+            #write_text(out, args.text_out_path,intro,words)
+            #print (step, end="\r")
+
 
     # Introduce a newline to clear the carriage return from the progress.
-    print()
+    #print()
 
     # Save the result as a wav file.
     if args.text_out_path:
         out = sess.run(decode, feed_dict={samples: waveform})
-        write_text(out, args.text_out_path,intro)
+        write_text(out, args.text_out_path,intro,words)
+        #print(args.samples-step, end="\r")
 
-    #print('Finished generating.')
+    #print('Finished generating.\n\n')
 
 
 if __name__ == '__main__':

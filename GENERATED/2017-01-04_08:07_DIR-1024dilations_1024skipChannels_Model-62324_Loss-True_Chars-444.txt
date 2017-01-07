@@ -1,0 +1,29 @@
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 1024dilations_1024skipChannels
+	MODEL: ['62324']
+	LOSS: True
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=256	skip_channels=1024
+______________________________________________________________________________________________
+
+
+ 
+
+
+fill of night and worse, with ice or 
+                                on that wide all for ends, our saving ray. 
+
+                                                           from your souls he is not fell 
+      and a rabbit is blurred halt 
+    to darconyman go nothing as in, 
+                                                             
+
+come leaves against                                   i 
+                                            

@@ -1,0 +1,36 @@
+
+
+
+______________________________________________________________________________________________
+
+Saved GENERATED/2017-01-04_08:08_DIR-1024dilations_1024skipChannels_Model-62324_Loss-True_Chars-444.txt
+
+______________________________________________________________________________________________
+
+		~~~~~~******~~~~~~
+______________________________________________________________________________________________
+
+	DIR: 1024dilations_1024skipChannels
+	MODEL: ['62324']
+	LOSS: True
+
+
+dilations=2^10	        filter_width=2	                residual_channels=32
+dilation_channels=16	quantization_channels=256	skip_channels=1024
+______________________________________________________________________________________________
+
+
+TO PLACE A GLACIERS BE DEEP IN MUSKET 
+
+
+and my place then 'his head and eating by  
+with love ever goes would and seven things his neck 
+
+then joy in love   with a place sag down 
+a rush he's patience and slows up tumble to look 
+      but the marge dine with went all day fails on heroic 
+
+                                         from gay, they became reveals,
+but the sun of man may heard,   
+that great place of meat            down to be daFinished generating.
+jhav:Wavenet-for-Poem-Generation jhave$ 
