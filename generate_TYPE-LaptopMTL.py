@@ -83,12 +83,16 @@ def get_arguments():
     return parser.parse_args()
 
     
-def write_text(waveform, filename, intro, words):
+def write_text(waveform, filename, intro, words,ml):
     text = waveform
     y = []
 
+    y.append("\n___________________________________________________________________________________\n\n")
+   
     y.append(intro)
-    #y.append("\n")
+    y.append("\n\n\n")
+
+    #print("\n\n")
 
     title = True
 
@@ -107,14 +111,15 @@ def write_text(waveform, filename, intro, words):
     y = np.array(y)
     np.savetxt(filename, y.reshape(1, y.shape[0]), delimiter="", newline="\n", fmt="%s")
 
-    #print('\n___________________________________________________________________________\n')
+    print('\n_______________________________________________________')
     #print('Saved {}'.format(filename))
 
     #PRINTOUT ALL
     #print(intro)
-    # for char in words:
-    #     sleep(0.01)
-    #     sys.stdout.write(char)
+    print(ml)
+    for char in words:
+        sleep(0.001)
+        sys.stdout.write(char)
 
 
     print("\n\n")
@@ -166,14 +171,13 @@ def main(checkpoint=None):
 
 
     powr=int((len(wavenet_params['dilations'])/2)-1)
-    md=args.checkpoint.split("-")[-1:]#map(str.lstrip("[").rstrip("]").strip(",")  , args.checkpoint.split("-")[-1:])
+    md= ''.join(args.checkpoint.split("-")[-1:])#map(str.lstrip("[").rstrip("]").strip(",")  , args.checkpoint.split("-")[-1:])
 
     #STORAGE
-    words=""
+    words="\n\n"
 
     if checkpoint==None:
-        intro ="""DIR: {}\tMODEL: {}\tLOSS: {}\tdilations={}\tfilter_width={}\tresidual_channels={}\t
-dilation_channels={}\tquantization_channels={}\tskip_channels={}""".format(args.checkpoint.split("/")[-2],md,args.loss,"2^"+str(powr),wavenet_params['filter_width'],wavenet_params['residual_channels'],wavenet_params['dilation_channels'],wavenet_params['quantization_channels'],wavenet_params['skip_channels'])
+        intro ="""DIR: {}\tMODEL: {}\t\tLOSS: {}\ndilations: {}\t\t\tfilter_width: {}\t\tresidual_channels: {}\ndilation_channels: {}\t\tskip_channels: {}\tquantization_channels: {}\n___________________________________________________________________________________""".format(args.checkpoint.split("/")[-2],md,args.loss,"2^"+str(powr),wavenet_params['filter_width'],wavenet_params['residual_channels'],wavenet_params['dilation_channels'],wavenet_params['skip_channels'],wavenet_params['quantization_channels'])
         
 
         saver.restore(sess, args.checkpoint)
@@ -187,12 +191,12 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}""".format(args.
     waveform = [32.]
 
     last_sample_timestamp = datetime.now()
+    limit=args.samples-1
     for step in range(args.samples):
 
         # COUNTDOWN
-        #print(args.samples-step, end="\r")
-
-
+        #print(step,args.samples,int(args.samples)-int(step), end="\r")
+        print("Generating:",step,"/",args.samples, end="\r")
 
 
         if args.fast_generation:
@@ -219,14 +223,15 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}""".format(args.
 
             #check for newline
             if sample == 10:
+                #print("GOT IT___________")
                 title_BOOL=False
-                words+="\n\n\n"
+                words+="\n\n"
         else:
             # STORAGE
             words+=chr(sample)
 
         #TYPEWRITER
-        sys.stdout.write(words[-1])
+        #sys.stdout.write(words[-1])
 
 
         if args.text_out_path == None:
@@ -243,12 +248,13 @@ dilation_channels={}\tquantization_channels={}\tskip_channels={}""".format(args.
 
     # Introduce a newline to clear the carriage return from the progress.
     #print()
+    ml= "Model: {}  |  Loss: {}  |  {}".format(args.checkpoint.split("-")[-1],args.loss,args.checkpoint.split("/")[-2])
 
     # Save the result as a wav file.
     if args.text_out_path:
         out = sess.run(decode, feed_dict={samples: waveform})
-        write_text(out, args.text_out_path,intro,words)
-        #print(args.samples-step, end="\r")
+        print("                                          ", end="\r")
+        write_text(out, args.text_out_path,intro,words,ml)
 
     #print('Finished generating.\n\n')
 
