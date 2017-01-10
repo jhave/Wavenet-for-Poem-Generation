@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 27148		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+___________________________________________________________________________________
+
+
+ CLIMBED 
+
+
+the men of sight in the cleare, 
+some virtue and ripe unto an eyes 
+the wolves place the next they were still on light, 
+with one inlands-- i wrap was   
+                                                                                                         beyond, let the reconst pas money open 
+                                                                             
+they let no have noon i turned to take foe tences 
+       

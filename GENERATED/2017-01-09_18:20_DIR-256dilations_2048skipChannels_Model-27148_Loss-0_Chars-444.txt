@@ -1,0 +1,18 @@
+
+___________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 27148		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+___________________________________________________________________________________
+
+
+ A DAY. 
+
+
+
+                                                                                                                                                                              
+
+                                                                                                                                                                                                        making that st. 
+
+but what have markness on uplain drops-- 

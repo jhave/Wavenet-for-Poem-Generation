@@ -1,0 +1,486 @@
+jhav:Wavenet-for-Poem-Generation jhave$ bash RunModels_list-DEC18_Demos.sh
+RunModels_list-DEC18_Demos.sh: line 12: syntax error: unexpected end of file
+jhav:Wavenet-for-Poem-Generation jhave$ bash RunModels_list-DEC18_Demos.sh
+RunModels_list-DEC18_Demos.sh: line 18: syntax error near unexpected token `declare'
+RunModels_list-DEC18_Demos.sh: line 18: `declare -i var=0'
+jhav:Wavenet-for-Poem-Generation jhave$ bash RunModels_list-DEC18_Demos.sh
+                                          
+_______________________________________________________
+Model: 27148  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+A DAY. 
+
+
+
+                                                                                                                                                                              
+
+                                                                                                                                                                                                        making that st. 
+
+but what have markness on uplain drops-- 
+
+
+                                          
+_______________________________________________________
+Model: 33800  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+
+
+
+i'm all the black without a little friend down.
+
+you don't be, that thinks her body 
+from supposed like the nawies 
+to pepperate it to play with our village
+in like a poetry betrayed the wisdow
+as muse the templ's thing, 
+jet they graffiting -       here
+more to white horse? though forest
+
+one make flags of your skull
+
+in someone home and told me inside my wife
+of citizens, 
+my lips in that we tried to recognize 
+  
+etching in red 
+each li
+
+
+jhav:Wavenet-for-Poem-Generation jhave$ bash RunModels_list-DEC18_Demos.sh
+                                          
+_______________________________________________________
+Model: 27148  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+WE ARE HIGH-CAPTION. 
+
+
+
+but in the earls of the plant may hang will kill in blood in the state 
+
+                                                                           
+
+stolen illusion hence of, at last night      
+
+
+the wedlocked garland as if up sea hands and lucia nap. 
+
+
+
+                                              
+
+
+
+the only wall declines sock, her men, latch are entering 
+                                                       
+
+
+                                          
+_______________________________________________________
+Model: 33800  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+WHO WAS LYAATELY 
+
+
+i hear you. most do it, it. i am a ham please 
+have your eyes to breaking, here a man november your dark
+ would i love your because clay
+
+would declarity
+why easy all its own
+when your sunfit, but sober a name
+down the earth. that were not the first make of working suddened.
+not had a treat it fills to know who the shutting,
+is money it's the beautiful moves and the abyss that father because
+          and i wasn't any obsc
+
+
+jhav:Wavenet-for-Poem-Generation jhave$ bash RunModels_list-DEC18_Demos.sh
+                                          
+_______________________________________________________
+Model: 27148  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+WENT MINE THE DARK WAS DEEP 
+
+
+about the sweets of the tuds, and sciences 
+that thou walk--you could show i perceive all thing 
+we whispered ragged old as the silence, and old, 
+to sing and branges we are sit her shooting shades toward me clay.
+whose black firm ladies bloom-my little for a flaw, he buds. space, 
+to fly, unto accellar, with pork, which leave, my hearts   
+they great, perceives outstretched 
+next lavened. the elevation of ripe 
+
+
+                                          
+_______________________________________________________
+Model: 33800  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+OR THE BROWN-- 
+
+
+and watched the big merupture,
+
+until you says, i fear a woman children
+to any catch. blown past american
+
+the edge of the highest fresh
+and i was not give down 
+your eyes, hurtling creatures,
+the very consider and
+vetty, imagine fail 
+the wind fine and jehn molite throats, 
+with k was buried in interstate guys
+arriving at all in a cocoons.
+you were forever
+another spin
+the vale-hor actually quietly
+watched with spade, i onl
+
+
+Traceback (most recent call last):
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 972, in _do_call
+    return fn(*args)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 954, in _run_fn
+    status, run_metadata)
+  File "//anaconda/lib/python3.5/contextlib.py", line 66, in __exit__
+    next(self.gen)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/errors.py", line 463, in raise_exception_on_not_ok_status
+    pywrap_tensorflow.TF_GetCode(status))
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [2048] rhs shape= [1024]
+	 [[Node: save/Assign_76 = Assign[T=DT_FLOAT, _class=["loc:@wavenet/dilated_stack/layer17/Variable_3"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](wavenet/dilated_stack/layer17/Variable_3, save/restore_slice_76)]]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "generate_TYPE-LaptopMTL.py", line 263, in <module>
+    main()
+  File "generate_TYPE-LaptopMTL.py", line 183, in main
+    saver.restore(sess, args.checkpoint)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [2048] rhs shape= [1024]
+	 [[Node: save/Assign_76 = Assign[T=DT_FLOAT, _class=["loc:@wavenet/dilated_stack/layer17/Variable_3"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](wavenet/dilated_stack/layer17/Variable_3, save/restore_slice_76)]]
+
+Caused by op 'save/Assign_76', defined at:
+  File "generate_TYPE-LaptopMTL.py", line 263, in <module>
+    main()
+  File "generate_TYPE-LaptopMTL.py", line 170, in main
+    saver = tf.train.Saver(variables_to_restore)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "//anaconda/lib/python3.5/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [2048] rhs shape= [1024]
+	 [[Node: save/Assign_76 = Assign[T=DT_FLOAT, _class=["loc:@wavenet/dilated_stack/layer17/Variable_3"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](wavenet/dilated_stack/layer17/Variable_3, save/restore_slice_76)]]
+
+jhav:Wavenet-for-Poem-Generation jhave$ bash Run_Model_Demos-Jan2017.sh
+                                          
+_______________________________________________________
+Model: 27148  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+CLIMBED 
+
+
+the men of sight in the cleare, 
+some virtue and ripe unto an eyes 
+the wolves place the next they were still on light, 
+with one inlands-- i wrap was   
+                                                                                                         beyond, let the reconst pas money open 
+                                                                             
+they let no have noon i turned to take foe tences 
+       
+
+
+                                          
+_______________________________________________________
+Model: 33800  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+                         GOD, WHERE THE MUMOUS
+
+
+the night's dream the right cut around me
+to get in the diamond time car, the shadows 
+and the intallector 
+into the nature of the birds.
+
+
+a thing her bit for the bee -chrofic-type 
+
+until it at the neighbor ceiling
+
+the date they part remnant
+
+it's already   its own
+
+the moons beneath morn,
+until the beginning out the bushine.
+
+if i think it too maids to be, error. 
+as if they would be learn 
+
+
+                                          
+_______________________________________________________
+Model: 62324  |  Loss: 0  |  1024dilations_1024skipChannels
+
+
+IS NO STRAIGHT 
+
+
+he c spout of every day, to leave pen to come 
+the law in smooth stuck the chance? 
+
+upon the wind and tears, and luhc, ust making 
+and thou be good-clerced back, ign to be 
+    at last heaven the cock flower.       
+for peace is stands had the fret, all it
+climbs eight frown 
+or svans    the warship of flowers.
+
+
+   oh, to wake thy gay fort. 
+o rising tale winter cold time's oco, 
+and stick slip remove him high did many pai
+
+
+jhav:Wavenet-for-Poem-Generation jhave$ bash Run_Model_Demos-Jan2017.sh
+                                          
+_______________________________________________________
+Model: 27148  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+THE FIELD 
+
+
+to save we knowing a weeping cat 
+that shall only past flings his book bears 
+them can, complace the blow of her. 
+
+my king is in the wallschest and lake we see hubciu 
+on the lie -- ever thy various charles were sun 
+but life filling itself, eighteen--   
+in wearing now    buicade to me like 
+the egg-plication.   viii                                        
+in sacrifice still came in evil confess   
+and the light waist and learn
+
+
+                                          
+_______________________________________________________
+Model: 33800  |  Loss: 0  |  256dilations_2048skipChannels
+
+
+STANDING IN THE OV'RYING SILVERY ON OUT--WHITE BIRDS FROM OUR WINGS IS CARDBERRY TOGETHER
+
+
+
+forty optaal has games, it burns up to my dartial together out to the fat it single.
+it constant -on crossing a flushed explicable. the boughed in may a mother's. they had console
+                                 threaten 
+six stolen spit-home, as the next gentler skirt minute
+          or picked how i am the bus, and silence, 
+paper of the sofarity d
+
+
+                                          
+_______________________________________________________
+Model: 62324  |  Loss: 0  |  1024dilations_1024skipChannels
+
+
+THE COMMAND HEAT.
+
+
+
+
+not learned in some pride my breath invads. 
+
+                                    you must suffer gleams.   
+'tis chorsewise is to tall 'tis low,
+for hand the black clock, brook, 
+                                                                                                                                                                                                                                  bounded to somewhe
+
+
+                                          
+_______________________________________________________
+Model: 59252  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+                                                                                                                                                                                                                                                                                                          DISPATCH THE WORLD OF SOFT CROWNS WET  AND THOUGHTS, GIVE HIM AGAIN FOR YEARS, OR THOUGHTS, EXPRESS AND RADIOSHACKLE. I TO                        
+
+
+                                          
+_______________________________________________________
+Model: 58111  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+FOR YOU
+
+
+ with seas chains those being
+ of the newspapers ion, and come,
+ khaki their blooms acger
+ up the line.  
+i say the striped tea.
+ his bound eye what you
+ qushiminated enter. not
+     but earth for zomme,
+ animated the men, though sohrab like
+ to do you holy a poor prevail,
+    
+ each parts of taffy
+only a reader fetters on rheumatus
+ springs out of it alone after dark.
+
+
+
+their indefinity take on the house
+ some smallpox
+
+take every
+
+
+                                          
+_______________________________________________________
+Model: 58102  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+WITH THE STEM OF ME
+
+
+
+when skivvre, skies which the land,
+        in the brightest beacon.
+ on the general guilty. away
+ the way holy rose from,
+ all is more offers 
+ collars the flower before--
+ sometimes a rank boslongs,
+ must be away from
+in this perfect feels hitched
+ the rags of a socket,
+ some of them.
+ twel anything
+ long ago
+wake up to smiled, digging or
+ in police with shadows
+ there is no weird,
+ but fearful to the sun 
+ says the f
+
+
+                                          
+_______________________________________________________
+Model: 50603  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+TO COUNCIL, STILL BRILLIANT THE COUNTRY-
+
+
+chain and die unnelscht on the strand.
+
+
+--its blared out in the gloom that i
+
+i walk to feel and unpeaceful
+
+
+on late audenns.
+
+every ribbing--one america in as for hole nor enters
+
+                            scratt the pompeii chorch.
+
+
+february, compases swept pulling their sheepbank
+
+for auha world and in her throat of its locologed wings
+green gradual sanguine silver little as with playing in t
+
+
+                                          
+_______________________________________________________
+Model: 50601  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+     FOR THINGS
+
+
+ turned to node my room
+ faran some of the dances.
+ intact, the narrative asylum
+ waited.
+ i want to save
+you may see the uncle's name,
+ garden house on somehow,
+ walking intently morning's ear.
+ lynetta's bran ascend
+ the landlord-whale.
+ without raised your heart
+ years what does--battening
+  
+ that sound the stars of the kind--
+ scarlost.
+ a real instrumental hubos
+ beaverda with the promise.
+  
+ if you're at dawn, carryi
+
+
+                                          
+_______________________________________________________
+Model: 49523  |  Loss: 0  |  dilations1024_skipChannels4096_qc1024_dc32
+
+
+YOU, SLIDING HOLY EVIL. AND JAZZBUAN.
+
+
+
+  
+ ii. 
+ dawn a coming opaque him. along, could
+  
+ video cross the breezes instrument of the yard.
+ go wild into city, it would not be more there was
+    a face trail, that would trust, they raced.
+  
+ curved by a room no the jewish that lattice, 
+ just
+ the race as elevators combatacus,
+         twist black abypa here flatly, made old?
+ when it was on homes
+ the motionless images here afternoons bal
+
+
+jhav:Wavenet-for-Poem-Generation jhave$ 

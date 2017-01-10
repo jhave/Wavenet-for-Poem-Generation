@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 27148		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+___________________________________________________________________________________
+
+
+ THE FIELD 
+
+
+to save we knowing a weeping cat 
+that shall only past flings his book bears 
+them can, complace the blow of her. 
+
+my king is in the wallschest and lake we see hubciu 
+on the lie -- ever thy various charles were sun 
+but life filling itself, eighteen--   
+in wearing now    buicade to me like 
+the egg-plication.   viii                                        
+in sacrifice still came in evil confess   
+and the light waist and learn
