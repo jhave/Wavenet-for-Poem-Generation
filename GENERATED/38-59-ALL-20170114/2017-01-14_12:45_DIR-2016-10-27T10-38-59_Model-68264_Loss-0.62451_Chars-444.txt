@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 68264		LOSS: 0.62451
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+             AND I BREATHE
+
+
+
+my line your mottled dress
+who are always a summer sank
+                                                                 it ripprint a road
+the right had blinkerness    let   
+as she ruled it bet blurred the ghosts
+    knicked tongue disappeared people
+
+                                                                       like
+you
+
+as if only
+
+is going
+                                      of the cross, and far b

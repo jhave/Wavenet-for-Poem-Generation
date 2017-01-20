@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+______________________________________________________________________________________________________________________________________
+
+
+ SHOTGUNS DIDN'T ONE ZYGOT
+
+
+           the back                                   the sight,
+                                    for reach.
+                          and i to learn 
+ surrounded by a distance, where three times,
+ hands me they soon commit inside the hills that
+ & terror. that it could see the branch which.
+
+
+she cast up the sea-and-white block
+  
+ babes in there again the east
+                                              with

@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 64783		LOSS: 0.52123
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+               THE TREE
+
+
+given me in the center men, leaving kiss bell,
+                                                 once had never    
+   what seemed to call on my cousin panic 
+                           or worthy wire. 
+
+                damned it from cloak, 
+                                                 again. 
+
+anchored unsound, not what he believes 
+                                 
+
+               we'll be to the mouth to shade
+

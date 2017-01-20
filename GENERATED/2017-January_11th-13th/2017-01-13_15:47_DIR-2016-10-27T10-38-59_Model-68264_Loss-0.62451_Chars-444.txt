@@ -1,0 +1,17 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 68264		LOSS: 0.62451
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                                                                                                                                                                                             --KERRIES DOLL, THESE SCREAMING
+
+
+--a boy                                                                          drops of creeks,
+
+staring and careful gusto
+                                                                 is entry weakness.
+rueble         

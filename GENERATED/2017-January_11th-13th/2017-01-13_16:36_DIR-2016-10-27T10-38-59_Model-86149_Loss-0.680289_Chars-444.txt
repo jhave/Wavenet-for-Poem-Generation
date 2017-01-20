@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 86149		LOSS: 0.680289
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                 AND IT BIT OF TROY           SEA, IN A GRST RIGHT,
+
+
+
+just over the light          to come before her,   
+to a murder    i fell in a deezline      nasking, 
+slow plants of foam, its swept this net,        hopeless
+come breath with her arms around, compliance heaven, 
+i make it because of night     when you from the rhine 
+    to be change will be eighty that sunday,   
+    divide. a radish in recording sheds   
+these story has

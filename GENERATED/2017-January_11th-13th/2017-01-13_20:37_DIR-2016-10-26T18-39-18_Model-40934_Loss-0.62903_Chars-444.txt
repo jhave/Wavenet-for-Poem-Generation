@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 40934		LOSS: 0.62903
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ INSIDE A DEN. HAIR
+
+
+                                           a dangerous life
+ fast flowers
+          the future, left at fact, 
+                                         in the bigger, cheesewitz
+ the memorized and bade percent.    under up
+                        young around the same
+      the passerole
+                                             driving streeting myself
+                                                                  

@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ AND YOU DO NOT PAY HERE AND THE RIGORS
+
+
+ of course, dangerous a me tall to foot, a glass
+ milkmixed in the bank room, those eyes fallen of mines
+ you could many aspire assaulter is real,
+ guspers crying. tension, between these eyes closed
+ holy holy and swords, and football that felt
+ dante places open and clean
+ we're when you have eaten and toaster
+  
+ what you'd be worse, something for you,
+ resolved, pre-weened and talking going 
+ the du

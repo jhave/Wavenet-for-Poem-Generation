@@ -1,0 +1,33 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 102193		LOSS: 0.551751
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ WINGED
+
+
+ hath bread, the piano  bizarrely sad
+ the accursed man,
+ to claim it a dead and sink
+ of a backwards bird
+  
+ we just receipt his scables 
+ three who seek
+ the day was that another. 
+  
+ i love just pretending an inch
+ it's tiptoe, unrehumbing flang
+ settled into the breath pepetrar,
+ i can see your try and said stained.
+ we giveth the sum of the creaking cave.
+
+
+					
+					the pilgrim.
+ is this is
+ one after persuaded masked
+ whate

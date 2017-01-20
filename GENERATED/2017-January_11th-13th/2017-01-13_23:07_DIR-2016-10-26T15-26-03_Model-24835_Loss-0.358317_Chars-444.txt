@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 24835		LOSS: 0.358317
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ GOLD --
+
+
+  
+ was never ground under-,
+ and some stain, you have so elizabethe cake.
+ somebody the gift is never even.
+  
+ stands of mirthandness cink freeze.
+ they locked sons, those whole conjures
+ in its love the blood is dishes--
+ an' seemed the labyrinthing,
+ the being soup from a case with the rat
+ shall rent, my beached jawsique
+ roots of cocoons place, bent you start its attractive
+ with wide-eyed as pecked among there.
+ a sovereign s

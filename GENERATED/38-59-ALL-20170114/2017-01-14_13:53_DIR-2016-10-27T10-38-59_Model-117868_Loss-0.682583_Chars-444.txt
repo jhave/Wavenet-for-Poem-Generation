@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 117868		LOSS: 0.682583
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ DOTH INTO THE NORTH I'D HARD TO WORK, FLOOD THROUGH A BROKEN-OPEN AND DUCKS AND THE SERT-DOES SECOND? NO. I REMEMBER WHITE AND ENTER THE SOUND TEXT FOR THE ACT.                                             NICHOLAS EVER THE EYES, UP INTO THIS AND .                                MMMM.                        MIRANDA          I'D LISTENING EVVY          MIRANDA          THE COTTON--          IT LOOKS SO MUCH LIKE THE NUMBER              THOU S

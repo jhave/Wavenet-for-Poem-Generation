@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 109280		LOSS: 0.645933
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ GLANCE.     SIMON    SOON-LEAF BARD. 
+
+
+you're my little play scots through a sterned.
+the year-armed man constituted. 
+  
+ simon sensualize to sit by the tree--it's structure,     extrap--it mighty teases-- each and one, in my pain  artifiting one of him, above, silently you do anything they rested          in himself.                                      not much arm'd me into frightened to his arms,          they want to rule simon but fou

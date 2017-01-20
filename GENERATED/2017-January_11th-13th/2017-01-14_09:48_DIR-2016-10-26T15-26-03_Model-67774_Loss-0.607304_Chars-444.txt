@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 67774		LOSS: 0.607304
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ A FASHION TO BE JUST TO BE SOMEWHERE WOOLEN
+
+
+in sight of a victory and the alpine like a shadow
+           and porous paper-mad beneath the new years
+                           because white.
+            asleep for the woman in the stove's needles.
+                                             of a small strom square
+  
+ at the mind clattered. brenda near down to all of woe
+  
+ these even you are place than counts and calls?
+ it never until t

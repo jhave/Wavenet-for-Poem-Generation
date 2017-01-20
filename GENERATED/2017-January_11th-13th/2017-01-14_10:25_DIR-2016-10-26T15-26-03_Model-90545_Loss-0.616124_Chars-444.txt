@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 90545		LOSS: 0.616124
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ BED 
+
+
+of sweetest of the flower, 
+black busily is conscience thine 
+and fish, lone is a family 
+daughter let me without merely feel 
+that inrepentance spear friends, 
+best and yet, boo.
+
+
+daily, monliest quakers only halt spring done, 
+-- thus i got that others. 
+give me 
+to which is forsake in the night 
+all scorn what looks with l.
+that cs sweet on a beautie, 
+and fox and feel you find 
+thou leave to each tattering. 
+thou but i think his w

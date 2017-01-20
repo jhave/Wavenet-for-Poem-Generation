@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 47192		LOSS: 0.633654
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ NICKNAME AND PREVIOUS POEPS WITH. 
+
+
+we find in groanings the earth great ravenous and 
+last wore that echo molass, and it put on ordinary buffet, 
+the little thir mountains said, stems of pale me. 
+for bold pack ronors' stocked he reason  his own free.
+the families, i spoke without place we trees looked hull, tranoties 
+and to gave me tight--nay, 
+the jackassed on the dawn to wash is pied 
+
+and his pockingly and it all to know them rouses
+as

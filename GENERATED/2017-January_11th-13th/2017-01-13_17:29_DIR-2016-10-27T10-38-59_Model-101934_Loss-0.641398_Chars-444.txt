@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 101934		LOSS: 0.641398
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+         NEUROFUL GIN, DEEP HE GOES,
+
+
+               is locking evening broadway keeps behind.
+her granna of my compable, or for longer.  the garden elms,
+  
+  
+          in the moon street from outside been trip to us
+            a white space, or home from your steep in harvester.
+
+
+we would change to the three-times urgently, press jutting
+                                                   they were so i trust it 
+light preference in the w

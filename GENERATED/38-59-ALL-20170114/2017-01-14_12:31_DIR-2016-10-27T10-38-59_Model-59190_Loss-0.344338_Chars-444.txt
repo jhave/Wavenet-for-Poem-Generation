@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 59190		LOSS: 0.344338
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+     EVEN MEN,
+
+
+ back at a half and there is no town the silence
+ brought to my mouth of maiden son an arm
+ there does snitch and stovetops, vows terrible
+ in regards hatreds on numilous worn worlds
+ the winds scrapeslat black toward the state
+ a nets like an agilith mountains were rest 
+of fog, as the wound is almost degree.
+but dawns remotest just? the strong violet.
+ is my grandmother grains, and ugly
+in gold cherished and is a cactus pere

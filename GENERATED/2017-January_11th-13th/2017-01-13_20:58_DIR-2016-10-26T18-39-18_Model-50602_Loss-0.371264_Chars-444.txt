@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 50602		LOSS: 0.371264
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ MY MIND'S AFFROM THE CRUMPING SEA
+
+
+ in clouds with the small shining quiet,
+ its planet bat's slick small strangers 
+examination intimate in the end of the ox.
+  
+ next to the barn and chasm breek was has enters
+to belief, utterly, stacked and theban eyes
+a minoring model
+ nosting in the brooch and sprayed in dirt cats
+ with faces. white sailors.
+      back into pin in the fence
+                    island, etched in
+                         

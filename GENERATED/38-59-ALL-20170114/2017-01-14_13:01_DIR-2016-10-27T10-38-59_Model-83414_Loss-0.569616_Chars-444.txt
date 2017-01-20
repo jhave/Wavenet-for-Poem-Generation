@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 83414		LOSS: 0.569616
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+  GAITS 
+
+
+you might be taking matter, this cruel streams,
+a languages old spinning on earth's prophet's fast
+we loves no finding letters whom you gonna guy 
+seeing the air is full of semething around my fingerse wood
+the small world on our ears, marrying
+
+stomped impossible disk-beserve to the sadde love 
+and white. if the foggle though, the blue-ter element to piss
+out of russ the sovereign quiet  down the door.
+
+each is mark me out of egypt

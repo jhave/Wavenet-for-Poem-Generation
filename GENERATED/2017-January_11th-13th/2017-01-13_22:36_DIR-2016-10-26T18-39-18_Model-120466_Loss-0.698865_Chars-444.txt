@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 120466		LOSS: 0.698865
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ 
+
+
+and, one and, so loue   
+a blaze in the river was a new ones   
+colon wrapped up you you gag of the hunger 
+
+bones us the angels responding, when he lies begun,   
+mongolian, pointing thin the immense   
+the iron before, slightly desired rocks,   
+such as anything string first, his mother   
+for the books where that first bag carnival 
+could be snow magnificents, gardens   
+that they found with face we got grasp,   
+in noble like when i be

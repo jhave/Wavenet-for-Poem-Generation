@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 66504		LOSS: 0.647499
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ IS SKIRT
+
+
+then visions, dancing through an injection.
+i am magic imaginary ends sailors
+ and the dress of adore repudes and plowmen
+sits united in threatenings,
+                         a secret 
+to count, the gnats with death 
+with their night water, astralls of a ripple, keep
+on instant street,
+ and the girl is her name the fist reluctant,
+the dead came so much likely was civilizations
+
+ eloquentia, skidded wooed that i was you--
+it couldn

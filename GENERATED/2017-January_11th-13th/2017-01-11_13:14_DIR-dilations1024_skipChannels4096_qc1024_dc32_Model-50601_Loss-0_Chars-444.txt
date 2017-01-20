@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________________________________________________
+
+
+ SYMMETRIES AND WINDOW, INTERNAL PLEDGE
+
+
+ listen to hump on the stains of beer's mattress. 
+ am i being so much and soon afraid.
+ it has a papeyed from the poor, a fast dissolving high, 
+the swooned hip through the bice from a wound, or amber self.
+
+                                                                    
+
+
+by things and maybe the noise of the night i understood
+like days after a top and until the six-year-old,
+clock to the has an

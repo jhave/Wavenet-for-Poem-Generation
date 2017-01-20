@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 74928		LOSS: 0.657969
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ AND HERDED TO SIT HERE IS A THIRD,                 MY PHONE IS LOVE.    DIDN'T WANT TO REST. THE ARTIST'S VOICE       I FORGOT HIM, FROM THE' LISTENING . . .          THE UNITED NARROWED THERE IS NO MORE DELAY                                          NO, INSCRYCEEDA.      WITH WITH YOU WERE THE RATMEARTING              MIRIAMANA FATISSE, AND ASBESTOWN        CONSECRATED LIKE A PAINTING WINTER IN THE VERGE.          SIMON'S LIVING ARM.      

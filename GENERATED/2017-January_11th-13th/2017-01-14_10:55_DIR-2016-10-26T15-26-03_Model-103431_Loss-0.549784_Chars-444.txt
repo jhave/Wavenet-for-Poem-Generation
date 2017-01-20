@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 103431		LOSS: 0.549784
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+  YOU CAN SEE THEM 
+
+
+  bashful ruins again water day ahead   
+               gives 
+                      blood with kiss shattered 
+                         and say and white. 
+         a golden leaves by usmerry cravat
+       coming free arms 
+            of a stories have dreams away. 
+he too's chamber and flara 
+         a space 
+                        in new york my eyes born
+          but otherwise now out 
+
+                     in the

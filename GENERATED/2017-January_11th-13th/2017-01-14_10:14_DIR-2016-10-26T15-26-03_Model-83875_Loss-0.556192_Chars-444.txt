@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 83875		LOSS: 0.556192
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+      WITH A BITTER GLAZE.
+
+
+  
+ the importance of the island,
+                      in the moisture
+                 escoriate rear the mold.
+ you for all.             left it was never
+  
+  
+                       scribe straight line
+                          trapped
+  
+                           two together
+             and behind me again
+                       mosses plumes
+                        their doors space 
+                    

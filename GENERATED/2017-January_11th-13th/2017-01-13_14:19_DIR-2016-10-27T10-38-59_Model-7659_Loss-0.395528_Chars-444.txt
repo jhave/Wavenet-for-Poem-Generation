@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 7659		LOSS: 0.395528
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+     OLD STATES
+
+
+wrong monumenton miles my own fingers,
+ the world need on the sea on your body the trees
+
+a path in the eyes benode moon,
+                                           in flattent love and message. in the despite as times i have a floor,
+ failured at me those leftric story air.
+  
+                                                       became boy
+. . .
+                           afceons shape.
+the trembles the cranic banhacted. 
+

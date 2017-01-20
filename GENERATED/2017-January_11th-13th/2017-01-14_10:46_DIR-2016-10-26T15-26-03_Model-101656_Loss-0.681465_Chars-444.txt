@@ -1,0 +1,20 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 101656		LOSS: 0.681465
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ THOUGHT OF GRATITUDE--NOTHING THE 
+
+
+the tissuells bore of silks wrote,
+                      and can't want a suster to be better
+with their signs of being into lodges, in sproused and
+unsheited feet archid it over as pang as cruel,
+and light-july time by all these silver-stay
+                                                                       overnight,
+all this as a quiet jos of occasioned church nesting a noticing traverti...
+coming to

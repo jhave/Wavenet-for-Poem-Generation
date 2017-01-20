@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 59189		LOSS: 0.315774
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ A SMALL MOON-BOY'S HALF OF TOBACCO-PRINCE IN A CLEAR AND OVER THE GULF SENTENCES
+
+
+ and pointed to do every you could be cet in the night that is, summer sink,
+ the shades exiled trophy, the blessed trailer than his chapped in the white horridden, they walk ridden shaped-forking sundown.
+  
+ i know that he was no spy get down to other cold serious and treasure.
+  
+ there was no oinkered the hands of grain landi do and land every thoughts,
+ co

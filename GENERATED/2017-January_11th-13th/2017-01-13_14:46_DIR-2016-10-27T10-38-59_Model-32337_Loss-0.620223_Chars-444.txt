@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 32337		LOSS: 0.620223
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ WITH DOUBLE. NO, THROUGH THE ALMOND,
+
+
+ what is sometimes
+             over dear on one's river.
+                bit but a foreign,
+  
+ i hear the limited rain.                 
+ against the white appeared curve
+ spraying hells, those crewd mountain die 
+it is your national strikes of memory the poet.
+ were lies the victim of pots you in springs
+ been on a merely beyond the preach, whole crumbles
+ about a stranded to hapes through it bolcony
+

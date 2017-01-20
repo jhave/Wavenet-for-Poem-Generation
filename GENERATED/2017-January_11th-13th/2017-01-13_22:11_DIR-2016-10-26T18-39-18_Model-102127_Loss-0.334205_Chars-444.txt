@@ -1,0 +1,19 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 102127		LOSS: 0.334205
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+       DOORS OF POCO, AS I PRAYED THEM
+
+
+ of heart in stone in the pathos dish of the hoose
+                                                              i shall make a goddess 
+            with breaks and locks left her head               i like pale of space,
+                                                                  thwack, i want to die.
+                                            r. quite in my lost exciting hedge-blood,
+  
+ a roof

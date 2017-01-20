@@ -1,0 +1,31 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.33
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ HUMP MOORING YOU, O THERE
+
+
+ the silvery walk
+ to the song of an eyelashes
+to heal my romance,
+ heading back toward there was lost
+spread god to california,
+ and mow molder? do you take my hand
+would ratherhood complex?'
+
+ the lady of river down, dragging toward us
+ creeps like our defimity,
+balking to our,
+ where every day.
+
+why are a minute,
+ to nans tugging away--
+over dipped over they could
+ join to someone before.
+i do, lawrence--
+ing fo

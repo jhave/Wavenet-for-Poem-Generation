@@ -1,0 +1,28 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ SPEECH OF LOVE, 
+
+
+but fair      but no stage th' accurate. 
+
+knew you cang his happy side, let the rest 
+    force in the light of justice ever know 
+but yet is a sad vassal the wind's face, white
+
+    and over the stately doth causes we call, 
+      o night to overthrow. 
+
+he lay chear boast you let it
+                                  mangs in castro
+
+let no we were 
+
+so do a kind nor left a thousand days 
+         little though it is all 

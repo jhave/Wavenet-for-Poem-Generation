@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 84954		LOSS: 0.348882
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ THE LINES,
+
+
+ heavy aithophilous her yellow and it's answer'd, over
+ you become grows she tsre & my mother day, devotegad.
+ cide--is gothic vegetation hills dore is as a buttons for meat.
+ i was good white, and yellow synagogue lags 
+than newspaper white about stars, and caught.
+wallet on the key, and momently,
+without dimes i was tonight, and cows.
+ the new world's age, they gulf a shoe. railroad face
+ on my fingers close the winding bride?
+

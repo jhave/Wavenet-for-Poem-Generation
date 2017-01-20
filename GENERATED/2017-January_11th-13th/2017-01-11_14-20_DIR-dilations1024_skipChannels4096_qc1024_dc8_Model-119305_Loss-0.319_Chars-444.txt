@@ -1,0 +1,26 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ WHEN I SEE THE SHIT-LEGGED
+
+
+ stars free to the small mountain spin--
+ catullus through the navel.
+ all is there met that bespeaks wheat,
+ these last with the weeds be alive 
+the benched and physical tea,
+ and the field from their set again
+ deep into her soul, i am solitude
+ chafense centides and the
+        is me 
+with faithful daughters
+ there is the water
+ astagoria of possible been have
+ and then sigh the hospital to say
+stood up on cryi

@@ -1,0 +1,18 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 59191		LOSS: 0.571836
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ CROW.
+
+
+                                  easter was framed to you.
+                                                           now
+ no one cell rocks in a less granite rook
+                                      without a patron.
+ 
+                                                                                                                                                                                  this, unblego that how immigrant crus

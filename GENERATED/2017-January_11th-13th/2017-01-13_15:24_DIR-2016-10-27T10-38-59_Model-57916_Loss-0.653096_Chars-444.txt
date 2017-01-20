@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 57916		LOSS: 0.653096
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ ORATOR
+
+
+            buckle and soften that look form cuspid rumbled
+ sometime the walls of reprieve from themselves
+ to pulsing, here's perfect fish for skies, winter four,
+our nostrils be no scyldings if as elegant 
+a moan about chorus ornamental blood flower.
+
+
+
+they beg goes out of wood's life, when nameless below,
+and softly death and constant seat out of men,
+dark suitable  with think hovering summer decline.
+
+once the pity's hands tell

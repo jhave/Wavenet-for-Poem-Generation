@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 27148		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+____________________________________________________________________________________________________
+
+
+ WE FIGURES. 
+
+
+
+no whom a bodies as cloth and a flutters,
+    faces that will grow kingting cradling on sight
+    et live-let up -- 
+no shy 
+what sickly 
+                                                          
+
+always kind on fire and ladies glee 
+                --with all that for even spring   
+and keep tevil the tree in grace 
+                                                                                                              

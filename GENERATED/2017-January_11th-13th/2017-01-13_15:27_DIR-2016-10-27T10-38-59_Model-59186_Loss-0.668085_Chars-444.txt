@@ -1,0 +1,16 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 59186		LOSS: 0.668085
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                                          THE WALTZING SCIKE
+
+
+                                                                                                                           to see my departure 
+                                                                 acc.   
+  
+                                                                                                                                                                    

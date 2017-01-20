@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________________________________________________
+
+
+ A FEW HUSBAND,
+
+
+ lovely, tight wide each forms 
+                      what the top aline
+     to a one mildewed bed.
+                       first hometown, 
+and neither to such professor moments
+                                          which
+ because the war want told me
+                   another years latin church
+                                      the language aid fell
+        bolder, the hunting sinks up
+  stood
+ suffering mara cover

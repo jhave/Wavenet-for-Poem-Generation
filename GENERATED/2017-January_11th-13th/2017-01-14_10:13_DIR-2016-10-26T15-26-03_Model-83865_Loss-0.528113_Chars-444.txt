@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 83865		LOSS: 0.528113
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ STRUGGLES. BUILD
+
+
+ when the warsaw is hardship, leathery reward,
+ mechanisms unchaled to cover me that smell
+ in love with the mind before it is
+ that a fall life through the greenhorn, 
+ see the envelope, a glove-word horses. i was young
+ and the extent table, the laughing spreads to gust
+ in our hopes that tourists among us?
+ there were two men go o' leaviored, schools.
+  
+ atmosphere in beautifully, his sewing hard
+ the bigger in passion 

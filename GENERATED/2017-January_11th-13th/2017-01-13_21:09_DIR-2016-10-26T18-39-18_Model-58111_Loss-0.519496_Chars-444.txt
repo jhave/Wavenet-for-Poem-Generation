@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 58111		LOSS: 0.519496
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ GONE
+
+
+     days
+ papers, it's green here, playd lagoon
+ one breast bee-open rain, a stiff made.
+  
+ pales of all is a maze anything
+ cruising the lion turn franklin child
+  
+                                       bill?
+  
+ then your perceptively,
+                  means make of a flashed
+ believe the booz that
+                    a. on its could strings.
+  
+  
+ where only thouseless all the floor
+                                             

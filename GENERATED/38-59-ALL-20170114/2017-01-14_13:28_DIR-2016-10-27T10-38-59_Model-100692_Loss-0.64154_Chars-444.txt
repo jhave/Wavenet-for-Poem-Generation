@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 100692		LOSS: 0.64154
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                     LAKE THEY MUCH I OPEN HOLD--   ARE YET EVAP, OR OUTSIDE?          IT BE IN NORMAN WITH ITS HEAR THE VEGETABLE THOUGHT BE       DURING BARLIER          IT LIVVIO IS MISCARRIAGE.          ALWAYS          VI. TO  LEAFERD THE TREE OF NOTHING           THEN I'M EMBARROW MY PLAINS OF THE HEART          AND ACULA          SAID, BEATRICE AND RECHANIMATED BY LOWER          MY NAKED BACK TO BE ALMOST TO       THOUGH HE SAID THE TR

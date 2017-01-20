@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 42013		LOSS: 0.313828
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ TO MARRY--GREEDY
+
+
+    let your brompt with byzantine
+                                                 haughty endlessly flying, 
+
+ 
+                                   in magnanimous,
+                       the magic, of culture of heston sound.
+                  for banges in his undaunted grass
+ from dogs at a tug beat,
+                                       daughters, done was like an ancient
+                                              t

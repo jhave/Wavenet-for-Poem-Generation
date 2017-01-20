@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ 
+
+
+                                                         a rime that glory of the rides,
+ i can only as we do nor naked and beneath the that
+ chunk in the new way.
+                                      a to blame linite
+ detroit, to take a tapo baska
+                                                 make
+                                              a
+               ii glorios above aim.
+                                                  in 

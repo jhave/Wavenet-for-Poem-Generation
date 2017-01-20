@@ -1,0 +1,29 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 73370		LOSS: 0.62689
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ 
+
+
+      oh, had ye bathe throne, 
+      that night and early, o spacious 
+               be-serious and urge 
+   the bavis' trees foul in fire.
+
+
+as the fair us this to and common claiming.
+      swift and blushad nine what 
+      only lingering is mine, 
+    while she bears and spell to sing. 
+
+break well made expressed thence 
+       sur lauded and nature's verge 
+      falcs that never be stripsi 
+her tongue depths such heaven 
+
+         

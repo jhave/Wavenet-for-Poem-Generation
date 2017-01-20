@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 115896		LOSS: 0.607039
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ GOPHER FIVE. 
+
+
+
+                      titian if those palm 
+                        for our heartbeat   
+                                tattered forwards 
+                                                               your age the world 
+                                         flap- 
+                                          against villageh true 
+as the lous erwer this down       house 
+                                        being 
+
+    

@@ -1,0 +1,11 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 100692		LOSS: 0.64154
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ EVERYWHERE YOU COULD COLD UNWANTED GALLERIES BUZZING IN THE WALL, STILL KICKS OUT SWITCHES A THREE PORTRAIT.                                                  FLOTSAM ROOM AND GOING NOW,                                                                                                            MAN MUST WALK AWAY NOTICING HOW MANY A MERCENESS.          I RAN          MORNING.                                                                     
+n

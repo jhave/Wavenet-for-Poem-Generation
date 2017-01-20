@@ -1,0 +1,28 @@
+
+___________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ MAKING NOWER
+
+
+   the papers guards scours every youba door,
+ comforting handcuffed, to whispered, chaotic.
+  
+ the data job that or the new way lost
+ a crushed comforts which only
+ lesson in the unaware with modest,
+ another old planks.
+  
+ this is what she walks
+ and tied to. its own morning,
+ rutted together sayings, today and drove
+  
+ non-a-nobility and offer river,
+ tonight, between us lips 
+ us just a giant path the dog
+ to cover the s

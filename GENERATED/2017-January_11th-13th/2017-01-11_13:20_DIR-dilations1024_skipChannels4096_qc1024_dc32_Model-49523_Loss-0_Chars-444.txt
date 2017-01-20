@@ -1,0 +1,26 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+______________________________________________________________________________________________________________________________________
+
+
+            A PONY TO ROOM
+
+
+ and against them, shiny
+  
+ the buffalo grey times. travel sounds,
+ although the eicher bequest shore, this
+                                  those blast receding mines
+      the body britain. it is lose?
+                stop here and to sit
+                                       in the middle lilies.
+  
+                              night you've nothing.
+         like dull rhyme . . . . outside pleading
+  
+  
+ bu

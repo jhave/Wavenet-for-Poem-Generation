@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 101130		LOSS: 0.614798
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ PARIS,
+
+
+in the heart, to the painting, long dead around us,
+ station petals. let this i will car,
+ and the hunting of the listeau-bet for the cat
+emotion and the cister had condrows belowning, never used
+ and the horse of decomposition, and i love that
+  
+ us in a footprints toward the usual crumbles
+ gabriel, when they lead us lowered in time demands
+ with its subjects of comfort nothing for cup ever ceaseless
+ tumor their matted pink desce

@@ -1,0 +1,20 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ THE DEATH OF A NAIVES' NUMBER IN THE RIGHTMOOD, 
+
+
+with such a sentence in the sea-tail cry force and thirty years and down before--llo-
+by the beginning pyramids in the moment. purchase is not even hear el spirit at most.
+and swaddle and catarra, amassed by the abandoned rooms
+dropped and teach semblance of the raised garden,
+they were beneath its glass of the stars 
+and blown in an ancient voice and yelly journey i loved.
+
+he is on thee. th

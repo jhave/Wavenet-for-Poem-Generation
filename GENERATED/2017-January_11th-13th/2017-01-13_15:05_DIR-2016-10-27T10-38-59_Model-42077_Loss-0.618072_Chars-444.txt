@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 42077		LOSS: 0.618072
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ BEAM OUT
+
+
+ that begin with the state. cheese followed.
+ the only dog's off on a table
+ swentine for
+ 
+
+ falls repeating, extul 
+now tell me
+till i not seen one eyebrows rough of the color
+ across the bus is coming rain liquid by virulous
+steadfast anthem pup up i slept by her ghosts--
+                as i suld on the barrel turquoise dispatched religions
+                                                                    then again. 
+  
+ a l

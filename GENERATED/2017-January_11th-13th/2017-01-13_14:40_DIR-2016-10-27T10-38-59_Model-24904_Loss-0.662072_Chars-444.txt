@@ -1,0 +1,18 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 24904		LOSS: 0.662072
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ BURIED A MAGIC MORNING WORDS,
+
+
+      i may press secure.
+  
+ i said, the gravity.
+at night.
+  
+                                                                                        let's good                                                                                                                                                                                                                                                profound his

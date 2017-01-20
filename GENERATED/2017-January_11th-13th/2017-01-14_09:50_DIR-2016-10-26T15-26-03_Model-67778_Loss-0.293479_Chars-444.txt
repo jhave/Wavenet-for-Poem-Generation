@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 67778		LOSS: 0.293479
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                  AN ANCIENT TEMPOSER
+
+
+                                                     the one that don't come to the world wide a lens
+                                                are the dream that we do 
+  
+'tis stalk with meaning trade
+ simper of freedom in drenched starging down the station.
+ water into the flank
+ the fact of the ninth.
+there is a heap of decay in mirror dying, 
+                                                   

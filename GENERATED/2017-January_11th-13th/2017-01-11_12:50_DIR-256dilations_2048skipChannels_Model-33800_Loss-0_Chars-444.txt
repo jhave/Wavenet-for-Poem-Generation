@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 33800		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+____________________________________________________________________________________________________
+
+
+ DEAD BACK
+
+
+and almost lowered at rought our mother
+that pig blanket the tale on my friend,
+comparably line that he cannot two last
+balefron dress from sling apart
+                     when you weigh be said 
+                                     but my presenting, 
+in a vanished saving after a design
+               a clifford separabine, as my best it sound 
+
+         thanks in a lunchee discussed the casema bumper's until word
+    and surt m

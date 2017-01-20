@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 92084		LOSS: 0.575851
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ FOR THIS LITTLE POOR,
+
+
+fades of utopia, valleys
+                                                         that slim
+dogs, her bright fill his way, vein
+                       we wonderful coins timbrels and cow. 
+our pile steamed, their fur, its sideshells
+then my voice is its walters will we have instructwrung
+
+just as compulsing who sacrilege into a parlor marine speck
+each yellow, self-taught all four years
+like diking flesh of a flame of 

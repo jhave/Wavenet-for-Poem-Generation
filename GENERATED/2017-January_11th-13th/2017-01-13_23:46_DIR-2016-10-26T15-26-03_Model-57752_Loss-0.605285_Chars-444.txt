@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 57752		LOSS: 0.605285
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ AND YOU A WORLD OF IMMINENT, A CARCASS THE CURB--                                    TO SOMETHING          NOT LOVE IN BLUSHING ERR          AM YATE SECURITY          IDDYINERATION, BEATRICE          SIMON HIDE          CAN I LISTENINGRATING BY PERSPECTIVE.          THE UNITED NATIONS          THEES          THERE AND LIIER          MIGHT TRUE,            THE MOTHER?           I'M NOT WORK.          SHOULD SAY HE USE . . .          MINUTES 

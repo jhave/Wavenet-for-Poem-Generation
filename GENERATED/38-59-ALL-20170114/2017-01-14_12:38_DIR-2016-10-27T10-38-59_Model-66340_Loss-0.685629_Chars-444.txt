@@ -1,0 +1,13 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 66340		LOSS: 0.685629
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ THE NOTEBOOK, WISHES, INCOMPREHENDRA
+
+
+fernandles flap through this here--i shook the world. it will waking the garden move language.                and having a lifist--             release yes.                                                                               she was ravishment pattern                                                                  mother?                                  first thrown                           
