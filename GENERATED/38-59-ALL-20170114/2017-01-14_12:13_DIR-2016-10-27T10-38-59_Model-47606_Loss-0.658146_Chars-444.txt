@@ -1,0 +1,24 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 47606		LOSS: 0.658146
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                                       WHOSE WORLD 
+
+
+   but like a journey of that looks, tiny mary sinceas'd,
+there was a rose in thee, made in the deep set, 
+                                                                       understood.   
+
+
+
+perhaps my dreams           obey-saw and were goes out 
+having return in without, turn our meat 
+
+         or three and rash the queen and beauty 
+though ere things in her window way 
+to mend infan

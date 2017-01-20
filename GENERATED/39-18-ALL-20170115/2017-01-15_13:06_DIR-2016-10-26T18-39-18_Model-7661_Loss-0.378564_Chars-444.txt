@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 7661		LOSS: 0.378564
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ HE DROWS
+
+
+blew, bears the boat
+       a shape of myself. straight be lithin-work of his parting head
+  these of gathers are is hurt of bones
+            phere dan poem again than applica unterquos,
+     unbumptors and composed compassion -
+ said about down the intention.
+the static the believe to the unmarry.
+  
+                         wind world's nath of scales excording.
+  
+                                                                

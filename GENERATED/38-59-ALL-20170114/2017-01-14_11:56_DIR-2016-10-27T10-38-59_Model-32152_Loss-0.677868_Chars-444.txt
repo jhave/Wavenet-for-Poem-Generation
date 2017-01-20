@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 32152		LOSS: 0.677868
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ ENGLISH,
+
+
+save too long it clean glasses 
+chapped her throat the family could nostrils 
+with the woman a-red metal poetry 
+an eventually who cannot as not seek
+for glassed begins than the baby. 
+
+
+    vi. o not form
+      r may be love the woods
+nor to kill its pomings of a-pierces that 
+you     dan past, as a light on
+her pariah reservating gathering
+ par.  
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

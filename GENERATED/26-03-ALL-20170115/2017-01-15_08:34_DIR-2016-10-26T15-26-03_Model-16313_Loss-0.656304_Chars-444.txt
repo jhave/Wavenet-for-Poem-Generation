@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 16313		LOSS: 0.656304
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ SUBTLE VEN
+
+
+ a french but other bag. home, the dreamship, beneath 
+have never absint a deer as america
+left up the sky's history is almost said
+ in the shored to grow, draped free
+ about live, then, the avie, powerful, 
+shot yought-pleaded film they advynge, 
+ hand walk out needed the other.
+  
+ of winter. and one finger unkenned am legetaking space.'
+ why . . ...
+
+
+you have near a lit or boat spacement,
+and that's hoping us
+cut at this pale

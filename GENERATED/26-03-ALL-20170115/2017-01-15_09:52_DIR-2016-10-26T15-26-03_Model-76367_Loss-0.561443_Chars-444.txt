@@ -1,0 +1,27 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 76367		LOSS: 0.561443
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+       IN A FOREST SHOVES
+
+
+from an avalanche comes
+   or a bront dance
+            the throbs it to be roll.
+
+the perfect straiture hair by
+                          is not the hands.
+  
+ she saw hymphes with the race
+                                                     the 
+      two river.
+  
+                                                      a rusky face
+ scattered in desart.
+  
+                                               and rustlin

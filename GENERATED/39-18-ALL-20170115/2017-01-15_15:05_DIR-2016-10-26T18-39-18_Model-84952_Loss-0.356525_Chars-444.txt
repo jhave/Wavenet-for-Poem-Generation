@@ -1,0 +1,25 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 84952		LOSS: 0.356525
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ HER, LOST, OH
+
+
+ we left brain in the cheek in a silver,
+ falling like to roam a stallion to grievous,
+sitting on the skeleton of the brittle mitre,
+ stamp the magnanimity in mystery orangest
+ sunset the time at anteding limbs back the lagoon hall
+ dwindling the day their be falls
+
+ hollowing around marker do sword wound
+
+ tripment and brood, i want to be
+ seats
+ unacc abop his band-traffic overalls
+ it be share view, how cleridation amiable 

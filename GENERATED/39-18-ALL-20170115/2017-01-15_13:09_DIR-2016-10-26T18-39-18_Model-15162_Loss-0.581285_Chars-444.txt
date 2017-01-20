@@ -1,0 +1,21 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 15162		LOSS: 0.581285
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ HALF-FOR TECHNICAL
+
+
+ to archestrip, the day against graffigure--
+ asked to the whispersness the organs 
+  .
+ she left fon beard. it despite an atats,
+ an ill be that fading lion gather the man under light
+ the eyes, he thoughts its heards nor knocked
+                           werather came builders,
+              space best degradel
+                                                                                            we time of our co

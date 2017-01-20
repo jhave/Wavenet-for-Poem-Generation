@@ -1,0 +1,30 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 75278		LOSS: 0.565241
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ IMAGES.
+
+
+attachmen, rocks. a hills producrache,
+ this poet's lamb them.
+  
+ there is a holy holy little
+  
+ the chief near the second in flight.
+  
+ in the station whose liquor chave.
+  
+ though it paintings,
+              thank god, a frown of the american
+ and then the heart 
+
+he something for hours, the akloo
+ faces and told out with grids.
+ the last holy my ultimate cherokee trip
+  
+ stop--meanwhile, till that would expression to ache se

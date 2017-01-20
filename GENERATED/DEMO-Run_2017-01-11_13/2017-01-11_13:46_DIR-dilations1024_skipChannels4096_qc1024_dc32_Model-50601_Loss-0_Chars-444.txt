@@ -1,0 +1,22 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+_________________________________________________________________________________________________________________________
+
+
+ THE HEAVY PUT HIDING SOUND, WE ARE
+
+
+   plash the king. every wind was cry,
+ with a-woman's off and an america
+ eyes came feeders   and all i was shone
+  
+ infinity--one                                           
+ women of something slopes the dust, or the weight.
+  
+                                          blind when fake in as arguments climb.
+                                      not towing lute the forts, smack?
+                         

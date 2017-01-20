@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 110781		LOSS: 0.599528
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ SHAKESPEARE FROM THE HUMMING SELECTED
+
+
+swam, the rain is a fossilo sons who has been chump.
+ or i fought the new black swamps extracts are ever.
+but july witnessed in his me, so fouled from both of any up the earth's shoes.
+the way up wall, new eithureas need-lipped, on a picture
+of your hair sun.
+  
+                            are shed  we
+ vang it and i
+  
+      and hunger, ermise sure should into knives, pontificated by  the reasons 
+with

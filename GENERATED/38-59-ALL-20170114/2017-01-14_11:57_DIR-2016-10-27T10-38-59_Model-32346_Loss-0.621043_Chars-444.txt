@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 32346		LOSS: 0.621043
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ IN A WORD
+
+
+ she won caterpity
+                                               pain ice
+         iii.
+                 poor would i keep his way it's err.   
+              as if knee-en, eyelashes
+  
+                                    i take appear.
+                                     nine, and learnt lit
+               each power the seven record sound
+                                                                                        s

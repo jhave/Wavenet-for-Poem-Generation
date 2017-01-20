@@ -1,0 +1,35 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+_________________________________________________________________________________________________________________________
+
+
+ THE FLARING
+
+
+
+
+tramp is my little path
+
+and the pollen asphalt
+chimneys.
+
+there were can watching
+while we find me wherever,
+and the small wreathe
+
+    reats itself 
+            commons,
+ fit it ornamental dark the tarred
+
+                                             has
+                                            please
+        of lime.
+                         e that foam,
+                 round lines
+  
+                              
+    

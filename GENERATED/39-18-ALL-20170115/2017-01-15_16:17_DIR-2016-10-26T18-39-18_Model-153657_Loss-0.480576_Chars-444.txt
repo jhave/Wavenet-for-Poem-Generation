@@ -1,0 +1,19 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 153657		LOSS: 0.480576
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ GRILYELM NASE'RAKS. 
+
+
+ a deaise. 
+                                                                                  a to an
+wapfen- ne of ace eve e mampwir liltur mict. 
+       he feds the                                no of ance,
+                                                                                                                               hay den
+thillse coneds . a ales opres the of & ile so an i even 
+cos aor at now et ve,

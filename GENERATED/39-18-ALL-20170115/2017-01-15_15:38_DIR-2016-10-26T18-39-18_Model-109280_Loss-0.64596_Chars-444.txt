@@ -1,0 +1,17 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 109280		LOSS: 0.64596
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ PRIDE OUT WITH BITE OUTSIDE
+
+
+with shrimmed broom, this world hole
+and the time brought fold
+         goose-she play wait understanding 
+                                do fixed the sweet about to sound   
+he flies adversity.          i wish i'm not          how does not           are heaven          will you remember,          and the developers,          and nature.           went walk.         wait within.          how                dear,

@@ -1,0 +1,22 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 84955		LOSS: 0.597695
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ PYRTIME,
+
+
+ a sentence hasn't easy hers's off at age 
+          the tines of two was turned out
+ flock in his aimless paper, and a good subtives
+ here, when he knows it points from julls tear, for instance, i 
+     & a stuffed fences darting in the middle of them,
+ the birth clock, have saved and it back
+ there is a thithering roofers of a friend
+      recently to the roan between
+ mathematically he doubteers as the trees--
+ rebound tremble, 

@@ -1,0 +1,21 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 40926		LOSS: 0.583196
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+  STITCHING INSUBSTANTIAL, HARBORED,
+
+
+         quick the sea is darker
+            and how it evenings be not,
+ as far holy cliff die
+                        i tell you
+                                                                ii.
+  
+                                                                       the angles.         what character
+  
+                                                       with its radios on her fissures through th

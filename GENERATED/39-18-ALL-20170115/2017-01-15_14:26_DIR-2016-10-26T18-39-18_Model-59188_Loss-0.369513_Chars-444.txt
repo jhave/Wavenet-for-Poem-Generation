@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 59188		LOSS: 0.369513
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ IN SACKS OF NIGHT
+
+
+ i was can't felt heaven every prayer 
+and the poem-an of probably i ran
+        waiting towards the world is name
+in the chin door wallet step into me--invisible
+ cool a chieve not-and-truaning the children shadow
+            and show that even hameth trench
+ scattering and favorite came
+ around everything that when he smile
+ and napkins may you hanging.     and must has sailing
+ was their love . . . the reins.
+  
+ so in 

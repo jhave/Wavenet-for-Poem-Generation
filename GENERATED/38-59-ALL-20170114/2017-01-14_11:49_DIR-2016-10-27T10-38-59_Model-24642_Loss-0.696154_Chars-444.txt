@@ -1,0 +1,23 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 24642		LOSS: 0.696154
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ CONTENT, SEPASSED BLUE TRUNE, THE LAST SHIRT.
+
+
+       behind him, worried to close our victorian queer,
+the silence, like the history i am these reason.
+
+a jop along way. this black to insiphone soul,
+      grateful masques, demanding, nerve-delixed
+to glare the solid that this is weaks 
+and a charged, a tryst neck a waters of apples in the lot
+ of telling west extra.
+                                                         
+
+but now adept t

@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 83516		LOSS: 0.558995
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+                                                                            DONME, ARE THE ALMOND OF SOMETHINK          OH OR UNDERSTUDIAH MIGHT BE CROSSING TO THE BOTTOM OF PRAIRIE PICK INSIDE IS TIED           SHE WAS BRACED A YEAR AND CALM          HALF-MENS..           A DOG,           JUST AS NOT OUT OF MY GENIUS OF          OUT IN          WHEN I MEANT A MEAT          I WILL          IS THROUGH YOU ARE THE SLOPE MIRRORE.         EVVY, 

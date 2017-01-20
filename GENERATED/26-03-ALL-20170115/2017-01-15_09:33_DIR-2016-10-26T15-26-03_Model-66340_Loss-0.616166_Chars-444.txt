@@ -1,0 +1,10 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 66340		LOSS: 0.616166
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ THIRD                                                         JUST AT ONCE.                        EVVYSED ABOUT EIRE          AN INFERIOR, HEALING             NEVER UNIT SLICE           WHO SHOULD I SEE?.          WOULD IT IS AN OMITORY.                         --YOU NOT THREE          WE ARE MATTER          AND THE CRY IF YOU PAST ANOTHER.       I WAS STARING REALLY          TREES--            THE UNITED WAY          WRONG DIFFERENT      

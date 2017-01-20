@@ -1,0 +1,26 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 83875		LOSS: 0.556192
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+          BARE-GOT DOESN'T
+
+
+ it was eyed to my god's ribcage, full of
+ enthraling stories of rust in strangers
+ to what she said sneer represented.
+  
+ ye thrill is to look at your circle
+ on bath'd would have agreern the suitcases
+ like a splintered burret or extensive.
+  
+ with flings of your form increased
+ on their hands cities
+ protect as te
+ & quiet, but here. something is
+ to explain the private cul- 
+then is a shout rifle in a conditi

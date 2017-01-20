@@ -1,0 +1,28 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T18-39-18	MODEL: 109638		LOSS: 0.580305
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 8		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ ASPHALT
+
+
+ the ambulance with sparrow divine while
+ his thumb. things settled, to see,
+ when change the two moving only
+ to paper, at once, of
+ & i knew the untidy of
+ crude and affairs,
+ no fault incidento girl
+expecting, he sighs 
+ of gardens one that ended being
+ to exhausted on us before
+ sometimes between
+sandy and for i could strings
+ of an instant stair,
+ elsewhere, tongues
+ history and his eyes
+ and seeing with coordinate for discipli

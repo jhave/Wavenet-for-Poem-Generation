@@ -1,0 +1,36 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 102191		LOSS: 0.682129
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ GROWING PAIRS
+
+
+are old lawyer pot,
+the way of flowers
+ some beer-gray schools 
+there was nothing but framed skirt of joy, 
+ 
+the greater hoarding
+ of wind every days, the lights
+of what is light
+ one in a mall,
+not we know'sn his clark
+ was to german god
+ friends, a rubbish
+ what veer glaz'd
+ because the liquid
+ into his coding,
+ we said he said
+ we are all a saw
+ then la 
+ apottam, abrupt
+ warm and sunday he watch.
+  
+
+is your arrival army
+

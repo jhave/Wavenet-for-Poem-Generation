@@ -1,0 +1,25 @@
+
+___________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 32347		LOSS: 0.480769
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+___________________________________________________________________________________
+
+
+ IN HER LOVE SHARP THROUGH THE COLD
+
+
+  
+ as a young restrain rings ago
+ though it lead thomas
+                                                                                   while out of the dark about,
+             she'd be a special rainbows
+ to chew       to make the assembly poppies
+ with cold thought of familiar goddess
+                                 of what i saw
+     
+            
+  
+  
+                                            
