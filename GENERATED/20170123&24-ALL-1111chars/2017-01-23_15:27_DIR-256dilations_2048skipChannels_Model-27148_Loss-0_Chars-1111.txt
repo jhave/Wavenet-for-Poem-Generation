@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 27148		LOSS: 0
+dilations: 2^8			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 2048	quantization_channels: 256
+____________________________________________________________________________________
+
+
+ TEACHERS                                                                                                                                        
+
+
+
+
+
+oaking me to all of every room, lord sea fyre
+                                                 
+
+here use-sad pillows --                                                                                        
+
+                                with man set on find out in new 
+                                                                                                                                                                                                                                                                                                                                                                                   what the cension wind and the fire now   
+                                                                                                                                                                                                                                                                                   

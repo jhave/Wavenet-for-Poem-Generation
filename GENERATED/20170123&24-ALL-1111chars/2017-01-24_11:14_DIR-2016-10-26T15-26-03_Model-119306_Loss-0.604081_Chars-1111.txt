@@ -1,0 +1,65 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-26T15-26-03	MODEL: 119306		LOSS: 0.604081
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 32		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+ AS                                                       
+
+
+                              
+                                           
+          
+
+                                   r
+                           
+a s 
+
+  yoy tlicl ss, ve whill hlibw .   w           thhen ntnshe
+e awumsd to
+id. 
+e                                
+   i
+ f iwso o 
+ ilaoy hat iice
+   a ohml     
+
+ 
+             woy af ti ot s 
+  w            ab                                         a tire ett                    
+        wi ed saliwoano men s   th , t
+att 
+      
+     
+    a f     
+            
+     
+   
+          
+       in-    
+                        
+                                             
+      
+         ha il the
+                                                               a       
+            ia f                                        
+    
+  
+  
+              
+                     
+                                     
+ ik     w
+                
+                 
+           
+
+ 
+    ad otd n, hhirveim w       & 
+a n boh
+   buabot ta, owsave tad
+                           
+                              

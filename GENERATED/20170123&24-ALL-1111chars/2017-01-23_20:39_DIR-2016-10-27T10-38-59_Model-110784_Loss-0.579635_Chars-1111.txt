@@ -1,0 +1,16 @@
+
+____________________________________________________________________________________
+
+DIR: 2016-10-27T10-38-59	MODEL: 110784		LOSS: 0.579635
+dilations: 2^10			filter_width: 2		residual_channels: 32
+dilation_channels: 16		skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________
+
+
+                                                                                 YT PATIENT
+
+
+  
+  
+                                                                                                                                                      liberty                                                                                                                                                       how taste will come back                                                        i see my shirt
+                                                                                                                                                                                                  in virgini of a man sell,                                                                                                                                                                                                                                                                                                                                                                                                        
