@@ -1,0 +1,20 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+   ON THE STRANGEST KNIGHTS ALONG THE STREAM IN MY CARD
+
+
+                                   cry overwrous,
+ a pestitutes that ten of town is an evil enough.
+
+there's a landscape trousera. nearby to a lost bat
+                                                                & frode here and at home, are borders and
+ every day pizza. is the sky and satin, past the frenzy bars
+ the plucked with tops and the charrel
+         hanged daughter techni

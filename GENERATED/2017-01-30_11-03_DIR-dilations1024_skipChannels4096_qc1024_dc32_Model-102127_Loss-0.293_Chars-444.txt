@@ -1,0 +1,22 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+                                                       IN MORTAR HILL.
+
+
+  
+ my next, i might, to bend in the
+                    and out on this, since   
+                                                the stars of myself,
+ when i looked for the evening 
+                                                           have feared
+
+impulse the passage of my own essence
+                           one mind the nymphs, and hairy
+ from the dragon is a 

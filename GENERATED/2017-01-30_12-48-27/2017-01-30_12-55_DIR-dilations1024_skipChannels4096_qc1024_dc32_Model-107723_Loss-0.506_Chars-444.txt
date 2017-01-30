@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF MY BRAVE YEARS THEY BEAR   OR   
+
+
+one jealous arm the glory till the condemned 
+that yet-flowers to measurech field in a row 
+my shallow alarm her weakery secure round 
+but stay show, 
+as if the image lands do this last, 
+                                that did not thine 
+      t' all the cause look down o mother part 
+to thou even knows when the work david nuns away, 
+flowers leaves to my call enchanted pain 
+but thee deck'st by death a

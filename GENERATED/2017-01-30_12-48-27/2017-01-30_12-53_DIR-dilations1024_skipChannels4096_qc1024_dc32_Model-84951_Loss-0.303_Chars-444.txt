@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                      BUT PAVE MANY PEOPLES,
+
+
+ maybe you don't know who titch,
+ but surely intill you hear the granite ouce can't touch the eye
+ when she still the world has to be more than thy happiness.
+ its quick sephinsion of blood, then hedeings that
+ under her in a spoon. lahusake with the blaze
+ of past me a needle , half-truth dequite arranged dissolving
+ the wind and tribes of the broadways and give us

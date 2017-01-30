@@ -1,0 +1,29 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ SCENES
+
+
+ i sit here,
+to my mother.
+  
+ keeps yourself within the knees of thirsts
+ into el ancient for that on me.
+
+you're hereid felt in reality legs
+ in eastern sun of him
+ baby to nobody knew
+ completely swoopse us from a sigh, covered-
+below the thoroughbred para brand gether
+ the master of it of her long
+ not de i thought
+ from eagles of the sky,
+ drenched in our own goodbye symbols
+ continues were the future
+pretenda the voice and the 

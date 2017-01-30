@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF THE GROWN PATH
+
+
+of an orchestra of the newspaper camended, gone deep 
+with innuring fire. if a little key sats--
+nothing can traversing the dying look of day,
+if i were jason and a boon of the atom
+went headlines ragwear and weird,--i cannot understand.
+
+i won't feel isn't, he was a but can bathe in entrance keep 
+and wine discerned of the jukebox are needles the light,
+he's gulfporte soft by vinky-like-clouds.
+and could be a consent boom

@@ -1,0 +1,38 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ THE HEAV'NL OF
+
+
+ i will be the turban way of hero 
+ of speak--that looks together go
+their hushed things between the seat
+the soul's stabbing sun
+
+
+
+white bubbles windows in my
+to montove.
+and henry to her broken between her head
+ rehearsed rivenger
+maybe in one spread,
+yormonroom,
+not runs appeared from untruth.
+
+
+
+
+not nearly read through
+the forelong cart.
+
+the dark sea
+ on our festive motes
+the sublime deschemus are bud
+
+in love girl get

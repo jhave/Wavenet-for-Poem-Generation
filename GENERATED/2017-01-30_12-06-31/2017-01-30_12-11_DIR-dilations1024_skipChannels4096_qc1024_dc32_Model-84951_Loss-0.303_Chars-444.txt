@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ EYES MEASURES.
+
+
+  
+ he lay shouldered, for all high grief, by second,
+  
+ brand machine who called the light.
+ the day was webbed the wall
+ farther, there in my mouth. i am trying
+ in his hand nights me was a perilous slanting.
+ there are the earth so crap enough for goods.
+ the water was too garganted from a mountainside 
+ freedom and then from the fall, with less as longer
+ pischinois snow cried from a song--but one ledge.
+ he recognized t

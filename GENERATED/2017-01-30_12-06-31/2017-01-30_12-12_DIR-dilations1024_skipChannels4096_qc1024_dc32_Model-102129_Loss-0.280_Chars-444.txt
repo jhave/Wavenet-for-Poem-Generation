@@ -1,0 +1,25 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ UP TO THE BEGINNING
+
+
+ eye-bear be the marrot i call mackaren.
+  
+ i salute of an old man california--
+ and what
+ but  laughs us and sure-face to read us . . .
+ have you bastards the breathless quickly wind
+ the mind is on our fault of water
+ the long cleopatra's banal. i am blind.
+ they fed yell shy that hard.
+ it's a hind of ever.
+ when all the boot-colored against skin.
+ agrous that business. there have black
+ the imagined the wealth board

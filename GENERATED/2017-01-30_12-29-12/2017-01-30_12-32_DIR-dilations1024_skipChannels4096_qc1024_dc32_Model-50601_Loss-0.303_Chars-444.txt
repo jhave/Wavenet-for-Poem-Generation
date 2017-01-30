@@ -1,0 +1,29 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ FOR SOMETHING ON AN OAZE WITH SOAP THEM DRINK 
+
+
+                    but don't listen.
+
+
+    e                                       forcing 
+one dissection of
+ terrain on top of corn 
+                   like grandiose
+         to another, inexthore
+  
+ over the animals
+                                            to ping
+  
+  
+ far out of him no use--thin,
+                                                      let along
+and bowl
+ by these quie

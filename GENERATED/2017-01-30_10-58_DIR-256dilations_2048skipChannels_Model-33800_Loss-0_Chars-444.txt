@@ -1,0 +1,20 @@
+
+____________________________________________________________________________________________________
+
+DIR: 256dilations_2048skipChannels	MODEL: 33800		LOSS: 0
+dilations: 2^8				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 2048	quantization_channels: 256
+____________________________________________________________________________________________________
+
+
+ THE BREEZE. NOT HIM
+
+
+i'm even the snow, or lingering into you
+bit, evening its focus, standing the ecstasiest what the tangles.
+  
+ this is declined my for my head to make it scotch, 
+pale alone, sent ones-- two inside them to be gotten
+                                                        like a small rats to certain and eyepuls 
+                     to be comes hold a yellow men compract straw
+                                            

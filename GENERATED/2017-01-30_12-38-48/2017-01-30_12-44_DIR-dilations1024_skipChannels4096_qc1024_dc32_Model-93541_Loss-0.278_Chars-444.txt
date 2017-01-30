@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AFTER ALL THE CENTER OF
+
+
+ my fingers and saw the dead dogs and seldom hack in the tracks.
+  
+ juncts the founded rejugery arms to weep a tune and falls
+ glide, the belief can actually the coffee alone
+ at philip bare the weak and battle,
+ think we may hang manicured barren a plab of content
+ sacked out herself from a roll of rising of being a castle
+ or writing a footnote.   feel these hard christmas circles shirts 
+ how much yourself
+ its o

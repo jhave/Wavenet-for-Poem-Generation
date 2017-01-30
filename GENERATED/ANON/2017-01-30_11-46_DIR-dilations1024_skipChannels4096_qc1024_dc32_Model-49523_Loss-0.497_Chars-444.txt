@@ -1,0 +1,30 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ THROUGH TO SEE HOW MANY
+
+
+         in new singing grey told me
+ must no one
+ okinawas
+ this is the branches 
+       the empty space,
+ they were the highway
+ they all i was not unseen,
+                and the rocks
+                but the
+ about it
+             spring into honor
+ holy from the river
+         zeugens losafer
+              holy this baffled
+                                   but
+ 
+                               the teacher way.
+

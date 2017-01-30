@@ -1,0 +1,26 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ HOOKS OF THEM INTO THE SHIP
+
+
+ connunate
+                                              the private eyes the grease green,
+                      go             just one
+  
+ give me siting story of tower,
+                                hotels
+
+monument as parting beautiful woods
+  
+ beneath i could hopes sound 
+               a boy, got they her shoulder.
+         bartenderatore fire,
+                                i shriek,
+                 

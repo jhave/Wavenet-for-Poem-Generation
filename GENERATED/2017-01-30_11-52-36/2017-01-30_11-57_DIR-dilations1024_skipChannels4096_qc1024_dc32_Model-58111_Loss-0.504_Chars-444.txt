@@ -1,0 +1,29 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+  MILES ARE OUR FINNER. NOT SPLIT
+
+
+ a dollar tin.
+  
+  
+ how many pinkup, in rooms
+ glide out of the 
+  
+                       finds me
+ from a heat that used to scalloped
+                                          of course,
+             caught in that trighten
+                                          you smoke.
+  
+  
+                       the mant
+                                          against grandchanning
+  
+       is not of my hands

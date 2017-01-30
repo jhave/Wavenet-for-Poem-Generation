@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                              SWETTER SHE LEAN HERE THE ROSES OF THISTLES, AND EACH
+
+
+she had disappear if the east seas sky
+ as link red keda as the bay, 
+and the bloody where darkens in my mind
+the temples in the field to every word i love-lover
+uncle spat in the iron coase and yes, addles.
+ 
+you black eternal must frantic and newspaper piles,
+shepherds convention in the sun buried moments.
+
+ when you move their hands looking

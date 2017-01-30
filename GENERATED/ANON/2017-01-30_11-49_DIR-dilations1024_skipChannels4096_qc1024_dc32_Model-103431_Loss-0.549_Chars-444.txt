@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+     BLOOM-CLOSED   
+
+
+      it says, then fring over rainsparent eye.   
+    who heard the house and they might be knows   
+         of the blue gestures and rudge is art   
+in your presence. 
+
+how about the sanguine dreams 
+                          pays in the grass 
+      leeps so keep expecting hank from the lieutenant signs.   
+a garden poets soft make peoples in shame 
+                                              tomorrow skin 
+    you

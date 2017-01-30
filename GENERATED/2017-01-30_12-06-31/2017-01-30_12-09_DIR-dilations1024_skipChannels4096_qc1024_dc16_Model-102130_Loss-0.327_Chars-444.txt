@@ -1,0 +1,25 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ MY SOFTENED JAZZ
+
+
+ and love out lavender, over agree
+ and sell on its grave grass blending 
+nubla sand the arms of people ares tongue
+ in my hands in the parcel of posing simplicity.
+ the most in the gossiping pointing me gaze,
+ but not the end yellow withers hiring 
+and if you'll find these words even
+ in the night's pale means rolled in death.
+  
+ the kind
+ of being loyal it to one el board
+ in a complaint, half-come-tic children
+ thise tr

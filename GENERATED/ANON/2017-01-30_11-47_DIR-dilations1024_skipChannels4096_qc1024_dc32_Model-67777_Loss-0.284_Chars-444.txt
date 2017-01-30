@@ -1,0 +1,23 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+   AND ALTHOUGH
+
+
+ we
+ will tell you are not always pushkin, i'll plan words
+ that will be happy from the story, the palms flickering
+ of those buold grace, and the times were a citrus,
+ just a boxen flashes of bone of crayons there's an eldore?
+  
+ some days, the shell that grow he was the temperatures 
+ at the elements argues just so. why are today, 
+ unstacked her blood-drooping tranquility
+  
+ that even if he was used for one and one vanqu

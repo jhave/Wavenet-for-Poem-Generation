@@ -1,0 +1,25 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ SHOT
+
+
+ up the pine the sound of one of years
+ above that which are
+ a disappoint the image
+  
+ to my long handwriter hammered
+ the gold lack of jow of cannon 
+face, orangest leaf-shopped there
+                                                                            the east
+                                               i said. 
+
+i said slave out in night,
+          three crowd the air.
+                                           forget th

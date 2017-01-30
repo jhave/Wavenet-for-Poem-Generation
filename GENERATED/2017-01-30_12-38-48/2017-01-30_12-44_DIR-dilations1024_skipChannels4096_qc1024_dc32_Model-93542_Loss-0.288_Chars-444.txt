@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF YON CROTON'S WORK OF ROME
+
+
+ wanted to jane the east
+ who relished the blasted glass
+ into a fingering heats. bow, satin
+ that sweep to the expedition
+ they smiled at the station with me.
+ negatives together in a rain-
+ manta and a fence draw
+ a grown table, on my own.
+  
+ silence. no rang flare,
+ malige, three as drama-orange astral
+ blossoming through a hand
+ with a hand unhinged molecules,
+ there was a tentecond seeds
+ i ran after      

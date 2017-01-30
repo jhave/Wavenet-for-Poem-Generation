@@ -1,0 +1,27 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ THE VAST
+
+
+ trains in the razor in his wrist
+ yet south from his top its muffins but hold.
+ and i wipe this, i've dived,
+ and dancing bottle photograph song
+ & the pen torso
+  
+ there is orange a cook
+ and and let us need at the break,
+ and her started meat and chalk
+ tiamanrians by turn the stalks
+ that in the middle of a made of
+ home persecutes t us, passed face
+ that suddenly tell me muted.
+ my chanced fruit to rest and sarge,
+ and think 

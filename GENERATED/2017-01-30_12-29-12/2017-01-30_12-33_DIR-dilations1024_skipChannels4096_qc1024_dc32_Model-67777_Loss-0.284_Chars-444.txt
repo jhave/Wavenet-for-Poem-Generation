@@ -1,0 +1,22 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+           BUT PRESSED BY A PILGRIMATE SIGN 
+
+
+            stacks upbones in that in my life contrary.
+             baked and bloods yet the spring of god,
+                        and white shrunken
+
+ for rules of unbergan
+                                       or so, if we have
+lost interrogative at the end
+                                                      and loathes,
+ 
+                                of the time, if there were so bliste

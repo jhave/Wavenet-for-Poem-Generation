@@ -1,0 +1,34 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ LEFT BEHAVES
+
+
+ so that old english who the pretty talent in a square
+ in a sapwomb of juice. silence and the resisting 
+        sir.
+. no, no phore--pinkers. in a wide lack of fire.
+ lit up their organ on facing parked pear.
+  
+  
+ ii.
+  
+                   it's portrait,
+
+or the spring's trans--
+ the ropes look
+splendid folding
+  
+   all knolly
+ curves in a ring things
+  
+ there waists--
+  
+ corn kinds of the world
+ and crows the yawn to be
