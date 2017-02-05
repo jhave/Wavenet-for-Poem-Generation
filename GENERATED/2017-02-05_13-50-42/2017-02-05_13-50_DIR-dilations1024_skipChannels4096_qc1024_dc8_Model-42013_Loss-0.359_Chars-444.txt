@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE BAT,
+
+
+o thoroughbership sigols
+ museum. reaching blue,
+murroad of unfinished wooling
+ and blare hardened inside--
+of played and grapple fast in
+ on the weaving bundled sa bird off
+ to him friendly land
+                         comes' chill upstairs,
+                                                    around misheard
+ eat these were began.
+                    they foundered them that we'll he
+               from bond. or cared with burden

@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+ maeijuana piled over moreway,
+ the matron, in the exposing plant
+ poets, another heavy adventure
+ of a stemrasty fills again
+  
+ again
+  
+ on the zincing raider-cloper,
+ flesh, wiped on
+ phone its caballan
+ as a number.
+  
+ closed to her normal.
+
+
+             has shorts, sonce shall make
+
+                          i feel them into the auctions of death. a story.
+  
+                               window another sphere
+                    

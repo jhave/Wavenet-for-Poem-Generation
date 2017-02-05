@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          AND OWLY
+
+
+                                 fairies
+whetherf weeks again and being peacefully 
+            you brought him by myself
+             and still sixteen with my people
+                                  the european street
+                                 fire through
+              prompter from orbs me the heart 
+               thou mean the door ones,
+        she puts old with santa renting lands
+                         

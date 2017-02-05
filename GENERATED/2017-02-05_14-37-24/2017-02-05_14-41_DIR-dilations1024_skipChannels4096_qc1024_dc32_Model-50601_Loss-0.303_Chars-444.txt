@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         IN A BEACH DREAM OF THIS,
+
+
+ the center in hand on the past things
+     and i am not easily.
+         and kuesed to moor.
+       the castrong alley,
+ teach us assessed and gwards the land
+      over and boxes and be center flowers
+      shirts on it, idiot
+  
+ can on kanity and bled weves
+     this nimbles cheek and the trees
+        cosmotion, and other gray,
+ a bubble and kin its fragrance
+     i song the isolation to houeth,
+      

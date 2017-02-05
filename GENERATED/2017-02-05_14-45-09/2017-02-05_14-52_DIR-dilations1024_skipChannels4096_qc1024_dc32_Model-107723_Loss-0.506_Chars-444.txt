@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FEE FANCY BEFORE.
+
+
+
+yet was transienc' could be all one,   
+      he well ought to death                               the white love it different company   
+                   move manages, tho' idle help daylight either love 
+                        no longer my boss began to calind weed 
+      of conscience, 
+         in my garden passion and hail-saga correct is he. 
+   and a camel death in that wore man's relaxed walk 
+                 

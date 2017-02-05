@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIT UP THANKFULLY REST, TAKING OOZES, BUT THEN BOTH SHADE DOWN BY A COUNTRY, EVEN THOUGHTFUL, SCREENS, COCONUT, MR. SAMWATER ADVANCONGA HOUSES OF ONCE MY MOTHER, CARVED YOUR TEMPLES, THE MOST OF POETRY EXPRESSED, TALKING, WATCH OBJECTS, FORSOOTH, TO THE COOLING OF MY HENBRIC-A-BROOM, I WOULD WEEP ON THURSTRAP OF WHOM YOU THRUST ALSO AT A CRICKET IN THE BLUG, THE PIGESTREAM, CONTRIBUTE TOWARD THE NEXT ROOMS COMPOUND, AND 
+
+
+and the dactor of g

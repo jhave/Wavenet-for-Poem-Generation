@@ -1,0 +1,27 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ SQUEAL ATTENTION.
+
+
+  
+ i have often to my wound all dead .
+    de sank into the most of glowworms,
+ such a noble light of bluebeard's gladly
+  
+ pumps into the champion of understice,
+ a friendly drenched from with
+ seeing a bird in her pride,
+ nicked in it answering slides
+ and is rushed machine from the pronew
+ of human feel feathers trying
+ the simplest satcreonworms.
+ not flo-smoked the egg moved and to poor
+  
+ on she whisal words comin

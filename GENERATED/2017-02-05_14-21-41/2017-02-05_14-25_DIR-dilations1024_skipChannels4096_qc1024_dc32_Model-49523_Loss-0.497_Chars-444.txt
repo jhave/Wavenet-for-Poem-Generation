@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND MY HUSBAND'S GONE,
+
+
+half thinking my frogs
+ sleep into a seed
+ they've veramin 
+scattered by the train.
+
+
+a tall means i have eaten
+ frightened its risky
+ that accept a plate,
+
+                            me damn what old odon
+                  the colors
+                            shovel pooled and
+              as always side.
+                                   
+                                                                         

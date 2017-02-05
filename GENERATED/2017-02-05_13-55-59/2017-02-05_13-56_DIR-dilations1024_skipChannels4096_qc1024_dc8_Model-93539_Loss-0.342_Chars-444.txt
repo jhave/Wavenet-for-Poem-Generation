@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SENTENCES. I DON'T. WIN
+
+
+ twach coveted, i walk in my two. copy of us,
+then down, shout will it out and paying
+of the medic were in violets. a vitamine
+
+who have knuckled by table, and amends and bill.
+
+he knew thatch our stars unfomerced to her passion, no
+dax to split machine the master's nature summer,
+                                                        i
+                      --should, a word, is bull of my own.
+  
+ the way dogs are 

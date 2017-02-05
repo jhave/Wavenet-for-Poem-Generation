@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EARTH
+
+
+    the real sight of so well.
+ 
+all the wind noon there
+ i have seen thunderbolt in this
+      bent their lans stay,
+a herried sound a growing stylizer
+ but is caught inside her, that's
+in the cheerfulness of the ocean,
+                       i could just those
+         and the only place,
+              yet wound find
+                      thank goose on mud
+         unlike most sky, from themselves
+                    they took mike

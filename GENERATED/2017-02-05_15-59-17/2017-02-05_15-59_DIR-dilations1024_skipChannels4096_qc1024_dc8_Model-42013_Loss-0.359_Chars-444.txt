@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO LIVE THE GRAYS,
+
+
+                                         i knew wakes from footal
+ in a lead. if i wasn't hang takes on happening board
+ has mind off the programs and hardly fill banners,
+          but no longels
+ and the lan to the most small the whispered on my ways
+ of lighthouses, ignore to the breaths of poetry. jug 
+      across the ground, robert,
+two can thin thin fleece of my loved. 
+  
+ for the idle-touch of brings, and later,
+

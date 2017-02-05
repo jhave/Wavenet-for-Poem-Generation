@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       TO MATE A GHOST WINDOW
+
+
+    counterfeit as the blanket of heaven.
+        that hang the fierce chain for restroom,
+ when they said of gentle so that gets them out.
+               blind most flang these who walked away
+           heaven him, not if she had works are spark?
+                 come then is nothing proof of innocent
+  
+                                        and the rockings
+                       and he have to come
+       

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                              --I LONG TO THE OLD PLACES LIKE BIG SHORT LIGHTS
+
+
+                  bright as a treele.
+        their gengophers.
+                   and send to its corner
+                                                          embrace. the highnest
+                      then just
+                                       the gun comes.
+           the denmarks dew winded
+           somebody's bones

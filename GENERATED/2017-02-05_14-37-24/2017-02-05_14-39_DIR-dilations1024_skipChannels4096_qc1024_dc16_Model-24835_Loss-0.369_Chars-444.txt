@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHALL NETTLE, REACHING CORNERS
+
+
+ of coin that read in
+ granite what would have to see,
+ i saw a woman's holiday's whole.
+ loused to lean divine
+  - nodding the twentien to dawn,
+ the governor physical coran.
+ it is a man.
+  
+ of a trains swelling the story of plastic sloughs
+ man
+                                my father dawn,
+ eelist even western seram from the leaf
+         is talks into the top of phis lundevas if it is the middle stones
+

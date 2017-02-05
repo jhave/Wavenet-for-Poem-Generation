@@ -1,0 +1,37 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIVE-BRANCH
+
+
+ white enemies are still watches
+ bitteresceafte with a draper it.
+  
+ i sometime
+ but there the striped fruit
+  
+ and we die, and something is
+ i go up an executioner
+  
+ the bright blue la
+ of another effect,
+ and there he dramal?
+ is the andescent belt
+  
+ you could take the air.
+  
+ i try highest scraked tide
+  
+ if he drums and tizzing
+ give him a country
+ where for twenty year,
+ which was taken every
+ strapped surfaces
+  
+

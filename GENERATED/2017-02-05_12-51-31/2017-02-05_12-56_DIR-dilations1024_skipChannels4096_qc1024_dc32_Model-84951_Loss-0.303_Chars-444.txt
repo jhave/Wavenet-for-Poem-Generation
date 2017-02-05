@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      PLOWL NEW TRIPLE PRESSED WHOSE?,
+
+
+ yellowed our several lamentable violin suit. high innumerable - 
+                             the wounded story of genius bickhone man shake
+                      siring away     wave of them that often, which is, in-
+                                                   till i did not ten. 
+                                                                  and the rest of the jove
+  
+                     

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FEEDING THE WEST TO MAKE SO WORDS
+
+
+ my vanity quiet and get in three men have
+ you attaciable to startle-old news and you
+ of gas and borders on one you confess
+ in their own arms red, the likeness of gold
+  
+ i would have lived on the grooves, apartment
+ we walk us against even seen my mouth.
+  
+ very seductive chandeliers and class
+ he is displease until the bods
+ and says the newling petal & lots up to
+ unborn statue, solidi turned out ou

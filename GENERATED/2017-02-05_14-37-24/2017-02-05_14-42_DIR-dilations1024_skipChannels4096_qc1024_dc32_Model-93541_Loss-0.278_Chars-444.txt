@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           SHALL NEVER BEFORE THE MIRROR,
+
+
+ where i loved him points dishes. in my window
+       the leaf of plastic tiers
+  
+          its tiles and arcader iv fee from the charges of jasmine,
+          and the sticks for a face so my friend.
+  
+ a technique of the stage, bank all his talked dish
+                  and an inv to bells sensibly outside night 
+           mirrors shall o'er the only shop up, and for more
+ so the new holly-like o

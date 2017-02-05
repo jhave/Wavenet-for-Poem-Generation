@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WREP--STILL NOT
+
+
+           the suspens but,
+--and these fields may lost
+           magic tattered watering 
+                  and the sky ground
+ said that sense of ghosts blazes
+ for the flaring of them as
+              these were they had lost
+ in the spheres,
+             today and balm
+                  pupped
+                        phe whispered
+                          in fiber twinkly
+ black the beds.
+                     to kneer 

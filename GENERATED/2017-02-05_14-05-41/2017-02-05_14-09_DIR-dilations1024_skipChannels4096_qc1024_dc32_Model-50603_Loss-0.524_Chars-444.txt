@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FORECASTER.
+
+
+  
+ make it's wonder if you're alone
+ years ago, buffalo with equal murmuring
+ with the age carne, shortening.
+ let me and single hand.
+ the sky
+tripically lemon
+ personal logic with a vow
+ chains and new shall misses
+ my head or stop conductible,
+ and with measured sun.
+
+
+the spell of words below rooms on
+ second stumble grass
+in the water
+  
+ and that fish man large
+  
+ i'd go down the iyle to sleep coils
+ as i died in a treet

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           EAGLE-                  TIMEHED,
+
+
+ so the gates of kings uron lotus 
+                              the figure of water,
+ the grassest falls,
+                             a bridge
+       post off the black hole
+                 the stout deeper dress
+his unstoppable juice a rubber uncover,
+and wear, a tottering through them to do
+ walk forgotten to hold protects
+  
+ theater, of a spoke in composition
+by a careful. you will find
+  
+ 

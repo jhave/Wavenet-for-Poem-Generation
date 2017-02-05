@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE ROOM AGAINST THE SOUL
+
+
+    the mountains once commanding in the flowers 
+
+    that will compassive standing every peaches 
+    to believe yet he knew was 
+         the rake sea, 
+and no woo'd be clutch and sum 
+            they jest, but fair and walking till near decide 
+             look a common hollywoods & who defeat.    
+      the scene came up last 
+      within this grace the wound thou hast sorry, 
+              of precaution ha

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GYRATES OF THE WINDOW 
+
+
+         and child, squat plubbed and forlorn today   
+                                      they left marked he shouts. 
+you will promontore at sea-man-samboned-- 
+               across them muss with bright cavity of fate of hospital things long   
+           one needs can fill it unnoticed alateral evacant. 
+
+words of his mannery explanation's free's   
+                                          ameaboreal ways of m

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE BOMBINE PASSES 
+
+
+                and against a hammer, alternate the peided.
+                                                                               green quart who i lame.
+       now so much mouthke, who's walk,
+our daddy scaves are not most stir
+ she did not believe for markers betrayed into my ruder's buxtif,
+ a world in the wall come then that wound,
+calibrated glass. ool save of wet dread as who had been
+                     

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   RUNNING THE LAST.
+
+
+  
+ then reflected slaughter, bending? 
+ searchers. some day a hundred near each card
+ float to go to gather at a dressy expressed,
+ of balance around him. it's an imagination
+ is called was st half-closed somebody's
+ a watching about to himself creek,
+ a prince, maintain by the hopes are bathed
+ touch
+ walk hottear in the midwest poems, changing in-
+ hands that year's only a mint's earthly garden 
+ only nor did i am the

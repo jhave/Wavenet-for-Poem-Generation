@@ -45,7 +45,7 @@ declare -i var=0
 # 38-59 
 wavenet_params="wavenet_params_ORIG_dilations1024_skipChannels4096_qc1024_dc16.json"
 
-declare -a LOSS=(0.369 0.306 0.327 0.33 0.656 )
+declare -a LOSS=(0.369 0.306 0.327 0.338 0.556 )
 
 for i in ./logdir/train/demos/dilations1024_skipChannels4096_qc1024_dc16/model.ckpt-24835 ./logdir/train/demos/dilations1024_skipChannels4096_qc1024_dc16/model.ckpt-84953 ./logdir/train/demos/dilations1024_skipChannels4096_qc1024_dc16/model.ckpt-102130 ./logdir/train/demos/dilations1024_skipChannels4096_qc1024_dc16/model.ckpt-119303 ./logdir/train/demos/dilations1024_skipChannels4096_qc1024_dc16/model.ckpt-119542
 

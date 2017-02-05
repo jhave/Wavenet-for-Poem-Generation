@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVERY AIR
+
+
+ were not fused the mountain's convalescence
+ phelling and freedoms that it leave.
+ later, doesn't much milk with their own shoulders,
+ conceiving a weaker savage do next year,
+ sang mimic from gently stump mendicious.
+ you'll set the bubble. the future to tell
+  
+ and give the lawyer's pillow land on its feast 
+ that says turns down theater. you learn to answer.
+ war. let's been and leave my hands ponies
+ where i see you a sailin

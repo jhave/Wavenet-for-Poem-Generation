@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   
+
+
+with daisies to every gray, 
+and before the debris or cloven yeare 
+our sleep. child e gale 
+his young man, to all to know 
+it were 'em with you path she her, 
+a peaceful glancold time to dubber 
+to  revive their pink that coiled   
+to pleas'n failed like the maid. 
+
+quick wine of seat fat, my job, 
+espoused in their places and day 
+then celia, 'will tell you to it. 
+
+jove hell of persist and in the mowers
+he the search of it-- 
+like a c

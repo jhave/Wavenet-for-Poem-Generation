@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BURRY LIGHT ONTO THE 
+
+
+marsh, you are light taught at bay.
+          popular. yesterday's breath one
+ to be buried the squabbler, the belly and half
+  
+  
+                                                 it is
+ finds on the wet holy state
+          of unvidiered civility
+ the useless
+               the grand-grandfather
+         any one ta-as-confeats.
+           the crimson reasping
+                      i have to know
+a strange to holy you

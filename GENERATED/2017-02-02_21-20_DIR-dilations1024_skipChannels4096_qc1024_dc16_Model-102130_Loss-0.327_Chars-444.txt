@@ -1,0 +1,10 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ KIND OF AMERICA CARAVANE THUNDERBOLT SO THIS BOOK IS MOINES SKYWARDS FOR ITS BANGLASS OF MY ARMS THAT WE NEVER BE ABLE TO BE A SOBER WORK THREE BEAT DOMINICS A RAVEN'S DISMEMBERING THE WIND, AND THE MEN WHO WANT TO ASK NECK. I GO WATER A TORCH WHEN A WHOLE BODY SINCERELY . . . A SOUL MARE THERE IS THE WINDOW. THE BOXE JOTTE AT ALL. WE TRY TO KEEP THIS DARK DONKEY HER HEAD. I GO WATER AND TORLED OVER THE CAPITOL MASTER? THE TENDERN'S BEEN A 

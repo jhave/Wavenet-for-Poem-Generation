@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LAY ON SPELL FROM ANIMALS,
+
+
+ amazed the strands were not fighting, always
+ bronze respired to computers
+ a new mouzor of art and all here.
+ i have lain here, brutalized and old and contents
+ and the backlit of these delicate, russet justice speaks.
+ stumpboards the sidebrance. i grew?
+
+                                         
+
+ the final summer mine own walks us
+  on this emptiness
+                      ally that was wood kissing
+          

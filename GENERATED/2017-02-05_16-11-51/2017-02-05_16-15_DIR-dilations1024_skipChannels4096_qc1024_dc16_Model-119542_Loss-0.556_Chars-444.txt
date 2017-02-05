@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHOW ME
+
+
+               bellini's lanner 
+             i could go in the midway
+     yet her garden
+  
+ the sky what is as otherwise is rooted
+             mystery & thy market
+             doing-
+ by gusts getting at all.
+        little black out
+       i was so brief,
+
+its hither chili
+       gayed on
+                 lib. stay life,
+ he whispering was an open with it
+               could be mow creation
+                he.
+     my will co

@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+clay-clogs something like thee accuse all around in jack-- 
+where near kingdom had the crime till dost accustocks and mailed 
+urge green all clear that merciful gladled all the blue. 
+
+and all he lay in indonesian may rend. grieved of the applause 
+between our worlds my glass in ecstatic busy on, alabaster. 
+                                                                                                                                     

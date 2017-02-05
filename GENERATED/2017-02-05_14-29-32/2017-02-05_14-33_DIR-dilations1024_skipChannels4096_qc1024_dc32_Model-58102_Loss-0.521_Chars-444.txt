@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A FRET THOSE REMNANT
+
+
+ my riduffels, this line light its pollen
+ i sat upon the church, your time, which still moving
+ inspired the tiny coming daisy with peekaboo,
+
+ 
+  
+ xxxiii.
+  
+ the tender bees grew like little scraped
+ he'd already, and solitude? or ports,
+ one of those who fearth as i hid
+ into a will be illumity? a ship of leaves
+ for less of
+ shuffling its occurs.
+  
+ at always opening
+ gone she be stalked the drifts
+ or a pull thi

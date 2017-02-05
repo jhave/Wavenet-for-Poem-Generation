@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND       ENGRAVE TO HER 
+
+
+    any great receiver you see 
+with all fabley owe death, 
+         it was just me again. 
+
+on the breeze dance, and stay then 
+
+                              slip 
+         mean cold and our shadows 
+                     which descries 
+and birds thus like a telescor 
+       that bear 
+         and a drooping love. 
+
+                                            they stoop 
+                    th'oor 
+             

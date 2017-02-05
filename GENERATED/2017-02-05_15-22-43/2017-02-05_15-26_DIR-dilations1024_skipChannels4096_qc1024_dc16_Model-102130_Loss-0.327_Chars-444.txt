@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STOOD FOR THE SONGS OF THE GREEN GROTESQUERY MINUTES AND WATER I STAND IN THE BLACK DRESS WHICH DEATH, THEIR ONE IS HIGH LET SHEET IN LIFE. YOU ARE PREVENT THE HELPLESS OF JEANS IS AT BEST TRY TO HIS WHITE TABLET OF ESPECIALLY IN MY HANDS. AND FEUDING. THE ANIMALS WHEN FACED FIELDS OF OUR SKIV GAGGLING GOLD. WE SPEAK AS THE SUN OF THE PAINTED BEAK THEN IS EVER SEEN AND KINDS SNUFFBOXES. HERE IN THE ARMS. THE BOOKS SENT REGIROCRAT OF THE BOD

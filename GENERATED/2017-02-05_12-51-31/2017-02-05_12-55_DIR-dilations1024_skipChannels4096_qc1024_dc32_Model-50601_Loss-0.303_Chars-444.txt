@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   NAMED FROM A LOCK FATE A TOWERING
+
+
+      no forever,
+ yet sure a bender line
+ so thatch on a beach of us who left.
+     this song of the slapper in the weight
+ my hand a front of bead-round
+ highly woodcock, the leaves of
+stitches. met us give away again
+ on a street broo-flames,
+ scraps the back mom. their will
+ iv
+ we've dolstoum, but i know it
+  
+ yet a quiet pleasure.
+  
+ flowers to flap in all that telegraphe,
+ of lame for reb on walk

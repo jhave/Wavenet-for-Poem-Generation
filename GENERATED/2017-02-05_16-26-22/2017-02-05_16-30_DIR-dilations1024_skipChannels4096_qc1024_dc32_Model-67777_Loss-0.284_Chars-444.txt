@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOUL
+
+
+ loosen satin copys i see the world to plan
+ i tuse the sun near the sides of fuel 
+ of at the brunned tipped between
+ proved by which a little sardor.
+ my sister-like,
+ and so languish source
+ alone in sigolon warm
+ some dying to the moods.
+  
+  
+ at the top tat, thick as bartered syramide,
+ and the damp and siki caught us,
+ same water in their round to judge 
+ and reached fruit of the familiar
+  
+ of feathers stop the dragon globe
+ i

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR GART 
+
+
+stump. a beer of stars and the church,
+and individuals as i sang and her cry,
+diminate open it stolen the line
+light in my words.
+
+when the potted down arm to fesculate in the stairs.
+ 
+ 
+i'm the boy in puny jacks, who was laughed as
+                             seeping the moon 
+not yesterday had seizes, uncoil
+                        --as is two.
+  
+ lewise mats cries my eyes like a strange
+                of a ring of the now a

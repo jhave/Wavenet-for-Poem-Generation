@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THAT MOVES
+
+
+ our version, music of the devout heat
+  
+ he dreams i have a long ago before us--and now
+ attracted dinner and instrument. the rains
+ flags of use spell things of all my new york
+ panic even reared they were descended night.
+ still persted with vast state. we have craves
+ it would be more, just as simply ones
+ specially
+ a manu in the hound's brow
+ and truths less to be experience
+ heroes passed away, white babble bit for 
+ whic

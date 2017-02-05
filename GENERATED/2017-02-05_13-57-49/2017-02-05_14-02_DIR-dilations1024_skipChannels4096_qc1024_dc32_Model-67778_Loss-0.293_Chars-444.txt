@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOMETHING THAT NONE OF THE MIND,
+
+
+these event grim-scraped the ornamental diamonds.
+
+the yellowise of a scholar city of the bread of pins.
+
+a bard in one flush has been sand, a good villages 
+     light about belongs
+                            of trim--
+        bearing honored
+                .
+                    withdrawe, raptured
+                                                showing the floor session racfing
+                          

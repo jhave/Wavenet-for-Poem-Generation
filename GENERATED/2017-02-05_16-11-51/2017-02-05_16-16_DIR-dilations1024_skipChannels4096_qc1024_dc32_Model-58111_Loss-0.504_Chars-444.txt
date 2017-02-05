@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR A COLORFUL
+
+
+ that you knew you on
+          old analas
+                cold bluer
+  
+ this river cane-bottom
+     but colorful crooks
+ of the mortal bed,
+ and, and take me
+  
+         to jetger until
+                       fin ten the urroul dead brain
+                                 gather,          some chalks
+ as if-shaped snapping for
+               the light line of those thick broken trees. 
+  
+ iii.
+i
+                  a revolvin

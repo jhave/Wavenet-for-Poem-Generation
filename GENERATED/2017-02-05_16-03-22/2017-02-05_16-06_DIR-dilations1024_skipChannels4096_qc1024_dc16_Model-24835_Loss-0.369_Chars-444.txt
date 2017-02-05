@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                           HOW PEOPLE WIDE
+
+
+ no thought, african i could paid windsor things.
+  
+                                                     to the character.
+ her sheets gave of hilda, lesser,
+              the nanth and some so liquid,
+                               and then slumber than from inside
+  
+                  .                                           the hero, white abhorrence shade.
+                      speaking shro

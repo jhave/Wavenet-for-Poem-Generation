@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CLOCK
+
+
+      your days and the stage.
+         in patmos--
+  
+ , stripe the shepherd, and alternating barking
+    gas and village, and the imperial medical must have
+ live
+      and indifferentiate,
+ at the sinken rid, unseen,
+       then came the professional
+  
+           and building qualities.
+  
+ and the strife of transisting.
+ the afterlife am i think i hang
+ the arsenic with these far from probable
+ starts like burying.
+     and s

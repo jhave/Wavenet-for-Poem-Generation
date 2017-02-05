@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                     WERE CONVINCED, A CERACRUM FORCED 
+
+
+and i prayed to meet,
+
+the midnight colors and there were filled with shred.
+the idle inhabitants stands bend and nature nothing,
+excruciating formals of hermagery swings,
+thick would nadilds at home from without cobbles--
+but the smell of light face of the mirror-
+my minds were they did not here
+stands smallestone let the slacks married white
+like anarchy of prevailing 

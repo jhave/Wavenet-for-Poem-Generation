@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WHITE BIRCH,
+
+
+ and when you reached outside venus letters.
+bears the dewspaper, their daughter put it,
+  
+ slept even wavefully above myself floors
+whose bully? something hat. in this wants
+that looked she housefront laws in the hall
+  
+ like a corn. joe, that day on tuesday's
+ going to the ivory close to the haired sighting.
+              lost shifting in our mentories of him.
+  
+ i am become into the evidence of the blindness
+ fierce b

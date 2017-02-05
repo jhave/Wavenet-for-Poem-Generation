@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ALONE AND CYMBALS, THAT I SAID
+
+
+ savage, a blind manner. their seventh that softly zible
+ in the sharp swells the radio in the backs,
+ tall the poisoning, showing away into rain, what's why we were kind
+  
+ which would perform on the street in the pale,
+ open and holding the toilet's sight i find a soul
+ you hang fresh among with them from my lucent swallows
+ cobalt names. palmetto the facous, and the bound.
+ of fire. i think i would spin me

@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THE WORLD STOMPING BACK AND ONION ON HIS PAIN
+
+
+ ten thousand of my left behind his last tree in the immise of a strategy or the mogives,    the barnyard drive of yonder and how to pat up take. when we buried, where other heard are by the young man for exaggic charisly on your lake-winning branch and diluted my own lip they come to earth at the most lights of the body chin, i have unseen in boo's, a strategroom of roped by the faith stars

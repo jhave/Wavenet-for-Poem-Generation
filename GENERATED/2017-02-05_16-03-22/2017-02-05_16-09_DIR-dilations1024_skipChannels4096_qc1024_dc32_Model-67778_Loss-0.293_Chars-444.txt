@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OR ST.
+
+
+
+my father in the back of the characters
+graced mother rivers, arms, limbed out
+to be rushing schools, from manhattan, 
+
+we held on the facts. these they're gold-
+the city is of an individual tighter's pudding
+while the date of that will also shadows about the floor
+flapped the plumy as she would rose up the soul
+no wonder vanity, on this christmas-shopping
+a monster in a feather hens, and every stem 
+
+released i love the doorway zon

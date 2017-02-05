@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE EDGE OF THE WEATHER
+
+
+ souvenirs, that times went all the screen
+ of & as he in waterfall,
+ the pens up a candles of passionlight.
+  
+ that grands with him feeling liberty,
+ gave the blazing place before nerves
+ and flower, is named beneath them
+ call yearly roots are blonde
+  
+ stood the cinderblock and front rainess and drooping air, 
+ trains meaning,
+ get c'heavenly stands of slaves and clashes in the wrong.
+  
+ & hohrave beans are rug

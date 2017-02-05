@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      NO STORM, MAKE THEM? 
+
+
+       nor hate wherewithal tree, 
+                                             mine eyes, 
+                           will never be 
+                                            
+      to star his though he blessed blood for clouds in thee.
+
+
+tell me what about whatever and . . . a fine  climbing   
+      and all we could explore their faces, 
+      i weave to avail cancel down in me stay home, 
+                ou

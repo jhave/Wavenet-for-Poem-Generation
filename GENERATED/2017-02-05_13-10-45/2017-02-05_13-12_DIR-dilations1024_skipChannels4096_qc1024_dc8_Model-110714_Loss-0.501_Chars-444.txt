@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PATIENT 
+
+
+k gnats, horse our eyes from the quiet beside the towel
+ drilling between reaching fill to death
+ sail from whose cloud streaked souvenir
+ and heart and carelessness. its casually does heads
+of an evening on the burial study
+never deeper threshold of air-spread tunes
+on the tv, crystal covered by a paine
+i know the spirit of somewhere, there? and at last, two here?
+
+ 
+ in threat is separate screen. come out, immense sheen--alone 
+w

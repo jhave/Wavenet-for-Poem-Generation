@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ COSMORAMA
+
+
+  
+ rises and snug in the bars of valley--
+ out of joing is gardens and in
+ of bed love-last broggael,
+         , tuck molance. not be seen
+                                      as if there isn't seen off
+
+shan't work from a morning cup, 
+                                 i   
+ between the strong in the face.
+  
+              ictu tiran in as blind under throated.
+                                                                    

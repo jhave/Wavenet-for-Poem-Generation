@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAY, WHAT SCRAPING LETTERS    BY SUFFERINGS,
+
+
+ the desert. a tree taking canyon.
+ here is the light-hungry aside, he ain't water arrived
+ the bouquets of an eighty-one. if the language filters
+ in battery must depot, avoidana artist
+ still keeps have what falls to the household budded up
+ the child whose nice growing something falling the idea,
+ he did notes, bubbled nuns in an afterthound      ghosts heavy
+ instruction of all more than broa

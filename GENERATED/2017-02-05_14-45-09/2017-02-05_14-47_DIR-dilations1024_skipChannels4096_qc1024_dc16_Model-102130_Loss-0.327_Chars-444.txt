@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN ONE,
+
+
+ a sea was glacier, but also knows of wooly,
+ speak dress? i strives her nancy
+ and the belt scenes. street, a tower.
+ like the heaven's eyet higher read
+ in dons on the gaps of doughnuts
+glories of last embrace for the absence
+beyond seems to a key of languages that turneth
+ absent dusk day, or ducks from trees. 
+
+alive on the six on those learned
+to a kite growth her head
+ to ghase to easter them all spelled it.
+
+
+and there's no a

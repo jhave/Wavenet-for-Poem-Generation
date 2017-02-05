@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                           A PERFECT ESSENTIAL KINDS
+
+
+stepped dusk                    and know no better... 
+
+i think is something last good-bye-eyed deer whose miss during
+in its ghastly who mocks levitation still
+you can't stumbly standing a name in a pile 
+
+dim al detroit thumps, girding along firms
+takes up the tours cut out the very next
+and all this deep my words, the internal leaks
+its rags all the trees

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THY MEANED PALL, 
+
+
+vain the captive girdles sailed in vain. 
+yet ev'ry ground we are thine eyes did open 
+to did is calcitrock in them a pictures 
+--his own black bull for that once tremble favor 
+
+                                                                     nicht 
+                                      lore, such know it hushes her own. 
+
+                                                                                                

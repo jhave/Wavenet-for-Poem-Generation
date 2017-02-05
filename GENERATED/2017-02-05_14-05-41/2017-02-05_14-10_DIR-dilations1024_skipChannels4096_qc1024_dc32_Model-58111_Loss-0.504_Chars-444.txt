@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ --
+
+
+  
+ the work for the distance crumbled
+ trough with a saquesting,
+ forget the warmth' once, and arraying
+ the image food bursting magnets.
+
+ the great mask the beginning,
+ a coast to the barreleent beneath pride
+ just like a tickets fallen forever
+ to work on the knees
+ hulfritcases barbed, women,
+ story opened
+ medical they're feels that explain
+ drown frozen . . . this miami
+ in search. corve with florandi.
+ railnued mountains blinking

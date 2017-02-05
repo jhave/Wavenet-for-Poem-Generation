@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON FOOD, 
+
+
+imagine the hills don't ever seen
+                                       pitter stones
+            it's is spring their eries
+ constantly slumped evenings sprout.
+the finished kids on any tiny sandle-
+
+
+no, the dream great world mr,
+  
+ their turn my suitcases his half tas
+ i must sunny and chickens bar 
+madder polo 
+             to women and bloody. sluice,
+torture of tapid weighed milestial column coin,
+      and the good beacon

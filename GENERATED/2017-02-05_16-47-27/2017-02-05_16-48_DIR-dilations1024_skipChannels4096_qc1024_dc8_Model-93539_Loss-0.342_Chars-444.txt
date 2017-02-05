@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WORDS, JUGGER . . .
+
+
+henry, finally from freedom but half for the smoo-grapes,
+ sea moved sucked. these people looks upon its leaves
+o somedards for hers. as his ear
+ of tremendous of old bd--no one would hold.
+i sit stop friday york. so i drop it occasion.
+it might cake, the gasps of god. a ride a hackneyes
+
+i breezes their minds.
+
+then down almost torn off the blue brown and thueder.
+
+saw you straighten ports and matamorphose
+so i rose and

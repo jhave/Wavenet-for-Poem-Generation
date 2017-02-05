@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FSALMON AND PALE-BROKEN BRANCHES
+
+
+ changeling, like a burned napkins suffused
+ the highest eximing,
+ something you and me casual
+ jettison pass. much
+ old mother is not to pass, manny, and hosts
+ a viney pine-and-care-wall,
+ lost, and we were
+ the parcels of body line, wakes
+ in the full sky or therefore stars,
+ and wheelbasket a nation high time.
+ you and a betting windows so revolution.
+ the lightning small forever tea,
+ and she is already

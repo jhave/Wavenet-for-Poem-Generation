@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     SCARLETRY
+
+
+ it is just weave, to hold the blank macillate
+ riversion now who is gone. down there 
+ say ound him of hand theater there,
+ but finding in the shadowless. jowed with eyes
+ given fled hill against the real gas hope
+ of woods about his tucked boab stretches
+ and useless symbols mountains a shop.
+ but the country jacob's instruments
+ greedy, in the welfare of manners
+ dark and beggars rapcolited
+ the son errey village tired pear

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TALKING WITH THE PAGE
+
+
+ but my life is fly float
+ the floor, the ribs and weight flashed out,
+ let me caught in long as it went books beyond
+ i am already you'll hate of you and mouth--,
+ her dark, yellows. and a man with fire year.
+  
+ the man who contemplate the trains of iron,
+ who writes out a smock of heart. the
+ poured mankind the burial part seas with evan
+ but in the drains of god. a woman watch as nature
+ her daughter, a vapor, the 

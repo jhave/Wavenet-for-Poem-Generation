@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHO PHOTOGRAPH IT HURTS A MAN IN THE LAWN AND THE NEW, THE FORM AS THEIR TURN TO THE MEADOWS. WE SHARES THE TITLE. IN THE HILL OF MANVILLE, INDIFFERENT FROM THE KITCHEN AIR WINDY CONSUMED UNTIL MOMENT IN A SURGEON OF ANIMALS, THE COMMENTARY OF UMBILICAL PEAR YAS SOFT AS SOME STOOD OVER. AND THEY ARE NOT KNOWING THE EMPIRICAL BOOKCASE REINDEERS IN THE VIEW, RUMINAL, SHE HID FORTY-ONE. EVEN IF I DO IN SINGULAR IN YOU AND ME. JOURNALIZED. LOVE

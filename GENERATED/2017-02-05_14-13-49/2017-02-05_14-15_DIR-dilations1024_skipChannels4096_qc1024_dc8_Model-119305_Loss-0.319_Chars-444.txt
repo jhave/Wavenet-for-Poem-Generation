@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STATES THREADING STARS
+
+
+ in the day strangely on form an oval fragrant fell,
+         and the clustering with the things
+ bar heart outpine with private shotguns
+ perhaps where our heads. he still the drift-
+ the trail florets, running as if he does.
+the world kindred the noses back to be conf.
+
+no. barnabetells. we are, fields,
+ nor lengthens plot the battles and priests, translate.
+this is soon they had and the canoe
+ a language and milks 

@@ -1,0 +1,26 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+      RAISED RAFTERS
+
+
+                                  that answered ballads.
+                           strength sky.
+                                                 and sad again.
+  
+ excepts the game survived in rising. the treewood
+ the register in death.
+  
+                 draw
+ walls on me the vomit on a hint of death
+          they taught takes ones. nor
+         how the legend navajes
+                nof threy lips two world.
+  
+ n

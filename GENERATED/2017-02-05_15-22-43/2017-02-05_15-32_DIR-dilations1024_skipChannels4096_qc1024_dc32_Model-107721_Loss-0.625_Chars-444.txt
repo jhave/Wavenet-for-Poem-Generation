@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CAUTIOUS WEALTH... 
+
+
+yet gentle everywhere. my love that shields 
+of beauty to cap completes,--because she watches, 
+and sweet done the unruly out of stone 
+                                we'll be infernal abode 
+          the swan-born deceives and wine 
+thy last upon our different soul event, 
+and withers smarts was called away, 
+and flesh like infamously by the grey 
+unto the air unheard. i'm deign the ease. 
+and all the cause, whose mot

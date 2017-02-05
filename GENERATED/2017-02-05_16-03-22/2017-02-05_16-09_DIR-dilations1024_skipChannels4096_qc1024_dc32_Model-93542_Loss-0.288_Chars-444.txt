@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                    ITS RARE GEDBA
+
+
+most before historical states where the medieval plains,
+who's a de da, chasten rehearse,
+                                             rode victorial pain
+
+                                             as asked ater 
+
+to the living look when i was a distance
+in sandwich, press on vengist,
+                 a southlan lying it gente
+brown call his and one could pierce
+                  and we l

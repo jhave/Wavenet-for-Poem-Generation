@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO BE SPIRALING. WHAT ISN'T YOU?
+
+
+  
+ i don't say to his forest doors, and shrine--in 
+of lose not leave in a green vine. powers.
+
+.
+                                                               so often dawn or maybe,
+ these white strokes our hots time-run.
+                                                                                              in native doctors of burning,
+               their warm makes a hand.
+  
+ liable, don't pla

@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                                 THOUGH MINUTES
+
+
+
+reading over, in my mother
+shot like evergreen,
+in so lowering deciphers gone
+i might build and song as a fool
+oh the kitchen had begun
+
+poetry surround the soul
+wind's over.
+so that alter miles away
+three days. and
+knot
+is the sky
+he won. blinds under that
+books gone back.
+in the chubcher 
+of my childhood--stone
+
+when ever so fair, in minnow,
+yo

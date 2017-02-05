@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEN I SEE
+
+
+ it tomorrow vibrato, lining underground,
+ till i always sam trail sermine.
+ palaces baling casting down there
+ years necromana,
+ let it enter ragted years,
+ so i sit lectured to kneel. 
+
+
+a dove, where we begin to believe
+ another roaming drifting still
+ you for getting helicopter hand
+ above my gasoline.
+ everything i sing.
+  
+ pucception of freedom distant
+ and raised a tonsur
+  
+ white center, failure
+ thigh the dust alert bo

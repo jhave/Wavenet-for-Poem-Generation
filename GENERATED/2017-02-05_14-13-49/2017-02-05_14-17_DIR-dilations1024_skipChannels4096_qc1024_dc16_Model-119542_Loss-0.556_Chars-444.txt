@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LEST. IN THE WEEK PERCHED THE TIMBER OF PREY
+
+
+but there it road to rattle another girl and that he is.
+                                              on the hills of love,
+                                        bare, the opening curator london
+                                                                      i was told
+
+of acauti
+                                          crescent well blossom.
+                              you clung at a

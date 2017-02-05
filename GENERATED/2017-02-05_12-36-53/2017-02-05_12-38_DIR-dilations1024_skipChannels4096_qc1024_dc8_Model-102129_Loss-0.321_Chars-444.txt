@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WHITE OF THE BOWNS OF POETRY, IF TOMORROW,
+
+
+ she said to me from steeples.
+ .                   belbs, suddenly, coal of the weed.
+  
+ death. to make much. its perved before shoots of bliss
+ spider stay lulge.
+
+                                       the orange land apply bedcover.
+ black- wrote iconoclast, qu waking a cat.
+
+now enough out still fakhers of her throne. 
+                                                                      

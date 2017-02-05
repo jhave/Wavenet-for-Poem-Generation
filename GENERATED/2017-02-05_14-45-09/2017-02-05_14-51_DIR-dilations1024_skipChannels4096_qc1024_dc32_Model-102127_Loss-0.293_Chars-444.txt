@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HIS RABBITS MAKE YEARS
+
+
+ into the tent. a stranges' rubbing. veal exempt,
+ something idly an ave of clay in the woods.
+ there are finds to the shouts, and start and scorn.
+ my sack of being love and still was awning up at
+ reflected from the dogs of the glass, where it said,
+ not to be our face--allen every valianism
+ into cuba, creey laughed, bombs out 
+ there's nothing that a turbing through 
+
+     letters in an america city i hide me,
+ ra

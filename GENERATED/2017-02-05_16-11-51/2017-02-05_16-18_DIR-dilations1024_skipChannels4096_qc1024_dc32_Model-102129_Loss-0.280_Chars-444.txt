@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WIDE CERTAINTY AND MORE UP SCHOOLINE.
+
+
+ a position of his bass 
+ with a paper sky, i hear the drading word
+ luxury, the mushes margin, shameasly
+ soaks of trees bloor jim, estly going back
+ and i pulled us in its bloody katar
+  
+ and that the reassuring sorrows,
+ stay, let me scrubbed on top.
+ my heart's unus rigid umbrellas
+ but he'd been a wound, stepping heart
+ manope of mankind in turkeyus, and over then
+ as teenage wetted vague, implore

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    ALWAYS SCRIBED ME 
+
+
+                                                     and there leaf   
+
+    got 
+       windowsills her head suddenly alive. 
+
+                         and grace in its packages 
+with its circles in that grew world 
+on trees of the air   
+same rolling there is loader 
+of frost and roof, into thirst ts tormenting 
+and yoked invasional of its good-bye-smells and caninette engine 
+over the indignant charles and wrung--
+an

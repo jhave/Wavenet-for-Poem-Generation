@@ -1,0 +1,41 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GORE,
+
+
+the world has - 
+glances 
+the viii 
+breast far 
+to rut my hands 
+has never won't 
+august that forced 
+our road        
+which is 
+at the wind of the dead 
+
+and we all the buckle harper 
+wectar's under moon. 
+
+all of a zu 
+of viscon, the young 
+
+
+hold, shoot the short sea, 
+no vone camp 
+in air you       
+    flooing 
+name hats 
+through my father than 
+give me in heaven 
+a river, rich and will. i want 
+obtained 
+that its own 
+even in ba

@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND CHAINED
+
+
+ wave up home, and lush name float
+  
+ & what to the color, next to a melody
+ hard-work to hear his face,
+ an octogened like a man no
+ 
+cunting to meet at the brittle that
+ conches
+popcorn and young pinned 
+where by being still around them lift hand
+ their age and tried this pentelo
+  
+ will die, tender, stones in the cleft,
+ i walk full of orders
+
+behind him no me.
+  
+ immense people above the tyriats
+ and the neck of sleeves--

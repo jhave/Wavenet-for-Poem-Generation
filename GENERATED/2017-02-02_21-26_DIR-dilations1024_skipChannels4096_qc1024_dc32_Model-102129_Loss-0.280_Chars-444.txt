@@ -1,0 +1,28 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ AMONG
+
+
+ and in a whisper of spine
+ made kiples and love at the separate noon
+ at last smiles drenching of ash.   
+ get marred cores. the reason
+ of jazz, the cloon that haunts' rise
+ and black floor, but les and a cheek 
+of eden now to the thoughtful heel
+
+
+tonsmithology 
+bill tired to rhode right,
+muteness with a teletyping mirror 
+and masters riddles the resist
+and the sara rainstorm. let them some embassa.
+ 
+this one was in the human boat

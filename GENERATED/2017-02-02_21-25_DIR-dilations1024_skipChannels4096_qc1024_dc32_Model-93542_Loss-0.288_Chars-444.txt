@@ -1,0 +1,24 @@
+
+____________________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+____________________________________________________________________________________________________
+
+
+ SKINNY LANGUAGE
+
+
+      that wasn't mask overcoat 
+       the sounds of valley gaze
+ to the sea and emblems of intellect.
+      overnight where sterns
+           the bloodrroof of frank 
+      the iasy crust
+                         and arguing 
+       step of the eternal to approach
+                    sex pondent hammer.
+ oh it is not so much lend where severe death
+ called the hayth gone against the corners
+                                

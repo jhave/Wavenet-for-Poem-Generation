@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       SIND SOME AGNASTY-VOICES
+
+
+ there and encased her feet were glass
+  
+ one day a green april bread on the table,
+ and yet fitted is the backs of her tongue.
+  
+ heads have been given musical senset
+  
+ with antiquity of our daily waterfall,
+ and ru-quest of tirades easible, from the blind.
+  
+ nor, their brittle boy is its feet,
+ whether they stand in a horse pasture had came out
+ and a on, my own good-feet grill.
+ these the dance hour o

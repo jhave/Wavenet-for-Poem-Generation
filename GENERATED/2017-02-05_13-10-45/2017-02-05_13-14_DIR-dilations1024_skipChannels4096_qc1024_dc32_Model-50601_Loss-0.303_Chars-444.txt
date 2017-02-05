@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE PSALMS
+
+
+                                            just.
+                               on the contrary.
+      delty to her smile
+                                           our back that composed
+  and changed                              each divades that is constantly
+in renotic sit unnumber, and went over her black collection
+ of the inner museum these small through the road
+ bloohocks they being, imprecipice nip and we lay the fish
+

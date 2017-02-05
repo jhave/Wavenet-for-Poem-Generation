@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH WHITE BLACKNESS
+
+
+ next tangled, its supplicated white water
+ now to planning in the desert, 
+            the chant tears i soiles may sympathized.
+  
+  
+ you never were too the loved one time?
+  
+  
+          in silk more pool,
+                                          passions
+                                           daily who killed there good
+ newly have never shall at to say,
+              i'm in a page a slow and people tall.
+  
+

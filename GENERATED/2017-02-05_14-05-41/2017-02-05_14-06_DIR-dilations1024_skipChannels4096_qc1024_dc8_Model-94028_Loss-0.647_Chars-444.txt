@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON THEIR TIME
+
+
+never see you love turned it, when i wanted
+whispering away and your hair the fubits dramas,
+soon enomatos withering longing birds and bag, wouldn't deny
+o, lovely in the boats, the duke of the stars 
+begin this poem fill such unnoticed,
+a week and took that.
+its bloody crawled looking for birds on a dumb
+enemies had to fold hitting                                                                               
+
+
+zibruntigable 

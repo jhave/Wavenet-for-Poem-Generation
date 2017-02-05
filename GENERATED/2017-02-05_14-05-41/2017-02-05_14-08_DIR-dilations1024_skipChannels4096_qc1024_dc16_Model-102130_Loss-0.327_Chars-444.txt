@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EXISTENCE
+
+
+the heart and the grave.
+  
+ the old worlds of under us fire.
+ but longs nest a bottle
+that line on tough in the fourth neither grace
+ moves the only wants under the time,
+ and paddled and like a more of decays,
+ the slide blooms could be of pure shed
+smoked the eyebrows ksan she died to hurt,
+ and binds from the shades of the hudson
+ when symbol proved a square of wood-berries,
+ when he hunger and wet my nearer treasure more.
+
+
+i

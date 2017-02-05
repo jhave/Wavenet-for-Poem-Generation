@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ POISON.
+
+
+  
+ the seepeted lands on my barns keep
+ whiz lies in fact all due
+ and that won't ever seen us.
+  
+ he stood upon a legends
+pride back in a tilting-pined on the tigers
+ ground far again, strident
+ the pool begin trenched 
+outside it in a great deed
+ whom i imagine while he laughing
+ and i often.
+
+
+there was no appropriate with my insertion 
+hand move a rare to probably awake rust,
+the gongs you and i,
+ le and the break--ahabit.
+com

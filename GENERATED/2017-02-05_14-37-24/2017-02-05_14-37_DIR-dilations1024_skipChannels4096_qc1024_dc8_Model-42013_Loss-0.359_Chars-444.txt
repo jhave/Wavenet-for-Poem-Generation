@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THERE'S LEAVES WERE A-GIFT OF
+
+
+bank you have fishing the chased lark and warbles can wonders hunger,
+ black bear the breath is truth what the time
+                             till i laying the pinions are misease
+                and an approach of broken veins
+                                                               wine. he said, its goes with fine
+ in fact the flesh rien through dance & fifty granite
+                four-tlozain,
+  

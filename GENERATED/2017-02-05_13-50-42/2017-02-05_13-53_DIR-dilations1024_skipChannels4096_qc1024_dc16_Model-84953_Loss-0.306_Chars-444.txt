@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE AIR AND HEDGES THE IMPENDIUM OF THE FORTILITY INTO MY SKIN
+
+
+ 
+that thou art without one half-room like a future and shaman, and brains--a kind of blue such knows a well and blank. i have a boys' an attorah. on sh'nly die in sale. two pound and angels. we see him through a crowder of spades and somewhere. her body -- gifts them guts and low in a green who sewn iron and ever be the throbs and seeds. our parentage of a portrait figures d

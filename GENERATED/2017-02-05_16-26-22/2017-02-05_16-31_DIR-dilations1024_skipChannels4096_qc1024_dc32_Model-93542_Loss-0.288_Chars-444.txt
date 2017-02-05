@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           THE SHERIFF SHED
+
+
+                                        god 
+ on the sea, as i have a new room,
+ for at the wealth of white ships,
+        and when i left at the hobo's ears muster 
+         of suit will kill a hill.
+                but i deal waiting the glass
+ buried freedom on a throb of children.
+               with his eyes ago
+             work and expression
+                       all beautiful this
+               take the

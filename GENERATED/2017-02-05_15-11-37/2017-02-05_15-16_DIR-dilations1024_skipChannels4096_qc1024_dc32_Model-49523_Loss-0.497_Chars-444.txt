@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF ORPHEUS' CAR
+
+
+ would be, sing
+  
+  
+ the took is out of my pow'rfule
+ as he starely, headle's river
+      and a thing holy all the large. 
+
+a sangry of being tremor
+      safety marine ear  saying
+summoned in the frae door, only
+ weight's across her voice did the faces
+ and next to evoke and his flesh
+ no snow bigger than ways, but the surface
+ that was rain.
+  
+ not lucky attention
+ but can't behold ever 
+ heard, the movie woods
+ an acz
+

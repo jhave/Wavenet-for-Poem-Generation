@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LENGTH O'ER SCRIPT OF TEA, 
+
+
+two thousand mean which perpect fountain pride. 
+or clopping thee i to length our naked fate. 
+and in the cio-cup, for my leather, 
+when rash let family love redemptive nobless, 
+showing the stories fall their pliks comes to lye 
+a wedding veins they had fled on 
+with your spine to clothe, my tun's chair. 
+but clown-time-maker children are de good and care, 
+see with, when thy plum track of thine, 
+when i take ma

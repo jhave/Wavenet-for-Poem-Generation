@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CEMENT SEGREGATION, 
+
+
+
+music care. i hope and buzzed grounds in the room,
+nomina dad. since i think. some light or not. if you're looked up in in a dark 
+man di broods raised car stop?
+                                                                    light protected bewildered it is
+                                                               or if
+
+
+adam's in size and never do, the sea,
+            what the sky or less out of the gods r

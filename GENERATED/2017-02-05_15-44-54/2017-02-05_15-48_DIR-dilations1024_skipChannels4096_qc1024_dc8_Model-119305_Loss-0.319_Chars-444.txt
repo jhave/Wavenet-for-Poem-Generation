@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THINGS
+
+
+ grasping around.  false to read.
+
+it's all be read the feathers of loves that dark
+to a warm for lying daintily spells
+ and nuzzle the barn. but in me.
+like a better now shapely regular evil
+enters, at a temple of steel things
+then sometimes we still beneath or asleep.
+
+the stones never women on the streets 
+the nose the sheet & read the tip mad.
+ the grave that plainted to rhyme
+ over themselves in the seasick as
+east the old strat

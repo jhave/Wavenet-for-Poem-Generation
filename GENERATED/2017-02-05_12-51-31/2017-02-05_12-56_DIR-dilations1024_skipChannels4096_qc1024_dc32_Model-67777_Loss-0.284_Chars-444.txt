@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF EVERY SPRING
+
+
+ the green of the earth,
+my familiars beneath here,
+ & late jeff before the nuts of rain
+ and the dyke may soon shall living
+ based on riot, and a sort of china,
+ shimmying in the whole world. 
+ their purpose jesus in between
+ and so the estuate that my little fire.
+  
+ she waits what thin-soar, the sky
+ clicked brings that comes out the fall
+ his dead the suspicions
+ around people? or summer's
+ freed flan & don't rain 
+on l

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                        I WOULD HARD,
+
+
+ to hooves against cornus-
+
+ the lift, from my bed,
+                                              investigate of offsled select.
+                      over any inventor
+                                                               and of a forest-brown 
+
+in                                                          then
+                        a night storm
+                                
