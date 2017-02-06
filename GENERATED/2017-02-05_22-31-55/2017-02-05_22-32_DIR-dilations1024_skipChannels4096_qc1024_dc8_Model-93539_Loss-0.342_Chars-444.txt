@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DIAMOND--
+
+
+the territory of a week, say
+descartil about our sorts on damon nid
+ . . . i stepped from and h.prran green 
+ embrace souls away, the fields.
+ of certain shanty submarine in her bodies left legs
+ sway she's sheep wilt white roosted sky
+    like a basket is fit in inside me in memorial for friend
+ the eyes of my wrong pale, yellow, bells out of the clock
+and you in separate desire, and i begin walk.
+ dry equal so fairly dial two hu

@@ -1,0 +1,42 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  CRUST.
+
+
+ it's-dandy times squeaks you're shock
+together the stars,
+ the world levels no babylon,
+        and i turn who hunger
+ revealing storeful wine
+ and there under then
+ meridot know
+  
+ and old wo to light,
+ the chatnant ways cry
+  
+ the tables 
+woman's children houses
+ of his prize in
+
+beursing spare
+ on even forth
+with blood at the ghost
+
+of the ashtracted stick
+  
+  
+ not the sun
+and elsewhere 
+
+
+the feeling
+ what myself with
+  
+ m

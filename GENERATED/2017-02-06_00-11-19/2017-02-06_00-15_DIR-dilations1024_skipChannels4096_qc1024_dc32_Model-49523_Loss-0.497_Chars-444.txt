@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE A PIANO SPIDER PAST THE SKY,
+
+
+ the long had knows her jaws
+ from with a laugh, i ain't want to his auden
+ wait comes province. the story.
+ the mord, the like apart
+  
+ hills
+ the you, no dalaimable
+  
+ february, a bedbofied tubs a stranger leaves time
+ the blackness of yours american hardensome
+ got him, in a dazel man is a color
+ the long jop in a rib-crumbs still fake
+ blades from will and slucerd ruzelle. yes
+ held then they appear t

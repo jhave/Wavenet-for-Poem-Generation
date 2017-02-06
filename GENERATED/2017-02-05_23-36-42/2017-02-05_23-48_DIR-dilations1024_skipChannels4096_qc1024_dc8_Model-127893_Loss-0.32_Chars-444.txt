@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SOUND
+
+
+  
+                                            dim
+
+praying
+ has neighbors do of a dead man following 
+                                        for only treat and with a tide in the bottom of the emotion
+
+
+one to deliver garden sumter is art--to dance not let its taintains between spots
+                                                  against nothing to be futile for
+                     sign whistling wears we find my tender city

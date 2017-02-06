@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LATER ALONG
+
+
+    the salt wind of morning. she wears the sea
+ of sirles and dance of your cramp 
+ standing our shadows of other windows.
+ i will underbrush you're in the scheme.
+  
+ those angels grew predications 
+  
+ the moon is sex and against the slot.
+  
+ still to be used to feel my eyes.
+  
+ then the streetwood flag in the night.
+  
+ in the coupon pampass. street
+ to martyred the back in deck
+ into the restless reputation,
+ the melting-

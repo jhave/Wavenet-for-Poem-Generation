@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CLUTCHES MEAN 
+
+
+a tulip fretted off a black-threats behind the spider,
+   walking the mountains even anymore,
+a gold an inch tilting egg.
+  
+ neither chaplin, my walk stream through
+ all that flick of vase and dry razor-quing
+ and the story of men that name,
+ there is a tiny poroched glass,
+ singing again, late, trying
+  
+ blacktimes left in fantastic built
+ hands a blood cells and bleeds
+ and the broad man's bone,
+ some country feet . . .
+ 

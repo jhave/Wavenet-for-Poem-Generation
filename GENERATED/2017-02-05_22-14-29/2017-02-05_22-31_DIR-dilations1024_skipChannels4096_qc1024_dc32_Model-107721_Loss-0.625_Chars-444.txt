@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ REFER TO GROUND FOR ME. 
+
+
+flutility own that blest am cape out to twitch. 
+her eyes were all unto encomplement flames, 
+to dinna could have been a milky wall, 
+his queens of the woods and canaan she, 
+learn'd an education, nickneth trifly pupils on 
+of guile without squeeze, the weakness of hell 
+of vertue receives we pass discharge.
+
+
+first it clansmen's wound'st a sence--empire, 
+    of his cup of the book, to you 
+
+            you name re

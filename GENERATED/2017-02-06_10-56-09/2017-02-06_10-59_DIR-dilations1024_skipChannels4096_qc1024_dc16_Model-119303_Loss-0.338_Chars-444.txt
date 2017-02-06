@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MY HAND
+
+
+     lytia, who wouldn't?--
+ their multitude of them,
+ undergraduate face,
+ nin long coal buzz,
+ who blossoms and he used toward the throngs
+ shotguns underly-seven's
+too grobbed gredificant hydrangea,
+ and watch for the surface of fear
+polyglotto them, hyahches
+ and many castaneans rust
+feminine eyes of
+
+
+and i can't say whisper than i do not knee.
+
+
+if you were there, and who migrate,
+one flung issy. we turned rock home,
+of sonne 

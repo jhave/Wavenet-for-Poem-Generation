@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THROATS
+
+
+ came into the glimmer
+                                                                        of mine,
+                  and go in the looming,
+               if our coop that must
+                                       in histor
+       but no horrible watching
+ handssended her houses that sea.
+  
+ or summoned hemispheres, their paws,
+ it's not dancing on the hose.
+ in the breath-west to find him
+ with deer love  mountains deat

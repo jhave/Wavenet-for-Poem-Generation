@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT WENT TOWARDS DOWN AS HEALTH,
+
+
+ flanged at a new breezes, in the pay
+                 armor, against a rue
+                                      when first time,
+  
+ zeus ahable from a torrent of being
+  
+ saying always that whole teaching eyes,
+                                                                                                   oh
+                                           and thorely kitchen, teeth
+                         

@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                       AND THE ENVELOPE
+
+
+
+a ghost tears, fall in your glorious house.
+like a corpsmith, one left
+
+standing the future we can sleep underfoot
+began tom, when there you
+
+when i figure you, mom eight checkbook.
+the body head in a leather year.
+
+he tries his hands them in late time
+out from the rose with painted, bloom-fork
+mealwhile, embankments like a ghost
+to my self skin.
+
+her hands are thought . . .
+
+
+                        

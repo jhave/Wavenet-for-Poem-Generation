@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN A DUSK.
+
+
+ it's not existence over and haven's thorn.
+  
+ beneath the horses of artifice
+ pages who first not to be said.
+ i remember and its fields of sleep, and straw.
+but didn't care that put up.
+ his bearing off the sun
+ of a yellow from northern flowers
+  
+ alone in his that the black-or-hum. long.
+home--how it has a ring, say
+
+the first my mother.
+ the new one.
+never realizotten as a copse trees
+  
+ opens rattles 
+walked and puffins,

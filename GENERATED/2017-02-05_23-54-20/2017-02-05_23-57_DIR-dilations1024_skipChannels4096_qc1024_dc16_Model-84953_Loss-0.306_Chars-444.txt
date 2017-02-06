@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN TISSUE
+
+
+  
+ home a wind,
+ knows that i designed shaping the floor.
+  
+ can i be a lerited like a department of the hill.
+ the buttons of the comic wife.
+  
+  
+ the crest of our fresh breath of john.
+ they made no diaphano loosing off sky,
+ but since you get sold my head,
+ to the there. like thing
+ to the weight of trespassing,
+ beader of something dead,
+ his laughs shock late
+ these mathematicians
+ the stone held begin? 
+just ticks it fal

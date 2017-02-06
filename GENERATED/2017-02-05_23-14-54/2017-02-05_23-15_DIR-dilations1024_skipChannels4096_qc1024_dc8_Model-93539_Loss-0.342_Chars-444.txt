@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CURVING QUICK AND FENCHRONS
+
+
+                                                               some pillars' half of monkires
+       are a huge gun i was shows for such remains,
+                         
+
+                                     we touch hold necessity wrought trees.
+           and, far in a black body appeared
+ faithful have has no fain pollen
+           and bag logs smell of sound temple
+                                          

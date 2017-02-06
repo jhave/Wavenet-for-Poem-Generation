@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IS WAIT TO DREAM
+
+
+ dynasty understory the red tops and dims
+ their laughter-miles of understand
+you were a condition of the whole,
+ full let before the standing
+thinking are rings of magic of ice,
+in their shouting rikes & black marks through without me, 
+the sentence bay is an arning, let me aisle baregail?
+follow the inclaimed my empty of this
+trivialities behind young, i would have seen
+to the nocome.
+
+camera. she fled the states east int

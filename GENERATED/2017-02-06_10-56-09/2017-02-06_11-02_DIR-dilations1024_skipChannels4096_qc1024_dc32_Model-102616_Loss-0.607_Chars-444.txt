@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EGO
+
+
+our dreams in the aisle.
+
+i left the aide door big mased
+in the garden testamental dalacue.
+when calls us overhead.
+
+now we all the bar in the trucks
+and mornings shit-white
+not enjoyed in his thigh,
+but what is sequests. it takes
+to live, as if
+some voices....
+
+not that teases there with skin
+the day what a cliff
+wheuland because sockets
+while two orange shake
+humanity
+
+
+
+it man   between
+devotion is a singing
+where they led eight be d

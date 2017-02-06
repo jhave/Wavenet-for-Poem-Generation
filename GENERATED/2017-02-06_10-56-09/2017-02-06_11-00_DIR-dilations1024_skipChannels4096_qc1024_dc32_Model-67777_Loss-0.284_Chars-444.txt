@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       WITHOUT EXTENSE,
+
+
+ that meaning i'm stood in the concave 
+ of demock and popping watching a small bandages
+ bundle's cangonian crouches and altitude.
+ grounds of existence. as their world we learned it up
+  
+ who chapl's only rise and moon
+ it is just afford the vast straight brake's
+ and write the knife calm who how and burn
+ with unstring an old man socks from dust
+ she limits to me to the dark with angels fell remaining   
+ to unsca

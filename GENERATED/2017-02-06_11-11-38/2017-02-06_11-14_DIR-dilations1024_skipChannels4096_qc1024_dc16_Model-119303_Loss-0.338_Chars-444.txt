@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE FERVORS TORN. WORDS,
+
+
+concussing in and on the ground,
+ we of iowa's trees and truthes many text
+ which gold climbed work toy gods
+ medicine wombs of province 
+
+all the scarlet with the seable chorishing
+their prima face the country?
+ lexicon shaking your mingled bookcase jean
+of the dock of grapes in the ground.
+
+the tave-rumped tread have crawl-like
+
+ for what they couldn't dancing her illegible
+to couches of people. well be 
+
+
+
+hygien

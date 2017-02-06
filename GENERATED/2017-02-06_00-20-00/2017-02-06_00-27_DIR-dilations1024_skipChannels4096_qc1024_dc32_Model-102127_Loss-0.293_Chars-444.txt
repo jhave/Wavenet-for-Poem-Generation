@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FISH.
+
+
+
+
+					
+					the book in the forest ache in the pleasures.
+ get'rees who sang a catcher
+ i didn't know the gym,
+ when he need by the minesthetion,
+ with the straggling treasure,
+ a monkey's sluck the strong is still heathers
+ from benzy. to the left.
+ 
+i am the friendly are all beautiful death,
+ but nelson pacing. there is. signs,
+ a blade of vaswet. laughing burning only
+ dekkeide the old. strip and uniforms
+ and in my back to the sc

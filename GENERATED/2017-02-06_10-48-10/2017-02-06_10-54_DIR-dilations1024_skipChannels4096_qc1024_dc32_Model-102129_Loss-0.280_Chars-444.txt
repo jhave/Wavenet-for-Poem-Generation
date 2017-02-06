@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+of water things,
+           as every postal balance
+  
+             in late jeans flashing
+         midnight reel trails hurtles
+           scattering smoke
+             the line, beading the snow
+           troubled by any
+               man socket
+  
+ against the blood's zone
+            and insanely flight,
+           tough michelanged
+               july-ju again,
+              what was what the land a
+                then a global
+  
+

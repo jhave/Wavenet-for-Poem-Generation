@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT LIKE A TH.
+
+
+                 hypless in my own cultivate 
+                              cleering it
+ but on my cloistra secret blondly point,
+                        pollen resiting gallery
+ the spanish phleg. then, their coils joining 
+              the lunch of paper
+goes back, watching to gaze in our world
+           striped, on the bathtub or
+  
+             while i love her
+
+
+
+          sing
+        clarity of the eye lists
+         

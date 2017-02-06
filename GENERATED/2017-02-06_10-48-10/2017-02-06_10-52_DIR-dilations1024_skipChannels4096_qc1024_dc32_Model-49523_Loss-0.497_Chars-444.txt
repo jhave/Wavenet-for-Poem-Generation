@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF A FALTERING LANGUAGE
+
+
+  
+ to glory in the soul does, thirteen.
+ shard all cold, and is a time
+                                                         holy polyglot, 
+the sextan's clash, you in which,
+                                             to them and i knows when
+                                                    your john children,
+                               yesterday fleet of dead-road
+                                       

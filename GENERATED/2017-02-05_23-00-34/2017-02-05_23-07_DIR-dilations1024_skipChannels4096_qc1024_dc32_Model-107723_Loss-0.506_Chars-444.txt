@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LATE EXPECTED 
+
+
+                        
+
+my vain the citron the boughs gas be citizens life 
+    when the chalke. i went down to the dark, tears    
+                     
+      be'll be well-steed. 
+
+then done wings his belief courage 
+         what would the world such keep, 
+    that the black mould take
+          like a walk tongues, sleep, we prefer joined 
+         and go west, an alter an evil sight 
+    and in face was sat ever a hil

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                   THE EQUATIENT HYDRANGEMAND
+
+
+silt from the skin, whose idea of a goes league
+ for the merry dared to the moment
+                      it ate my thoughts alongside image
+
+               run, he died we'an loggie
+ of inches a bit. all night at her moth
+                                                                            while
+                                                                   january,
+
+ t

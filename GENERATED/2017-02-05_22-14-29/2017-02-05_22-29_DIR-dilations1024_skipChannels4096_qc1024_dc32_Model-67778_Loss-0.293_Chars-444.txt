@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                    YOUR CHEST
+
+
+                                                    on town destiture is 
+                                   or nine by character
+
+blight as a fishbone sheds & slowest a tussle tomato,
+ has man sweet as though the list red jolt and white.
+ ere somps lowered the pretty rea.
+ in the white vows of an angel will be flying.
+  
+                                                       o the beagle 
+ for the noble sing e

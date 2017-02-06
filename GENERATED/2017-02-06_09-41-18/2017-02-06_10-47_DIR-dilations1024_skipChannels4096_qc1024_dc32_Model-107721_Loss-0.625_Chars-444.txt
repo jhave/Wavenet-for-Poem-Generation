@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN WHAT IT SEEMS, 
+
+
+    coming regions 
+smiles away the woods--whose lichen 
+to keep their matter-ways are swacco,   
+where no one can such congregave   
+   well might nail due to object 
+      then were but may heaven. 
+                                            
+but as he know that is blessing   
+                           a dumb simple suit 
+                       i could fall 
+            ber what it is your mouth-beds. 
+
+all as preconc

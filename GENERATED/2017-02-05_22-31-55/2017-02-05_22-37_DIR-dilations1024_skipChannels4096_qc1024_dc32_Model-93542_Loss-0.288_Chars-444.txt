@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                        LIIISTRING THE SAXOPHONE,
+
+
+                                                  time
+                                                      undentates
+                                  separate warm,
+                                                     their handwriding hewnel
+ and and falling medusa's ancestor near on bad
+                                 you're say again earnests
+
+
+who shar

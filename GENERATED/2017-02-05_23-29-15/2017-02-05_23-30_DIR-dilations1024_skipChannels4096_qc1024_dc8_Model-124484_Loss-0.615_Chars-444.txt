@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                                                                      MAN 
+
+
+               this nicht-- 
+                            --to g. beiter 
+into pieces back? i descend, i eat 
+                                                     the reward powder run 
+more than when the depths, and not good & to imagine   
+             the anc, even now, what 
+a dofghline, mother he'd really to it 
+
+one

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WILL YOU BETTER HAND
+
+
+
+a ghost that stands between a dark holes
+of syphofing child. he answered and chaste just suits
+broken. it's not the body and the land 
+molled cold blood and plastic gangs hope paint,
+she is some curious master.
+white hair-space, your hands to see.
+it's not spite an illumination in slow whose factories
+identity  lost and early in my heart you want to give,
+some little you. i would begin over your threads
+this had not op

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE MITT.
+
+
+  
+ seke above the soughts of pleasure as the pages
+ troubled tug at the end. i take it rained
+ the shanty mouths worn out.
+  
+ it was a fork liver in the table,
+ and it goes, time these same in their own
+ the watermelon of a gather take such
+ in their coined meaning, half then begun
+ burn up and many teaching three days 
+ distracts me isn't remember for the moon
+ and floated to all of us growing as it is?
+  
+ yeats, i was born in

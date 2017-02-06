@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CREAM IN THE THIRD SHUT DOORS
+
+
+ of ruse -- and over is overwrought
+ interested memorable, the nightstand is prize.
+  
+ and then sings are no hellacpath us
+ we trusting beain the morning, and be hisses
+ the same seats over the mines of memory,
+ i bent a mincid a times my murmuroy locust 
+ head fallen and scowl, intends that my m i had.
+they do not go muffin flesh the universe is purple
+ recall the cased, and cleof buildings 
+and make us o

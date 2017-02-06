@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE STREET
+
+
+  
+ in the mighty that you whisper.
+  
+ then hates slips and dews
+ the economy neck.
+                     o starved
+ run out and shrinking
+            bands
+                   stagger.
+              migrate with wears
+ man't even from him, drown nor bequest,
+      and sheathed the light.
+  
+      become reed.
+  
+            dobs east
+  
+ goodbye, smell
+
+              as any of the skyline,
+  
+ and mattress and offshore
+          

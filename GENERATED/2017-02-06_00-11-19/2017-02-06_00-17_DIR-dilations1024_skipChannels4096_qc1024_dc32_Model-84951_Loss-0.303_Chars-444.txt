@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+            PLOTTED OFF SENSES. . . .
+
+
+ lives here were waxy friends, and never
+ on the forest birthdays, absorbing and baroquely,
+ it was as at another form to slumber toward the dove
+ birthdation is good, twice, there's nothing had fallen. 
+
+it can bliates spanish by a primitive dean,
+and the most window, pumping facing the pot.
+
+
+the net toned had in front docparately.
+
+no one ever knows and juts of
+
+an experiment in a shrewdly continual d

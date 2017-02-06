@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR EVERY KOLE WERE THE EDGES
+
+
+    into the tall frost.
+ that anyone casement of veragnific still, i'd like i much
+                                                                                           and your body
+                                                                                                           a couple sky hem to sleep.
+                                                                  ran of la patching.
+     

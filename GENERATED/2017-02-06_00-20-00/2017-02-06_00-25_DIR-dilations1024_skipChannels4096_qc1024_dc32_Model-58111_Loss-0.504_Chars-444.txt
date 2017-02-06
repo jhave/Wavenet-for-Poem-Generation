@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HARMUS AND MEMOS.
+
+
+ beating, where called mad, 
+ a canker votes no one   something as you behes
+ before don't bo something between the octopus
+ trembling work, alabaster, dancers,
+ through burror buttocks whose mutes inflections
+ while he cumbered to be anteceable,
+ some my faith in at yer, mostly toves and back
+ grease like an emerald of the fact is pictures
+ dog until the catholic patch. my mother's finger
+ on dollar to les what he was dea

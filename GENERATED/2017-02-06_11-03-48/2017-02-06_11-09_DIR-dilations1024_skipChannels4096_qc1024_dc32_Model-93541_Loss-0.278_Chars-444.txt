@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SCOLD
+
+
+in an elephantas he does
+  
+ she despite the bloody street
+ they ever tired of rommentary
+  
+ feelings an appetite numbers
+ their best forest, graggy kinds
+ the magpie black birth jagged wall.
+ until the missal hills cent
+  
+ in continuous asking jars 
+ 
+to spill dark, tones, and my marshmel fits
+  
+ and begotten is our day, and a gaunt and moment 
+ with proportion is how important
+ and i walk with necks.
+  
+ the far jay western s

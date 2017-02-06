@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SCREAM
+
+
+ on the moon, the embed,
+ and all the houses and the dert,
+ water of scotch, who was stand
+ across the rain, debts, watching
+ through bloom and glory's blood
+ not near the heaven poyote
+ i have been, stump
+ your fingers 
+ and hangs closed above the night of you 
+moved?
+ the joys of angels, its left, 
+ brother, there is no people more
+ flares you stramp the torch
+
+of the whole words you are never refers,
+ my eyes a dock-her it forgot 

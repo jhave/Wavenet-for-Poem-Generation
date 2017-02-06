@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                           THE MODERN CORN,
+
+
+and apopat and briefed on their candy-land stages
+through braid. who knows thy thing rights fork
+up--let's blues as yan is adjustable and pall
+ to ice the greed dogs, 
+                        the men of light,
+&
+ a satyd string of fame air
+                             thing it
+                                                  unitor-bein
+                                         i reveals the hunks
+

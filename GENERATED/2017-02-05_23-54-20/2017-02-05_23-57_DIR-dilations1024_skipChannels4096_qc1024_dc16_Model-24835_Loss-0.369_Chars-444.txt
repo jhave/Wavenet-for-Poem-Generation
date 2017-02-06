@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLUE JOYOUS KNIFE,
+
+
+                         before, how welcome victoryel enter it greens we
+                                                                        was a reed of electricity clinging to lose
+ in hats exposed with antiquity whose hawk line hiddenly
+ready. he will shattered their magnolias worn chin,
+  
+ floating to drink under around us bags of rough release 
+ rolled out of religious stony while we become
+ by the devotes and

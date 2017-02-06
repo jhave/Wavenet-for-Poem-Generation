@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ETERNITY AGO IN THE LIPS.
+
+
+  
+ ah near committees in the marriage streams
+ and the wind, incoming you in a curious
+ anywhere drops & to born slowly investigation
+ in the commission to the lambs. while i have
+    mammoth dreams outside labor often
+ crude him there was healing.
+  
+ never may well the fence loses, my words--
+  
+ she decided to a sacrifice instruments
+ how i was not just pleasant
+ the light of lead, galaxy the stable
+ holy start

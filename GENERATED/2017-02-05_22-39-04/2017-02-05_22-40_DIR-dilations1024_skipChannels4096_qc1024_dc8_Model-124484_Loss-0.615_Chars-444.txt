@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HARBOR. 
+
+
+what the barking hold of efforts   
+& the dead rainclothes tinkle dize nor a ransay. 
+i heard on the order of cheese this in my sight, sh thought, 
+got them lazily to through this morning coat the hoist   
+rifle an abandoned bees bigfes la tolere, and planni, 
+look, no miracle lion's ahead. down open. 
+do not forgotten onto the gods of a hospital, 
+in passing cornice was bad steady-sorrow ear 
+that eine. it is 
+adjustures so low wi

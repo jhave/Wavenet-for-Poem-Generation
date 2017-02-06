@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    FOR AN OYSTER ARENDA WHOSE FRINGE
+
+
+ they are gird-of-cotton to look towming golf.
+  
+ but strong by me i grow quite inside
+ or who zocaliing? starve piece of ground of night.
+  
+ like many strange brandwork bunches in the rocks
+ often denial cool than the soil
+ world whispered back songs,
+ brown to go out and worthy? how is power
+ two-foot over yet.
+ the tumbling for a broken hour
+ care grown coconut
+copycoching like a carouseldo
+ of the 

@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SLANTING AN
+
+
+voyage's in his ribbons, the chubby an ink
+of clover and runged the dogs, rush there
+ dropped and dust impressed,
+i let the teeth of things
+  
+  
+  
+ band the orchest truly to wonder
+ when we read's liners--had broke he has
+ deep repetitions, until the horn in the stove.
+ and there is down to strange trolleys
+as an answervolve cottage shiny potions
+the long red patin cruel.
+ indifferent of dream
+or the goes 
+from cheap rolls,
+ o

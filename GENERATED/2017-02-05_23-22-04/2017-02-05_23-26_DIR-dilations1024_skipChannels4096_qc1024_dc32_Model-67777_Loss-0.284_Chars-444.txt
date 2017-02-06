@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+               AND DO YOU CAN SEE THE BISHOP. AND THE SEEDS THE SEBO, SOUND.             HIS GREEN AND LEE, KNICKED ON THE MANGOE AND STENCH THE POTOM OF GUNPOWERS, AND HE IS   FOR THEIR STUPID STREAKS OF LAVA S'S BLACK IN THE CREAM SO THE OLD WORLD, TWO TAMBER OVER PLACE THE REPLY THE WAY THE GIANT KNEE-DELICATE BLUE AND MASQUE. HE HEADS IN ITS BONE PSYCHE EXCESS, AND COULD NOT.         'EPINES AT THE ROOM'S BY DREAD AND LOST ANYTHING BUT G

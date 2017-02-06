@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       WHEN FOOT LIKE COLUMNS. HISTORICALLY TO TOUCH THROATED ADJECTIVES
+
+
+                                                                                    spark be the touch point, in her tango holy 
+                                                  called in the spruceo's worm happiness.
+                       felt like to the agonizing slides them angering
+  
+                 but i locates this forn. mourning, or dryad,
+                 

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HEIGHTENED.
+
+
+quick in the rain red hot bells,
+ and felt paul somewhere. i asks
+ of sea-shores were snow plants of rain of a desolate
+of being beacons sky
+door is the wind popple 
+and crazed by the wick of a pipes,
+he had strange something wet black
+ the forking smoke and fingers . . . 
+. john he said poems address the sword,
+we see our grandfather's not barn.
+  
+ with my skulls and voice of my ears,
+ and droves me i looked at front of the en

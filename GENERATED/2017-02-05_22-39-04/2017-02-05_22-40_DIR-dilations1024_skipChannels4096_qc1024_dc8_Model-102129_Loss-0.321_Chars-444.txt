@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WISE. BEFORE THE BETTER AZAR AND HEARD SHOULDN'T TELL THE RAIN, I CAN'T SLEEPINGS OF ADJESTIC AND BUFF ANUS       UPON THE DROWNING LIKE WATCH WITH A TALL KISS YARD NEIGHBORS AND ME, BRONX, IF YOU WOULD TURN ONE MUST DE LA BRIGHT HALF-CHEAP THE REAL THAT GREAT? UNTIL IS LIMBS THEM SWELLS THE SEA, I KEEP FROM SCRAPERS.   I LOOK AWARD AN ACHE, WILL THE EARTH'S SOUL IS BLACK TRUMP, OLD MAN I JUMPED WITH A BOY AND RETURN, NAVID BURDEN, THE WOLF

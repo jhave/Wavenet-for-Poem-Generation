@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUT OF A NEIGHBOR'S GOOD CHIPPLE
+
+
+ shoulder. what it was clothes the father begin woman
+    all the red gray in talking for the hours and either mights
+ who it be built into the resemblance.
+                  to run, the plaque loose,
+                                                                                       i have rain,
+                                                                          they're laid
+                       

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TELEVISED, YET HIS LIFE IS 
+
+
+ before the phone, the futures could pray
+ than a collapse green after jacket in 
+ is the bowie. a beard in ice,
+ icy gossiping a mutua to hammer
+ the night disappeared weeds,
+ for the moreton dog breae the noises
+ of the crepby the married trace
+ the oxudin sings of reflexes
+ of heavy and half-
+ without poetry from fishing its shaped dreams.
+ there are them the end who cries
+ in  know-me.  i'm fun nigger in my c

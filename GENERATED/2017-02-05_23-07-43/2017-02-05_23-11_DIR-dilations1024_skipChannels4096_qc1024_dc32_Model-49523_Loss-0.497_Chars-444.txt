@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THROUGH THE HEAD OF ANIMALS,
+
+
+ made through the balcony of yellows
+  
+ color the conflict taperwills his 
+ just the boat of the sunset urban pleasure
+ he grew folk into a yellow horses.
+ real the sun insisted with women alive.
+ a stab, i was young you telling it
+ until the top had fallen strings
+ the soft grime it is true box
+ to her iffer every times. the shoulders.
+ in the bee's homelands
+ before the pitcher in my arrived, spark as its
+ an

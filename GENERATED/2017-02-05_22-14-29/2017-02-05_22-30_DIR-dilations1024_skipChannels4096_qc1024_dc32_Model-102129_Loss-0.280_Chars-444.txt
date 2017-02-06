@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CIDER BARK WITH A TEXTBOOK
+
+
+ it might arun troops. and i'm not beg
+ lay the beaches of sinners
+ math my bramboard stop with the musk
+  
+ one attempt in women grounded tment
+ to custome on juniorne language
+ thus, banks songs rather lips
+ the handers crushed bs the cabbages
+ as a vessel of land with and plymouth
+ as one jasmine that to touch the black
+ and bending satin.
+  
+ a last red fronts to the sacred fur-
+ out of the sense that god's ba

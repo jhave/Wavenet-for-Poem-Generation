@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THAT LIP WEGS STANDS TO THE TRACKS THUMPING THE BONES.
+
+
+
+nigger is good. returns at the spill,
+solid froth of harmony,
+the waving face last. the wheel.
+
+but there are smoke and electric look lip,
+my face defending king that morning storm
+
+roots how it was gravel zero
+deeper was she hung up, let me for instance
+
+
+                       athena peace for the   
+                                                                                    

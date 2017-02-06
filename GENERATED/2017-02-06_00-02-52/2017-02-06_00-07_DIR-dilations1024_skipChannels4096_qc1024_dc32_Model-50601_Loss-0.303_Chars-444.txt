@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO SING A WEIGHT TRADE
+
+
+                                                                s nights
+  
+ better the mississippi. wants to gone filled with a mineopa and a model's
+ yavies and leaning go my blue-gods,
+ mad takes the moon in the back of us. speaker
+ it's spinning something that conclusion
+ fifteen existences' would.
+ i fate the land hereby television has nest
+ with manically sing the flag,
+              and what cared.
+  
+ i saw on

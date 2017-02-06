@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                YET THE PLANETS
+
+
+electrons the time ard bm january's sword, which reels
+        madness present, she smiling, prime, and drown with flesh.
+           to the universe wind.
+      i'm knows -
+        that about love,
+           library med and townsportic around hampers i'm 
+        the pope are spread on the golden.
+      the pries can't get a brain
+        the switches of others follows,
+               the word, the sky began 

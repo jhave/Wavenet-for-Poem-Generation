@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+             ALL OF THEM DIE.
+
+
+  
+    it would never met the air tenuous
+      down from the wombs around themselves pre-amming
+               down the waving moon,
+                       complete and in limn,
+                   asked with jets for a minuen 
+                         waning     the tap of cities
+                as a traple the noon bed.
+ the masks is forged studying into happened arose 
+            we hurt the wishful villages

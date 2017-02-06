@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE SKY, 
+
+
+parakeet we mutter everythings on the trees.
+
+in my hands.   down the map of inf flangster.
+ july, with gypsy, et less--
+stars & tumbled on a ripe from woven.
+for broke. the noxious bird seed
+of daphne, i am ashamed for chans, 
+to make money, a corridor
+and cast outvin them dry
+its bumping with oarlings
+tell the door can sung would weep
+each attack to the passive
+souls at the line rise pull 
+to eat their easter weddings
+
+ 
+
+
+yo

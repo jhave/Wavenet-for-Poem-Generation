@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THIEVES 
+
+
+like a stagge's armor did mander holds 
+in my glorious the heavy sky 
+and see the welcome of a mongrel begin 
+and charter well flapping at last 
+a hand blown with billowing, 
+or when they fear no more. 
+
+the claus that face again, no one case 
+to ever siccours, and feed  it grows, 
+   that gey win wing a flank. 
+    sh over   as you nerves 
+with the expence, now go overspread 
+    and my bloody may chance at last 
+   the cause of s

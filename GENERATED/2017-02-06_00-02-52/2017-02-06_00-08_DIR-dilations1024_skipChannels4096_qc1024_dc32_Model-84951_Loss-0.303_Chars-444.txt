@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                          AN ORING OF TIME. OR NOT A CATHEDRAL LIKE CHILDREN POTS,
+
+
+  
+                         foolish today as a feather?                                                                             froor mind flow
+                               just certain by freedom of the pedighty in your gift
+ as old fuse each moor's manic and against the top
+ saucer.   as she was a long for now, the glittering men.
+     

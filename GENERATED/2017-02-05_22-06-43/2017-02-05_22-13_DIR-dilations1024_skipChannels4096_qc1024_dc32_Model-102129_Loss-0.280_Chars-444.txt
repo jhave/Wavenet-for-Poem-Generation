@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OR ARIANE
+
+
+ 
+from a fays of sundials through the clouds
+
+of junie j s. touch that i see was chase into the hotel little needs on autof flies,
+hammer whippers up junction the grenade stones of the loss.
+
+
+and the cedar bin tight didn't describe porces fall 
+against each blank baptism tons of ashes,
+not even a light pedestrian freud up the gubanes
+
+around the reader come to old.
+the poor pales demented like an oval
+hibis and boundless spiked b

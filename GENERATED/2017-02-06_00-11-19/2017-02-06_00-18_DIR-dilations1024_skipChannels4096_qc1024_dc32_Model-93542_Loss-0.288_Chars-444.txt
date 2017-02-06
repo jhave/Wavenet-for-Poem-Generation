@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RETURN 
+
+
+ rough bracelets pilgrims
+ and tell you and altogether.
+  
+                                                                  the sort
+  
+  
+                                  wallum,
+                                             how here
+                                                 
+
+oh change for the keyboards & word two thousand 
+the tramp of planet and lays mere pus sank
+faster and toujours in the black shires.
+ah libat, more o

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHAKE AFTER THE WHY DIDN'T CARE ABATED --
+
+
+    in paste on which i wasn't seen the rooky
+              away, brave           empty color,
+ he could be once reverence
+ der fingers & dots sternly to high
+    in the stillings are blues
+     curio the sun in the blues that settled with the lights
+ with its gabberings to sing twice and glad,
+ for the kiddle of the thirds that we gather cold it hard.
+  
+ or sad a fishable. crekier pokes and home t

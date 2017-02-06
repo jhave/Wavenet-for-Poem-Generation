@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE FIRST YOGURE A SOUL'S EAR SA YARD, SOME OF ME--ALONE,
+
+
+ is beard it, or harlem and a cloud
+ivory is in ones hurtling,
+ from my head and a winter hand
+as they puts as midairs and handkerchief
+eyes up ninity in a drawure cot 
+my father, will last, and not make will return--
+laid our lips at the best the tools' flew freed
+ fertus start like a way to a pool of light
+meyed somt focks and three-dry survives in sane.
+ surely, too from here the 

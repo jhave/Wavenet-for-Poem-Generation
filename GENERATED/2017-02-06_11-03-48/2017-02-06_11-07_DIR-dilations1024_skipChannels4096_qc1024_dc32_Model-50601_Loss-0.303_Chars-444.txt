@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HELD INTO THE GROUND
+
+
+people are dead a bed in my duty
+from my appalled down by the surface-swart
+was an unsnagoc pincherized
+saddest from the one volcanic full of sleeve.
+no one woman in a drort, like us. i'b stop trawling
+abstract in the largest vow breath and sdrinkops,
+ with all the snow far-off wind of the great cars
+plunged in god, his masterpanes, the sutan
+table of buried before the foreshadow heart
+
+as the spelless of the old adcest

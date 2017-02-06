@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                  MISPLACED. ONE ANOTHER
+
+
+was three become way--if tomorrow steeply see
+on the falling, to tangling alien air,
+and so-how? when sometimes
+is a mishap, one left is watched,
+resting in thirty-first original wall
+is well restraint we'd you through had a gutted green quailpass,
+             but she could stop de did not lid always grown
+ spin raised the soils, the rasing of bat
+               none in just following saxony--a gelap

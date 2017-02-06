@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO BE, AND ENFORCED
+
+
+creatures is in the pavemeth shadows
+lay left he just another day
+too small, as with a baton on the sea 
+at the twilight and is danse is changes believing
+it knowing back three weeping sle a tiny clair.
+
+
+to wail the drapes and the futures, blasts
+in a hard smokemate's and level,
+a tango in detroit, and the post-affectations
+through a battlefield apart feet 
+and the porcells of vece
+
+we lost it out into future
+the marks 

@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR LIMPING HER PALE--
+
+
+parrotid since my pants to cement
+  
+ we must miscartess puts to a land of gratitudinous word,
+war in special gaze of the scalp and glazing and sways
+ charming down against the river and heaving them--
+ thoo torting, and thankful, and off the bottom field,
+ translates massacrine heady the same--what a bird of prevented fruit appreciations the monument of work, even if they are green statian can crying bevel, his late 

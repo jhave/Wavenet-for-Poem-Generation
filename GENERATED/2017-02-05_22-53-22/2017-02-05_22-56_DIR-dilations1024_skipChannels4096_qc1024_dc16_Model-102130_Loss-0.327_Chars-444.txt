@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BROLL,
+
+
+                                          the sheeted boyish
+ carved to lapish upon wool is seen,--
+                       the men of a bis
+                                    to quite ingisimpos as i know.
+  
+ my face story ceased to me chasten.
+
+
+if the soul from whence 
+the clock, when magistered lipec
+                                                or plenty of
+                        we became of lions
+ e                        

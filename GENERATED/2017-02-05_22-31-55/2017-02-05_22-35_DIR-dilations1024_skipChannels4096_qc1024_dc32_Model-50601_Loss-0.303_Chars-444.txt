@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SO.
+
+
+
+
+
+  
+                 eats the pity on the one
+           bells. all fireworks? when i think in flameful far as i
+       i kept sing were laid godpared in one afterkin-sharp
+        let it rides where the thought of nothing buds 
+          some elsewhere the men songs is accra leafy
+                                  cavendary elderly reason
+                                                                  among the wind blew grass
+    

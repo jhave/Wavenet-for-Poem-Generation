@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                        AND SCARS   
+
+
+that snow but entitled the long bare
+ 
+is dying it's been wound will need to be said
+                     poetry is living pastel a showery
+
+a long mountain ahmjacts. they could eat.
+as land her prayer we owned by a certain
+i will hasted to haunt on a wall connect
+on their own nature by a green language bright
+and its pits, head's incan must be loved,
+its steps obligingly astound you always a cedetroom 
+w

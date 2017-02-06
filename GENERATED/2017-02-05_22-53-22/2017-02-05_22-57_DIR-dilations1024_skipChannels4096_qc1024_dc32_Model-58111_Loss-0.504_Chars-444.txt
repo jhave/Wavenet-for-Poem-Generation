@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GREEN WASTE AT A NEW JEANS RED HILLS.
+
+
+ laughed on a bone. as tall be friend to mountains that limitlessness
+and if time. it's  did her frozen tense the worry abrupt
+ pushed up in brooklyn familiar tapers on the frozen maing haunches, frail
+  
+ the brief in the stanzas gleaming herself            the casket in the field
+ taking in the valley martini sui walked me
+     inside the heat air. i continue. it would now arrive at the sky to the eng

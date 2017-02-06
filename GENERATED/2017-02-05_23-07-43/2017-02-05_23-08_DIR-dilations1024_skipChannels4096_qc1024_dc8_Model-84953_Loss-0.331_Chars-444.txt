@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ UNROLLED
+
+
+ that death five years were and forever. shifts
+ bombing the goiged finger, or two?
+ the pine we tapped,
+ si disco nellusing the penny girl to see
+ the willful lumber bank of the whir of bartokening
+ female his cap battlefield flashing has lost
+ interrupts
+wonders in the last day and reading,
+the let go deserves the feet and the rocks
+like a barred must be indians and browered
+yesterday house  and diamonds spreads
+
+& sighs of all a

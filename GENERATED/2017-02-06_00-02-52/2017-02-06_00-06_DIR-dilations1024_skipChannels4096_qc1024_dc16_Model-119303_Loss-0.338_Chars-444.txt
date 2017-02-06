@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLUENESS NOTHING,
+
+
+ scruglic wintry, brother. fox working
+ and a broom to london danse,
+my beloved back, my vows furniture,
+ but not a ragged world. how grematic
+of the beginning of the nocturne
+ who warm beneath the nerves a sheep take
+  
+ a patcher grounds, but the whale?
+ belied, but his grief to convey
+  
+ good folks to find a quarteth,
+ the milk of hade, my gentledged me and you
+who looks growing voice clutched 
+from body to the purple 

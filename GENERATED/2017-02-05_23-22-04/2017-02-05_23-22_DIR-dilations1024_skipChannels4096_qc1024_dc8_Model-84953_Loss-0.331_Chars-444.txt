@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLOCKS
+
+
+ forever, the quinces of yeats, the thick art
+  
+ picarios and were the crystal where the rugged flow is perfect loosed 
+& an acting thickened wall was my stepping across will retreated, too.
+ well, which west, now to his knees. has wrenched and till i have a match that found.
+who can faster and the sonora beneath the world's longing silver falling
+at dismember suave you doubt a trains she who so you fought trought forty- when you, t

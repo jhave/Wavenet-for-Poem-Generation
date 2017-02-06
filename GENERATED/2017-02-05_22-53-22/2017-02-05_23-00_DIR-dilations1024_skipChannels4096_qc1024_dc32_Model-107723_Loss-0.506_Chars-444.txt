@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   A PANIC, 
+
+
+that crows a gust on the world is span it, 
+an eggs it well. my city 
+            my stands and dance    they live-- 
+                be men of the sill of careful thought.   
+
+         yet find you know as place 
+          to decline moved 
+         see love and sport with the light fly 
+when the wash are but created up the sum 
+         the turn affects in caoes. 
+kick him because the aestered 
+         love cloud he because n

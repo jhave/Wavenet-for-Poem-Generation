@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WONDER WORLD.
+
+
+the skal  is electric shadows, and roses, but on
+ & interest of the charred porch broots more
+  
+ of the artist stone wildful. on her face.
+ half-ur often hood shall meet, in after
+  
+ thought, some for mentions and stuck to mater.
+ i thought, when they devour hills are has every speech
+ and beggars his hand things went on the desert
+ deep watercress american blessing in it,
+ give up from the hutmane of white day
+ have pit

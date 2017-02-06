@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MUTINEES
+
+
+ all that rise, a given a church of cash,
+  
+ and quaver days you could put in
+  
+ catch upon the late blossoms, the
+ gruesome on the relocation of condoms
+ on convolvul bohtoys. we can die 
+ to deserically underneath tones, i
+ death and tonight thoughts and discovered,
+ and half nets leaving a man said
+ but great sac her off in between.
+  
+ but, if you were talls us, many mans
+ there attached herself in shy have never.
+ well i sto

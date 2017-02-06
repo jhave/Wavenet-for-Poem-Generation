@@ -1,0 +1,37 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+we sort in armless deserts.
+there were the tea
+years done know i knew hummed,
+
+and with a bent that glint
+my little november light?--each steals
+in its the gold sounds no,
+
+i like to think
+blackday packs as in that dance
+when you starve and warm
+
+finally the mall worke
+bars of vinyl deeds
+
+or pedaled eggs, or
+i shim from. corpse
+shadowed enough
+the flag
+inside the son
+that day
+burikind cutler
+you're nearly
+just in the hurry
+in the eye and 

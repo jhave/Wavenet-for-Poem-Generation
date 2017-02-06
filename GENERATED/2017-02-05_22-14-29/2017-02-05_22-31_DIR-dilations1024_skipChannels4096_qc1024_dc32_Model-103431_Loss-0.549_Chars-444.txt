@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      WHERE LOVELY BAR OF HER HEELS    
+
+
+of light hands up abone 
+being boy we close enough   
+                                       eneblard by a small valley.  
+over the desert museum's razor jealous? 
+you will not draw other from hardener 
+quick horseflike told it turns up 
+the sour hands with the possessors, hungry   
+where were sunrise forgotten high unoppownte each handful   
+and nothing was called handkerchief 
+it is not consumers ris

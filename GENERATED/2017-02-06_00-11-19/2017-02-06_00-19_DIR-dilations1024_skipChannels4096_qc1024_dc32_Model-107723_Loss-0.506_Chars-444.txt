@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+made eyes like fool-couch is an hour 
+a name, who shall my decrease glory weak   
+anchor shall all flesh and make gold 
+
+then saints me take on her rug of itself 
+    and leave that help leave to live her confess 
+    mean, will gain that peeping hearkening 
+                          than toth part
+
+
+who bear the fleck-so many death at once.
+                                  some out-end things 
+                                            

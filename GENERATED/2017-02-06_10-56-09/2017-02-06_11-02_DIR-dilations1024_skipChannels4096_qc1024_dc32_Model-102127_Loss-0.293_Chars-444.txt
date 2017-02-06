@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   IN THE BORDERING SOUND
+
+
+  
+ and the fare grass and shone all around
+ atheisms, the butterfly snatched huff,
+ past the street dreams of gold thuddies.
+  
+ we were born wide as girls can true
+ in them reap the land hair, the sky
+ a loving and desolating with crash
+ what okymaned though of peoples,
+ and sank and quiet and glass-ember
+ until a shadow-things to serve which
+ a week at the place.
+  
+ the nurses lived the great sproutioner
+ plante

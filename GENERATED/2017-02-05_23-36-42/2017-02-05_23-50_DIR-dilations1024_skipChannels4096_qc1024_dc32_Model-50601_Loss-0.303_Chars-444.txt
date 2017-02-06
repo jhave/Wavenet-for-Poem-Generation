@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FROM THE WHINING ROOM,
+
+
+ hungered underarm, overalls
+ as the eternity strong over
+ widening over a passing of autumn-
+ of our blood claires nearly,
+ that wilcon hard over the blade of things
+ white times of a man on their shirt,
+ but my mother's ghost purpose from around 
+ unknown to a trance hung present in the awtub belt
+ where spheres, bastard people playing by time.
+ what she could be too seven sign
+ until the ton't origin bodies like go

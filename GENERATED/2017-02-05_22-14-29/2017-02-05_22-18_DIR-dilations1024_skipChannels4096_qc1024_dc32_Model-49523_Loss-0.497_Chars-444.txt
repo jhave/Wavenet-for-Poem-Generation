@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE THE ORCHESTRA-LOOKS LIKE
+
+
+  
+ to screen and swifting a window.
+  
+                  every torch of course--
+ see a place pointing, the walls 
+            anagrams, hydrogen tremisa
+           glinting
+  
+  
+                                                              or break of 
+                passage for alakorite into my head
+                                                     landscape led go
+                  driftwood
+         

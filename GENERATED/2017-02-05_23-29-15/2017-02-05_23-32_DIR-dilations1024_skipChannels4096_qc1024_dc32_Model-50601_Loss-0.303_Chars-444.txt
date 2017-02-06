@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PATRIOTS
+
+
+                     city of pain
+ 
+      busic breaking acroctic
+ till flickers,
+ plucked by turn.
+ the moon               technica.
+ wise you be not mind o south
+       too, and was unknown mobs.
+  
+ there is got households
+  
+ ebunds of reading the hotelon
+  
+ and the strength-brain gets faint land
+ a thermometer ring in history
+ of the
+ walk peculiar instrument 
+  
+ like a pot on the bread &
+ an oghnship of sack highwalker.
+  
+

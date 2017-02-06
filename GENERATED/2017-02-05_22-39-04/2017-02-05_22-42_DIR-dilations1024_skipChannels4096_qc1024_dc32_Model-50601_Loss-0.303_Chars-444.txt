@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SPEAK
+
+
+ in the dark cold,
+ the butcher braner
+ 
+on the backyard city shirts.
+
+
+a transmutable shuttlerof
+ have you see a series
+it dawn these south.
+
+theft looks up from until the trees
+behind when the coffee in it
+
+cascades through the squirrels.
+ i rocked i had to delude
+as if this same time where you won't say?
+gulaging to drink on ash to
+
+night we expect me in a nod.
+
+
+
+my grandmother's hand on the-u-waited
+friends with a pouch of denser

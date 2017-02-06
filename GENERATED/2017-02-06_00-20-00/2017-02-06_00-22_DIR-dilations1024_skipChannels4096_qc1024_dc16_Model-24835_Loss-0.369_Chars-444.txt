@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+climb the roof, through en the wind doors,
+  
+ a severe one's message between the western birch of my decades
+ cool around since leaving in me, and back mounted
+ kloing has clear the kisses pouring of metate twisting
+a same would send the spived through the awe nursed
+petals and galching dead with a twenty, wholly in loney.
+ walked the stemulays and through first relishing,
+ call perhus, but bolton shuttlelets his jars
+in the caf seeing an

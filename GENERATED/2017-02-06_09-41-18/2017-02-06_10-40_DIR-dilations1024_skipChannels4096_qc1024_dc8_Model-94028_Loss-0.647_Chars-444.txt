@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WORDS AS X.
+
+
+i can't run away nothing--who 
+the rats and years i dance on my birth,
+  
+ my day.
+why not? and if a provinces.
+
+open tang one walk with his granary 
+you got weapons, all that ten out
+with the bronze, of it, in the atoms.
+
+
+memory styritical and     negro shame 
+i am played him a house,
+which my mother,
+popping out by my body has nourishing 
+you hear their painting, 
+under three wings in air, the immaculate
+dry brutality
+clo

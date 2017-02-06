@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    IN THE WALL WAS THERE
+
+
+                                   yet ain't turn
+             the white boy dark tomography 
+
+i am always dislodge hangs & lifts
+          it off. 
+                                                          should us again
+                        it will see?
+ initiation.
+                                                                                   and summer, or placed and groke
+                               

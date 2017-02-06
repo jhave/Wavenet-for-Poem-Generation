@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BED TO SEE THE UNDONE
+
+
+ of someone husks worry           and sent, waiting.
+  
+ none of us for my chin. what filled with it,
+            whose four blues bois destinies--
+ it's seventy hunger. drifting castafeative been
+                underwenem, hands shall be walking the arc of your voice
+               the family danced language by national one and every electrified and one to return when
+                      he straight like as an umbe

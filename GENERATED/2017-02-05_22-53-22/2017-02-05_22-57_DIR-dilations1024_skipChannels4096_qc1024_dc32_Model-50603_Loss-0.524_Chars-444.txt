@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE BACKS.
+
+
+we toasted the beauty of the bride 
+po as dark and light we were thurmonds
+with the lengthening her hands intends
+
+the coffin says from the river's mouth,
+as wood of the world reports where the p 
+hour the muffins are also amples shining trom,
+your skin and exploding of old seas of banks.
+
+
+
+they clomb the field and spaces
+that is good silk
+along the owl yhops 
+
+to the tonight sounds
+
+before the will, walking the far her earth

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLINK WITH YOU COULD 
+
+
+work by coffee strikes in the furious blade --
+
+little disorder of gnarled my blue but never
+a sort of tussle so stale.
+
+'t suspended men ntading a bite of pride life
+they knock as in trips. the lakes of a graph
+of the man on the shuck of the leaflet
+sand-onks looms, in disar man, from the bags
+to home out hell us his mother and lonely
+by the submarine, 
+
+with its nubs & grinding bends
+down up in the train
+those field 

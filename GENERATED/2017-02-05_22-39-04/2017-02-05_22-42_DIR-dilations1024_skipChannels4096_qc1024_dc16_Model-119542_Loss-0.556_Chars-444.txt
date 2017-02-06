@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A SAPLY IN THE BACKGROUND
+
+
+ reading pottery shattered flight
+a barn variations, 
+insight be intermite
+ with somewhere in the wing
+desire his own childhood
+ by the circus, she things begin and drink
+bubbling it the valley path as i struggle
+ she rope us not going an hour 
+preyshot until their pinion
+
+
+for pontest thought of our thought
+which i came to his life, 
+but pacing into it.
+gathering against,
+ undetimo. all the guard..
+
+an ache for sa

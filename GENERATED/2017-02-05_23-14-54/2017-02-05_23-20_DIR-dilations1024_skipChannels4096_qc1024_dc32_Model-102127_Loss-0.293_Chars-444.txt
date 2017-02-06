@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RETURNS
+
+
+ rung's cold, reflective side by hestering street
+             on event, knots like banna smoke
+ it had two message most like that there is so we not.
+  
+                                                 if there is long
+                                                  and never me
+ but my sad laugh
+ what is might have been
+ there is no clothes return,
+ stok with state the horizon sods.
+  
+ july, near rotten beads forever.
+ when eac
