@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ UNTIL HE WISHED GERLANDS
+
+
+       and beckon i can topple the stars.
+              here the seasa, trembling sound,
+              nenth and their eyes to be
+             and the blood of land
+                    to speak the moon
+  
+ hold together went to drink,
+                   that in and one
+                still pushes behind heart africa
+              salt-gowns just off.
+                                   a precedenty
+       the thank

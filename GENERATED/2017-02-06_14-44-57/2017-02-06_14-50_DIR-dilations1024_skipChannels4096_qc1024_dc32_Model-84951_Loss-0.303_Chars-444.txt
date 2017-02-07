@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE NEXT SEED FOR STILL TWITCHING THE SHIFTED RIVERS, WITH A PONY LINE IN THE LIVE OF HAZE LONG. THERE MUST BE BETTER FROM A TREASONING ARC TO DOOR AS A PARTIAL MANNEQUIN ON PENTAGONAE LAST DAYS-PRUNE VIOLENCE I KNOW WHO ARE STOOP, WEARY MUCH COFFEE AT A CHINESE EATING THE FORP LESS AND AMERICA AND BASKING INTO THE GROUND LEAVES. IT IS CLEAND DOING ALONG THE WINDOW, AFTER IT IN THE GRANDSTAND OF POOL IS IN THE PRICK OF HEADSTONE LARGE OFF I

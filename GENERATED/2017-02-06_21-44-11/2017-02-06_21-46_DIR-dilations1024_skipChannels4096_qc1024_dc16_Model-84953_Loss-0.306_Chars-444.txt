@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHISKEY
+
+
+          rises. that fills my grandmother
+           crarict in. the sky's flies 
+              moan, track and young
+      --we could touched n.e.
+you dire in the air?
+
+
+
+       
+ through the woman sorrow,
+ all of interjected points
+  
+ the mocks of tiled out and grass
+ lumps of a forest ditch
+ into fuh the names
+ you're for a tissue
+  
+ of texas would be to
+  
+             .  of course
+  
+                                       ho

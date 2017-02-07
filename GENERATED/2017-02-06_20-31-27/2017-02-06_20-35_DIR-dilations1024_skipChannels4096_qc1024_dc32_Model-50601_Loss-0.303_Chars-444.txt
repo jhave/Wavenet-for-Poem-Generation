@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        A MADONNA.
+
+
+  
+ a white scent of mind and export save--
+  
+ to thembles, plenty of bums and then
+ and observer's weft and retirees of owl
+ soninkilo nerve in the yields
+ pound on the students of the sags
+ and better significand
+  
+ sighs an angel years of sand.
+ good moon.
+  
+ janet how i search and gave lies open
+ with arcs intimately bean zazed,
+ the private hand then
+ more for posing a wood,
+ later on her shamed like far awe and ta

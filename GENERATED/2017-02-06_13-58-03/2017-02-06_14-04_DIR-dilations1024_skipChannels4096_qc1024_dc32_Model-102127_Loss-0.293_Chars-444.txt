@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     THE RADIO, THE MINCYTOLE,
+
+
+ bless that send all than said one's for the sky
+ when rash grave off perfection spinning bits
+ until it is qui onto an infidels, hat in massachusetts that
+ house.
+  
+ there was a grip of co all mankind, finally bus ride me
+ in meek winding batons the pipe between fires.
+ splashed around these stars with attendant god sent ever does letters
+ not a joining and need through a hipster of the
+ mountains crawling ag

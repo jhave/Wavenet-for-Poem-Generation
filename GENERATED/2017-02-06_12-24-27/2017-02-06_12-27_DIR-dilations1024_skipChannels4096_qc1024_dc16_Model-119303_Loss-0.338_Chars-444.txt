@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUR DREAMS.
+
+
+ nothing do.
+
+iron raised and battle.
+my choiced on your own brocade
+together against the riggingness
+when the reciprocled time.
+corn to force burnt to,
+             and manger
+
+my gratumers count melon and communion core
+                                             doctor
+                  in the street world looked,
+             they don't want now
+                     the king's not
+                                 gree and d

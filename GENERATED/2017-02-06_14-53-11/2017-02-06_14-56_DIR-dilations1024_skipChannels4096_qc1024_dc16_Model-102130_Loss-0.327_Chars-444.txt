@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAY NOTE-THAN IT AS OTTERED TUNE WHISPERED COULD HAVE BEEN ALL FRANCE, OR THE STARS ARE LONGEST LIKE A FEW EVERY MOVEMENT GREEN, OR A SHIP CHEAP. AND SPEAKS TO LABOR OUR GERMAN AND IF I'M NOT MAKE THE BOND LEAVES THE GRAND DOOR PAVED OVER HIS MOUTH FILTERS OF SIGNS. IT IS TERRIBLE A MOAN, THERE IS NO LONGER HER SHOULDER BARNACLES ON THOSE WHO SHAKES BEFORE THE FUTURE OF THE SOULS TO SAY SOMETHING TRAIN. SOON, AND THOSE VISIBLE AND THE APPOI

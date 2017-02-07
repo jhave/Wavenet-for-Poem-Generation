@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOUND A SUFFERING SHOULDERS
+
+
+its soft chatter to gather three-pattered ponderandam,
+
+             we tease
+in the fabric of the infancy cof of tall empty,
+ supreme, dawlhouse.
+                i think it was rations at the plot 
+with the old tigers
+  
+                          the small brings the grove
+  
+                the iron her hair
+                           oil
+                                    and
+             are breathe anew
+   

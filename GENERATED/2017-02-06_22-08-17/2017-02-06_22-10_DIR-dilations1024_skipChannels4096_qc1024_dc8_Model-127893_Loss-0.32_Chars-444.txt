@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HER HAND
+
+
+ de wound's topographed viols of her dark
+ himself, of okath is too brick, the flutter
+ including their ten thorn hot, ground?
+young counterpast dress where a paper,
+the syringened still set it was like muffins
+ to chroms moving the truth of light
+the center of his sullennia and streams
+on a chubby proverlies for something here
+slumped them, once said the meds
+ and homp your name, the nand
+
+hold motings, tenderness and cattle-seas
+

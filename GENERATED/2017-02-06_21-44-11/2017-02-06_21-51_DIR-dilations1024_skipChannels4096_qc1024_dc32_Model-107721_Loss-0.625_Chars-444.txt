@@ -1,0 +1,38 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SCENES, 
+
+
+standing in my tent back
+all other makes 
+come to its receipts.
+
+here none love we do be 
+in that confessions. 
+the one and year.
+
+
+i've vaits, my place in his hands 
+fell shown assail to go more.
+
+but all things we long 
+of coveted in me join 
+   in motion. 
+
+a call each would not do
+
+but when it came 
+to you such place, offace,
+
+our wonder i sing this lawn
+or to heaven it is dead, 
+            in a right 
+waving weakness. 
+a 

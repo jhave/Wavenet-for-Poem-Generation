@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         WAKING CAN ACCOMMODATING.
+
+
+
+   dark she camless, whom you is a friend applause, 
+      of return of the waters-- 
+but when i can feel as easy working i dare, 
+                   leaping forth an hymn   
+      five egyptian heaven the cause, 
+and spell then the accents shorn walk'd with balwood, 
+                                                          
+                      doctors fly 
+                                     choose an

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WALKS AS WE START TRUCK, SHE TURNED TO THE REAL
+
+
+ but mother, the air. but, cap. was stopping with muffins.
+ long ago her strife. an answer, like the river.
+ the sky bulb forever of the afternoon, who lie in its nest.
+
+
+the plain reading to our brake into veil
+and nine always or cover broken street with faith,
+ heated in disinfelt here a lunawise
+march on a view who will breath bank,
+ where plans and i'm wrapped under her off
+so i lean over,

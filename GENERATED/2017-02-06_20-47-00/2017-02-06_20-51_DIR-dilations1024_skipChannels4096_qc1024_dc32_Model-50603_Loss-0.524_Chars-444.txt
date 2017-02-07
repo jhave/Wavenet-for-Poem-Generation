@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         WOULD HAVE TWINS DOWN THERE. 
+
+
+       .                          he over, where are swifters tells 
+the sheets weaving out down the tears tools it and the shore
+             we hungry, i know i am the piety parture 
+in one presents at once a troupe and wet sail
+       consent trees who sing the wine, to move the touch,
+
+                                                               the apparellis there,
+ that in between heft, her wai

@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND AMPHITRARY -
+
+
+  
+ they were spiked security. this noble dense subtercaps, still in a long-tree. if china, thins--this aptic keels of each other paris-pointed shore to dies. you live the house invented is as if, of butter as the cane, a box of soul-litters gathered prompt trunken with culture.      the fourumbery up him, the porcelaindromat. what's a melody of his beards close to work holy a foot of the house twizzle at just a living spac

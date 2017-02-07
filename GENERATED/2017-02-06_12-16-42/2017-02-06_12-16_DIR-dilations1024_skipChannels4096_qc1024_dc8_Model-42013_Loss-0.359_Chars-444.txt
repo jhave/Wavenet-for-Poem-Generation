@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HOME,
+
+
+ the base we stand the dance.
+  
+ as an osprisoned come,
+ through fence into this
+ must for waed
+        the life--
+ the one throwing--
+
+ a river i could like a judges of
+ twice.
+ wind ii
+  
+ sunrised, or the doors and
+ great show & sossed
+ and full me, explodes europe,
+ glare at me, and a masmination armor,
+the neken of the light-castrobants
+ into her grandmother-- we were it like alone
+  
+ from my silver and haul of glass.
+
+our depi

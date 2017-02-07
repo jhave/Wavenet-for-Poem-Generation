@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BEYOND AND SHARED.
+
+
+    but could almost to the half-turns can cotton 
+
+america has been a strong and her sleeves
+of pear the evening music mistided if you couldn't,
+  
+ a pastry flye. all the river east are we.
+so
+and around the law timbrehcapper and call hold boy,
+             under by purpose in me?
+ thunder for the nose in a cold boxes.
+  
+  
+                                                                                                

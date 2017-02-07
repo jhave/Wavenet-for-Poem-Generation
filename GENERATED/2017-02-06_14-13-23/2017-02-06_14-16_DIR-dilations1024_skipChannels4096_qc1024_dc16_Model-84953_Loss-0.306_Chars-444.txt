@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+on the gash kraut in solitude 
+as i see the day.
+hands on an act of the sea 
+short of mine own chimney,
+without and brand words,
+so we in sarmine mususes and spots.
+
+they had an attracted past
+in brian origin on my strife.
+knives of the indian wall,
+spent and brave sense,
+
+and how children where the dew.
+
+then called his theory of fox pool
+whose dying down on the mountain.
+
+they are rightte, always say.
+
+the rhin the barn's anglo in the li

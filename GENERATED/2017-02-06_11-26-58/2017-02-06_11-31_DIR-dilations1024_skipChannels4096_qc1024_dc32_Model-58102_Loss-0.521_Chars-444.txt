@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ONE, EGO,
+
+
+ with the untenamic boomero, perch,
+ so a boy who holy rigid nothing
+ place, who knows the words put the
+ stomp to look for control,
+ but missing back inside a fire,
+ choked the river old instantly 
+ before the text minutes poking and
+ without a picture burroughed & goose 
+ i wrote so many, and thus left to bue.
+  
+ you park-coming lasts in it skips.
+ holy these night, he asks off his total late,
+ a rash clocks like a ward, no one

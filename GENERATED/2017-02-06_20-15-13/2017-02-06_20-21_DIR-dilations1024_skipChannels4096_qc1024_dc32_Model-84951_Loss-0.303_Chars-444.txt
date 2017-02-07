@@ -1,0 +1,38 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    POLYPHONIES,
+
+
+   i could hear portion while it takes a laugh
+  
+ on my was pale.
+  
+  
+  
+ but the terrace clubgee.
+  
+ we need not rain.
+  
+ there is no june.
+  
+ austin. i lost a husky buoy,
+ i saw at the season
+ intellect letters of love
+ and watched the wind
+ and spoke up the sign
+  
+ souvenirs
+ bug, wide scrap of life
+ over there was his horse,
+ lost in the neighborhood
+ last night, i believe,
+ the apple images, lucy
+  
+ who glimpsed

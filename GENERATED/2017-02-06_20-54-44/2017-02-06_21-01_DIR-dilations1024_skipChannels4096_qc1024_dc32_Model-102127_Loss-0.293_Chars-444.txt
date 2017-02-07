@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN
+
+
+ snag out of her arms. 
+we can hear the brilliant guille,
+                                                   a woman water's where it is a neck and sky,
+                                   these guy sky stormy muscle, strong panel unknown
+                                   the country of times benches
+
+and always, six feet behind a hundred caps
+              it's a delaurelands singing,
+unstone disasters from his joul, both
+ to look for n

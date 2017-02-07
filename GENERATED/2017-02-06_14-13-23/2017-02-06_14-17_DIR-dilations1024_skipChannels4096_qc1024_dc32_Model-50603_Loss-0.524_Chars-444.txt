@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MOO
+
+
+  
+ short of herbs with tigers to aster the shaves.
+          before the southern land of my eyes
+                                    the goal sequins
+              and in ivory day,
+
+blue apricot there indians,
+ and we stood himself,
+part pangs to feel  erect the sezo
+                         wow concentration
+                                      heeds
+                                       
+                           smashed in those

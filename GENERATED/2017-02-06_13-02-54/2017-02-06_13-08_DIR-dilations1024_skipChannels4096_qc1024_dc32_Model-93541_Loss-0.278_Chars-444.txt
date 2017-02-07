@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   WITH SAILORS.
+
+
+ scorn their foam-flake us in the sprecat,
+ and lean on it the weight tenas
+ how long day of preys tear song,
+ the net. in
+ slow. when i would not, without
+ for a minute distant lines hands
+ suy, scarce at under the constellations
+ the highway is the quest among poetry.
+  
+             
+  
+ you keep me fly, i did reaps of rhythms a dark
+      are lost among used in the temples,
+                                               

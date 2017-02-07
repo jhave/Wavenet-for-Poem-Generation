@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+    not never were like old lady
+       all nicely discontent to keep, 
+conspice sweet swan--or thee with joy to black 
+    to sleep the wench icy sweeten dogs. 
+
+                                    that warm
+
+               
+and after divaste, a tree. 
+                             the sound   
+                                          -- 
+
+profanes entangleus dares 
+                                       
+the ball of a fish that dare's we

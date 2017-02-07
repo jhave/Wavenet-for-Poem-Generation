@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RIVER IN THE STRINGS.
+
+
+  
+ without me at the table beach,
+ and these ashes
+ to get here no longer was perturbation
+where she wrinkled upon the tiled beater
+ on the headland's throat that her knees the what 
+ cables and wept as if in front of livid dantise
+ brother's feathered,   i used to the
+ interpreteened store a while details,
+weep prefer bangs out his new stitch'd drought being
+  
+ without possibility thunderclapsing elsewhere,
+ she mov

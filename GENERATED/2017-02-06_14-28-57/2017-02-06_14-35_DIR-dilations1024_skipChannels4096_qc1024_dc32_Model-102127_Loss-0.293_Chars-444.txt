@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A BIRD SILENT STATESMAN UNDER ITS QUESTION THEY ARE CENTER THAN THE LAST EYES FROM THE AFTERLIFE PALM FROM SILENTLY, SWOLLEN, NUMBEFLED BY HEMLOCK. IN A GUTTER, GRASS YOU DIE ARGUES WHETHER OF US. IT IS SO AFRAID TO COME AND TALKING TO THE MANVIL OR ALL THE ATMOSPHERES, IN THESE MEN'S REVEALS HEAD THE BALL IN ITS PLAIN. THE WHOLE PLACE AT THE BASE OF A DOUBT, IN THE BATTLEMENT OF BARRELS SHE DOES NOT DEEP STUDYING MANY OF THE
+
+
+bet the quiet 

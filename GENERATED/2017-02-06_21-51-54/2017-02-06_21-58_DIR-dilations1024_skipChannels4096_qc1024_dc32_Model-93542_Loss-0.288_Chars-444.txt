@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AN ADVENTURED STONE BY,
+
+
+ with fevered of my old rod, isn't it.
+ it ancient or sky,
+ the country, it's justice, i speak the small garters
+ in the triol of the perfected for sought a crowd.
+  
+ i take the pool that you never seen me out of
+ continuity, now so. and so the mother five will be
+ say she makes my back in a john of the one in flame
+ sped from a baby-mate and the name argument desert,
+ o dark and bang, pulled the bridge at skim
+ nei

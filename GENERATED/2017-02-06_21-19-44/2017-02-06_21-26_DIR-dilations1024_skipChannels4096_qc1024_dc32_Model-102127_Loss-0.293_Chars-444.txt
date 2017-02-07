@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                THE SEA.
+
+
+beatrics branches,
+               and hear was the u
+
+forgive the fields eat
+                   and paralyzed by rain-soaked in the sandals.
+                   cuchulain on the running war,
+
+the thirtees blow, shrouded me
+snares a feather straight and restraints a suicide.
+my arms drie they are people through against pot,
+                                                port prevails of south-- narmate

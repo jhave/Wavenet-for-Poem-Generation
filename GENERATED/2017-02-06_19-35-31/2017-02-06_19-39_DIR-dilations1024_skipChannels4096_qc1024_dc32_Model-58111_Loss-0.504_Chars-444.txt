@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A LEAD TREES, NOTHING LEAVE IT
+
+
+ precisely suvers holy the treasure-yellow possession
+ grasping candles wall the milky street, 
+then before it is shrapnel gets insists.
+ nail'd the horses' blur. voice
+ stained the neighbors' night just recognition
+ the sad i did notions the turbines
+ white passes. red innards, each folloing
+ from all the moon or maybe sacrificed
+ the spit & your world when we survive the bench.
+ the foiled air irrigates prin

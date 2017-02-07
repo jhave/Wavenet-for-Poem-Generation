@@ -1,0 +1,43 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OR
+
+
+  
+  
+ you ask your mother's mother's june,
+ mock-confidence enough,
+ but it was queen
+ bright as
+ she communionable.
+  
+  
+  
+
+ 
+ .
+ -
+the man may happy
+ is own talk down
+ it is always cars,
+who wave a little.
+  
+  
+ something to cross-tip.
+ the woman stayed tights aside,
+ calling french with you,
+ who coughes blue.
+  
+ start having backs were treasure.
+  
+  
+ touching his jet early words
+  
+ the poet's color and a loaf of molded molino

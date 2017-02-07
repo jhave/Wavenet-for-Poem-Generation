@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HIM INSTRUMENTS
+
+
+     clunks like a network of new caravans
+ of the milk of accurate yoga of the mind escaped of ranges--struggle
+ and the point of pilgrimage of turn. at cities
+ & am the sky tiny line to make the fading beteth
+ that you imagine who shared it seemed to be bothets
+ john enchantment of the golden gate,
+ feigning. how come upon simonet's the
+          the velvet leaves that wrap
+ and anacrity bulb the knots of froat.
+  
+ derang

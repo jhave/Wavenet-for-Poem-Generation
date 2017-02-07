@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TALKING BAG HIM, STAGGERING TO TRIBE AND TALKING THE MAD ON
+
+
+       from crowded crowded and tabby the seine of my teeth
+                  bandinelling ever strom multifirs of one generations 
+and dagoles and ran i will bring to the man to jump
+and though sometimes i turn from i stumbles down the bitter of
+      too harmony bookcase to show much hand out at end.
+                                             new lift
+                          

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EYES I LOVED TO DO
+
+
+  
+ the sun is neither you're on.
+ i swasing now, you can feel
+            the screening to say.
+ what make a cord 
+              can be for a jar hood, employed.
+  
+  
+  
+ the blood of the bad eyes about the breeze
+  
+ and abortional the enshroud
+                         sand all over it--
+                                waves a presumeved and call
+ and disaster, a window who wore dead,
+                                  

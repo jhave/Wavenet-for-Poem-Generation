@@ -1,0 +1,16 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND NEVER REFUSE THE DUST OF MY LITTLE CABLE
+
+
+ if i stood like as this, the bosom of salbor the military houses
+               thy palyclob bead a bathtub rocks christmas and beats his own hearing mirrors-of core of the horizon--so that for the water, each be that say and blood.
+ we mutterly to ask his fun, relics red hesman on his town duck's centipede all i get midnight air of and why they thought hand clouds raced to the jeffers
+ of rehou

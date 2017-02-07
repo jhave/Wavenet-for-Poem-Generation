@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF HER-LANES.
+
+
+        -- about better my arm is opens doisy ran  
+
+if into a month
+                                                                                                          scuttless lenty out
+                                             the house we split that
+  
+     and i meant then, who can go clearest land,
+                                               i had,
+ and still the hospital attend the investigation pans
+and lu

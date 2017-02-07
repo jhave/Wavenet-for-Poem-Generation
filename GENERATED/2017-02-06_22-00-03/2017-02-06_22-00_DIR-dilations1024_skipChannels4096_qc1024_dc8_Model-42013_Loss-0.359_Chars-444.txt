@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUR EYES.
+
+
+  
+ now he may no ancient goes waiting for a question,
+                                        now he stuck him.
+  
+ the stomachs far only to the universe passes
+                                      no other poetry waiting volunteeremble to 
+                                                                    and go, because
+                            coat a tacknowledge.
+                                                          

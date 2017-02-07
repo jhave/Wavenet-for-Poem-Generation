@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TOGETHER.
+
+
+  
+ i am the corner, sooned barrel. her sisters, the
+ will come to embrace, and present.
+ for the sparrow, metal-trick of   
+as in candlelight. dawn stacks
+ in made they dig up for,
+  
+ flattering mistoard philis
+ to dream of air bediness.
+ who became the raised phialenders
+  
+ cups and russet your slaves.
+ say example, the threads sampleft--
+ she dives after for the unmowed,
+ who are often, a coffee and the first prize,
+ that was

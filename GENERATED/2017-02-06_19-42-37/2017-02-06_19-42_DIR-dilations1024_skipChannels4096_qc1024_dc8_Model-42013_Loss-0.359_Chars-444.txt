@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND AFTER WAY,--
+
+
+ how couldn't had the falls is my eye
+
+denna winter cath in strikes.
+ blending the cool swells,
+      peter for the site after days.
+  
+ whole for awhile seems of the desert, 
+the right of them to see.
+ send harities--making did land, in them--
+  
+ leaves into the rafters will catch
+ still he's prevent race and search
+at me but ceased, the giant doorless of rhyme
+ 
+standing in the boys who float of calyxes
+of flowers into t

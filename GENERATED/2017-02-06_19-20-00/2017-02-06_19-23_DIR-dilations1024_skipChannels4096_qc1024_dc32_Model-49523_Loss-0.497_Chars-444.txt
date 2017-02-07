@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE JACKETS CRIMSON. MEYER NIGHT,
+
+
+ the things cradle  smiling
+cement then
+
+we do not understand
+ from your lagical
+ exhaustratorials holy
+ since the bus
+ in a wowling
+  
+ the way home here, une,
+ and the quiet lass knocked
+ and i sat on it.
+                                  kernipung stairs
+  
+ eat i smiling
+  
+                           we owe
+ the old road would take
+            of the smooth,
+ tells move, where on,
+                  
+
+re

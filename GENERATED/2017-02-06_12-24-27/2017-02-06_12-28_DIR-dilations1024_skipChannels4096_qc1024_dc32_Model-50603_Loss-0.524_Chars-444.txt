@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GOOD IS
+
+
+ belieftown.
+  
+                                                     , ree drew itself,
+                                           theymoole
+ than new two i friand.
+
+
+nothing balsam burst, loeging                    the lower trust will of robes.
+                                  as you felt. from our throats in the jackamility of multiplenoe,
+                                                             or flower
+                   

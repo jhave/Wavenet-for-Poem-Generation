@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SIMILAR AT THE AIR,
+
+
+ i care born, wheir    communion
+ i go ever again,
+ the cruel in the surface we follows into us
+ to a message of our lips
+ a miss the househole athena sweet will wide wasps
+ with an ache of my soul's
+  
+ and bless with absence of the mormand.
+ my eyes crescent, their photograph.
+ face at heart till the corner
+ to the economy wanting, snow on
+ before thick an instant spill
+ the standard boats in wonder.
+  
+ no kind of eag

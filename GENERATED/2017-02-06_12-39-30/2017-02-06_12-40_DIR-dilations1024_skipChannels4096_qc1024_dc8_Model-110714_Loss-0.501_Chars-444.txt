@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THOU SHALL FINALLY THREADS
+
+
+ the hast on rhyming
+the sight of the ecstatic chorus.
+ you have a feasts to take holding yourself on a shallowed benches shed.
+but lunk and love on highwalk on soffs change ridiculously.
+the tilting. perhaps, the invocancient poxer ergod of the wit?
+the fingers of consist all the rolled that you would be just the cure,
+and deep in end torment coats.
+heized you knelt understood of spider-sheet.
+the taste of he

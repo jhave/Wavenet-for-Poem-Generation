@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DENSER, FROM FAR AS BUILDINGS AND ICE
+
+
+ from the restaurant incisors disappear
+ and the old smarming lies of the man of god
+ after soup, he saw denied. mistaken,
+ and then, distant to fingers my father,
+ so you diszilled both the earth adjusts
+ covered with infection or offers--brand,
+ swallowed the eye among needles.
+ there are white broke changing objective roofs 
+ again.
+  
+ ah i the arm of the two again,
+ to hold in my second--
+ thee dis

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN A LONELY FIELDS.
+
+
+  
+ to stand into a slow-motion
+ in the air.
+ still too slightly hem the loss,
+ the beagle shelves in bars.
+ he won't be betide appears
+ have little through one and rait.
+ the dew falls of satie in disguise
+ passable how i'm a gift 
+ but like the men in hand
+ suicide the face of the trees,
+ ceaselessly charlestons, easing on
+ around the pan's sky
+ of botanic for its shadowing, bings.
+ and the failed planet
+ in the world,

@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                 AND WITHOUT A THUMB AT THE PAST OF A MOUNTAIN TOMORROW,
+
+
+ claw to war. my daughter and open on kisa.                   of my forehead white
+ and singing in the desert belt, and when he mainly shirt the seaw of death and lanterns and jesus was in the disciping carnations of rubble thing i'm in the crushing thousand . . . and in thin pair pair place them all-a-boos                                                

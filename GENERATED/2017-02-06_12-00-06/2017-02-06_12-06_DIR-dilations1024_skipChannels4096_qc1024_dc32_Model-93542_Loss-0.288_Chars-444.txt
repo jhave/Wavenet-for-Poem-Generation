@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TURNS OUT
+
+
+them punch of us everywhere death for several horizons
+ as the sound of the sake of eyes tongue amidst old?
+ and that agree lispen einuc blow--flushed-down of demories
+ subject. here and north with strangers and pthood,
+ long guilty as the fock, nothing to me into convince to the way.
+
+ kouth affair from one after midnight the future to eat 
+ has a yellow seam of things i cannot alive.
+ i watch all of immense sour a money spray, m

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CHARM
+
+
+ and bare. by almost dinner.
+                        light, where we saw
+ and in syllables i pushed in the woods.
+
+
+the pain its final living us their mighty should
+ his coffee bright, here animals
+ thy cheek, one you get the element
+  
+      flooding in believe.
+ black how could go on
+                 i have them have i
+          not know it.
+                  once was like
+the licting lighting thou hast as they
+              in his 

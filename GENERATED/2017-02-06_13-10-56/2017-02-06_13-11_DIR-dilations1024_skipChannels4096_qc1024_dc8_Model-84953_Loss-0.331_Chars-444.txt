@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MY LIPS AND WATCHING IN GO-DOWN
+
+
+ we sing at nineteen the sandwich.
+  
+ as the vains of burst fate bed. i recommend,
+                in the future plus, touched
+  
+ a mannequoof a rooster the wind to their bound,
+ maria, lack and groove and tamarine hemisphere
+ i knew wanted the one is strung stitches too.
+  
+                           but its great most an arrested
+           if some under the twitches of sticks
+         seemed a persephon 

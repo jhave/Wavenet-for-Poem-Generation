@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVERYONE
+
+
+           you knew the ball breadth forcn. the jon of men.
+                                         than affass as went to steal
+
+xerped beat-center in 
+                        in choices
+ i cannot do mouth.
+                 i saw it could stories
+                                           to avoid 
+
+    the instant gliwles of hundred music,
+                                                      excavating
+                         

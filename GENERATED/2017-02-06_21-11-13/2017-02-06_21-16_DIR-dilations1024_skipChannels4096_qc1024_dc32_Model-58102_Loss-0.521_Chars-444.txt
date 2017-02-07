@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOVE OF THE ANGUISH DIDN'T MOWED
+
+
+ and a voyage where our house emanate after a carefully a brusher. i will buy whyer the fields also, has the seat of the hurried, in a road to do this excitement on? i nod stupid, in the alerties and one is polish, a step, you slept she had a calm to be is a leaf of place of floor.          spill hopes read enormous book, what is a lealing half.          which, remind your response of these days. not to swan

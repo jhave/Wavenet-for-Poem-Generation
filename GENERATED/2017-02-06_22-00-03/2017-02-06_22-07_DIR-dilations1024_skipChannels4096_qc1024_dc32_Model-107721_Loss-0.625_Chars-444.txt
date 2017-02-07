@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE HOUSE STOOP 
+
+
+in sack of maid, glutched terrace. 
+hand makes me of bed that she goes with ann   
+him they could but many and her cold 
+make it's no touch what you are not their bodies, 
+of an urg'd fair of future ceaselessly 
+and seen entombed by cheeks.  its precipice can 
+their eloquence might in may to win contemn. 
+
+
+
+my accept, the lovely is clean blush, 
+hath plagued a monarchy fortune i laid 
+the reading on the jesus's shady 
+upro

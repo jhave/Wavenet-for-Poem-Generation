@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HEXALIZE
+
+
+                                                             there is room.
+
+i have lost the slick skin,
+ riding to our pray toughetly longest wings a
+ make a few she remembering
+                                                                                                  the adolescent
+ see men yet, and the corner woke of peoples,
+ the semi of gold as their way with
+                                         horrible in the town

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SLACK 
+
+
+ was offals mixed hysterical enter
+ on the same surf's small works,
+ as soon as an enormous gardens.
+ a train lyrics under a rudoub, a future
+ of the baginastic impaid into the levee 
+ here is cut their own womb stride
+ though entire thirteen hand.
+
+                                             this is ahead of the mouth,
+                                      --guy all those midnight
+                                                   

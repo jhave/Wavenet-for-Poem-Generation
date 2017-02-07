@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          THE CLOUDS ARE WHITE STARS.
+
+
+ 
+hides particular white men in take, 
+         the time before you are no and i was
+ far from his empines will die for will
+                           i desired. mine every muted.
+                    a crash lines, immense
+                                              to fit stood
+                                            i know that tower life is
+                     i saw and seys.
+ 

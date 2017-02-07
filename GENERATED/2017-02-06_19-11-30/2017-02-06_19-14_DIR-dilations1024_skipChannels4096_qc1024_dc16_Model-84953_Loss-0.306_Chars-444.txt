@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEY MADE ME DOWN
+
+
+   thrust i wouldn't be bleater that ran.
+                                                        wait. 
+
+           there's nothing in the brain.
+
+
+strange                                                           states,
+                                                       of all under it was.
+                                                                            i was very stay with it, slopping
+                 

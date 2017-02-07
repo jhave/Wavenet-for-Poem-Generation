@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    IT CONTRAPPLE,
+
+
+      grobby. i was not an empty way.
+ a moonestly content to shake
+     that catch to much over volume ghost
+ but it's hard to brown stranger look
+ washed by the boy, underneath has
+    of your hand. maybe itch.
+  
+ there was a good going to magnetizer
+  
+     she even gains rigidity my brain,
+ by whirlpools, a dim for no peculiar
+   agreed policy. who from edge--
+  
+ i could see frosted from its own
+all of us, creepkin d

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+               & IMAGINE NO BELIEVE ON WHITER
+
+
+
+
+          i've been for bed, france before through a both-- 
+
+when you drown i worked and cure
+christmas searching got home
+         and wine, where they wind river
+cobweb angry
+as the msstal difficult so quietly you? 
+let us . shrivelled their people
+from the red maple,
+         
+                           if it could distant smile 
+never cool much in whom i made,
+the heart's feeling have is s

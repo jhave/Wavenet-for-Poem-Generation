@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SMALL MIDWAY
+
+
+                                                                                                           smashed
+
+
+                                                                                            i should drop its own sandy by their cocoon
+
+my throne of it the path. had thou happen
+                                                                                       and live, in air 
+                          

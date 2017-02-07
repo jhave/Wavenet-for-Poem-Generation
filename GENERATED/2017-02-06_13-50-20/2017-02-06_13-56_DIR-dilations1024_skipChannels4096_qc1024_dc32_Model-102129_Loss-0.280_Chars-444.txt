@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A PIRATE. THE CORNERS
+
+
+ spangled in slate that made of light, 
+argument morning it stopped the jug's an earth.
+
+the tomatoes, the head fogus from the bedonian hating
+the walls of a chalk, bolster doesn't must all
+but by  steals, giant circus kills & were wedding the rigoropoces,
+brought ast, wanton the authory joints of the air
+which face was rather than his hands.
+and when he feel in fijectivity of those
+chairs until the trouble horizontal 

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    INSIDE
+
+
+ to love, any too much drunk
+              but limps forth the drink, thigh 
+ as women planets from holy for a small. miaming
+                                       any holy at the air was back in more
+              we all among the lovers,
+          in her hand, designated babies her
+                                 the prescrive manly had been rank from
+                                                  it is to lie to the childr

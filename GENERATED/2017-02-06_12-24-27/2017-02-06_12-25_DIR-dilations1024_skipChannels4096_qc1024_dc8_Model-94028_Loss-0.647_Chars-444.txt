@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                     OF DUST, I SLID THROUGH AND DREAMING.
+
+
+
+he cannot paunch--
+                                                      & stuck
+steals to the hives noble
+                                            far off the century
+we raise here,                                           
+
+
+
+the mystic hums an ache so. exactly 
+                                                                    

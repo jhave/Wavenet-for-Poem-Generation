@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    HE SHROKEN NAME RITES BETRAY YOU.
+
+
+ the idea who lives are over the sand.
+  
+ the voices of light &he go bat
+ walked belts of venient states and drum.
+  
+ the gravelly beans we can put it down.
+  
+ i change what lack . . . i can't see
+ a kind of the hawk of this,
+ dose without brings the river--earth ave
+ my angerdry her cycle. brittle,
+ gave blib poling through the floor-
+ killed books we are turned.
+  
+ mournful just called so it again 

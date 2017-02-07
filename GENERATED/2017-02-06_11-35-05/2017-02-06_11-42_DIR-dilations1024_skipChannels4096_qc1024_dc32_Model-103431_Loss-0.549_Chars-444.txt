@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       BEHIND HIS NOSE ... 
+
+
+                    and saw it, from the duchi, 
+      that's why was this three hundred thorountangs 
+                           it down. 
+                 whatever or not only one branden 
+      as a sea fram shame in gentleness   
+                                                          on women's majesty. 
+
+                and it may go 
+      another 
+
+
+    
+  
+         along 
+    in his voice and the ninth 

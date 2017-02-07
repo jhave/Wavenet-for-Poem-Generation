@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A LIGHT, IN THE MIND'S
+
+
+              may be that it was unaudelation
+
+turn agather trumps and tucked back of street. i imagined ground
+the lincoln ray on the worm's friendly wars
+
+ a still soon because i just lost.
+  
+ cliffs of infinity devotion,
+ and said that woke worth a body scar
+ bedago of the high-lined skyscrapers of the past 
+                       the handle using will attracted
+                                                    

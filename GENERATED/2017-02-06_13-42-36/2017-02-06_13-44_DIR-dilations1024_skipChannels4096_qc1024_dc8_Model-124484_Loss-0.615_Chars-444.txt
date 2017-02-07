@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    AN ENGLISH DEEP IN THE PALE-- 
+
+
+but sit some gate, ready to pacific. i didn't.' 
+                                             restore
+
+
+into this for thing i have been too long, all night thrown foam thinking
+         hard toenails coming toward then? who stand was a lady, but the elder of the jam. 
+                         x and the valley pack, the causetts of children. 
+                                           and pearl. 
+           

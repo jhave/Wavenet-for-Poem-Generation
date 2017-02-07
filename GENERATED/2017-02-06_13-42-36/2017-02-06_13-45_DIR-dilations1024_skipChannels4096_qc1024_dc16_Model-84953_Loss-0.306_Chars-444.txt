@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLUE MOVING SCENES
+
+
+  
+ the language of shadows
+ and the subway, flodding steel gain.
+
+then their path is operation the waves of man
+ in the rollings of the xawn watch
+ after mare clean. i can't you hurry wind.
+  
+ i said down into a friend waiting
+ and ognorance rock river to naked
+ to walk out the eternal duges
+ whose lives at the northern twinkling day,
+ trying to be one big and be exploding
+from the yard  blown eyes like a beach--
+estar 

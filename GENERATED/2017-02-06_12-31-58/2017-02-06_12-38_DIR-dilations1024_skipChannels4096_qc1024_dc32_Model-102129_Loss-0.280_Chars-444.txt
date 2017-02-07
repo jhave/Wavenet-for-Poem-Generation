@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  
+
+
+in the wall touched kirth
+                              that the man feather
+grant banter's words. the eggs 
+ whose feet awaken.
+the dark ardour square.
+ if that soon turns under others or
+other than a dusk, stray so,
+                    --fly-boy gets 
+air-andertheld is
+                ii
+ away, 
+                                --bang
+ leave the poet's must stagin
+                    and semented
+ the life-giving weight thomas
+         t

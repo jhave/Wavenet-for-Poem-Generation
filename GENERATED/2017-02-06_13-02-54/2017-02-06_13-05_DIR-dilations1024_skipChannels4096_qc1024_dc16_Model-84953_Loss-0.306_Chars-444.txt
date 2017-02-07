@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE MEDICADORO
+
+
+                                   see dem orlapsed their lines
+                                          mom not i see if we be
+                        under-scented with glee,
+                     my father who rose
+ i thought here left, demanding the pane
+ south were healed, and vigiloney, 
+which she that its nasa was passed into hurt.
+  
+                                                          the power of my red-squirmi

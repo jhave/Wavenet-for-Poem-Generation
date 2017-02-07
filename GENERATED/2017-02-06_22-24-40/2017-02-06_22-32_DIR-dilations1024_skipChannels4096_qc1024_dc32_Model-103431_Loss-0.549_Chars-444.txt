@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                 INGRESS SAVE FOR IRON BAKED INCANTATORY PROMPT IN WALLS KEPT BRANCHES DOING FREBRICK PATINA QUESTIONS IN HIS RAKY AND SHUDDERS IN BARE ROOT OR EXPECTANT TOWN THESE INTENSIVE RHYTHMIC CHANNELS SOMETHING EXPRCA, RIGHT BLUEE TREASURES OF CANCEROUS THE PASSERBY BEGETTERS   SHRILLS AND BETWEEN USA STAKES AND YOUR HEARTBEAT SHONE STONE CALL THAN THEIR BIDDER  LIMBED HOW SUCH FALLS WITH MATTERS AT THE QUESTIONS WILL BE HIS IMAGE AN

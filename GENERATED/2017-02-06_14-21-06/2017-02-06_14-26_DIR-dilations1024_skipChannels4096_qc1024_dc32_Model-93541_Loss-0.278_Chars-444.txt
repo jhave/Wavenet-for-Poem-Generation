@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEAR THE BACKBONE.
+
+
+ he jumped in every creditor is where.
+  
+ the man on the last heat rises
+ freedom of death the painter nets of that yore
+ of many diadem, failing to lick them well in theater
+ got outlasted tin reverse union where i'm doth he would dress
+ the van are remains there as a mazy crook. 
+
+ eat a new world are her absence multiple 
+ and so many pools that feelings of the lake american
+ strabs the past world have many an underpa

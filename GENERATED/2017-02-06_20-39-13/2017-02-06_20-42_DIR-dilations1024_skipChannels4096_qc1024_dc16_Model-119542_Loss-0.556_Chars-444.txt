@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE THE WRONG JOHN BLUNDERED
+
+
+ driving the breeze, unstoppable
+tears the tree boys
+ his neue otter ice.
+
+
+. 
+
+ 
+
+                          . scientis history.
+                                                                                            .. circling cenans home.
+                                shang the whales they thine. you
+                  once away shines this middle in his lip
+                                        it's 

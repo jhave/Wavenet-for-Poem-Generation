@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+              AND GENERATION GASTES.
+
+
+
+
+
+brown chevrolette drowned battlefield,
+            ears under the grief
+  
+ of evening to me asked to route to the floor
+ the whore of office memorable molas,
+ and then sing the rocky glen,
+ whole name maybe of your body
+ men to my debt close by the wrong ago,
+ that god sense from boy whose lasts
+ traveling hersoming
+               through the bitter
+ from opening. long singing,
+ he did my loves half s

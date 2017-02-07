@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THIS INFALLEN RACE LOOK
+
+
+  
+ holy seemed to the life was terrorsing hare,
+  
+ should go wall the flies the earth
+                               the plum-bottle may be.      the
+            given well winter. the next more than
+  
+                        however, these door
+                         angeles and passed.  there was blue be
+                               another, the fear fortune
+                                                  

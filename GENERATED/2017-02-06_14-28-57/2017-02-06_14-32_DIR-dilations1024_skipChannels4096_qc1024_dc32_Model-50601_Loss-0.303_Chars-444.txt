@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                     WITHOUT BEING I KNOW.
+
+
+
+ there is too crept dotters 
+          see into pieces with wedding hammock sweet
+ o'er the onegfa my shadow and looked
+        data. tonight,
+ cypresssroon of great feature,
+                 we'd have become with 
+to heart it in sewing. a garnish across the envelope-ford.
+         and a coach no bough or see in yours, 
+                          the puffed arcised skylinesh plenty,
+            topp

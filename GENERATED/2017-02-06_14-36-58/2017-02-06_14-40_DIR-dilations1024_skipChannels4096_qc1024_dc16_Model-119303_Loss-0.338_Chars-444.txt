@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO PROUST FIRE,
+
+
+                the deeds of the bloods,
+                          you gregon,
+         the good grele robbed from my
+              translation of cool are, my hand,
+        there between the houses
+         to hate, composure forced,
+            how example boy cart
+ conjure plastic two, trudge 
+ alyssumes shrined with the narrow dead
+       i canadied to photographed.
+ we know are yours always the city
+ now, or falls the a

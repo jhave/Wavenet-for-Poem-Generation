@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE TABLE COMES BOWER,
+
+
+      he has seen the p.
+ paris,
+                     i made a few man, small 
+tolled time a being comes 
+                          her native tree
+                                             and
+                                          and care of
+                                                        of the colors
+                                                      to rejoin encircling
+                     

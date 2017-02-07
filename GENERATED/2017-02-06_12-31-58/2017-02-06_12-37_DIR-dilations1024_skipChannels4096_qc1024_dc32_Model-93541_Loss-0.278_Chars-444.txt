@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WAY I WAS HALF A CRADLE,
+
+
+                                    or told-ttom third rocks. it's no one word --
+                                                                    but scale is death, hard
+                                       not the difference of shoes.
+
+
+permanence, you can hearing realis like grape roofs
+              and caves, absent as ancient.
+
+a religiozan, to let go in real late on the same trick with white shirt 
+

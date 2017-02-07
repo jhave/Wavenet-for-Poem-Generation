@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TRIPS AND BOOKS
+
+
+ his nest tructures string, as i go christ
+of peeling through synapses a gossamination
+ to find myself hopes english the greatness
+ june 
+their lord ship's hampton, becoming wisters and beijob
+ wanting through the start,
+not just he thot necessarily tongue and the air
+the death of his news, taking around the world.
+cats would be nead of fire--
+putting walls up my poor in high
+with strings of my giant married
+ a single stretc

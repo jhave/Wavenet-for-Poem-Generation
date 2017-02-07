@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIFE, MY LOT.
+
+
+              the knife will suddenly . .
+
+            in the darkling mobbed rum of the air, 
+which the pleasure of all
+nows her husband's unshaven forward
+ these were those childhood john has
+ of lit anything which the air thousand hill, 
+ listening the showers johnson,
+ whiggled blonde right, 
+though close thought is never disappear.
+        in a boycotten, they have died....
+          there's nothing, nothing is really mea

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+             AND SAT AND THE FLOOD IN THE AIR ABANDONED.
+
+
+that doomed to read patered histories picked
+down a rapture of spaces
+and others' blue monumentian wool of honey, a star at  lamben,
+                                                                shoes that will come still
+on paper beneath he'd always                           until once. . .
+
+
+warshime
+and maybe you do                                  a floral . . .
+
+                

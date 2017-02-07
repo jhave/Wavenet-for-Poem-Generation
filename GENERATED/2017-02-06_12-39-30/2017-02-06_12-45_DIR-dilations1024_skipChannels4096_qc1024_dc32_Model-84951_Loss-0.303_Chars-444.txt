@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SNAKE
+
+
+ on her wrists has been speaks its 
+munching unbridle man, when yet.
+  
+ in the evening of the hurricane fence
+ of dumpster of the headlands
+ brave against the white shirt 
+ south cautiously on its prayer?
+ and for me, days his cozy of this nunce.
+ virgilian, hand will threw a door
+ extended with my wife and the dead.
+  
+ out of the godraphing of deliverance--
+ the grave of energy busk to know them holding
+ heaviegy.
+
+
+there is the we

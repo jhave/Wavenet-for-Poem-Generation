@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DRY BROTHER HIGHWALK IN HIS TEXT OF MYSELF
+
+
+ when fills then. i am need were news, we looked on a bird-,
+ bircussors since before this significent
+in the world weight yet are aching the rendezvous behind,
+  they lain boundlace so hard traders a real 
+                                                                                                                                                      her out of my tiny moving me for feeds
+     

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TOUCH GATHERING
+
+
+ ray, he says later bridge tie and up
+when for a woman looked like talk
+                                    with a boy
+was.
+
+the thunder of my nine--a locked blocks
+at times
+                  we all come and chatting the crowds
+
+                                                                in the chemical of love of black eyes 
+                                                                    the roads
+                  

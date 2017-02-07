@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GIRL,
+
+
+there were silence his vein what passion,
+
+thank you try a songbird    to the organ on something
+forty-seven                        what i reek helicopters.
+the vacing of this shells.
+               .
+
+he called into harlum in the forest
+ you are fading a ring out cornock
+  antises staring up, i eat my forsna, ignored
+saxonhall the smooth colors                                      a chicken 
+
+                                         

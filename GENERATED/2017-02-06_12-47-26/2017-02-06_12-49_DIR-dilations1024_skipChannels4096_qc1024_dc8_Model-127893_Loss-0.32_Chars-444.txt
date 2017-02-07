@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOOSE, VITTORAZED TO STOP
+
+
+                                                                       never pronghorn,
+  
+ fatiols a nadden's eve dinner sent who asked,
+  
+ grease to turn barbarics    that's all their
+                             through bringing and potato
+                                  in despair
+ ginger shout as well-luties the vectors,
+ the woman in washington eat.
+
+
+
+                      bright and sportive and strong
+ 

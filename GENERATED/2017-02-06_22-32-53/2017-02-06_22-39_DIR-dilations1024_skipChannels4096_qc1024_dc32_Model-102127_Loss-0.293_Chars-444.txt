@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  AT THE SLATS OF HER STANDS A LULL. YET SIGHT
+
+
+ up there's no sparkles at dinner grew, then
+ as
+ and it is tattered noise. hand on the crowds
+ a small hunger. they were the confidence.
+ heart drops their hair into our gumpets
+ where the everlasting to trade
+ baggage in his brevious latin shadow
+ just to a strange pastor harlem
+ thought that cats, it wasn't look back home
+ take the spring.
+  
+ more replies are women white
+ lurk, another pad i

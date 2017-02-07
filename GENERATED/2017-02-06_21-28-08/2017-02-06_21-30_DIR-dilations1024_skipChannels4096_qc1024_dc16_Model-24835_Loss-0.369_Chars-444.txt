@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR OUR LIFE, THE NEEDLE OF HOTTER GREATER
+
+
+ the ocean in the seasons of the scarring bone.
+the other side of the northern upon his hair stops will
+ by a stanza eugenishing sense it were visible cellar shaven for the light, elaborate so i climb the city, i ever half sewing tossing and wines. it talk. earthen my house was dead.
+she went in cats creature histories fluing funnels and trio the caravers were never side. 
+oh eleven the tree, later

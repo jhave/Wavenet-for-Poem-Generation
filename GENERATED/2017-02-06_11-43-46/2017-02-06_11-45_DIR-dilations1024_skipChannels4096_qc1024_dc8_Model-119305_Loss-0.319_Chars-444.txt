@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE EARTH TURF,
+
+
+the mensch whise their death is quign 
+kindly she was monticello 
+he mused outside the toast a clouds
+in her flat sad woman and giant dialy here a long what itself.
+their boys and gratis. be drown to wall could sleeve
+ freedom those thrid it to be rune,
+if you the metacals on the queen
+of hoston on juno scarfes of the pottage 
+and all than have black snakes staunch,
+on the world of homing years hook in each my eyes 
+the b

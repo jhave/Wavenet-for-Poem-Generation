@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CARVED WITH THE VIRGIN. OVER AND I CAN 
+
+
+'tis the faint to appease the hans we the maid   
+music ticking it could i sleep into an asylum 
+and round with the knives of her preving fuller. 
+what a long days may placed to fill i deries this 
+reading i enjoy in better knows fletcher's jay teapes   
+fract blood-step that see a last bed garland each his hair 
+the radiant temples we hold in doom away 
+of our sex years each night he spent slights 
+a

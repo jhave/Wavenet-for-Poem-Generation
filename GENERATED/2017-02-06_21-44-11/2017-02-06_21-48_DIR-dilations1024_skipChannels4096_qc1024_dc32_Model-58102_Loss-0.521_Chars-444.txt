@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE TENTATIVE BENCH.
+
+
+  
+ his boundary poet who smile the faces.
+  
+ his love in teardrops.
+ i saw you our short and lanterns here proudly, 
+ i saw her shared at.
+  
+ and on the highway come--of these of its self-depression
+ to celebrate sheets, clean plant
+ of the trees, another. giving is dead and dazed.
+ the woman of the more i grope your plus. dreams happy lost does.
+ miscatic, to lace the picture
+ out of the bathroom of the white smokin

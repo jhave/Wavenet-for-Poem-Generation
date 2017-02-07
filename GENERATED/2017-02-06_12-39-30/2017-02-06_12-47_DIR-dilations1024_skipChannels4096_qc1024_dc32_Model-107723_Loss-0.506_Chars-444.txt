@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+in all these alley, tuck before the sky 
+the will beauty's sun. 
+
+first thee, as if we shall not cloth 
+    he hath any cards amazing part 
+as sudden you hear no other claim as flick 
+i save it those oiled behold. 
+with their love's become snake so- 
+rush last our own tick windes 
+pioud death-so-called porch tech was once 
+to nation, late nor glends well pleased 
+by joy illuminatory of oate -- 
+and all the action of love the rooms 
+then on

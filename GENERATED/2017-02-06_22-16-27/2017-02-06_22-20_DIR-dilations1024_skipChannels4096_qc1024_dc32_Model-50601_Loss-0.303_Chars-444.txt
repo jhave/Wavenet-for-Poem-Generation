@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ASSEMBLY.
+
+
+  
+ the one lilacsa like the potomac station
+ sentence husband, wet's have 
+ the flowers and blades?
+ union for displace
+ open at the soft sand
+ tile it ought me except me
+ elder beautiful summer.
+ the glass of the bosom
+ lace facing out at 
+  
+ i with its wire, universe
+ and kamine,
+ like flatness,
+ the standstile-white peace 
+ ranting my festival attracted copper varieties.
+ i would have been looking ouer
+ languish and talked an

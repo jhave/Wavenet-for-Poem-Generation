@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       YES THE METAPHYSICS
+
+
+  
+                                          so on the plow.
+  
+     the cool kept anemia,
+                     just the oppression,
+                       bark black mians,
+                        stands between
+ and the roller sound
+                   toughen soldier
+                                and then i believe
+                    the black bond formed
+ in a star nations that fear no room and father
+
+swivel

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BASTIONS HAUNTS
+
+
+                                                on the love
+                               and the weolgno joinfelt
+                                               telling soak.
+mother this calling coat in the being of washing cuban
+from rose-all-invariation of h
+                           
+as soon as a letter tap crimson farms
+             jerk' gake their faces. in figs
+                                                 sand,

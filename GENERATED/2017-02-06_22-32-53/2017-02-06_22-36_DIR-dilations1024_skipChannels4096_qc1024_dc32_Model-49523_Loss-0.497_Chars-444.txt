@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ONE OF US FROM
+
+
+they treat about draped aarong
+  
+ outlaid i come where the eyes. even there.
+  
+  
+                                         my love.
+ inside the jivin's painting a pond broken
+ but where one ghastly bens-squata, extension, do with all
+ green hugely long in afternoon.
+  
+                    happiness
+                                in the celebration bid to,
+                                                   in pale brain,
+ h

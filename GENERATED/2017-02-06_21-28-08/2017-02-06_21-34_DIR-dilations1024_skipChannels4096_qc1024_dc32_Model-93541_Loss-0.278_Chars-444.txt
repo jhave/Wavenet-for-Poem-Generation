@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          IN TIME FLATS
+
+
+                     america
+
+       
+
+from film san shall go
+  
+ a tex berry polite solid man's 
+ which might turn,
+         first ends in too much dry,
+                         for network's wraps
+                                 of this sisters
+                                                                                      cosmic cardinals
+                                       whose eyelids.
+                

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         BLINDLY SALT
+
+
+                                                ever shall cities
+                                                as i was wrong  
+on vacation discover me somebody beans
+                            scene it could straightway?
+  
+  
+ molked her only a remarkable
+              sane, 
+           brave the things i roll up
+ i want to
+  
+ there is no swooned and night enemy,
+funnels could compass than delphips
+ on by the sam

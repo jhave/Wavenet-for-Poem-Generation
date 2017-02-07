@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        IN HER SOUL OF THE PLASTER
+
+
+ like a rupture,
+                           before the sad gets we just let
+ no death had been turns but on the hawkle chalk
+       floridians pounds.
+  
+                                                  the shape of blasted string
+  
+ the summer, through dry grasses 
+                     with her head into the cloud.
+  
+                                                                                       

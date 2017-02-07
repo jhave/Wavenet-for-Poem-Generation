@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MIRACLES
+
+
+an unwalked with china. the kitchen
+ in that everywhere, and growing
+he'd gone as ditches
+like a great and fasten hillside or a billions
+small language discomes take its memorial lands
+the its firings meandering the pasture cream
+with a late-wot fun down from the chip,
+inside the touching floating and those board 
+is hut the hall. i was so latin sewer of midnight
+people, until i see the fathomed,
+and mounted viewmo, caged closer, s

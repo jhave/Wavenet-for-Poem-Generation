@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MISERAD I HEAR NOR HAVE TOOK, BUT OH INSTITUTE HIS BODY AND BEFORE WE WON'T STAND ABOUT THE DARKNESS SEASONY, OR TWO HOUSE. HIS EARLY STRAIGHTENING THEM APARTMENT OF MINT, AND THE MIRACLE AND IF YOU KNOW YET A THOUSAND STAND, FLAUBERT FOR MIDNIGHT PRAYING.    HE SAID. . . TO BECOME A KNOWING NAILS. IT IS TORTURES, LIKE ITS CENTER CAELY BLOSSOMS--OUTSIDE THE EMPTY BOATMAN TO HER. A BUTTERFIELD SHE CANNOT. IT STRONGLY SHALL FALL TO LATER DANC

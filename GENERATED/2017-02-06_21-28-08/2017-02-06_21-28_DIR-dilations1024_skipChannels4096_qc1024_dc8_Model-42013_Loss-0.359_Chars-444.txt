@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CRADLE IS FIT. THE SISTER,
+
+
+  
+ we no atthow talk. later, i lay be sarah.
+ he echoes and beetles
+ contains grave is severless.
+                                                      if you know we hardly solvenish.
+      perhaps around you're a new search.
+  
+ a systand room with a pitcher called these there is his--
+         a mass of yellow, you might have been her what i was doing on these was glissable snow who will not see in broad-s

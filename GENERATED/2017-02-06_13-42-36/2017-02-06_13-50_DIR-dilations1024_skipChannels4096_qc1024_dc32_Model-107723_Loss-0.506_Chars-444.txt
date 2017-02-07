@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AS THE SHACKS-- 
+
+
+       the yellow called bloody 
+       for pleasures covers are we 
+           i craves at so fast-- 
+             thine uncle estraked eyes, 
+' tears of all my mind. 
+
+with tempor applaud in bustes 
+         with whom we came him 
+                             will be done, 
+                                 
+when of the path                                      e sweet not   
+a past weighed changes, and glad               

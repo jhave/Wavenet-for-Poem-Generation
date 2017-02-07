@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        SUITCASE ON SNOW   
+
+
+building at the end 
+                                       to gain 
+as tower or one morning rarely,   
+ourselves on when burned your folks 
+       indumbrescent down old, 
+
+and the young someone with incense 
+                         were my tides buzzing in gloral in concrete plaiseng darkness 
+in the mayday has a common -- july in the paneck. i must gathering   
+and what she had the small seasons of my thrush  

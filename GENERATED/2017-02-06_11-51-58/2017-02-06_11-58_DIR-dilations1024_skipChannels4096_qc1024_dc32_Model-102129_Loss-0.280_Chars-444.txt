@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HIDE LETTERS 
+
+
+                                                         for all the plow.
+  
+ when she spoke that, sight was the old skin
+ in the
+                stood between the past
+      and quick as the new yearful
+                      unless he recite
+                   the bluetries' caverns
+ when seen him, lintels and doctor
+ to me on fusion, megalling down
+                                   with bullets
+ throw away, linked the stre

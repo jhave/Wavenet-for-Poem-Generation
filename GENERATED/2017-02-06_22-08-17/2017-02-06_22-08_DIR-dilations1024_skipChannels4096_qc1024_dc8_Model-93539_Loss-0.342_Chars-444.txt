@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVENT A MENTION LEAVES?
+
+
+ for works in bed, zits of an assemblances
+ and martyr. gradually was the pass the war was,
+ do jumped with colors and confederates,
+ and on the tipode woods, increasing of dawns in the contend 
+now the undign past there are not going the tallest bra go,
+ has darling junky the seams what they must high
+the never seen as his weary is aftermath the stairs.
+                                       . script there, beautifu

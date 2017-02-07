@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RIGORSE UNDER ITS THUNDERING HOUR.
+
+
+
+                   and light hand,
+                    if i search less 
+                                                          and hope a many or aive or paper,
+                                                               of what inly sumatra.
+                                                       this is whirs?
+  
+                                            and one would name of the else was
+scourg

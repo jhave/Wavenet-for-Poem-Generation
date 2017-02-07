@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ YOUR EARS
+
+
+                          a boy, then, more thanks
+  
+  
+  
+     the perfection of health
+ the one up again.
+  
+               and after that only
+  
+                       which, against this life.
+               in the cubes is losing
+              the white rule in bruno jacket
+             i worshippers
+                    pretentious you ache
+               suddenly blood thats ancient
+                                        

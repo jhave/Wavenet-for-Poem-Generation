@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GOOD AND SEEPING THE SOUND OF PARALLEL BUT
+
+
+  
+ seep tiles of seven, the valley kerees.
+ he paradise is gods are as passable,
+ to a sometime. in the two-toastess,
+ and there are the hall windows are people,
+ womb among the yellow to the stench.
+  
+ a lenore that shadowed, memorial, and white
+ on the dark night mie building the old song
+ smooth and spain. as last lay west.
+ and by the sound
+ send us in cosmic the ocean feed 
+ bring the edges 

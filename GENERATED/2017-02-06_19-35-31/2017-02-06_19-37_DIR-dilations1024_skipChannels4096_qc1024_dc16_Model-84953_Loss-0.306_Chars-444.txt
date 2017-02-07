@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BUT
+
+
+even them on high, left on a water painting,
+a ford ash so spirals like reigned
+ like a simple and a bird's belt from his diary bait. 
+and grebesmat fox natch in his cry
+the top of a gate. mary intimate and i'm lead
+of the forest floors the eyes in position 
+without which wall, opening the brain.
+ gift of apology, and without his backs
+and hanging dinner purated to ne way too pours makes 
+critic bitches, you saw the tree still, i begin
+

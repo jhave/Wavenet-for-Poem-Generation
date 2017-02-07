@@ -1,0 +1,41 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TWIGS.
+
+
+  
+ a pulleys, detonations ragbark between
+ magnificent his forth i saw
+  
+ me talons, oh welling my
+ doubtle reprode them
+  
+ carved hard reply
+ set down & i felt,
+in moscone of the imaginable,
+
+tucked in aluminum
+ free. in a name
+ and lovers.
+
+ pound stray
+ of ten minds,
+ harried in tortuy
+         in my heads.
+  
+ and a magpie bag
+ the pure fields that you 
+so young with tearing lash 
+ 
+ the insurance of us.
+
+
+
+there was forgiven 

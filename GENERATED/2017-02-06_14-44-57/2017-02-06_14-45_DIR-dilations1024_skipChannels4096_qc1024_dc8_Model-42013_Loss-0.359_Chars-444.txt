@@ -1,0 +1,16 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOCATED OF A FLYING ANGELS,
+
+
+                                                  dodger                                                                         as if a way of my name be
+                in the freedom of the shade it comed from                           gone sut awake for mr, be worm of bark inescapable and cracking around and pis, rightly trains, how can hawks mories them, by half 
+even you.
+                                   

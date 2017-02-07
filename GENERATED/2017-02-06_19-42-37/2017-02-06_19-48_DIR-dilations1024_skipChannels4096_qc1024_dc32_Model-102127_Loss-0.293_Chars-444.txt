@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AWAY THESE CITIES
+
+
+ at fifty from the ancient stone poor,
+ and ok-levi'wet in a city lake,
+ and stems awake in a patch of the 
+ and all amazed hands
+ behind the quality poquitas?'
+ all the same tror a stranger jeeps
+ with eadies and thubbard,
+ we cared and when the earth
+ drink glazes of mint table hosts
+ and the outside braid these sad
+ sings.
+
+
+the mountains changed dollars and beautifully
+ 
+as hell the water,
+ the basics of greenage
+ the 

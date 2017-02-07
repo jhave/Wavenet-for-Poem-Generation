@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE PLAIN 
+
+
+   a big version afterward 
+i thought one, a ghost to the rough 
+to urgiven it--the poet 
+eyes without    back. to know thank you 
+other, we are the long first write, 
+she is rifle, which troy. 
+
+oh m became here, fought at the-swia dies 
+puffed-up, heroic professor. 
+
+let which i vow nearl her to leave, i am 
+ways that give of my mother of cattle 
+it is police, accounting, and i want is interpreted 
+watch the room tree gulf in, 

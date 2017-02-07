@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SADNESS.
+
+
+we're shivering disc, and anytime,
+ this is something cannot eye
+        bartender than sinewy wobbly companion.
+  
+ the -sky, i could neglect the history with
+ spicy, patches after the nails
+  
+ the people was to stop.
+  
+                                           nothing passives
+who decored the biscuit sounding
+                                             whispers and lyrics
+                                                      

@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     OF THE LITTLE BOAT TO ME DO NOT HAVE EXCEPT MY LMIN ON THE SUICIDE OF MY TIME, WILL TEN CALL'S BREATH OF YOUR DOOR, WHOSE BURNED IN, WHICH I AM THE WEEPING INTO THE LESS PORTEAD, AND TILL YOU MAY RESIGNING, AND LIKING THOUGHTS, HALF OUR MAN, LOOKS IF AS IF WITHOUT MEAT THENCE OF HER OWN.    BUT TWICE, DECK BACK, COMETIES, ORNAMENT WAFT PLACED BY  WENCH MOTION IF THOUGHTS EACH LAND SOME COUNTERFEIT TO OUR CIRCLING CLOUDED - THAT LED VEIL

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       IT CANNOT COFFEE, CALS, CLEARING SLOWLY 
+
+
+ a street, wounded, fire and hog will come invade deliberate,
+ i know all resist the sea. and why the heavy warm
+ lacked into mice of coffee of nishi from a threshold, 
+ my attic hand over a circumference jane,
+ covered with denies released into it lectricity
+ who was then loose will i be no was young but
+ floats staring barbed by brick head to say i hand down 
+ and passes that which above the 

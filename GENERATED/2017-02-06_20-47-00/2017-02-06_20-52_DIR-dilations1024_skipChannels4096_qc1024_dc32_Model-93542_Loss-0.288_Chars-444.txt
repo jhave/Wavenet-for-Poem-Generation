@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           WHEN THEY TALK ME GO
+
+
+ at juffs above my if justice remembers
+       as they had been through thickeness
+      grand to the lens of holdings 
+              and pucker, her no feet shall to mouth arise
+            that field's for csques that sweep
+ and that life long waters, stashes
+               and all the milder horror
+             a marriage i left elephant 
+      he watches a children bowl and bletont fire in
+               a

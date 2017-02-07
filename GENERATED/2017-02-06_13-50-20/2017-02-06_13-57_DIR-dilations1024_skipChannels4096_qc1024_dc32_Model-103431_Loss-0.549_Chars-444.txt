@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    DOOR AJAR    
+
+
+line waist until rainway impassive keeping of grass.   
+she yawsel's with its voice again-- 
+
+         is the earhood ground, lashed yet. 
+i believe was starched beside a clods   
+      and then do buck burned the cycle creek 
+of histories teaparting from with the mesh stone   
+                            
+                              something i have passing 
+
+women know the man is unlike a river stab   
+                 

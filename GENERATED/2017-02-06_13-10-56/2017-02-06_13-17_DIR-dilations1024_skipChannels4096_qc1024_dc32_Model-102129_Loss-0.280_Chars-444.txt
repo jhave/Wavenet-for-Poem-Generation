@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CRUST URGENT CARAMEL,
+
+
+ and a not so much wedding others
+               i stand on sleep with my belief
+ shall i blinks beside the tease
+  
+             two fathers in the opened news
+               here envied and steametakes
+                so lost home.
+ he reybom out walkers then                    and
+  that through these pearl meet stood repluc and plant
+          for instance was a threat
+  
+     to maintain the banquet of the portrai

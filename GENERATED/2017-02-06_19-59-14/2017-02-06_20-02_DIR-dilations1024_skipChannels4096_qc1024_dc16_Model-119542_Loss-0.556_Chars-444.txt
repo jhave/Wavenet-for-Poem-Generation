@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DINING THE WORLD,
+
+
+                                           
+
+ distract connected in a good moon
+                                             their better and
+                                                 while
+ thousands are sired their book 
+he meant if i could not stir
+                                              .
+                   .      i have stopped. 
+          so the gloomy lily.
+                     i got it 
+this nail me. b

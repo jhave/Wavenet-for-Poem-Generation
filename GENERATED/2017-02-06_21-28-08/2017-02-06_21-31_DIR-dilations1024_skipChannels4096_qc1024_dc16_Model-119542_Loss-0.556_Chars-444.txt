@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FRIEND FRUIT.
+
+
+          thine go back into oblivion
+             
+           in which they wound me a collection.
+  
+                       my hand 
+blew of his eyes.
+                     long. this filipium,
+
+                  extray. i walk worse
+             i always a singleth that meant
+while him she is coming together and blood
+          where are all polid his hands,
+     christ in watering childhood man,
+            through this pac

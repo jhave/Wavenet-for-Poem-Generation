@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ VOICE COCOLATE UP,
+
+
+ she spent a finger snow, and filled and mirth.
+  
+ the palm trees the boozeth and maybe a big room.
+              the dain.  i said.
+ of grit mist. find an antonion.
+
+twice again the chapeause neighbor 
+
+lines on my century of place. still. the trolleys and through
+  
+ when such that manna could say by young w
+can lining evening seddence, correct false 
+i remember to valleys home in echoes wide.
+
+
+hold i was the explodin

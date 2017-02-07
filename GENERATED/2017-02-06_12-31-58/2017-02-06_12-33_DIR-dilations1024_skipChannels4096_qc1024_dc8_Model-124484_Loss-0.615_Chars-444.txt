@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         LIGHT AMONG I WANTED TO GO TO BE 
+
+
+egypt me, the water- 
+the shahnah machine, to thumb me ime we had 
+
+                                     where i said a baby cradled by 
+                                                                                         where posted, that change--you, as there on the phonograph 
+
+                                                                                                                   

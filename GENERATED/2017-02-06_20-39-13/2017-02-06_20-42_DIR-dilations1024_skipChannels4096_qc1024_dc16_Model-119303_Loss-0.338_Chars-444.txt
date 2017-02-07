@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE VIEW AND GOODS
+
+
+  
+                                .
+  
+ by the world feeds your eyes on my backyard 
+ good in a wicked gradually,
+  
+                                 ventelike hajns,
+ we put the trifle, thirst gotten.
+
+
+
+               of suicide the buntaught off
+               the rhythm'
+                      in the boguthudique,
+         they are they slighted, 
+  
+             the horse went
+                               the dust
+

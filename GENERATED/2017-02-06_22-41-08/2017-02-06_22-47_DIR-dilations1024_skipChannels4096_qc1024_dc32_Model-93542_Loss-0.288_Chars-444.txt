@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   THE YER
+
+
+ as if we hurry it must be noting
+ in its spider-gray where the cab 
+       their feet territories
+ for the border of the fish,
+     i've ever seen the ska's clay upon his toes
+ for the one t-legran, just loosester--
+  
+ in the back, the onswer of the reason
+ and the soul of the whole
+  
+ i had interesting in the water,
+ came yes my feelings don and that's not yourself
+ before any times the thunderstand
+ of dusk and paper-blossom,

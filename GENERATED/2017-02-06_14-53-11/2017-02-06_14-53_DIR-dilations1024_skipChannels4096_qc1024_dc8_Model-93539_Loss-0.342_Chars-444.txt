@@ -1,0 +1,15 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                                           NOT WORN HE COULD GO THE RAIN'S AFTER SHARP AND I SAID.
+
+
+                                                                                                the futon.                                                                               of destroy tell morrison the span,
+ that the soma till bring it wasn't 
+             the fields were there were s

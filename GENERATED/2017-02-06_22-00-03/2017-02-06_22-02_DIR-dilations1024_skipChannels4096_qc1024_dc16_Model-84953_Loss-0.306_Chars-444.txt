@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THORNS 
+
+
+that i might listen the stairs to the top 
+               
+ saw together the bathtam
+                         floating, i am hitchet,
+ sweet the nuhing feeds of deaths
+                         feeling--you could still, certain   --
+      and fishing down their blinds.
+  
+                                to a lonely reading
+                                                       a well-tronseski.
+ you even know,
+                       

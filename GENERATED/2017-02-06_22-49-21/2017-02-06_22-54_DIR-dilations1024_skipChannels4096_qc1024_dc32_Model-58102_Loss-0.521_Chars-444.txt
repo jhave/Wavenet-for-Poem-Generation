@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WE CLAIMS THERE BE AGAIN--
+
+
+ a vision is quiet it, horrid husband,
+  
+ for thy day affected your forties
+ successes to the markets
+ the serious blue-ing legs
+ who never myself of brass 
+ shaving the hitting body's grave.
+  
+ ground-ofed, a crossroads
+ with your hearts like a woman's
+ women, which away the state
+ of oudly, each. when set on ten
+through small passed as faster
+ stucco, in her mind,
+and which citadel
+
+into my tyges.
+  
+ i call y

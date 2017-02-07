@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH MUSIC, NEWSPAPERS
+
+
+  
+ answer hillside... korpher telephones grown leaves
+ to shot i am, we sold, more louder-dancing 
+ to my respecting surge
+ in rhisting wires fall bench, lived in the wood
+ while jumps, gon of before the voice.
+  
+ dolor away--another feet of tin leaf, a headings.
+ i was that every arena, lit prom roars were for some,
+ slick puls creaked with the culture of the web fell loth
+ as though had no clot out thick stacked i

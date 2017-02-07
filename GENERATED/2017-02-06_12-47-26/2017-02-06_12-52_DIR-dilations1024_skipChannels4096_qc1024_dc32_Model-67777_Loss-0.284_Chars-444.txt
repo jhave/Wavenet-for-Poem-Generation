@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVERYONE HEART IN AFRICA, MY LIFE,
+
+
+i wave intended, but only he shall strangers
+ banker bade cry over the opening hammer
+ and red coats flowers ciphetzally prairie hits
+ who, my hero older its own kind of orchard-girls inside
+ ghost of black for our sister in the fair, 
+ a family of rain, he wound he always been hard
+ in the way home's exegetes required who
+ wind will forms with their quilts and pierbart 
+ of one steps and dooms be clear
+ t

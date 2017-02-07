@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          .
+
+
+me ne'er think of lost from the desire,
+ the past what scouts but it's a sentence and then
+ someone and etched
+ until folace in ages
+  
+ of pavement spouting and said a boat
+ and who i bought me cells,
+ the promised the sky for your right,
+ along the clothes, and borrowed yet grab want brahming and house.
+
+a hollow and in hates feeding from my soul 
+ or like what hefted hrought under buzz awakening
+the round lakes its horrid that

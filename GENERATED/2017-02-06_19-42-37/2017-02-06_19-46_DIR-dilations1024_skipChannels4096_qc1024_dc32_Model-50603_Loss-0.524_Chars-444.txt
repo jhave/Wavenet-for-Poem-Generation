@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                         THE UNKNOWN PEONINII
+
+
+                  
+                   the house, the words in the earth.
+
+one bed of rogening creation &
+
+not interesters.
+       hibitors.
+
+                     i-amers thrown from us--alas
+                    it can be resting
+                                      perhaps 
+                                           d.
+                             

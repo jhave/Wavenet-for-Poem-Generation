@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BROW
+
+
+         i hear the heel there's so carry
+       the chilly songs.
+ the music of stairs
+                    in the end of a big cinders
+            walking forty yet a
+          seat a rat sweats yourself
+          the terre to plot and working
+                socks and essences
+                                          me?
+
+                      the fetished juddering of love
+                                           to honor on the 

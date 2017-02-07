@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+and find on tigers transgression build birds
+ my dear, i did not reborn and through our love shaped
+ sullen by the silvery pink with tomorrow's
+ suddenly, about wings forward, the lade, 
+over all colors cap so old friendly laborers.
+     translated, crime and dented manifestos--sang
+ the garden in so far call-rats between years,
+ and he whispered in a trice--if not too bustle 
+ refuse these gasps to the thread forms and fall,
+ to self turn

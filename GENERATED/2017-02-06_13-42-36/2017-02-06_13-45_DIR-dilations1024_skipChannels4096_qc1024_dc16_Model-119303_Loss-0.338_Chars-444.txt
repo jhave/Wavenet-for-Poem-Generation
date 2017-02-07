@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOOKED AT BEFITS.
+
+
+we're defual heart's of a sky without me so 
+the moment infernot, now is gone in the grave
+ of gouts of how and the rest, the fragrant couch
+on the car. who knows above the cup and breath,
+and the world by the brilliance clutch of the ropes.
+
+
+you were the abbrosome of things your face.
+or couldn't rain, the prom like this such
+incrusted to the room on wedding
+hugged the boats in skyscow, or the waters 
+darky across the de

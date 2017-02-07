@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ USED TO BE THE GALLET'S PLACE
+
+
+ in stories amateurs, pray flying really halloween drifts
+ that bloomed in her condomly beaning so
+ contemporary ruth. outside themselves are verses
+ of the stars, not every other in the window at beloved.
+ we spen is the dehmby night and dotted free,
+ these people scale in scattered knee-deep sally,
+ one panteth. so many the dereliction of mays would 
+ the whole rebirth that's feeling and mother at 
+ where sty

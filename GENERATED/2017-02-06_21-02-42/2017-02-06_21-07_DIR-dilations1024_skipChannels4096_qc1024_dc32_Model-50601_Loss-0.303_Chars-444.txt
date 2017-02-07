@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                        I BROODS,
+
+
+                                              time aura or instance.
+  
+ someone say heft to groom and stupid of prey
+                                            at you. me, a fond moon
+                                                       perplexed,
+ tyme a person in wall to sign
+ boxed on top of town mexico, there is lust.
+
+              the old coat's to lo

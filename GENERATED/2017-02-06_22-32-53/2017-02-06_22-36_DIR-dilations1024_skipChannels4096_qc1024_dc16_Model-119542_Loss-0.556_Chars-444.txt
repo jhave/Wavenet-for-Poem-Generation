@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LESS THAN THE SUNDAY
+
+
+    feel asters dissolving,
+          memorizing his hand considers,
+    white collar ball with whom i flood,
+             pillow, ce. this is nothing the pale
+              wholly face 
+      i chose them can cruise it.
+      i hear her life. when it is
+       blood on the walls.
+            wood scab.
+       planned. call white as naunt day
+    sinclairs they shave it
+               why not in the journey of our name,

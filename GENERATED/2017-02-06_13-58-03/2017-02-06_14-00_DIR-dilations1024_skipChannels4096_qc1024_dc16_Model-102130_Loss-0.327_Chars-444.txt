@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RHYTHMS
+
+
+ what the grand man rays--
+all i can't sit
+ staggered 
+in the road,
+now it has priestly wound
+watching and there a memories 
+
+convertible dead
+the greek chords
+ the river
+world of socks and shalt perhaps
+before i saw the niecs
+
+dead deltas of the surface
+
+mort of muscles and cart
+of candy-approach 
+against the roots 
+to the violin's eyes of iron
+for the no. later wing.
+
+they moved these feet shawl
+
+or, orange-trasted near to dance o

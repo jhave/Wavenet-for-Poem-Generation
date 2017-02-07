@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ REMEMBER
+
+
+       moved and boy.
+  
+ the projector's shorn folks its nostalgic,
+      and rain has certain for urst
+         at the side of joa cranky soil 
+            like winter fall in the sea
+            and sauce-seated weaving in fred 
+      our wonders-wind ater ntumbles,
+         all gasoliness weekly.  their land,
+            is the green glass couries that lies
+        invitations she my sura
+           give me sea irantical
+ head 

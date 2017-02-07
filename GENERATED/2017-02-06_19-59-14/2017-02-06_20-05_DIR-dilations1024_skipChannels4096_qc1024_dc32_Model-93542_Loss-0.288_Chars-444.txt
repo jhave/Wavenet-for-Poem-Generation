@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MUSTER. A GRIEF AND FIVES OF NORTH
+
+
+ removed by the things of fish-shaped wine
+ like sharpest questes of need and fire 
+that tad exalted me, and usnes short gills
+in a sea that burst of shut lives in grain
+dropped and softly under everything both,
+age-derigament protects in astronomies
+and beavers palpable duever, dawd white as join the mirror
+philip of a conserious polished without easter the world.
+he meets she stoves down the complaint. t

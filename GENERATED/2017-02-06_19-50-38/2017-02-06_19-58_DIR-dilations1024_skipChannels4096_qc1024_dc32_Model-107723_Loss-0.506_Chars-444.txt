@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A SEA
+
+
+game of thy between you pass back a cast -- a tree 
+
+    as though long-souls shall be my once 
+    to nell, another landscape short then 
+   in woods--naked hissenny ever-mound are unite.
+
+
+    command and in the meat year round 
+      was a tired flek after like a view, 
+       when s penshills a cheature despair 
+          in glast and over such late down 
+                             fall euger, 
+laurit that should be old       di

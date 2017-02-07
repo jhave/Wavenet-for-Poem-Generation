@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FABRIC
+
+
+               center how often the dialectic latch?
+               and the notes
+  
+  
+                                  o knows the rivers
+                                              just a table smell of death. may they'll evla . . .                                                                                                girls well treble in political monuments like a sardoned roof
+                             thou must ha

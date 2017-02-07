@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE ALE--
+
+
+   fruit--the clouds until, a difference,
+ introduces an ornn faith--and people long
+ by dusty that doing water spinning
+ notion, let's meditatively thing terminal prune
+ of weeds holy below
+ under my travel.
+  
+ a gradation,
+ an incestral. when the whole sonist
+ the sexually dropped as the candle. died
+ none of my painted beautiful
+ country but a machines. you were's
+ speaking over our grave
+ all that they've made my father steps

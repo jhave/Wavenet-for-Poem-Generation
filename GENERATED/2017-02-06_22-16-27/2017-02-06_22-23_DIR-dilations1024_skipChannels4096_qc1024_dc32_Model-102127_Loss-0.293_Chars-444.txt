@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PS STOUTERS TO WHISPER
+
+
+ there is a man who drunk by deeper patched she heard banners 
+ em'rides with the growing of the wet sewagged   sallum date, 
+ she's tree's caused it, and a biseer that same thinking
+ said the brackens sire, the heavenly drag themselves
+ tapid flash before the larger world to gase out,
+ grand in its silger-heart as songs amarance.
+  
+ the lion strangest tail
+ the horse of smoke dis keens stalk
+  
+ the sorcerers of the

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     DEW--TO-DANCE MAY APPLAUSE THEE, 
+
+
+but only wine
+
+      dark blessed with a riddle worth-at length
+back will no more able, trot-footed a lost 
+                                 them all kiss 
+and fuss of alarm on every fall will give.
+let me not in a new-creed. 
+         all but in the hail. 
+
+               standing heap for all   
+      call back in.
+
+             but most delight 
+i'd i . there was no sound up, 
+                   he i

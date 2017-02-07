@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+into the stone of saint holes
+ there's an anticipate sky.
+the rat-
+blond man
+  
+                in one so the sun down,
+                               through the poems free of him,
+  
+          we ply sense
+  
+ neptuneied by a fine station
+                  
+
+the rooms of gallantry.
+
+we best the target of a dying 
+             of all things whisper
+                                      and remains
+                                         

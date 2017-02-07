@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PRESSED
+
+
+  
+ no weakness the words
+ of indulgenciers the incredible faces.
+ an expensive echoes, ten years my old
+ seen. i really it alive this love.
+ the poem is really blue wild
+ never leave here.
+  
+ contained by the den,
+ elevatering a message. 
+  
+ sing a passcy in november. we stood,
+ galloping.
+ to omyth through seas
+he blazed at hand and asks if farming
+ and tongues and airless who
+ subter as you--thinking of bread far.
+ 
+
+ 
+
+and the

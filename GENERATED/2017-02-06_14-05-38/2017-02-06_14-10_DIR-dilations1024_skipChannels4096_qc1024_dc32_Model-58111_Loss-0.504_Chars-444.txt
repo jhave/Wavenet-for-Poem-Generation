@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GUILLOTIVEZAB
+
+
+ how tired of many eyes.
+
+  
+  
+ ghosts of nothing, a gip
+        mine ariador
+                                           to ladles. with the hums of wind an evening.
+  
+                                              she was long            areutory
+          he telephone when
+ tumbleweeds, in the black pythal son
+ the to holy                 while all the land of a leather
+                 to go on. goats, of backtrification
+ 

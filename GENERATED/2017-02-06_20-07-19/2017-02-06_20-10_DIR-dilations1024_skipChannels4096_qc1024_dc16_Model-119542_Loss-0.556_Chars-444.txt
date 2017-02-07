@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUT
+
+
+                                            the green,
+                                                tailed good.
+                                                                                                midway upon this i ponca
+
+
+continual ellia. others i ching it help and his little
+of east
+             . no honey them 
+                                                    gives 
+                                        while 
+ye

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          ALL THE FIRST TIME.
+
+
+
+             i refuse the men of ice.
+                the immortal tread white head.
+ we'll get me light as to what clairvoyant
+ became a train in this pink splendor.
+  
+ head blew weed is always trying to blame,
+                            i stumble,
+ cedar doctors bandages
+       and almost arabesques
+ laughing the hand and lagoon
+            that exact speaking
+ didn't shaped
+     and dace to

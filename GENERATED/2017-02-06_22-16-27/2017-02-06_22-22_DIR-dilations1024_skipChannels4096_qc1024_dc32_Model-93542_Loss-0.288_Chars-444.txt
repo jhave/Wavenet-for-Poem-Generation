@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ONE TO LEAVE ME THE MATINEES
+
+
+i watched a way of how bafflements.
+i didn't now and the president coffin.
+
+yet aching,
+white shirt leap-high before.
+
+
+oh, leave eats went a quest
+of spired window, love? cheek
+me so brave bowl spring
+the yeare purpose dost with his waste of half-deep,
+drafted to the cardboard modest of
+
+                                                                                                                             

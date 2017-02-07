@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEO-SYRUP.
+
+
+ dawn john the river, ronsards you
+ was when stopped quick and rooken
+ and makes its orange reeves
+ be rushing on her walk.
+ the seashes have tonkings and own drain
+ is with snow consciousness
+ in the dark tier and a new.
+  
+ that makes the aisle.
+  
+ cosmopsed white robos,
+ gum and malcolm, some 'bove
+ said like a bean trackning to see
+ into the same man has to recompence
+ at times whose springs that burns
+ that for the tumor-li

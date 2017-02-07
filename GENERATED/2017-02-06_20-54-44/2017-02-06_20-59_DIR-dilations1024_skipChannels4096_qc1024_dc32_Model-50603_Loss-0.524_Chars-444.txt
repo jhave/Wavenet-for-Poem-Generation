@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHE, 
+
+
+the dirt fakes the eugest segregation 
+of the man and the seams deliciously
+getting out camaro
+ behind the staff night.
+
+
+night islands me, nor with a bed
+ enforced carcass
+
+     nor heremy                                                                          another and turns
+                                                                                 a way band terror destroys sheet 
+                                          

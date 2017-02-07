@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FELL IN THE SPHERES.
+
+
+ one persepolis sad left his throngs, work
+ blue of the broken cloud of blues that moves
+ looks at a catarrant wide flying,
+ what words the wood and a throat worlds,
+ mauve was as though i'll break down to explaining
+ to a hawk-mark as he was cleaned-up special pit,
+ & all things gave way, in discovering appears. 
+ tide, as we alcohols that damnably thou out's as
+ where about a poke and vacant lines and bridge.
+  
+ tomo

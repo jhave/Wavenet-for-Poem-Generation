@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+
+                                    the god that gray
+open them amarson's eye
+                                                     whisper.
+  
+ imagine sabriety miles and
+in a gang of the top beastcains
+               band as fictive
+so the breast untiloohes. 
+                        their eyes are a shrewd fate 
+
+watch her and soft and spider's kills
+                                              the people
+caught stallioned around her fe

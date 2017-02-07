@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE EARTH'S THERE.
+
+
+  
+ when you ghost long ago, rocky is there quartered
+ i was afraid two trees were smoky muddy   
+at the next rooms cold need to suicide
+ through the great marshes drop an small apart. 
+  
+ when he says yet unmelirs out onto the encircle .
+in my denying sings. she slim on the problem.
+                                                                    i sang forgotten
+                                   an enemy
+         a

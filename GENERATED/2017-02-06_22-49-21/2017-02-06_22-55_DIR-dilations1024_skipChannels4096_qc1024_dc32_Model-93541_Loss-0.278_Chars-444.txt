@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SURVIVES, 
+
+
+i stand at the baicos of a snow aisles
+     elsewhere, dreams of speech
+ of underbread life
+ in the strange throats 
+ when man
+ then remained to draw
+  
+ separate rate the flame to pour me,
+ loshing and its center aid.
+  
+ we made him bounds are times i had peace,
+ the podium of sleep.
+ she looked slippers of spring
+ couples are burst or right
+ a moment has ironing
+ with the seasred
+  
+ gives they came later
+ into year barely hil

@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                        REPRING MY MIND CUCKER FROM THEIR ADMIREE CLARITIES AND A CENTURY. YET ME OF ARMS THE ONE I WAS CLOSYING DO IS A TRIM OF THE BUTTON OF MY OWN HATRAY WITH SACKS. THE WIND WHO OWNS A LITTLE BALUSTRIES. THIS IS NOT AT WILLOW PINCHE WITH MARGH. WORDS. . . DEVASTATIONS. AFTER THE YEARS IS SLEEVES                                                      SEVERSOME. OPEN FRUSTING POLYSYLLA SEAS WITH SECRETS. HE DREAM OF SELF, REP

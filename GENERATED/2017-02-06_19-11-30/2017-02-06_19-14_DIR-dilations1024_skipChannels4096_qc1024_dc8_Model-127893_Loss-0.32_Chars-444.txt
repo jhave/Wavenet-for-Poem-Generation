@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HER WEST, THE FAULT
+
+
+hon't for its horses strung on the rib,
+and the leg that,
+squeaks, but i can't see the hand on crying and tree, 
+lie were a decibe sniffs and the girls prodding a glimmer
+ the handles would cover's scace their tongues, and barne
+ that took the sound of tulips in the grey
+sobbing up in roses,
+ and broke us the clocks,
+
+holds and rest,
+
+yet mile
+
+to the spot whore won't
+ tis, & already in,
+
+or stands are an eye 
+
+
+she has 

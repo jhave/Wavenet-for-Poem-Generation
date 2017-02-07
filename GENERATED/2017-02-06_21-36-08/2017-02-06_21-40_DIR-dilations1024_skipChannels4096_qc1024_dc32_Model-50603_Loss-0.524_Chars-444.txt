@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AGAINST THE DEAD 
+
+
+ games grind at oak of process. sorry the airport
+ the desert light and all the stairs awri there
+ cats, it tells us foot, and it for each other,
+ and then the bed and kevelopments than 
+ starfields of the swish in bones of time's winter
+ brewing pass gathering a rhin paper
+ who fails that warnings over the frayer.
+ a thousand teeth of those arch
+ writing down to make the woods & whip i
+ attracted march, the archer's blind

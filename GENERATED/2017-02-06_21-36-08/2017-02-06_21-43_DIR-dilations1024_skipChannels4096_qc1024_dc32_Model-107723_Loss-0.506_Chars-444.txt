@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A LINE OF KINDLES, 
+
+
+where none . but kercturned to make so clear. 
+
+    perhaps each towards the lady's cheek and unmaking 
+                                                                     before that wrap 
+two legs enough thy name. 
+
+when i make a man love makes me completely was 
+    the hunched she cracks across, 
+                                                     
+when once on the air and i, the cockwoods   
+                      

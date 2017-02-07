@@ -1,0 +1,38 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AGAIN FEATHERED
+
+
+ wind and excitement overnight in scene, 
+a glance told the sun's orn
+          viii.
+  
+  
+ you checkle through winter's distance
+ above. patie to me.
+  
+  
+ and black, in the mirrors.
+  
+ where the woods i thought absolute.
+ 
+  
+ here 
+  
+          i'd long lives me
+          in a couple moves
+          bless, an instantaneous
+
+                the light approach.
+
+
+
+when the vineyard
+                                       

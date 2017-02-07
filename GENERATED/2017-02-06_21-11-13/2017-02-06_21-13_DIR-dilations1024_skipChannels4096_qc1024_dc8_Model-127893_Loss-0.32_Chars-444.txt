@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PASSEED THE WHOLE
+
+
+
+ repurs lifted in protops the wind
+ this is return over and wait is dead
+ do the goat drinks, the coffin-clouds
+the shade of my vision has terrified,
+coldest to be deep,
+ behemies, a hill then
+ declans on cedar knowledge,
+ he told the monster.
+
+america, the big who way to be today
+ no traversation of long roads
+man's on us and space and the diors
+switch and fidelity,
+ the fugitive pomes at the starry mucus.
+ the stuff fur

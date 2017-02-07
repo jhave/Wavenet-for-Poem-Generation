@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE LORDS OF THE MINE--
+
+
+peace is this tired hands. gossip into a living, instead
+ and the river of yourself, i thinks i southern your head.
+the creak i, repeats deeply that even iron barrel them half earth 
+stretched likes sting, he speak the desert of knima hot two
+algebra beerbread, stovers. cedes of varsmock at doming 
+hung what the gardens got tied in the world 
+is laughter mammal politics have to weather
+trembling into earthquake bed b

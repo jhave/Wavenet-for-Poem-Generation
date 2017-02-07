@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WEAKNESS
+
+
+ shucked
+    was only peace itself then
+ were climbings all to learn what is not
+  
+ phetes i should take corner
+                             to
+                              i retraced them, 
+brushfire, from her more than they were,
+                       to conflicted the expense.
+  
+                     from the blast.
+                                     who would cet my 
+                   what by voice
+                       

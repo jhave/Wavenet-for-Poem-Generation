@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       FAMILIAR THAT.
+
+
+  
+                                       the convex river song
+              a paler queasy, she was not.
+but soon, the holy hills in air
+                   love lights across the light read
+  
+  
+                barricaded,
+             night, oh stop
+ and fly--hurthed when loves through.
+  
+ hardened tongs and talked,
+                         yes, no reason is the horses
+                           of being away from
+

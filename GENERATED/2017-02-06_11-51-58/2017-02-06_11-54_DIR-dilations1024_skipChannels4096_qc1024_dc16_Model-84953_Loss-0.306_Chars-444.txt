@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT IS  
+
+
+                  spun c isis of understand pop in the office
+ the bloody stabato i picked at me, hoping the light.
+                          i see them by nights
+                                               is dearth who must
+ fall on the left, then asking idiom the air?
+           just ring, when i have taken along music
+                     that quotes lost in the wint
+                                                           

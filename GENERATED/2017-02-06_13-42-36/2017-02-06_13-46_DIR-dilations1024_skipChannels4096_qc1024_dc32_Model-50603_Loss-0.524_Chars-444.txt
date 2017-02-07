@@ -1,0 +1,42 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ONE BEFORE
+
+
+into the thought of a vine,
+patterning with starwaters.
+
+one sounds of stone-book accusing newly 
+gills would pictured of my vie.
+
+
+see america.
+
+
+i was preceded in a khaki and twisted rock tall,
+the sad bucket substance
+for fear of water
+we sap and through gets watering grim and meekes
+
+here and bears in the snow
+
+the rib back home
+
+
+w-green of one
+the cost mask?
+
+land off what i forgot
+
+hacked together,
+
+as identify work
+
+subst

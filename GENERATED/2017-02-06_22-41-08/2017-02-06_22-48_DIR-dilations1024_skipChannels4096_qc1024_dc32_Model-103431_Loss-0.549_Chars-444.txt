@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+                       again 
+                  law madusali i'd gone, 
+                     far in hidden   
+without strangers long ago 
+             and vile             it wore so she cries. 
+
+
+
+and now the bus america he managed not   
+final, 
+                --there are seems across the moon 
+            tour mt knee 
+                                                    thoughts of 
+                 and sometimes the snow. 
+some to sle

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN MY DECREE AT LEAST ON THEE. 
+
+
+               keep a major beauty more, 
+            although for send the snailed chiel may set you, 
+    even tires and reasons amiss cliff, 
+        dreback with the world--fetch into nature 
+      our rude black difference to check and its place. 
+
+we fall example peep that all the soul 
+            like the lungs at came of wine-- 
+                                 winter or such a thought 
+the fast star

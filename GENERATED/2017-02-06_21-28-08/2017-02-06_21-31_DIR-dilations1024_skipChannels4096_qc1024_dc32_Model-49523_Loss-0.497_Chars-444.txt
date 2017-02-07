@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A GRERY.
+
+
+  
+ skeptico holy the dust of arrow.
+  
+  
+ you only who have no longer
+                                                         people with a tree
+                                 fell rigid,
+                                                     gevel gritty god
+             gave the striped fuse these suns
+                     yes, ten years it
+  
+  
+                              a white, husband,
+                    on a song
+   

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       AND FOR JEANNE   
+
+
+a great dust that time of mabor, but that 'ea,
+       bleak like the funnies of the wolf
+ like steps draft of eating peoples dark,
+             the small clammity.
+     wash upon the hills and you 
+          nor another, for me notes in my dress?
+      as i need., a toast goes this second
+      rasking back in tents and ribbons,
+ and what's the pinches quiver
+ breaks, an example, but can figure
+               save th

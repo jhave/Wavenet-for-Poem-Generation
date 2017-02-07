@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ KATHERINE
+
+
+ the wall of our design shut and groves
+and the strict roosevelting stronger,
+ graspinnik shrugged as for the proafe feet.
+
+
+honor, moving surviving peace,
+var to jump the black on her throat
+
+
+at a pier over whose attitude course 
+in the mind to darknesser
+of looked in safety. 
+
+
+the poet ghosts set of stands
+cross then its gloom de sweet,
+to the coats with me. i have made of rivers.
+
+
+the black opening another furnace
+watching t

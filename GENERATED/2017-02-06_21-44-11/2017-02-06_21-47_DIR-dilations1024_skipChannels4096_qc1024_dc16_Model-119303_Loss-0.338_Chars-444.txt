@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON WORK 
+
+
+
+my friendly checked through the old world,
+ compose the singer grooved
+david verlain on square
+cornknown and bone against my
+all, they butterfly wills convinced out,
+hard to count on the blankness
+courtry hold--and then ontered to find
+to jove ugly por--from where
+
+the vows 
+of minnesota. my reflection scorn
+punching and morging down
+all laws under juureux, no count,
+and i looked me hiding iron too bright
+
+
+and when my mother peop

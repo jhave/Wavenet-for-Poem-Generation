@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SO WRONG TO HEARD?
+
+
+                      an office and pause. 
+when the whole world dead distressey,
+              when the night past scorn.
+  
+ becaraband, now to some on top of his.
+my left these were bought the substance been sunk.
+ it's truecle signal masterpiful temporary
+                                  followed his paper to bite me.
+ when the global e furruigan tawny shape.
+what would have a host understand palm
+ i'm sister, up in 

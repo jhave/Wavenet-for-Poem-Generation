@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  A HUNDRED FLASH
+
+
+their cuts for a landscape loping her name
+ given in a distance            the working
+my feet . . ...you i am lld orchards in.
+
+
+legin from eighty-five shed desert wind 
+                                                      line...help
+i kept to chevio-grades beginning is
+hardness had his palms rise 
+dishevelated their crone rot up and dob
+
+     into the winds the stars with the
+                   i fear it singular glide 

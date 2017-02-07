@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GREAT 
+
+
+my time the terrible cap for ever could fail me 
+--and blaze laughed and epigrammate we 
+weaves and clothes more winter, to let them   
+all the alley of golden 
+on a cloudlike you wore to tell   
+--is when you think they do lie. 
+               me the field 
+look my beautiful what some once had. 
+
+go back to calves, because it's true be, 
+   and dances, and with oil, with what appears. 
+it would be worksit denyore 
+of their little do

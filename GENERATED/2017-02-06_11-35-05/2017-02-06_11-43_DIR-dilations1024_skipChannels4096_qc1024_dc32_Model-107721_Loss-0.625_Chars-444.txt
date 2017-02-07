@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND SMOKE 
+
+
+    and stones powdered me vain 
+all night rules of thy bonds of woe. 
+
+    pink her anneal air      just reach 
+below five ideas burned. 
+    like an inordinate in my ears, 
+
+   the past, and then unpremed
+       o to her ignitation. 
+                              the wind 
+no good and pow void in sudden victured 
+                 so am i but no peace 
+         equivocally pert, 
+         if jack did winter coasts his veined 
+mu

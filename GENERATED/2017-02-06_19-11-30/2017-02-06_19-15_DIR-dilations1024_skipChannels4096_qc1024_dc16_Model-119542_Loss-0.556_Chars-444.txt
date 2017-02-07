@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GO
+
+
+    animate or peat....
+ the metic hotel, florescence
+in his own nation, billion my life you'd appear
+ say, this fall is unbearable fortune
+     the dining of the noose on in our life's rocks
+ as the girl. how often half in the place
+   sees his dares thick with his own
+  jaco's said it nothing like
+ of whatever give read and valley hopes this
+ the driver acting him at the seven beauty straight
+ thousands of bees by and slothes. jogging 

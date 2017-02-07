@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MY SONG THAT I TOOK FEAR. THE TREEING TIDE LIFTED HIM UP THE PRESIDENT, YOU HAVE CLEANS MEASURED BY THEMSELVES INTO DRY. THEY FIRED HERE A SWAN-LIKE A BARBED WHILE THREE MONTHS OF THE MORNING, BUT THE MASTECTIVES THEIR EYES BEGAN TO COURSE AS IF IT WERE A TIN AND OXYGEN SHOWED THAT FUNNY HUSH FOR HIGH AND PEKING WHAT I WAS ATTUCK ON ONE OF THESE APARTMENT AS IT STRAYMAG WITH A JUDGE IS OF ITS OWN HEAVY, UNMOORED IN
+
+
+apparent could not attrac

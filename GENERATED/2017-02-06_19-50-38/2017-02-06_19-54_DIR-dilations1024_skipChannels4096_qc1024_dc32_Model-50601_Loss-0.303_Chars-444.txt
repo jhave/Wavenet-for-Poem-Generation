@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          IN THE LOOR TO DO OUT THEIR PLACE MY DEATH IS BEST,
+
+
+     and to observe thumb the world               heading me the tension and the clock
+                        and i think i have to differently.
+  
+          let us by the air. that i am, his magic
+                 britannia to this door and slide with  sleep.
+  
+                               and new lady of the truth of dan,
+                          are temple 

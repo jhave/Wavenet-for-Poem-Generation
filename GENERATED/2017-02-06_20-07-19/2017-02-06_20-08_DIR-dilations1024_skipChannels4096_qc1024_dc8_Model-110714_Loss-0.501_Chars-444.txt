@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF PREPOSITION
+
+
+ by slug freedom there's a half sad his being glazed,
+sing a few the kids, proy tops the fish was,
+                                                                                   and melted down there is something
+ by that yead about hopscotch the scone steadily stiff--
+                                     and dawning, harlem
+ quit each my face such can capitalism. but harder
+               event of cheape had hips look fo

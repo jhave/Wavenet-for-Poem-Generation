@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EXPRESSION,
+
+
+a song of an orchard style
+ the goose of bed with his red and rhyme
+ looveth like a forest together at
+    the paradigm of dun, and the slave
+ of this goylam,
+ they were air and all mysore to bow
+ my faith. proves hunger
+ try to three-those factory--
+ least as they were on the other.
+ i thought to one side the cranes
+ of betterness in the sea wedlike
+ do these dust keep her,
+ where will always save
+ and the face of hars, the wat

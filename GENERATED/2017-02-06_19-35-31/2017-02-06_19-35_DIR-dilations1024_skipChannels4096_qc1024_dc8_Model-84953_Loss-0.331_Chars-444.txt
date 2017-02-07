@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GUY IT,
+
+
+or the snowflake their scrolls
+of blonde on thy regards of land of potatoes.
+
+
+                                                                     to heaven through joy of lost 
+
+                                  the authentic shelling
+                                        and i've bake after i found
+                                                                               on the diamond-lead,
+
+                           it'

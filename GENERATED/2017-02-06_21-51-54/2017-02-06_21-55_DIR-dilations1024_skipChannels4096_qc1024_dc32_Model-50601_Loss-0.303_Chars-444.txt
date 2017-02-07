@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                       FIRE AMERICA'S YOU AND MORE THAN USED TO SWOOK
+
+
+             bless i have died a tense of water gan rapid cup of being
+                 my bed, i know the parameter man 
+                    its first swanstump
+                                  a face evening.
+  
+                          white pagram's sons of lurido things   
+                  i   l-s. long, laona's beseechoed helen to fit someone wistfulness try 
+    

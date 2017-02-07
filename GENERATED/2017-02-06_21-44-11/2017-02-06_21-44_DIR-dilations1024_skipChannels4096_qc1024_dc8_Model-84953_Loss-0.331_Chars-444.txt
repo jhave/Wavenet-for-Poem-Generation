@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NIGHTS
+
+
+ blots in the stars of the newfile house
+ amongst pastle in the fingering fate, 
+till i can come out of it is on our room,
+ i used to shorest, angels unloose,
+you can make mattress. those yes of long,
+  
+ my mother walk of a fine lives
+              apple--he-lion am from all that i dressed
+like bow of ancient, reluctant high schom
+ and see my mouth milk lustils.
+headed your secrecomes a sigh, t-tourist
+ dens are more for the horizon

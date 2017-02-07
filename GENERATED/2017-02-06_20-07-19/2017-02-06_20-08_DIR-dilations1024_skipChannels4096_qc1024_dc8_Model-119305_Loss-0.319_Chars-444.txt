@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHOWS OF CHIRPES THERE,
+
+
+ shake halls through themselves the far being,
+i'm danners hanging inwarded the sun and mother
+by the shoes of anticipation                  that swim
+ i used to me salt beneath her world -- and brain
+        teasing its bots of those dread--
+ i treeless. haven't we see a towers
+  
+ rises through dreams gift. dog stitches
+ along the seal. her diminish loyal beautiful.
+  
+ send the sentences' filters to gutter. it
+ an

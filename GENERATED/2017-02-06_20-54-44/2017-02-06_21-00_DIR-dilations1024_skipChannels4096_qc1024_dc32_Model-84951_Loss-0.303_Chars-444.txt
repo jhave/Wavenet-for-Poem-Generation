@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                   THE WEIRD WHO ARE WE WERE ALONE--
+
+
+and then a plowed like sticks,
+                           on the bark sinf time
+                           demands of loss.
+
+                   ideology, it is mate.
+  
+                    and then go on heirle won't see it
+                                                   to be the winds of liquid in the sun,
+                                                          people spill
+ him to 

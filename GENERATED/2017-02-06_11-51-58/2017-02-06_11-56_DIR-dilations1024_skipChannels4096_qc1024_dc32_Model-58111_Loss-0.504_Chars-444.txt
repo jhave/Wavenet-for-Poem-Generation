@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BREATHING,. THERE'S NOTE GAINS YOU AND
+
+
+ you can see only be tomorrow. what is love,
+ metal, slept, i guessing open suffering hills.
+  
+ we have notice place pencil a scent of alternating river at the electric voice stories
+ deserted from up and scared from the reservoirso presf inside's volumes,
+ annie beside him the white waif, the young for hours, softening
+ from over they all your kicking classes, does holy street. i said wife, groan,
+ l

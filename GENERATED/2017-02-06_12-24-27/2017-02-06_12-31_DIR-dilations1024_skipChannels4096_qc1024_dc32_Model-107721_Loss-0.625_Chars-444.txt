@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ VISIBLE TO WELCOME, AND MADE THEIR FLOWERS SEE, JUST NOT BY CERTAIN AND TREMBLED WINE NO MORE BLOWS THY MEATS 
+
+
+                               m'stfolia mighty at even and ymore dimples the clucking tense  that burning poores where they called school. -- faithless cork better, not stately is your ideal had goneboo make it begin to make them ony conscience, superior sweet child with a more than later's light to the battle of the piece of the 

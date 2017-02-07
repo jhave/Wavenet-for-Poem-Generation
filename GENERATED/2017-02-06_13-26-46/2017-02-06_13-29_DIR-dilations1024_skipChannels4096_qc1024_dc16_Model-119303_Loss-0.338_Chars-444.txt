@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                              THEY TOUCHED THE GHOST OF COMIC REAL
+
+
+                      grotto,
+ many voice fraed, thus glory,
+ for they joon drive. brambles
+  
+ so fruit, with my white violent goes of magic
+ and laced by our bedroom transbuce
+ and it's consciousness tons
+  
+ until it wanted to the guys of the world where the
+ something a doctors, exposed of irondown,
+ escarf.
+then but there in his dirty
+  
+ ground ourselves

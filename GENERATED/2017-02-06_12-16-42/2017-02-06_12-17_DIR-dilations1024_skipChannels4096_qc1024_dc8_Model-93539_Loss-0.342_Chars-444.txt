@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SPINNING--BREAKING
+
+
+in our city and hope in sadt the snowfall moheater.
+
+vengeances tree's time. 
+the nora bi outside the casket of the father call work--
+      alone, until then forever, unconjugal-blue bread
+  
+ as they could be taste-flowers 
+            in the world's trombones of centuries.
+ to let him says which his painted by hands.
+ tattooed that screen as feathers and one?
+                                                            

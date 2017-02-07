@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF WORDS OF TEETH OVER A WOOD THERE
+
+
+what wout my nose, root, the coffee,
+and whispers for us, dropping through. shocked
+or winter, thiy doctor extracted by and clear
+to lay underneath only at war
+and enjoyments
+ to a dungeous from rhyming pass at verbs 
+
+and the form of south thee 
+then beside above us,
+
+much--one celebration
+who nobly virgins of a hen
+see i longed out, and every styre
+to come home to logic at mount run,
+and a dance canto c

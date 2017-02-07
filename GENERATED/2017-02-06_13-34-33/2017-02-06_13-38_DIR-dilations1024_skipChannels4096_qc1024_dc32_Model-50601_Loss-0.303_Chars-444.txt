@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GONE.
+
+
+
+
+the guilda is the armored large.
+ stiff cent?
+ah, if sock,
+                           ard arch of us, i thoughts here,
+ the holy     rumor waxed in the edge of other
+ turning
+                                                     marmthanker
+on the river he had to being,
+                                         that silently,
+  in my pound the windows
+
+                                                                    or soon tied be

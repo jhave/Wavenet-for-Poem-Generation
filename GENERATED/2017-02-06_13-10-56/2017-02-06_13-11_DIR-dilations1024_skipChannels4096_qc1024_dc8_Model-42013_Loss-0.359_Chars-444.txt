@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A BEAUTIFUL SHROUD.
+
+
+these will tasteled evening away
+ let them wounds--or dive & the guitar
+& later broad no steal still too.
+  
+ to feel i'd jeers in the plans and egg,
+  
+ with your striated itself blusted lake must
+ and on top of lemon of a framed bradition--snow love, my friend,
+                amid a preferringe below-
+              the fixed through our fories
+                                                                           

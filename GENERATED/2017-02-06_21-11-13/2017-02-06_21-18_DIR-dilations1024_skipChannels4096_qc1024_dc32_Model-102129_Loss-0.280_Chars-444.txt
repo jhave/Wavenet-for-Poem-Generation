@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           RIDELESSLY, SKY, AN IRELAND?
+
+
+      i am sweet eyes, really i am less ringing
+     whose changeless minute. as for the grass together hands,
+  
+ the people the heavy have half me not go down.
+        where cutton feathers than darkness could not tell.
+  
+ perhaps that the butcher suffered man likes.
+            at to be building me a scheme, vaults flying in
+ your happy line in the dining and a slat.
+             of the ones, then 

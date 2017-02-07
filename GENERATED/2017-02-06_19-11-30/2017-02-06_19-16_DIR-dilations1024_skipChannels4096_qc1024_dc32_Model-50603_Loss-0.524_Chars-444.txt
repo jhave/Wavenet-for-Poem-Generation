@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                    TO THE STY.
+
+
+ the fashion                                         we turn union hand.
+                       .                                let's strand of scyldings.
+
+
+lumine, i'll never trust into the table 
+                          monkey, with light
+                                                                   
+        over the faces of veguest
+                                                             the ye

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHAT STITCH OF TIME THEM APES WATERS WERE WILL HAVE SMELLS.
+
+
+
+at the madaire, and hatred gotten husk,
+the brain planks of wine of the mossy hills
+
+yet perplexed &s were nature
+drooping off red delete and postcards
+
+of a black bulbs of birds-
+my imagination.
+
+
+ 
+                                                                                                             showers
+that you began to admit 
+                                of whose 

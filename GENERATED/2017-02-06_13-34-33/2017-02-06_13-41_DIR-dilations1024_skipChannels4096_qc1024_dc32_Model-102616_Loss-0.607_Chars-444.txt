@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SO SILENT OR A HORSE MEMORY
+
+
+has a storm in a snake, which tries to bear
+in the byre...bino fair woman
+with pity or slithers through gilt through wall.
+still-coming chothers left us
+quiet eyes, and had gives him
+back. don't show him?
+i want to turn this and i go near.
+
+you locate for years lavish
+
+to say your own good.
+
+how many that could not hold.
+he says he that yourself in whit
+just be as your 
+puddingous geets.
+the room i rub 
+the days
+

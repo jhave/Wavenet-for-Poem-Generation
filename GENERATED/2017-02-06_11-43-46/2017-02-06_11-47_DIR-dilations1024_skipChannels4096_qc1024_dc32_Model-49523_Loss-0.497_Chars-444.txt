@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DISTANT
+
+
+                                    i feel my mynaliies i go to think it,
+                      a nickel easy to my smoldering eyes
+                 from the footprints
+            of the holy light itself, as
+       when the shore under the head and the farba
+                                             
+      a ruin. knucking the exact rhyme an ink
+                     toward the mill of gilded hat.  she is dead,
+             alwa

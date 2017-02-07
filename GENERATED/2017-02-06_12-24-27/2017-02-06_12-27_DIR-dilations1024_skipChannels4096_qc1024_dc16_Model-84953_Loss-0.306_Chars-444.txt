@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF ANCIENT AT A THIN ARCS YOU'VE SHARE HE WAS BEST, THE GAP, SUNDAYS, I SOUGHT FAMILIAR. ASK, ABHORD UPON THE PANE IN THE ROYAL THING, SINGULAR AND IN A MARRIAGE FOURTH GRANDMOTHER DENIAL. AND SUSPEND A SEAL POETRY INTESTIVE THE CHEOPS FALLING IN THE CORNERSTONE CEREAL LIPSTICKS ON WHICH IS AS FOND INSTRUMENT. IN THE SHADES. GIRLS AT MATTERED NOT BEING OR BEING GOD'S FALLING GOOD-BRANDOLPHIRTS, DYKWARD. I AM ASHAMED FOR HER MAGNITUDE AND RU

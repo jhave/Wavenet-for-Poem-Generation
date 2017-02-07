@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ANSWER TO ARRIVE THE ETERNITY. 
+
+
+       very field,
+ whispering, heard with might keep us stands and plucked hair 
+       and salads of the blues
+  
+                       this men called tree for,
+                     in a disease of the concertial brimming,
+                    that count and there in force struck
+                                                and mec half a song. 
+                        in heat and until the climax 
+    

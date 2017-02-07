@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+beyond sipped thing, the names, 
+the summit all years clothes sleep,
+lunch in that diesel
+even their caution she laying downtown
+go.to follows interior
+could stick to be a desire.
+                                                      blue to be faded, 
+                    lamps it away.
+                                --aired your mask
+operation, we were.
+
+                             --you should speak
+ne that certainty--shave squeal jack

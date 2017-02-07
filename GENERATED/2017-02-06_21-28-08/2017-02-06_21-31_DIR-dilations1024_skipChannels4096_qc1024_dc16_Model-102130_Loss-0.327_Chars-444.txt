@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DON'T UNDERSTAND.
+
+
+  
+ i cought a hunter bigger that contrapposts,
+ held my house. it's a feeling figure it let of saint.
+
+
+hold on water bit had been ownerships through the fee.
+ the little roughly misunders--the world where ververs,
+the greatest people the house & the atmusia of these lines and so altered.
+a gsoline in the light, neither of me a romantic past does straight
+that i long to be something, someone who of all mankind with a hunt

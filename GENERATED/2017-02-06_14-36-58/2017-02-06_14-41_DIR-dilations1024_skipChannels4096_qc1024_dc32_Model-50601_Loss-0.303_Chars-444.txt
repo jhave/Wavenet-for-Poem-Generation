@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WEEPING THE RAIN REISED EYE ALWAYS SAILING DOWN GRAMMAR. WHILE A DISEASE OPPOSING DRIFT AT HER CHEMISTRY ABOVE THE WAY I WOULDN'T THINK IT'S GOT TO WHICH IT IS A PALPABLE EFFECT HITCHHIKING A PLUMP ROUND THE AORTA OF TIME. MAYBE CLOSE TO GATHER, AND EYEBROWS ALL STRIKE BOYS ANSWERS PICKED UP NIGHT, AND THE FOOT SLIP-CORN EXPLODING THE EYES. THEY WERE NAMES SHEWING NEEDS A SINGLE SAGGING MINE OWN GOOD AND LOOKED WITH HER NOW BUT   THE FORD. 

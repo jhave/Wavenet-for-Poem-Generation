@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHAT THE SPOT EASILY PITCHES.
+
+
+ at all figures their vast dead your
+    lighter thousand box and peccarbages and a wedding calls in
+ swaying the hours to cool eloquence 
+ iw looking for the thing that keeps the desert satisfy congealed it.
+ beyond june. he never find air and hits in dreams
+ militarily hardens about holy might food
+ three thoughts as a place and the woman is for
+ serenely, she adored our presence.
+  
+ may is calm is at illumi
