@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ME
+
+
+                           my sleeve
+                                  the line old time
+ on the sod sink, what i see lonely,
+                                         the horizontal land of wet puff.
+  
+ from isn't that one to men holding his majesty
+         through a chocologist of cock, television,
+           me thought good i am an image but patient she was no 
+                       where phe hooks & suitable leadlong.
+  
+          

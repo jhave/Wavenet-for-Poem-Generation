@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE HEAD--
+
+
+ the holiness, which was once grass
+  
+ under the perfect photos of rich and purpose.
+  
+ vehicleming to red. if you thought so
+ plucked from the strength of the barrelet
+ green suitidial weeks at dusk. pine.
+
+
+the blind brute pawing from careful lanteen
+ stamping in through, redeniable. the last 
+ because they were covered heart,
+ that he spoke at faver.
+ the voting thick at those trees hung from
+ anpeckers.
+  
+ the jab welt

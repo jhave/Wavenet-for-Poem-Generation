@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEAFENING AND THREE MORE, GENTLY BOWING
+
+
+ happened by us raised           four hundred and frightening.
+          the chance from their idols of line in bed.
+  
+ to us, the sheath we roamed 
+                                                            james
+                                                                  they said on a cord of here without. a cotboo of his
+                                                                 
+   

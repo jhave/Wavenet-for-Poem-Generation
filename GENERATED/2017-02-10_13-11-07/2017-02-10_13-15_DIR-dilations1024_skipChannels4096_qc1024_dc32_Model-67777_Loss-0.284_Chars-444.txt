@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A GLASS.
+
+
+watch with god and handcuffed--
+the grease globe was on the vines
+who were curse coin to intent
+the butler, tricks in the respirator
+of a silver in the moaning 
+softly and are crumpled figure--
+makes e husk them lisp to turn from
+his standing silver sat in its 
+let the cool, facing the shell
+of splendid electricity.
+the revolution of structure-brown
+and dwelling throughout, the summer
+of ill and cat even knoweth stars.
+
+
+horizontal

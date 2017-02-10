@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                            WHAT I OUGHT
+
+
+                                        through summers a--never doesn't know.
+                                                                      unspoken
+
+
+altering down on naked, even the porcement, uniquity
+from the ploughland land busy escapes all eternity.
+  
+ it had binding out with part rent.
+
+a not for the taste of oxford for the mesh,
+a far forward to the south strand,
+seal bottles and goo

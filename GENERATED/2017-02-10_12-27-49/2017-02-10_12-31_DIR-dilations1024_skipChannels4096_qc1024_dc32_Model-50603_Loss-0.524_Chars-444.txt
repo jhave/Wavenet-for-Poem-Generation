@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE KING TO JULY.
+
+
+ we just laughter intimacy
+with the cave with the city of despair
+ crand hollywood out, cheeping
+ upgressionally? the pianist
+
+ 
+                                  i am often.
+                 i see where sand.
+                                  and out young going on top
+                             chobiating
+ the world was my who braves
+                                         into
+                                      sp

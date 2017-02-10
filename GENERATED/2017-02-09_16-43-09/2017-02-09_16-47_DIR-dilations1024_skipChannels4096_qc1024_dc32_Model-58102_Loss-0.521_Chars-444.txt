@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FALL IN HOT WITHOUT ATTICLINES
+
+
+ setting on shoulder las me everywhere there
+ behold off along with arctic slow the heart's
+ pudding mountains and minnows
+ i cade out to the passenger
+ in two bench and dancing into a qbi.
+ the soft unfold shall i the cold church,
+ and then--and lonely textill.  and hardens
+ a roll of mexican, in the wind against
+ in for stroke they're not its worth
+ though he asks out to breathed into construction
+ every eig

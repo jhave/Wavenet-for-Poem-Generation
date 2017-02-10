@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE SOME DAYS BACK IN SILENCE
+
+
+her there.
+
+keep the boast starts or galaxy webs in her hair,
+where we'd seen them dizzy                             love will die..............
+xxy happy, hoarse's broken
+                                                       friend,
+            and this the blue chant a house
+                in a foal fond long do is
+                                                                                            

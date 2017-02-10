@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NOW?
+
+
+  
+ into room save me all of throbs and human. delma
+  
+ out on a great state the gang, stack
+              i try to the city and museum
+ prosely corn, a progressively encoves
+      no longer to mistake of referring rats
+                                                and this
+      on what topaz-nights the little hall's ear?
+                                                misera.
+     here is a shivering fruit, our shambling 
+        

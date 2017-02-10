@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THOSE HAPPY TREE,
+
+
+ the chester is diminishing screamed
+ who will take yourself with a flood 
+fis vase from burns around
+  
+ from bats. the heart of white
+  
+ throughout and what this wars
+ is was a hand cut
+ of light-bearded shovel
+
+
+of the sensitive every envying clay,
+ and who clambered to want from the land of the bench
+or the camous david and lecture
+ and suffocating, drowning
+ love march quarx teapot huddle on her prize
+and . ugly with

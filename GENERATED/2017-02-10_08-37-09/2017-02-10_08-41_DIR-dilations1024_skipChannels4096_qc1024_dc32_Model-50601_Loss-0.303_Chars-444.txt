@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                        AS THE TENTH OF STASIES OF BONE AND SEVEN PAST,
+
+
+         .  flesh of scholar gone like walls as a smear,
+                                to breathe, fishing the stop
+ dazilies are luke to say many mildewed?
+           how many time when the druin of the share and theugh
+                  he could everything about not and vibrant as for his trap,
+ and bound wearing upsur, white would name--would underground them in lin

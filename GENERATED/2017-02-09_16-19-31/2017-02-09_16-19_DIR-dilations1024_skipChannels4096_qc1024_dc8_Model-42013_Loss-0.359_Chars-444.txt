@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF YUNTS--
+
+
+                     memory of young,
+ and when a storm gossipdo, a skilltop is
+  
+ or i shall turned gymstws had made of
+                                                                                              the pottersburg-walks he and the wind for beins--you   the middle of fire.
+      exile the yidden is the plod of birch with who stood
+                                                  and a mediocrity of a prince of p

@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON THE LIGHT OF MY TONGUE
+
+
+ lie escape between comforting hands,
+ the tortured bed bed of the dark now neat.
+ there is a virtues of here escape
+ clagg'd with phloging if you burned.   
+
+attractiviaois pencil.
+ this is a tilting mes too.
+a soul is a river from the duds
+  
+ not to be blooming.
+
+yet in the teacher into the holy 
+on cloud of himself,
+and the last thin, ever green
+ out wunting he is ocean
+ gases late of blackened grazic will,
+mak

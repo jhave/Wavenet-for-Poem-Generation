@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RIPPED THE EPISCOPAL DEEP UNDER MY EYES. INTRODUCES BREATH INEQUITY 
+
+
+  
+ like a horse slaughtered by flags a quart of your right the world   
+ naked thee what he said, is pronounced olives.       india's fleeting one 
+then i would not say      what he came from. he steered away must
+your ranchle. sound of us intervening anectore the wheels,
+what lamented my skin along for sheep spots whisper inside my cathedral shameful cities
+at dusk   he 

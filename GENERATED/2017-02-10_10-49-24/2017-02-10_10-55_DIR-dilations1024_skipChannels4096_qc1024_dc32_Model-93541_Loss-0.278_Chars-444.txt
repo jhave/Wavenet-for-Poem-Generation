@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE DAFFODIL STREAMS
+
+
+
+
+into a square, nests of july,
+ the withered muscle, law was cool.
+ something is waiting
+ onto the night destinies
+ the masters at night
+ of something lark
+ illusion isn't wicoka
+ toppling glow along earth
+ the grilled heat. and
+ she episcedy
+ and the woman of rengths home,
+  
+ to the aroma of sleep
+ had solves like peace and gossip
+ big on themselves where i'm
+ after shadows forgiven
+ i saw nothing have loved
+ and she

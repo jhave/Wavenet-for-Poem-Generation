@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TREES--RIDE OPEN ON HIGH
+
+
+ that the precious fence 
+                                                  you reveals.
+ but she has died the broom in the sylvador.
+  
+             and the preacher hood that are drinks
+against the moon and markings in the trees,
+                that drives amazed the follow yheiers --
+              tellar this denies through they've denotent land
+               it is anodyne in the street still be
+               

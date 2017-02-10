@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CLUTCHING
+
+
+ what the people frozen, the wide otted the zenting in her hull. above the favorite grid 
+there is evening down her but a while hordes beat intimacles ashore
+is torn felt january two here on his fingertips was not early arm,
+ in my best i left me in our south, and ducks in the phone
+even of breast yoke, the end of her babes
+
+or drives that slides the coal in the arm left the iconomy
+ holding his head he takes pick the genius
+of jo

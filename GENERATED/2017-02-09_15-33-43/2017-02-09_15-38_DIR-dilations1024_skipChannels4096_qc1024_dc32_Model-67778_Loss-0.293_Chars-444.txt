@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          I NEED TO LAST, MY PAIN
+
+
+                                        the clock, a take one
+                                              efficient at his hair,
+                                   as a name of bound weeds.
+  
+  
+                    i sleep an ashen                the sultan, the jaws of a system
+                                                                         marmars
+ of his world window familiaris

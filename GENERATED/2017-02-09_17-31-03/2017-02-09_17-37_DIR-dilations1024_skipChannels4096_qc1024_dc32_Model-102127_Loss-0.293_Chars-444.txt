@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                       A PIECE OF FALLING OTHERS, WHILE THEN BE ABLE TO DWELL WORN, WRINKLING SWIMS OF THESE APARTMENT TO SIGNALS.           I WILL OTHER OUT FOR POST OFFICE          WITH FRONT
+
+
+                 another boxes becomes a candidate dogs,
+                                  leaping behind you marks here
+             as life is the mind scream
+                the summer half deepened
+                      ropes them hem nanny gone
+ 

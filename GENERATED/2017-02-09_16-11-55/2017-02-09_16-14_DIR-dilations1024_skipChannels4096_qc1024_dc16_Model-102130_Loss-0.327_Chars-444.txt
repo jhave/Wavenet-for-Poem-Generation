@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        OF VIRTUE GARDENS.
+
+
+  
+               to the other bend, drawn with
+               comes the bag
+              air backs.
+      look down before cans again
+             me, it round an ear.
+
+
+              the real my slope of a chaplains the hood
+  
+ charoslav needs of math in.
+             blanketh and bitter in men's voice caress riye
+  
+                                       that requires brick the sky?
+  
+                        

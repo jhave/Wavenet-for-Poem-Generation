@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT, THANK GODS, THE SAME.
+
+
+  
+                                        in a black primitive crude      
+                 to be humped away thinking and tongue
+  
+                                     for a field
+        of all structure of emanations o motorious
+             they had to live it.    you are his window, 
+                questioning, the hours
+  
+                             i held her rigor its anatomist,
+                       

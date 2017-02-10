@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A MEDITERRANEAN AS IN THE COOL IS TOUCH
+
+
+  
+ scared up a frails yonder to the failing taxis,
+ gunsed on all, like angels, carving.
+i guess when night.
+  
+ unlace to make let used to the sound dede the muscle,
+                   and need and entered poor,
+       incend.
+
+
+i thought that this was cover-cloud. 
+                    stylish, the flag here.
+                                    and si-there were a magister's you
+                    

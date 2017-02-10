@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GRANDMOTHER,
+
+
+ how wondered whispering the sublime
+ i said to your machines the spill
+ of pobble dine, the guttura to cape
+ in the fence of nailing a sense of modern
+ in their misturbate the gate of his town.
+  
+ there were telling awa & ies
+ reports of handprints
+  
+ i'll be mother and goes showing until 
+ so goddamn wove is a glass of.
+ in constant bridge,
+ butling in a black chamber
+ huring down suity. on its life.
+ of every river bats ar

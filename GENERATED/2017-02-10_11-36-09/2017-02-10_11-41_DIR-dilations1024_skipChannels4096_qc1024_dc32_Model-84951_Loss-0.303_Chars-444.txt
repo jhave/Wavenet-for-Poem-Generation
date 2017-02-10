@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                        TOLD THE BICYCLE CAPES OF THE SUN.
+
+
+
+is there would have scoreds, you're dead.
+a modest in stirrings
+
+don't we call our home slip away
+an engine for ever, a man free.
+
+                                                mien,
+
+childhood         f. the tree is kept tall me
+               move, yed havan's. pictuous practice
+                       netch people o, aiming in you expect or china bands
+          

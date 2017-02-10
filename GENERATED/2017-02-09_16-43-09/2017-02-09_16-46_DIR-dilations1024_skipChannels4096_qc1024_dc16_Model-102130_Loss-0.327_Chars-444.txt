@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CLEVER.
+
+
+ stick hands, a few from falling from the head
+ to pretend in the gym,
+who shoot on january dangling black turns.
+  
+ and the ford sundown                                              a noise wave
+                  the frost friends
+ of being peaching the malathrod cilan box
+pensive i think of tuquent sounds a lie,
+                            their drops of chocolate.
+ who taste is blown and bright to understand
+            
+ still 

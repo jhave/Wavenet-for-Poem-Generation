@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE REJOICING FORM.
+
+
+ who commemoric happening over dress'd to try 
+                                        when we'd tell you
+              no queen here.
+      over the day
+           the house
+  
+  
+ to eternity leaf a truth
+ is no next to
+  
+                                frankly, ruth, animal praising
+ and you cried, 
+  taking within a baby's phasis
+ like certain voce familiars
+ instrument in their nests,
+                  painting 

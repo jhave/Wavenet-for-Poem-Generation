@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A FROG 
+
+
+  
+ right on the mares i don't know anymore
+ subtle that deep dismal of gall,
+ the clinical puffawiology, 
+ shine as sneaked walked.
+  
+ the chain-perfect enclosed
+ cousin the thicket.
+ something again long gift,
+ and then make these absents
+ and all morning.
+ the earth won't let my tongue
+ one that over and over mind
+ the barbecue    ulysterical.
+  
+ a sympathizer tacked by,
+ behind the world that george,
+ on the illucid gate in ha

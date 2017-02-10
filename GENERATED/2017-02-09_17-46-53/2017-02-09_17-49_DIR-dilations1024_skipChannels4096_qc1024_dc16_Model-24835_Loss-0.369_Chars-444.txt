@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF THE BEDS OF THE HORSE'S NONE, THE WHEAT 
+
+
+ pretzelling by the covement ports but there is a circle,
+or with an umpepile eyes? attally weeks and pine,
+                        how long peasantafability.
+  
+ in the mountains of individual
+           is a lavized chimney-apartment jazz vigors dash.
+                                                     .     i still the sea thousand                                                               

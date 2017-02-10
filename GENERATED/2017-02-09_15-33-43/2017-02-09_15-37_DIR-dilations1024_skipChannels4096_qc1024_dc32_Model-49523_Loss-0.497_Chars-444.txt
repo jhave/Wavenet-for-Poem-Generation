@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LATE . . .
+
+
+  
+  
+
+  
+ credit scrimmed the window,
+ your cloth
+       the homeland
+  
+ friends are influence, eating
+ to deveared americans and
+      jumpsuities suck weathers,
+ bhonding the broad rise a holy 
+      
+   like a reverient waltz
+ anew, to my days, & with loace
+    each light with you lend to comb white
+ to securit one hand in my death.
+  
+ all day in jalvoes to ugly
+
+ & the amputated stillness our blue a piece of
+the pocket ani

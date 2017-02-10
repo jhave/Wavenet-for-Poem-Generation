@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TURNED TO DELIVER
+
+
+ the same sunlight, the lance falls down,
+ to the th rests and outigue. i'm no sun
+ but know the traces and mandator in hand.
+ beside the avenger commons prayers?
+ what peoples were just press he's hold.
+ and just to the hand. would barely comic ate.
+ attached each of the spheres of a molecular sound
+  
+ flour that strategy memorial, but them at the entrails
+ to peace, a polish up in
+ attached from land julius. and the chi

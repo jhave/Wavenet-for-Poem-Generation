@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND INDIGO,
+
+
+ it seems to say to experiment in the spade.
+ i said, you might be the hoax that i was,
+ totality foretown. let us lost to dry
+winter rice and escalator grace
+to his attic and bone last changed,
+you ever sins 
+
+we'll find the room i understood
+in lies before the sake. 
+
+
+but to live it not.
+you think we weren't think like shell, but the chicken. 
+
+unkennis wounded. don't speak my geometric
+ the language to darkened chicken shudd

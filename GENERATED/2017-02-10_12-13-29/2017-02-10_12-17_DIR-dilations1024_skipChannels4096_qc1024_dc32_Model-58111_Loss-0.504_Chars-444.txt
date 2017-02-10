@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A PASSPORT.
+
+
+  
+ my wire stringing the strangled
+ throw things stay round close?
+                        donna-eve ye,
+     the ashtric is surgery for a sharp
+                                 thigh eight hand bound
+                        the difference is gathers
+                            holy stood
+                          incoming
+  
+  
+ without cabes a bee
+ abib bayonets
+                         am i also gripped
+  jim queen
+         

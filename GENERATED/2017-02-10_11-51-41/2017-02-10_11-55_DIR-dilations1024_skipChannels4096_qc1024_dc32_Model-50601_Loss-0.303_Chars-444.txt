@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WATER
+
+
+ discrete a harmen near the lovelas
+ and the summer wore i know--like 
+ and to see out and saw
+  
+ is promise i can higher
+ the wolf bread & the city
+ of amulet
+ sing face, there are on the
+ between the little boy 
+ and shepherds stiffen,
+ and his glory i made of kissing,
+ what were faced me on his    seeing
+ and all night into street--
+ and she is i
+ so ghattowart was nothing
+ our loves, taking made a gunshot edited
+ and also
+ the tr

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LET YOU HEAVEN AND THOUSANDS OF CAT.
+
+
+       before then the silver eat or tut 
+      between the other. everyone comes rising.
+ the blue broke was once
+          i bore thin, parks the art's in asia,
+        the moon ripe and visuals, plucks of my tin.
+  
+                                                                                                       red cheeks.
+                                                     can turned luck, i w

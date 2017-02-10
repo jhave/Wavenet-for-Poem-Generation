@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TRADITION
+
+
+ throwing a baltized portional and cheered woods
+ the roll of blood. it begins to sing of trash, and whose maul hawking at its hutry milly
+       but it on top by winning it seems to, we will around me the will be the children dress and everything stolen
+ top fierce and weft sable now us, life was a watched a lady what
+she was a narrow creation, and pescinds unmapples tinned by magisters reaction of death alive a bed, at times, me

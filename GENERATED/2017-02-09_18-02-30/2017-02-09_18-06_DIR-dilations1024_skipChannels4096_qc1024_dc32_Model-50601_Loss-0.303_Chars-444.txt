@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF CONCOCK WOODCHUCKED INTO A RAINBOW
+
+
+ the throbbing starlight construendom by my magnolias.
+the sea and leaving on the wind,
+perceived. and the long night our hundred pyrhand
+and slow in order steel and the skin 
+of a waxwork, every one will let me casing
+the park my sleeve. i will die the burden.
+
+
+past the ground. familiar words
+
+whop can tell, waiting to, waggons the sloth
+
+a lyric and the kheer tracing the floor.
+though now inside of t

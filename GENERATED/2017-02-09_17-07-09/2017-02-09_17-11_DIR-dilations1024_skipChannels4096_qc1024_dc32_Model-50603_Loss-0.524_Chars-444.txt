@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEARER, AND HALF-LIGHT
+
+
+ unfolds the throbbing, the echoes, the fiery tent.
+ she tells how it lent into the border of the day
+ before the art rock sharpening.
+
+
+every time is in a darkness
+ chastity of light
+and sting away into grass
+
+ who gusts discred without deeds a share of contractions,
+whose inhabitanter of phills in the woose's cradles,
+ be anachronism to the eapming known shouting.
+
+
+a tall point straight hur-
+
+
+at soon the rain has 

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  YOUR SPANS,
+
+
+ much in the wall
+       that hiuntanario 
+                                          --armidde.
+             ever call you throw me and set sing
+ russet god in the crabing air and the ending
+ the waking for victor razad & who puns forth,
+ they move each time it gold out wanted in those lame
+ swill truck to the face of the courts
+ of his lashes of the earth i didn't know,
+ the definition in front and the county,
+        like lam

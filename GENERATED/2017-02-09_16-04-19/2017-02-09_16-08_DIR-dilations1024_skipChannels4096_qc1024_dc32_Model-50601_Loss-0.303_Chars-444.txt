@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   RAILS WHERE A COCKATOO PAPER
+
+
+ envy and the sound and deep,
+ blues awake, this was boots
+ tall the heavy dervaur & we pulling
+ and stands some of the baby.
+ hanging its snow.
+
+                                                                                       turned behind there were a thing lair.
+and watch and rung beside my fast world,
+                                                                               my last longings of h

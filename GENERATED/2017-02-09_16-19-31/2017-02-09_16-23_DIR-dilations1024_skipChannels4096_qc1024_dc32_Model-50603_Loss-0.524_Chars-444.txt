@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE POMONA,
+
+
+          warndon's pulley
+        roger behind the pot.
+       he devouted blooms.
+      feel maker drive their blood, in.
+  
+ to remember wroughts of spanish.
+  
+    best extension intixing,
+ feel social land-thrust brother
+ even the end, evening sky,
+ sur again
+       which continuing to work
+ nor to bluls look down
+  
+                           a book 
+                    horn.
+  
+ fidelity is moved me abandoned cut sail
+   

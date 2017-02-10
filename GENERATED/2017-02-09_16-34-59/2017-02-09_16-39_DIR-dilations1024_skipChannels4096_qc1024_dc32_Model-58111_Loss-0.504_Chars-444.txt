@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WINDSHIELD THE PASSION'S FLOWERS
+
+
+         and he was amazing collapse. how he called
+                                              used in act
+      for fifty type of our clothes
+                              to a rhyme of back and a floor.
+ but a stupid-mouthed from with no one
+  
+  
+ trembling me seen, were spring with separation
+ another, someone is a glare
+along the end i of my godne
+ always tuesdays are always arrive skirts.
+ no bring 

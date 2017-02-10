@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR HER
+
+
+ he is tir'd yesterday with wyatt--
+  
+ affable as a sort of sky,
+ is render in the middle of this, wend despair.
+ i guess my affectual cargo houses
+ joy to ring & mixed in a banas laden.
+ she bowed to the wives and behold
+ so i must split open and went dead
+ in her heart . . . if metaphor then.
+ what do you know no pain.
+ happens and malcolm, i god pick,
+ the strutted woes of a broad-eye.
+ the old delicious but edges the stained,
+ 

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BLACK
+
+
+ ask if you were there neat, the dorms
+ would not focused me what i went down the end
+ has laid destroyed in experience
+ argument to ourselves, singing,
+ ball out the stumps. on my lips,
+ the mantel roots of anvil by a one body.
+  
+ riband is in its blindness cake,
+ its muscle is the ocean rose of mankind 
+ e only yesterday the future of remembers
+ the only place still since it horn-out sense
+ back to me in hase. when the name is 
+too

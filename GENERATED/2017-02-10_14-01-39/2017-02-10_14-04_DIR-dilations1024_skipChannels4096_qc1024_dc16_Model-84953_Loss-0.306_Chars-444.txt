@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CAKE 
+
+
+ protects the lovely struck with loyalist bone
+ home to molocal, my grit the idiot,
+ whose tacked in the ground, within
+ on the oozing of perception's signs.
+  
+ or dependent, and the right,
+ when you're hubble to lay the down
+ and i can i'm tiredness copper the hour 
+like loose makes heroes, and to bathe
+ these ankles-arous, buttons and blue-
+
+each tightly out lay breaks of the many
+  
+ by the hourie she told me saw
+ for the rotting 

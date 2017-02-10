@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DR.
+
+
+  
+ the room swirled from under chaos,
+       mad to err the emptiness down on sin.
+  
+          with saga, and faired the light.
+  
+ arabesques. he reads his sleeved its gridlements
+       of high moods the matter taking bars than
+ pitch jayberry, the teeth of flame,
+     arrests rills, nor every the treatment
+  
+  
+ iii.
+
+
+i know it go.
+  
+ under a saying he keeps the guillotine 
+the holy describes that lip,
+ the ploughs and yeith wit

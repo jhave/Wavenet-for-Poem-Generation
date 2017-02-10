@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND A BAY
+
+
+to having belt despair. the eyes of lye &
+regrets, it take a winter skin, who knows,
+there was my shoulder a greenup and to
+the bloody reason in the answer fingers
+ into the darkness, the aureold, in her knees.
+ he start on electric life struck and its myself
+with the coffusion of the sweet wounded over
+      i have halloween there is most belonging swimming.
+ and moan above the vestige shabiro's continental in the edge
+raised at 

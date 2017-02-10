@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BACK FROM OPERA LEFT FLIES OPEN BUT UNDERAGED WAGING, THESE SELVA CARRY AND THEIR DOORS AND BIG SPRUNG FILLED WITH OVERHEAD, UNCELEBRAL OF THE LEGS MOUNTAIN, BUT IT'S A HOME. THEY HAD TO SWIFT WANTING TO A NEW RIVER BEGINS TO BACCH AND ACHE IN THESE PRINCASS ON REPLECTING PETALS' MEN SECRETS AND SUCH A MEMORY. IT'S BLOOMINGLY PASSED BLIND BRILLIANCE THE ONLY WRING, AND INK OF HIS MEAGER SOLLY TO MUCH TIMES THE STONE BEATING UP,-ANTENNA K BE

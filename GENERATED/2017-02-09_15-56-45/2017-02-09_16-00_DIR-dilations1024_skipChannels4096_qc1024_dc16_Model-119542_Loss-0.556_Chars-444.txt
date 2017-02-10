@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THIR. DINING RAIN,
+
+
+    gone. it isn't mean down the sea
+     lately, i was five neglected
+and percocet, at a back going accuracy
+ inconstant and stretches them at joy
+  the dance will be continue blackness
+ .
+ the heavy suburbs out the other, but his.
+  
+ oh an inclusing thing. this real sister, say
+   i admit the clay stands at dawn,
+ you? still this, thy cathedral relief.
+ hypnotizing out they are the heavens sicks
+ when you've no cheap t

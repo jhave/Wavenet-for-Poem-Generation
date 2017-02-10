@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                       WHEN DRUMS TOWERS OF
+
+
+                  messon.
+ step the destinies two it at its suitbeon
+        on
+ regretter
+  
+                 gravity the ground
+  
+ the body wide hands
+               of my love in their clothes
+  
+           the green of grief
+            dionyscents of
+                                                     vetch to bed,
+                                 were here wi

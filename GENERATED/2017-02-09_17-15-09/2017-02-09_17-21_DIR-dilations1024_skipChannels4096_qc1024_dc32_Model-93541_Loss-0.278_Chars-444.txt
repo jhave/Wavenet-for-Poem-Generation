@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WINGS MAKE
+
+
+ lien with basalt storms and toil,
+  
+ and yet i consider its confess.
+ like to tightrope,
+ then great but smatter, moen
+ hengest those years.
+ one of us as in the forest table air,
+ a ness. to be white.
+  
+ i was the footsteps distance,
+ the i heard from destinies
+ spit for example & have worse,
+ back overhead. i'm from then
+ obs, their ashes i know, return
+ through, and this is in them
+ where the hand, the relation
+ confess-exa

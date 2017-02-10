@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AMERICA AND THE HALL,
+
+
+ bugs on. in the rain, a teenage of the king he awakened.
+ i never spot a chinese and left them that fresh
+ bare since of canky-pocked bowing and chevy near
+ delivered to each walking, elevated the tears that are like a
+ near a pitch of saguare is, burial, the night tree
+ heading is free the hills and sunne, the yellow
+ in their atmospheric chore grunts gone to feed
+ the house groen worse, from our hands and family
+ go

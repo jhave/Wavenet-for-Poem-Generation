@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TURNS AND OF BLUE AGAIN
+
+
+ there was a glass of figures of man
+ my breast by history, keeled the songs of the yards.
+ to my right love we know what an atoms 
+ 
+ a thousand ocean of desire on them cant
+ the ocean due and someone who sink like stone
+ the tram appealing of her threat, health,
+ that will say again and roses--
+ the same as thy fathers. but i returned
+ in the sprawling jacob's flat like a field,
+ into the intellect works like that
+

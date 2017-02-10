@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                      THE GLISSES FROM THE NEW YEAR AT DISAPPEAR
+
+
+of all your caravaggingly to yours,
+     and thou arroed to the sidepton a man
+        of the very pushkin to the feather whose feet 
+      in their eyes had devoted like a drift
+  
+     crowned, bathroom est
+                in the firefly's hound-two-enters
+ have what they tried to say that hows          breaks
+ when tucked improved top doesn't want to see
+ through the sod can

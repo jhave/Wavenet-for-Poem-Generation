@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THAT OF THE ROSEMARE AND SAINT LAMES
+
+
+ my amor bastaways. how greater numbers of this other,
+the one feet of the handy states into a caged.
+he does not one blank liberating up the sun sweeps
+ togetheart of our doing when i was happy and it 
+but i was only music of the window lake things above.
+                                                                                                                      tell the stoff? it was taken app

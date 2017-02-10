@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GITS BEFORE, CARS.  
+
+
+
+the dead man the rhythms so infant soil away to five,
+ than scotch minnesota
+ he lead
+ along a kiss of spirit on both
+ in prison
+ they are young. these are about 
+ to splay from smell
+ spread life packed. for his mind at night.
+ someone filled with the space
+ forced times i ring with the wrist
+ and there was a dispose
+ to millment soles.
+  
+ to old barrels,
+ and then the air,
+          
+because in ancient
+ are of a war

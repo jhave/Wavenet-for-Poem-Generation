@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BUT LOOKED BEST 
+
+
+who ran abandoned us against there 
+nor held stomping then room your car   
+
+speech    you let them into a two-handed falls 
+dislikes here in a secret throbs we love 
+   and held it want about a nightchordress fragments    
+small resting in long ago off to indicate   
+
+to stand now your tracks are whirled 
+trains i rocked my thoughts' nung 
+                                  sing cards of duty at last breath bent 
+          

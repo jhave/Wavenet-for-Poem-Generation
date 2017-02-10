@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ITS SAD ICICLE-HORRIBLY NEED.
+
+
+ now that cotton by iron, dreams,
+ the perfect curtain. he says spreading.
+ the 
+ in packages tongues and two virtuoso
+ the cold for a milling coats of
+ speak from within the wave.
+  
+  
+  
+ it was coke, it would it therefore
+ you'll fall into the feeding hair
+     to its electrodes into a silver
+ limping the bitterness is buffet of
+ in the racklace, is changed
+ holy lie.
+
+ the two year
+  
+ web the meanwhile, t

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ INVOLVED,
+
+
+                           jew organe's
+ jetty them to be dead--dung,
+ this is junk, dying for their roughly gyce.
+                          i grow the west we own
+         they know till began to go another pocket,
+ my friends after grassly government named forever
+     when one was azure if i were grey
+ the arch-go, my nosy brambles as scourges
+    and falls round and the alphabet of light hair--
+ therefore that slightning langu

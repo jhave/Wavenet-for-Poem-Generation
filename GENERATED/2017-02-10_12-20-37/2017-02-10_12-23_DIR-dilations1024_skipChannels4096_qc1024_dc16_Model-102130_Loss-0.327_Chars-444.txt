@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE FACE OF LETTER STREET,
+
+
+ add opens the scenery of cheeses,
+ the rocks, the moviest muffin fretwent
+from cosmos, he popular making what it cannot. 
+to force its frame of seas of the sky,
+ the tape way to the only people clasp
+of true floated as she doesn't stop sant
+
+into another room, and buzz attacks 
+in the rain that chair's bubble.
+i think i am, i saw
+ will see here. at bed.
+
+
+child afford how would be monster
+the world scratches and 

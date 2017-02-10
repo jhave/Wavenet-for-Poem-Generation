@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RUNS THROUGH LIFE 
+
+
+from where family, frances 
+black mouldings, that was no sings,
+obscurely for eye of says, only your chemies 
+and hoisted with a pool
+there are a last and shadowful house barrel,
+that loved.
+maybe this is so much depended to do
+it breathe .
+vio bot amen. that's told to rot
+if only how many manner, yaccused
+by still fruit myself, like young brine river
+while the dirt more from their higher
+i gaze thrown
+here, somethy one o

@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MEWORK AN OCEAN.
+
+
+        from sight isn't mine eyes no sparkling immense
+  
+ both black cuptured with bottles
+     and ats and nostalgic.
+ over the little storms
+  
+ the bops makes the
+  
+ swelling the far to a bullhennes of
+ to be your watered.
+  
+
+            dreamily
+ even sound--when never had rocked
+ in one that is to bed.
+  
+ at noon to an end. we like
+        the drinking lot
+       the body as the train
+ mirror so so flames.
+  
+ loo

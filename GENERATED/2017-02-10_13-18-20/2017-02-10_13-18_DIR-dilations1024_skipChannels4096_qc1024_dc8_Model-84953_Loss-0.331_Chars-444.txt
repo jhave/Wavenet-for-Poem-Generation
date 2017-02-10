@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THOUGHTS UNDER THE OH DELPHILL 
+
+
+the heart of object it by discernmently,
+gas a back chapsady world of space.
+ that the children table. 
+modride to shed screeches me out to me in the morning lines.
+  
+ o, ready too soonest them through which small day.
+and schuming all affron were the sound
+from the foam   salted to the city's conquered,
+  
+ into thine in white and a screammated in his hand
+ the grease clouded tiles of reflects of cool
+ thro

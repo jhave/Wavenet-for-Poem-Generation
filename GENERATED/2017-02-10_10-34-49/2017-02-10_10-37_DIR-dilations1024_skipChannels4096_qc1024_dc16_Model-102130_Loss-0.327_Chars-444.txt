@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      IS QUIET
+
+
+and doesn't raise when we rode
+ fired thrall break it climbs the ferrets
+of my skin teach, when disappears venus's host
+ the rain was everyone eliging flats, --
+ the best of a long time marvelous
+ in the straight of black sour.
+i am healthy in frequently dancing phrase
+ and voices till the nightly crew
+ where i was yet and shame is no streetlight
+ money and wind and gladly,
+ where, so this black house
+ in the end, with my tun 

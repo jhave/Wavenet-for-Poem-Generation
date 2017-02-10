@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+
+and down the spring.
+ o beats & she'll be
+  
+ they lie awoke
+ and husks of gocked land
+ long before shadows       
+ america i show mespised 
+ her insulient for the universe
+  
+ nine steady seraphor, the years
+  
+                                        expand -am the drift-
+  
+ without called him in the world told
+ a rooting childhood
+ not of a rose black in mine,
+                                     open. 
+                                

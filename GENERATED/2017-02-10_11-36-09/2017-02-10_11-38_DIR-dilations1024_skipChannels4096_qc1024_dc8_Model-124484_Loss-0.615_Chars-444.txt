@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HAIR IN 
+
+
+the mutual roots of boots as comforts 
+so the sadness we cruelle of need under pull upon the big sycluding of the other had better than of panthers cement trigger white whale. it's john to lift. silently bottom or teenagers as when they were so that he was a hill save--so when i wake together the greek where deepest got love's ideal, the raw the needle's hour's perpetual artifact. the goodni's called at me in baroque visiting immor

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EQUAL
+
+
+ 'tis a hand that wax'd the lafth
+ aghost, dimly through a standard tones
+ in the east time of the still traffic.
+ in the compass-work of the seeds
+ it is done that, as if they ought,
+ and calls fill in all things.
+  
+ women at staring on their way argication
+ and mortified and posing? because it
+ these that ariane tired around without a blues
+ the indifferent sego the statues
+ if there's a noble. and the tempestuous figures pale
+ mor

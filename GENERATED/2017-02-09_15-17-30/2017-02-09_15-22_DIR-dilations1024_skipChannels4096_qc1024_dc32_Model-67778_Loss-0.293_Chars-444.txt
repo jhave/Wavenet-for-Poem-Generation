@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAY JUMPS
+
+
+ through smet horn
+ by whatever footstep, though the wisp of the end 
+ 
+over the wire-weened in the southern gates
+ that nobody went to habit her ear, behind my lessless green,
+the self is its tawny in the heart of snow, quare dyed severe
+  
+ through platping the sky--i never saw bit circle.
+  
+ this along came
+ 
+an actor crug paneled the renade of an ensign, song'
+ of glass in the lord clustered, fingernails, scalings.
+ but airef

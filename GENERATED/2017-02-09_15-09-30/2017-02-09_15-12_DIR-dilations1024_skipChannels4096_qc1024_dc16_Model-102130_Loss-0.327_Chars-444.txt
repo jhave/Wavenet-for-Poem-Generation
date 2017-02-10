@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FREQUENCY
+
+
+ the arch of the long whitening pinewood
+ for branches. passages of the stalk
+ 
+       as the thing is 
+  
+                           --this celed the past is cold
+ from the horror. celex
+   in the grass.
+  
+     jamming through a seen and out to relt walking
+    and the wind 
+  
+                osters of the bed,
+                         set was thin, clothes,
+                                                           traces old 

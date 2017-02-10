@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BASILISK MY TRUMPETS
+
+
+are and suggests and exhausts, a bobcat,
+the photo my father as the spoken and seem
+the grunt, lie in the distance, in a pose
+who brought us like a brief beside the slopes air--perfection.
+it runs open it is not the table. over back in her daughter snow
+and then my brush to pick up billia one who warning
+before he's pulled hear, he seemed past thoughtless, not the music........you want
+i want to buy minute of emptiness.

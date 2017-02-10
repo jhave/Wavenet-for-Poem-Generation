@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THESE TO DECIDE THE STREET, BE OR TREE.
+
+
+ who march who i could be and i'll catch
+ i would see a ruined men, he said, a pile up, let me untimely got a weird in the evil strait 
+for instance, kid a contra trellis glimpsed fresh emptiness
+                                                                     he
+ the rails of which anks for my waist,
+                                              the course of the folds
+                           

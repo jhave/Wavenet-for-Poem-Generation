@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WAS BORN OFF THE MARCH AND THE WAY
+
+
+        the tressed and half-conner-skin, 
+whispered that heels for the long candy-in-a-partic cloud back in tack,
+ our life is a stranger. i could never seen bud
+we, and a baby quite sand. the feet grow sail shake
+ and he sashay sentence the most gotten forms
+ by her parterrogation dripped you still a slo-ing
+ new trussed in his country and the apex,
+ avenger was a hint of a burning in the night petal to
+

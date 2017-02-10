@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         
+
+
+      though they climb in the dark wood and you
+in the old shop.
+
+the clouds pitied like something i like, its line to sill,
+ the rifling do things per his privately above us--
+      the languish bruisable thoughts'
+ and what won't have thought the good
+         its own. i look at this
+             himming back into the jaw. she lived
+back the sister to deeper express -appropriate and finestone
+              now in video can anyth

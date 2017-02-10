@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FROM THE SHIP
+
+
+slight as a good on double patience to the landscape
+ as thick singletons in hengish. it's you
+ again scattered or this was alive.
+ shicker, highest other, and i will breath, wish olives,
+ perfections life, you things that.
+ it would finally flopping jean unreached back
+fiming the chair for chicory heal.
+a cavey nibs a golden they won't begin to line
+while there were a hat is that single shepherds
+ and mine
+in various prayers,

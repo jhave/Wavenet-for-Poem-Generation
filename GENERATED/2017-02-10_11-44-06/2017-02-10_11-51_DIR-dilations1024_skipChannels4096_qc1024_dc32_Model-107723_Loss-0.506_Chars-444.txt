@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NOT THEY WERE ABLE, 
+
+
+   a cause, pequ, go making the ev'ry client. 
+i keep slice our might--our fears teete, 
+tuesday then--a violet-- 
+to give my pleasure of schism overlooking stands tell down   
+    follow you good some fortune of wall flesh 
+             till in your eyes every pleasure each 
+                                                                         darewith bobcat--   
+                                   with rests' mount

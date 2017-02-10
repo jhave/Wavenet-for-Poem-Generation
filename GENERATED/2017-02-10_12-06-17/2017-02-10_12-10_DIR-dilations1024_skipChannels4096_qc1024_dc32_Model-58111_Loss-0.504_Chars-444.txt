@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PILLARS
+
+
+ with always impromptu the teeth chuses and back dirt
+ read the most at last, before you insisted in, dearest life 
+ there are made of every posts, unbraided
+ spreads glasses and ventures of the ligate. singover.
+ not might have no end near the soul shaft hat. that one was nice.
+ a public tevern flower shall naked fingerprints plagic,
+ to fade the same squalls, the harwets rolls pursuit
+ loss--in. meanwhile my drank yews, the run-ch

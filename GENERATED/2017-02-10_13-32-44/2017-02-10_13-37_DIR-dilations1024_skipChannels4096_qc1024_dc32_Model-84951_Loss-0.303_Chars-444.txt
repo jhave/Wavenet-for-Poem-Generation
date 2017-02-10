@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WRITTEN,
+
+
+the day's vanity of this verse we sit at the feel
+of tourniqueen people, and time in the west assault.
+shadows acting a lug for war into steer
+beneath leaning in them in a series
+so the screen arm, which is nothing but every
+decibi zran napkinos to fly by needed throng 
+
+to prove off with its hull and blossoming
+as in half of coke and men went dem wren
+altan years ago despair of daughter towards 
+and my mother knew wedding against 

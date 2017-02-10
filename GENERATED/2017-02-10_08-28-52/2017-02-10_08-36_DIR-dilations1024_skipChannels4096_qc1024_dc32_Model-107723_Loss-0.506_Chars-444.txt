@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HOST 
+
+
+          luke a little steep and mine end of chain-light, 
+
+knowing the arrow old rose love mine, 
+         as volack fire yesterday, how these are seen   
+thus clod we bit which every place 
+                                                    
+
+                            pequita, and i say, 
+               i did him before my fate, to give. 
+
+
+
+cinders a place of deluge--sometimes not there lately 
+                   roll till deck

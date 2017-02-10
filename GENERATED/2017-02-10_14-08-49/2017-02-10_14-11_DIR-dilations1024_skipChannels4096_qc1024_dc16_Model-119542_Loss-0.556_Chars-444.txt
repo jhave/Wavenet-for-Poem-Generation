@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STRAIGHT STORM
+
+
+    my olstant woman when first more.
+            slightly lies 
+         this is nothing could doubleth night.
+          until he malas 
+          its cricketypes in the world
+           she isn't in love was eyes
+          sparring billion angels
+
+ from the lord possibly bamboozle
+          i played the thicket relics
+          find their wives
+ my little jaws. slowly ungently,
+slippery, might have fallen, hell.
+
+
+all long 

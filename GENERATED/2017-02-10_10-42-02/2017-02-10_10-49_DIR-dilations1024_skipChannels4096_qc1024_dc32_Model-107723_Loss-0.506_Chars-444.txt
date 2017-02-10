@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MOVES WITH PAIN AND HEARTS ONLY JUDGEMENT, 
+
+
+she wont to shadows let you did and blow 
+who had no change--with forests once more well. 
+i will say you accepted wectoo her some still 
+yet wants to all this can concerns of disco. 
+
+modern-swocks up the tall hover was about 
+created with mucheler was buries of it. 
+
+                               
+but love, and woe elations move he may past dead 
+                                              th

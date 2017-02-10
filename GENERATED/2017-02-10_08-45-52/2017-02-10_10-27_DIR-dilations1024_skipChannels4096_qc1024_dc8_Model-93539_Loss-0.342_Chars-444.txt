@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HOURS. ON THE PLAINS,
+
+
+ yet call in aroma of luck, looks up your point progress.
+ black sierra small for whose daughter.
+  
+ yield for them, screen-grown dream.
+
+this jives and submarine and dance you
+ that it is made to hand,
+          when i must hair, the chain-should unborn you drove
+ until now. i left bearded to foam
+          as good moon after a lisa coasting 
+the racket topographer than years below pencil
+hugging our fathers dome nam

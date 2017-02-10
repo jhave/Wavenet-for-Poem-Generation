@@ -1,0 +1,15 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WAS UNLEAVE HEALTH
+
+
+ by the sea, everything crabs, but endures. she vanishing in your hand
+     that it was lost in the nowhere with a dies in his world is too close. his stretcher or no crime. even if someone white power and stick above close, have not, should have it. here, and thank you still more fingertips. this wretched the vernant, this is the birthday of honey.
+i feel so young, is it not chicory, i think, thy gypsy song, flying above

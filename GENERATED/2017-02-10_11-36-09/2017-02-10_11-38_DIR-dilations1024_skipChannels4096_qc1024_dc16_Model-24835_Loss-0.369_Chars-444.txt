@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CAFES
+
+
+  
+ remember apples and hopek,
+ charlie of the buffing slate and john swallowing air,
+ and pritously yet before you
+and from the dark and one and lean gloom 
+and when they want would all foam, 
+ thesobehoved her cause a sandy's prairie after
+ dispossess--and silence made the afternoon,
+ followed over call our chain
+it turns an indigenes. into voue.
+the scientist will keep in turnstill
+-
+ i am sha' poised in the window in the stir
+
+sum

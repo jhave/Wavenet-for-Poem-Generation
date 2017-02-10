@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                            RISING BACK IN THE CLOYING THIDS
+
+
+with vintage stephen how--red horizontal open
+i discover of the blind, a mermaids, that i young
+become a long-lyed on fire thwart and then 
+                  
+
+wind
+
+     the little portegial substantial difficult
+spirit when we were not pears to be they sang
+   she should 
+with socks and them in floor, mostly do,
+my weight of dry as wamp in. least
+i

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WRECKAGE,
+
+
+ street under a lovely afternoon, noise
+ exhaust, to do this city,
+  
+ terror cannot and finding over the south
+ till the barber is its smoking lot
+ and her and one
+ to create a state of right to moving.
+ be at the candles that clatter by boe of
+ a graph by the rain. a mobole holy former
+ dished inside. perfectly, as may declared.
+  
+ a forbidden hunger than that leer is more,
+ briefly into light. what he who runs.
+ the seatre

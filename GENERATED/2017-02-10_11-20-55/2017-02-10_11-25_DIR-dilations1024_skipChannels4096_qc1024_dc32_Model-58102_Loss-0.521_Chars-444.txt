@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ALLEGHAD TREES
+
+
+ to fit and reposeffood and unexpectedly tree that shoot no other picture, i don't comfort the earth
+ the quiet be striking cliqueur, without spear-steps of with believe
+ by the rinds of twenty year tole removed so many color,
+ holy the flight on the times you have to love
+  
+ his solitude wood, signs. the solid serif to me of quote maybe?
+ he swallowed out on the throat of his transportunes about
+ game out and against the gr

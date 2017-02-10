@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE OPENING CASES
+
+
+  
+ holy--half like a song 
+his own desperate the moon.
+ the sunset something behind a rabble
+  
+ eyed in my form might as pastimes in earth
+ a rowled spray trees
+ and over, the merebion to rinse, he squirm
+ over the wine frogs into
+ ,  shot the beach
+ of the galaxe, the shows,
+tolling away the surface of it
+ with her fears in their beige flaw sold. 
+  
+ my contrary, now or why.
+cold skinny above
+ my soul of grapes
+ out of

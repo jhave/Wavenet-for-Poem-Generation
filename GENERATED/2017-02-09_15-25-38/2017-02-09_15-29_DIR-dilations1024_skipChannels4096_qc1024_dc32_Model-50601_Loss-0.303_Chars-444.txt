@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  FLAMES & I'M AT 
+
+
+our father, said  tis he raked
+time vitreous bravely
+into herself
+like misblack
+and we will like root
+from the sizer-sheet
+out the back of you
+
+someone your left of prote-,   
+beside and yolk closely case
+
+with  in fowle, thanks, the caress of dirty mimes
+up my glass of shirl and hinge--
+
+
+whose rock where paper
+is still that steps slow stands
+
+whir flights of  whether trees
+and wave, a short gray arcyded flag-off
+where he

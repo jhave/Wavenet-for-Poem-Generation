@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LITTLE LITTLE
+
+
+ two coffee, with the dead good priscerns
+                               could be cobb
+                                                      tonight, skyscrapers
+            even askress's bird forever
+                of the unmaking pilling, 
+             sans god-like derives,
+hay's june though i point
+                inside,
+ though the dinges of the foraging could not
+                        to speak--local raccoon
+    kne

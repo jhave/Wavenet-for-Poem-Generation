@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                       AND EVERYONE ELSE. 
+
+
+
+the templars sabbat waves' an influence        to come to the balanced stream.
+             you'll find my back 
+
+leaf, near the grinning chest of sand
+             at its ear macking sky.
+
+be all you write my last silver letters left autumn sharp
+                                                                      i can't get along
+                                                 

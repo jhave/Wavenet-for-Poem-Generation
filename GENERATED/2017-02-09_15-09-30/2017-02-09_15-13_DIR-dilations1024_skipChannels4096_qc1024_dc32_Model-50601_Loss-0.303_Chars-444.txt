@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                          LIKE A PORT.
+
+
+                                                on gentlest. of longing
+                                            summer's child with the street
+                             other charity, eaglessly ribs bloom contents
+
+
+a chillenge enlarged roads and mesh, beats legends,
+hinders like a mother lay still on act.
+
+teat, to superviguer pain is setting scribbles
+every stood, some party--br

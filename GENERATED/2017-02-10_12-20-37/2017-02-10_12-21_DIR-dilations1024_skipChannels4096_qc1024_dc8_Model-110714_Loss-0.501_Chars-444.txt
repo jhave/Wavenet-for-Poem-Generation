@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ COMMANDS AND I AIN'T COME FORM,
+
+
+                                                    the river and hearts fendle, the summer 
+                                                                                                                   the elderly ends will come
+ in front of the capitol pension. i could see my whole. 
+             greed deepening the juice suffered, the porch.
+                                         
+
+how i loved the r

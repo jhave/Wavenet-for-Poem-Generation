@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NESTLED SILVER NIGHT
+
+
+ for the notes
+
+neither just scrap of ink stupefied
+ of tea last epial, or so much of me--
+i hold at the crocuses of time to the universe.
+and upward into the lure inside, bundles
+to the governing of the arrival day
+the hem made man in the joys of line,
+when to the one who knew his smiles.
+
+
+intelligence of other hip. salt
+in tendon and zaising small numbers.
+everything stir limb, walking into a tear
+in what wasn't read

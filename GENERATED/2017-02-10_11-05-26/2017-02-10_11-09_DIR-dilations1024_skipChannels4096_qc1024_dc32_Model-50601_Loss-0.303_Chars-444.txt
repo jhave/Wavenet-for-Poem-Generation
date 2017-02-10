@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BE. 
+
+
+
+i am sudden legs in all time     great those
+or sharply stomach, screams of the gods.
+ but wearing men listening chates
+  
+ mum-book, as in the earth tide,
+ through broken deities bompathy-six
+  
+ the rain laid to strategic molecules.
+ you went to rot. we're reared in the far showers,
+ and sailing in the dark good and misty years,
+ now in bed.
+  
+ a world of the turtle's clothes
+ to take it off. wait the dead, i blow my body
+ in expre

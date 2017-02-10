@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                EGGS FORTH CURED.
+
+
+                     the woman facing to minutes across
+               through weeds into
+  
+                          iii.
+  
+ call me to get to my baby.
+  
+ love, every woman's love near's
+          three-packed mirrors
+
+  
+                who come or within,
+                        but
+ an eternal half, greedy knocked
+     of false, jos why do not with a thumb poet
+
+                     ,i

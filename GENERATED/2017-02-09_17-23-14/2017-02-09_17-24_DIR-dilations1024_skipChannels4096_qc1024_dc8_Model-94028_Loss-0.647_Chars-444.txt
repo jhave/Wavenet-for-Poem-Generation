@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ANYMORE
+
+
+a great and blows and tusky. it's joking sun,
+whose streets & why not to bruised
+into the feet of the syntal air
+you had to shuddering out from it.
+wooden follows in my thighs, and made it
+back.--i feel as came out for us as dead.
+know from labor reverie. she said, and we call
+of the silent boy stops in a sign into the wall
+to my old live to thank goodbye.
+let eyes crows when it's     not one woods, the heart's door.
+               

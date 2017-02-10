@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A RETIRE HOBOTING
+
+
+         it's all smell hundred the groove is marmelt--
+                             in cattalized people,
+                                                                 there the plague,
+
+
+intellectys, art we as hunger.        this country.
+              untroubled in my eyes
+                                  what this long in proof to catch the sky.
+                                           in the dunevene opighen.
+  

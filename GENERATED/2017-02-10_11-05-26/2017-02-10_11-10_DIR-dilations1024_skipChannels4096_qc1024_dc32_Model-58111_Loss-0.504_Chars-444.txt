@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND ALL
+
+
+ or a whale, silver again
+ of grass had to lose something access.
+ but the woman
+
+ see raised
+ from the porch
+                            of vestallion passive magic, dan 
+years later
+                                          the key with miscarried
+                                                     the instant cynics on 
+                                   they kneeled suspicious 
+                                         the weir 

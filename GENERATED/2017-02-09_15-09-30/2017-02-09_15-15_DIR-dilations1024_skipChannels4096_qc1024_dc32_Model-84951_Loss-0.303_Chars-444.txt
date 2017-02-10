@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SANDOM
+
+
+ our trouser stars. these long arms & did it as his
+ lark was a shade of structures and the red.
+ you give me yourself proves until the outlaw sea
+ on the basement in take the i made of going in fire
+ and the strength of rent on my mother's wanton my soul.
+ i love a term matiness from innocence here
+ the past seat rings of air, or man in and out
+ of man grabbing in the dark street,
+ and half nothing is lonely, serves are invoked,
+  
+

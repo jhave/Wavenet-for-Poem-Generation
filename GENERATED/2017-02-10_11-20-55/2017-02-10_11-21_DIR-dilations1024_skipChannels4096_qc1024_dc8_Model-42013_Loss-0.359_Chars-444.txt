@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TWO,
+
+
+ethiust in my eyes freedom chinked connect of honor
+ for a great mine sleep been po picked in pain 
+he wanted the sudsy, was not, she has last the mountains if
+as the weeds snatch basket, a tangling the train
+    way and gate, to remains funching strutting new
+ bake from a palaces and wood lack of sound with what she climbs
+of red wikiry if he said healed and gone by sides
+                         drowned was mine--
+                   

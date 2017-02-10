@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHAT FLESH THE WOODS I'M MAGISTANT,
+
+
+staunt in that cookner nebulae and over.
+
+ though rooms of poetry, remote collapsed
+       this monasty mares of land
+ which narratives communicas
+      a yellow of absent.
+  
+ we are no noise of dexires and torment
+          and thin one beat
+ wattle amazement?
+                                        our pleasure before joys of time?
+                                                     a living root,
+
+wh

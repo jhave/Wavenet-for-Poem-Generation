@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RESIST 
+
+
+we saw animal of the cathedral wise
+ not the herald man down deeply
+on the mind kind of me of a frozen gates.
+the fish of respect arrangements we let
+now be its way to conceal
+children bright strip after all those
+other tight is spent into a forest side--
+             i want a gentlest smell
+ alone rooms
+
+     record on the sea's sex--
+       inventions taken golden
+            e voices into a boxes
+             unanswered tread web

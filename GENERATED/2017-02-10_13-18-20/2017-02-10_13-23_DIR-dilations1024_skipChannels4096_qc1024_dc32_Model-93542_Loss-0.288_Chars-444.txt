@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SUCH HUMAN AND POEM
+
+
+ in the shook      minute coffee,
+ grave at the rains of someone stop
+ on his own. for white in the candle sun.
+  
+ i see not they made only think
+         like purpose white man in her hands.
+  
+ a message to lose, brave birth pomp,
+ january mats, the quarry marks lead the lock
+       cat and blue venom lake
+ in sublim evening in the stroke.
+  
+      my legions dreamily throw in
+ underground the tender makes pausing how

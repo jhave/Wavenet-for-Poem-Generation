@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                               SUN LIT MATHEMATICALLY
+
+
+my work            recently that souls as a dream of humus
+      sibyllo he saw
+                               let them by not mention                 the jesuaring tales of his earing
+the voice i keep fingers of the world, with hoar,
+. i am anne numbness--born lights dense and lack of teeth.
+
+
+seaward rows in and tight whites. i catch into fight alone.
+
+i recall, their squeals and wheat 

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF COMM
+
+
+ of naturalist in the tiny eyes and lamb
+ seemed has he must be my air,
+ whose quickrack of career, which 
+in memorial along the lot of host. 
+how london permission or date soldiers
+there is elsewhere lives what is time.
+chunk to speak off the seddening sun.
+ you may aspects new we abandoned right
+the evening black and thorns 
+into days i find it feel the score.
+ i must not seth and blackenzalk
+ these are moennese that great mower m

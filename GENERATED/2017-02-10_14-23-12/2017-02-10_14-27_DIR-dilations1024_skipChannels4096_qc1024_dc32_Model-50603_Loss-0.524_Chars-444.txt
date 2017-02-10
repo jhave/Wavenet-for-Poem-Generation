@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEAD IN IN. THEIR GARBAGO AIR.
+
+
+            sleep on the empty dipped forn?
+
+
+       ----
+                                  for truth almoste,
+--hops likewaal of the sky.
+the girl have a conscience clothes
+                     and cats
+                               barking she will,
+                                           hymn
+ feel histories, the line in the haest
+ in a treat and go 
+ i and it between us
+                   reason
+      

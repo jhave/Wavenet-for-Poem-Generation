@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A DARK HORAGRAPH OF LIVING WHILE DOWN OR FAILURES, SURFACE
+
+
+ and saw and every they moves on the prevented
+ the older, languages with bench to feel they,
+ox the notebook of things you may be born.
+ the final sensation fire wanting toward the side of interling.
+  
+ boats around their testing it's image is sick and ice of orange cheek,
+ and the hero were was rich above myriad of dazzle's won
+         tied the suffields, and more riches out as 

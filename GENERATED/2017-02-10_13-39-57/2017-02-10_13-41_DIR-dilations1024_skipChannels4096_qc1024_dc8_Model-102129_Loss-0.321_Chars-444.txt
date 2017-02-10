@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AWAY.
+
+
+
+ laptized for the long travail in the gloss in the babylon,
+world was the patterned their constellates trait.
+and determined is important soft street for his hat
+                             equal to the quietly,
+                      jesus . . . wobbling against it the shroud
+                            of the macrimen could be unconscion, yet . . .
+                                                                                    

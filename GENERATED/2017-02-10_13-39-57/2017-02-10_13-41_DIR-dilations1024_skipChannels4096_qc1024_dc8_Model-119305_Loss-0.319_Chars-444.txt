@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BONESDAY
+
+
+ it too much so much that the war,
+ what each songs pillow the ravens a place.
+ not the sheet. naming a history states fall in the leaf's
+the hieroglyphic to sailors the dark.
+ so and the thread attonemb, and get over the window
+and slipped on the potomac, the nest watches
+and when i don't amazing in the first few around
+ coffee whispers from fermised beard past. all those season killed that the broken
+paint-arshed like orient 
+was

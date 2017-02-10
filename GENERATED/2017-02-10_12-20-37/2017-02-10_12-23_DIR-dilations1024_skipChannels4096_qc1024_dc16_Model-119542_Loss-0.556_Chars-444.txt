@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  
+
+
+          for example--though she has happy
+    you float omine. it's the attic is cold,
+         million clover. later
+ here. they haven't come that
+          slicks lined hills,
+     by janglion on the past that was in
+     you things was his booty way
+          a wide an old country or stretch on the city
+         on which hill meet its darkly find flame.
+  
+           shade of los in this journey of the loss.
+           o no tallet, i

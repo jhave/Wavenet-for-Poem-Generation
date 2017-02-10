@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THIS BESOUGHT'S
+
+
+the stars should the shining operators again.
+  
+                                                                                                                                            frost sattral princess
+                                         city 
+                    your zignur
+                      to amplitation,
+                                                  singing it enough to will
+                       

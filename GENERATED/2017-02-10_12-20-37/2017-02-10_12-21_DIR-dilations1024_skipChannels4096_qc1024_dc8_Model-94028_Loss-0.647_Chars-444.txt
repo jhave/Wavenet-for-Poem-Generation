@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+all around.in
+                                                                                                            rolled the thought of 
+was ever burn.                                                    the world's 
+plaintively armours call
+                                                           jenny rage, 
+resembling or looks up, various
+                      of weeding house in a kind of the jaribus
+never a castle, like a sic

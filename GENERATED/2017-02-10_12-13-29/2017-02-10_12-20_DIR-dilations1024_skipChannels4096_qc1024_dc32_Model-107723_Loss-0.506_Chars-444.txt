@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HIS OWN MUSIC
+
+
+       in all that anecdotes by dew-throng up a sight 
+    things burying on a cause. 
+       i dead come or damned where the house was reading-- 
+      
+      all the bulliciding statue or little left you   
+      i went out idle this loving lies gut, 
+                                        measure, love's little blubber 
+                  our conscience make a mirror anthill. 
+
+
+   and made weary, that requires me and seas,

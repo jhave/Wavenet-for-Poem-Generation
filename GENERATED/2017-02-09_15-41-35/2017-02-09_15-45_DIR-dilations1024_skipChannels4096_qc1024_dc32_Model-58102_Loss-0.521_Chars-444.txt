@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+               .                      ROCKS TO CONFUSES
+
+
+  
+ .
+ i am the wood but when i stood the bear of a
+black kids of shabines you weren't and there color.
+ always green     in jackson pours against me.
+  
+ a long for those russet line. on it of
+ with sammering remains to this.
+  
+ in the body bear, and i am already be green
+  
+  
+ abruptly--combing--not piles up and revision,
+ more than the gutters circling an open across
+ but him one f

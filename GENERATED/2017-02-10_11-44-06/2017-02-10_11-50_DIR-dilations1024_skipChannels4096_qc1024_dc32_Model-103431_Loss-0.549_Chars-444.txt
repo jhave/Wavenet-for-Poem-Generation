@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEADLY LIGHT AGAINST A BARD OF   
+
+
+    has pulled his angels to be welcomed and follow breeding   
+and your various animals who rose we walk unfairon gray comes farmer.   
+on that things are come down on sad now 
+
+two hands are burning orphanaging the boomings and blur of
+
+
+that sentimental order of roots lymph in the ground, 
+and banked and remembered whose son was a family of jacket   
+we summer napalm by the hub of intake together roastin

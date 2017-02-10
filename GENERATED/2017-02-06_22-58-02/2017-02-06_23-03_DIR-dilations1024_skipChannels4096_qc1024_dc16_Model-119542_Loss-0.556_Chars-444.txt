@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MALICE
+
+
+of nothing was sets him airy on their spines 
+how good catching they think it is abandoned and light
+yearning sunlightened. salons the fourth,
+and white, that when you're doing it stagger--
+this black windowshe lives within the kids continually
+yet neither the radio of winged with hounds
+buck blush and so many death is already they are,
+
+what could he is a story over the nervous poetry 
+than named your best gave the soul, when i repl

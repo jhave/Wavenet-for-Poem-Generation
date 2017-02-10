@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                        A TWO IN A JIGSAW IN THE ROAD OTHER
+
+
+ rouse seemday where not in a lawn scrawling if they may recognize along the circumstance, i reserved written gloves two nurse on,  the thievast pback. it to ensert on the same foothills, and we never met here. meanwhile had not bulb. 'tis smoothed metal sounds a temptation's better, moist up, and to sound the coasts, vitrus and it to your moldyeater thick with his f

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+              WHIRLS ON A STORY 
+
+
+ he loved his pawns or down in the fall.
+     is to bear the ceno's treasures ha
+ each of us ringing, on a shadow of the tar-
+     so she bent with intentional killed wars
+ of these like death thanks is denies
+    and thirty years to scream.
+ ye has folded with animals twenty-two, toes,
+ but weight, but i could not undo water
+ and wrenched his junk        their rough, twas
+  
+ on the rain . . . seven leans fl

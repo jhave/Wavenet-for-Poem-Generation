@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MACHINES
+
+
+  
+ southwater
+
+grow grown duaus with its own below merely
+had brought for her away's story, or its young
+the cambling north, like an average
+ the task that's fearful tenderness they so near
+the trough
+  
+  
+                                      the birds
+
+  
+ only moving the domestic in trout comforters.
+ the cream man lay and carry all waste
+ across the 
+ entirely of the whirligig particles will be knowing.
+
+ 
+
+i lime of 
+ walk b

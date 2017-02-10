@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOVERS OF CALIFORNIA.
+
+
+he looted to thee to a matte size. then they die.
+                               the fancy runs.
+                       and at the roof-one.
+                                                impjest
+to the tints like a wilderness
+                                  in survivors of pain,
+                                                the day danger. who
+  
+ posing is water so much fiction.
+                                 

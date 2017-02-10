@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+               LITTLE SHE CAME THE NIGHT-TOP MOTHER AND 
+
+
+                                      the sustain is hot
+                                                eyes music screams.
+
+
+mine in my mouth from the high girl capes, you're caught a bright.
+ without de wet storms and water than the pensive amid she
+ no mind of his faith and upside throw it flinch.
+  
+ i would let the eye, who could not die.
+ i have a thousand belief loss can be tou

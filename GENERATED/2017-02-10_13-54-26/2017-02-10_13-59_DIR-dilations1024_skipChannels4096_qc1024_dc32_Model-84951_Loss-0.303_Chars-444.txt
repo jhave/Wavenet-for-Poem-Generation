@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     FOR YOU, IF THE PLEASURE OF WISDOM OF THE GRAFFITTS
+
+
+                           and screams are
+ is spent of sound like a stop stars dragon 
+ number ferocious breast of a stone. 
+          because it hath want
+                                                             i wish i kind for hour again and think we?
+  
+ salty, two blobbe, ghana, but the--
+                                                         to mirama
+ and heeds of the sh

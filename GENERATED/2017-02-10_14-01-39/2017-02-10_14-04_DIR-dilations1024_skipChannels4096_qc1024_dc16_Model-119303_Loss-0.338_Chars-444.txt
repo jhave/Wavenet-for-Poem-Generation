@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH DROWSY, OUBFY.
+
+
+ nor ought to feel to one leggy,
+      any of us constant florence dead
+ mondolin into sunny lapna.
+  
+       of former counterfully and blue,
+ then magistrator, augustus gaged vomit
+ saucer. a new jewish now
+and how does that odor i forget,
+ so then itself,
+     was the dog brought carts
+ goes on the end, set better fragment
+  
+ of dry groves, soft crooked in the balcony
+ it cracked in the rugged grattor.
+ that whole fo

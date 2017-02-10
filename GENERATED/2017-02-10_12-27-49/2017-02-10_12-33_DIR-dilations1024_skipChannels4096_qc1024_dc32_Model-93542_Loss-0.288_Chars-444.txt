@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEPHEW,
+
+
+ on the teeth of the shipyren breath.
+ ah al nuda straight keeps the brookly tip 
+ of rain last seeds and left
+ and and all that does not turn its secret,
+ give me not the rain sign, 
+ or break and guts on patterns deaths 
+ as my affair blind, he drew the strife's eyes
+                in order and cuttle.
+ and then calls twig on the women
+                           the whole black letter to museums
+ eye-of-a-pollution
+              

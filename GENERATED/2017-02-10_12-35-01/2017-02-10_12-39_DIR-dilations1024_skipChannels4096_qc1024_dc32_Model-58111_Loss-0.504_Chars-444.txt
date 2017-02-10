@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FEELINGS AND UNACCUSTOMED THE GRONDE
+
+
+               in story and was that stays expectation
+ under a bird's radio to do.
+    colorless men do. when these 
+ once from the blood, betty cut to
+            and, what drinks your jot rest the oven, men.
+  
+ that despite sleeping down by the abyss,
+ the harder is not to my own place             of smoke
+                            the borders of lovely new call men climate
+            you walks
+  

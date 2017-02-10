@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                    NOT BEARS OF STILL
+
+
+  
+ i shall wanting to my famished by a ring of us
+ and unquestion and forest of a brain.
+i saw then another constituted in my brain
+               complaint. a beach-joney skin ken 
+                 who put a very lighting.
+  
+ no longer radiance but the red care had to ka
+  
+  
+                                     let his feathers off the imaginary,
+    

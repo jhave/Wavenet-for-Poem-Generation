@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DRESSED INTO POEM.
+
+
+ you were a bit she was tenderness,
+ thy snowflake of
+ dust by leisure, their honey's mutters
+lined with shifts for mary
+the parallal among is a kind
+ sliver boys in tupefaugh
+ the hand, dance--
+
+i walk all the strongest knock about potatoes. 
+who heard the straw
+cling sit eats schol-
+opticians dusk face
+
+exquisite as dark
+
+were tea in a god
+shall on high some of space reading
+or notes munion.
+a few day struces flow
+thous

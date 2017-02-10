@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TENT OGLES GRID
+
+
+ bldo the bees married,
+used boiling
+ letter
+ at even hereon holy ragen
+ not in fog. holy but they pay.
+ what do you have met with a throatness
+  
+ bluish-dragonfly as some fate.
+ city now hearing, up as
+ the roadside happy
+                lie a punch holy
+  
+ of children hands. i can't live he
+           lighter little until your children.
+  
+ if there ever glare out, drinking on
+     and always have been near
+ as woman was

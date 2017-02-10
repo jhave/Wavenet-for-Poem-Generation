@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WOULD HAVE BEEN MASSES
+
+
+without pine hawk we are done.
+ and wake up the shadow appeal'd myself 
+between the child dark. there's drip of war
+newspaper of town dimes mike a sound--we
+guy of using grows from dryk among slab
+on which he regard untaugh grown ash of the wearing so
+arbitrary men in the toilet beyond at dates
+ the teaching was even the dark, and she made
+what we come, the dream that forgetting somewhere,
+and at last twinkle is gon s

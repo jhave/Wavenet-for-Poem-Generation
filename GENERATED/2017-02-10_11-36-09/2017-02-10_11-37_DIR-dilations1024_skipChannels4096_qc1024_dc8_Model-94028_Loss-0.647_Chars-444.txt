@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  GENTLE FOR WARILY HOURS
+
+
+like precipice, like brother
+avalanche--painting chopping into the room inside
+watery this dying, heaving the bonnag,
+transmarina white ark
+one, fifteen-desperately drag.
+     always in dreams and kennedy diving
+shapes hold
+doing the clothes of woolen and mixing from
+what's to remember then, torn on ohom talk. 
+
+i am not a million atmosphere tangle
+before the lucky arges the clouds.
+a fire of the bog of your own saw

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THINGS POINTED ON MY HEART,
+
+
+pull out by the houses and its wisdom mountain
+passback, nothing that's how your first king.
+even his new existence challenge on the lights--
+                                      ...
+  
+ conchured the floor, is more in old garden,
+            from my native night.
+ he dines jacqueeing. i imagine a car condemn yea
+ falling things. the loud of thy heart, everything
+ he sang their shame, it has been breath
+        

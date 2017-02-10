@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     WALK DOWN THEM UP
+
+
+ back & saliva surpasses take in straw-voices
+ when the sea so set out for her submerging tender
+ parted with a square to digested furrow
+ tinge of prayer of but never would do
+ on the war cross, barely the necessary
+ smooth new soul of the kettle, poking hove--
+ worlds like the line absent nearer are
+  
+ the age looks and the block, man-split
+ out of yonder toward the forest where the toky
+ down seasick in the search 

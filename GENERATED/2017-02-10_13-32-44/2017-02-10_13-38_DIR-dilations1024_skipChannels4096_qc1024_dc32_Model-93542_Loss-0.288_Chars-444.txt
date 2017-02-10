@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CRISIS,
+
+
+ pupils within the glitter-mercifuln's prairies
+  
+ soon me like future, those placed muscles
+ without care like the poems
+are as leaf but newly
+  
+ the duck and sembland into wheel
+ the shaon of mascara-
+ happiness over my eyes.
+  
+ oh mine every when came
+ she went plastic thickly?
+  
+ it shut marsh wrong-
+ gentle moment  and
+ half a bit first of the ventila 
+  
+  
+ say    like the slippery bounty
+ who'll answer had a forest.
+  
+ 

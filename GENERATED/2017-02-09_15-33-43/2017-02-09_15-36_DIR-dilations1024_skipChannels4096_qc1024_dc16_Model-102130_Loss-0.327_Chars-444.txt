@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DREAMED, PARTS ABOVE YOU--IT WAS A DRAMA OUTSIDE.
+
+
+  
+ a pair of fire without plumes with an interrogative, you said,
+ he is death in little chirping death, let it be the shade
+ ingopor and blow in and one that has nimble an slacks love.
+ no corners the needles who awoke and a tangle of steam, i woke.
+ my july firesey from a barny he divus. and blood
+ thought i must shoots of sandals, it started. we thought and on rain.
+
+
+therence had come f

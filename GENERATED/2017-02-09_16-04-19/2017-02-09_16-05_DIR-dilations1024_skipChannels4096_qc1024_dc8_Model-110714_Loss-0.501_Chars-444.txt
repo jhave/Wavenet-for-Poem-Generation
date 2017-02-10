@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WE KNEW THE BAY, BY NIGHT,
+
+
+ and who might me there are massachuset-above and the meanings father,
+ and of
+ past the right ended to common nothing shapes,
+drossed an appendaginine star and weathers changing, perhaps to be the john floors,
+as one does not object to propitious step into vision
+ and only one left at the bower deepening souls dim,
+into my voice activities me from stopped white 
+with phoebears casually pushed her sun out
+--the re

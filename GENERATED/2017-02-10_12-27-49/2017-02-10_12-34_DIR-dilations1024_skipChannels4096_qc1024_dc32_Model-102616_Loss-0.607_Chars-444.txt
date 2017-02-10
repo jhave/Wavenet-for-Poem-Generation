@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                             RUNNING BLOOD UP THE SUN, 
+
+
+         york, raging noise each as usual scaled kids
+      say capable on my spine, pretending in color,
+                 and that men serener angel? given phartots
+inside your time and am old houses
+battle shoeshods of the years.
+
+                            byings were gone
+around as poetry
+only to unable to 
+lean on
+blamed his bite
+that all around the gold's new pain 
+when you heard

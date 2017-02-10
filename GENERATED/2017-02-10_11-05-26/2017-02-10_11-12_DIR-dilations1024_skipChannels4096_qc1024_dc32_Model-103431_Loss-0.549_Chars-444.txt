@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE NORDICE 
+
+
+
+an. 
+
+all there are   
+in the wind door and an among the hills   
+the psychoanalydalist whingoing a dog go. 
+he's shut lieu cutter tired know we leave 
+i have no more about to judge your days   
+for a while all small in the heart   
+and gave you anymore. 
+
+
+eat 
+
+movemen, you are,
+
+at a house go write, they are 
+
+and that you are incommitte 
+to some great between the whole trigger   
+running touch wings lightly again mattrical

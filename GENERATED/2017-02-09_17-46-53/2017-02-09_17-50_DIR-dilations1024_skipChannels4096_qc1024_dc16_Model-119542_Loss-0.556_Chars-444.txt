@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MIDWAY
+
+
+ under the silence of the blues
+ back against the caliphan
+
+while i cannot stay in the past, to things
+when the cunning poach
+waiting for life wound-scented light.
+consider
+these men hath guffing wind back,
+big bad, there's nothing never grow up
+by both her pauses against ether.
+
+you expressed answers again, 
+the field is one.
+
+
+this was all that it has incompetent
+water in the closing beasts on a plane.
+
+
+fine conifers out, they wer

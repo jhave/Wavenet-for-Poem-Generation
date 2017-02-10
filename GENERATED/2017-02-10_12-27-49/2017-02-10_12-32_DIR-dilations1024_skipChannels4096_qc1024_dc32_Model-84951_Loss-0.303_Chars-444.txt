@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MAN LOOKS  FORM
+
+
+ say he looked sort. in its own profession
+      what is more candy-acre ten
+          for our lines
+      the impenitely had a hedge.
+
+
+november is frequencies
+         at the sheriff gorge
+        blue.
+ 
+                                                 and dying
+      why did we need, and circle   i
+
+                         push in they were solve.
+                         each it down. no one
+              also dy out-a

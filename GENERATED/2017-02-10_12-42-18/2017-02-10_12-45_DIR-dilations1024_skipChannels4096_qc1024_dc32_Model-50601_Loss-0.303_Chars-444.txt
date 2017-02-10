@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      CATIRST TO THE PRECON CONTROL.
+
+
+ pelts tight her lap against the stretch of the downward
+ strogen for masing hoops to the opplane by,
+ la tree ascending with unknown,
+ and all the earth the world of terminals the cape.
+ is that past classically in the polar twice,
+ i crept vinegar into the desert,
+ while the traffic endor for the snowken,
+ and in silver fight of a number of its full expensiven.
+ i should--and animals dinner with the gas

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOUNDING HIS HIPS DISAPPEAR
+
+
+ her pody skates to the flash flomer and a studentst,
+ a starry raill and the mark's and contemplating
+ i took a thousand feet rarefield. a woman with a note
+ while the streets were left a whole, not ever shall comb-
+ one accounted most southren missouri derive
+ of the belt kenimun from tries everywhere
+ mixed into their erect in torn sutures.
+  
+ which did better and are over time the arsenic moon
+ princes digme

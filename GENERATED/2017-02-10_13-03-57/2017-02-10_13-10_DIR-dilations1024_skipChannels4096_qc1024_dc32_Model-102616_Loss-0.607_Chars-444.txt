@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CAN                                           --A HOT WHISPER OF SONG.
+
+
+
+immoveald an england obviously one of us, is yes and one-eyed skin
+and cyriad my jeveled, one uriness crossed in a split ceiling below.......
+ride will be malinger charges, bangkel the knotted new cloak surface.
+but when he will the only knows revelation
+i tell them for him up & his body
+opheling the anguish.
+can i noticed to speak,
+
+                                    

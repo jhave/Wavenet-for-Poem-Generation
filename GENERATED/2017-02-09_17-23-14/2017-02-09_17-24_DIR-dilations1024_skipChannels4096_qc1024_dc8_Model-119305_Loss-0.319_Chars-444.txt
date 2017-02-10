@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CONSTRUCTIONS, THE ONE 
+
+
+ vaniel jazz we hear on me one sisters, 
+spailed, i felt it on top echockotes
+ expectations sounds
+as naturaling and plan tongues the
+ rather i say my back i've pass'd in green.
+
+bending aside its across the girl 
+to see my dreams having fingering smell
+and ruffian my eyes in a dark world of christians tip 
+the casseroid's i spent stalks gralest presence lost
+ above is long beneath the dawn and joy &
+muck if i walk t

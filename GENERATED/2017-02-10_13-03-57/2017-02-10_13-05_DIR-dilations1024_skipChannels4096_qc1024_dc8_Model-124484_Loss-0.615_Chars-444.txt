@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOME OTHER 
+
+
+singing at a dollar jingle
+at thirties conging to it, the trouble 
+to make it i lose laward objects and school   
+girl 
+and it sit come and in the logs of them.
+
+
+a school call me think closing at the sumatton's   
+the book, and ate motherhood the head of birch gobbly, 
+or somewhat crooked how i can see you might now you.
+
+there are man, while the grave & giove thoughts 
+accove choice sh', an hour is clawed in a ghost. 
+
+the lit

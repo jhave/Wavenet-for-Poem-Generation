@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CORPSE
+
+
+of an exquisite bevelinas, two back and dismembered
+horse everyone elsewhere an explosives up,
+suddenly their paths interpreting above them
+i never knew and a warm skipped me lets its shape
+concussion i will hie live with a neck
+
+i used to fry has happened the gasoline
+borne at birth. we were silk so sparrow one.
+
+the way a chord's mother and scaled at night
+
+everything but only they were the end form
+and paper mountains are high

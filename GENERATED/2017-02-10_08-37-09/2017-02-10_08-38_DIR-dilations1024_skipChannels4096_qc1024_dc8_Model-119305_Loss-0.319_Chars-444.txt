@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EASY TO SAVE MASQUE
+
+
+sleephemerable and snap 
+                                                      beatifiable of mother sims,
+                                                     gestures. a bridged blasma runwas
+ approachman the pain behind of his small jean hosing
+  
+           tethered alone me on the network of water inbremite 
+our deaths of the stars, justice   farther and batters seers.
+           progress searchne evenings and knees

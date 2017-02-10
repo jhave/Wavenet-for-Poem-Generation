@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THUS 
+
+
+ never meet.
+along her nest, or climbing through the waterfall
+of minstrel games we tackle one everything canyons, and the tide
+a necessity that laughing, bells stands that clutter of them.
+i left her a return jumps of manifold swift. she unsistence.
+
+and he been arrest two worlds, unseverable to feed.
+
+
+there is no same
+ las no lone late,
+                                                                ask is thukosa.
+
+               

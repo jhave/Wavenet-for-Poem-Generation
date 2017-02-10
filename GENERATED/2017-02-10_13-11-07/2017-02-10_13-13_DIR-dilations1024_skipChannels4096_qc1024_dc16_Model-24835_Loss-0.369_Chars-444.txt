@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAY YES OVERHEAD
+
+
+ the heat in the sand of echo on her wearing dreamed. each of shit that had boundure, but the last rim, the fige    even their tuned that meaning with golden with an arctic pass, on the emptiness of trumps with drums flash, hard, or sea with a waving at ease a monsters at all, the corporate webs with moon on the world, i'm la, two dust stroops into the bars of nopplesent part of frantic. refuseen staring myself. american ch

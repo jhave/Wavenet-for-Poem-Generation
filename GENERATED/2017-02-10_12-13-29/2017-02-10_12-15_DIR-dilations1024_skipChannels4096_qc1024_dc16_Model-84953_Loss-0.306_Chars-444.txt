@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ REPRIEVE,
+
+
+
+dub, dives in wart to take myself
+ in the spirit of the structural
+ the thist renew, dead, hovering for displaced
+through our bodies stay.
+ on a shape of living is wednesday
+ magnolias in a spoonsar.
+ i'll come to the strange desk,
+ whom the power acrel question
+names longed despite
+as if penis, and quiet as night--
+ a ging of few dews hodget--
+in the lint with their cackles roam
+ the icy, cileridge the main cups
+ grass long ston

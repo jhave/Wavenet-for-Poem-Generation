@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LOVE THE ROOM
+
+
+it's too much like himself.................................................
+
+hinges for the tangled money, the flesh
+                              supposed to my
+skirted to the violet block 
+walking up with lip away's
+swallowed orange poets, kittened, 
+not to find your face--he's weather to be 
+looks. it's gone white appears
+dutchbacked beside me to let the writing boy,
+                                      donnive
+
+with aunts

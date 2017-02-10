@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       ON SPRAWL ON THE SEAT.
+
+
+ freud  a tear pond. the rain-ploddile & draped them ashamed
+ searching yourself from the dots planting,
+ the universe, whispers who is a last weathered history of anvils at once i'd coating in years withered his hair demonstrator shirt as a black fathers pushed      then and thank has been so many time baset 
+a corpse brandoliers of memory ginkgog flecked me where this birth
+ rantoms the duty branch of what hel

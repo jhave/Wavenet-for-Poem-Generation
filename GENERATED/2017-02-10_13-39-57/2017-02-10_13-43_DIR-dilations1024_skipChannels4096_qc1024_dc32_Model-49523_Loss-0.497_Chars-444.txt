@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           IN SPLITTERING BIRDS
+
+
+ like the lights, things clicked them on?
+  
+  
+  
+ the syllables in the party's chapel
+                                 spring
+  
+  
+ on disbelient woils in char clothiless.
+ the young woman, even as they asked for, unrefart
+ bushes upset
+
+ eh
+  
+                         
+                        that such lovers 
+when windows esks in your heart, 
+                                                               

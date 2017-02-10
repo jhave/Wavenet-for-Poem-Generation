@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAYS,
+
+
+ intimate no shadows of his sand,
+ lives the movement of martyrs
+ her bullets is jamped him socks
+ plose unmarked mackerel quinting
+ something some this black house
+ the lost crowd of yourself rivised the feet,
+ certain tribe has been voice skirts.
+  
+ jubastars detroit,
+ barbewood well beside to me as a rainbow 
+ or water people sky the searchlessness scarlet.
+  
+ if we must tak parking in a time and choose white suit
+ but never comi

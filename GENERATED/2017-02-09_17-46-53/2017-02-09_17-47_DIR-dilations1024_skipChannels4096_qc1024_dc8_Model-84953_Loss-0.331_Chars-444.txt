@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A STOLEN
+
+
+ the burning jules of sleep, an africa and the chain dawns to honor   
+of wet sucked got amble in you might be or cross that the veil of lungs
+ 
+for tinge asking scene pocket first. bill the snowflake soon,
+ his mother chirton slices but route upbraid. san between the sea
+ rifle buttons and a second and engines some panels will not fucks. 
+
+our wind hair said, sure as how it came to the heart provides
+ ditches game upon the black b

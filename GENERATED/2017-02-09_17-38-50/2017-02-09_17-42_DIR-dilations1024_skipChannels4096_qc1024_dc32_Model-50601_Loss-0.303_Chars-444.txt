@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     GOD ES MUFFINS RAN
+
+
+         the mouthwond lamb, now still nights
+        and foaming aches
+        and we, angels brenda showers
+      barlevard from join,
+     its jointer's garlic?
+        a backyard traimed
+  
+ of some hours of wet crying,
+        upturned the nobler i'd hate
+ throw over, nor so
+                once weeks, top of
+ the spitoped table
+ threshed several nacn. there 
+ a strong waters to me
+ that we still rock the chapel
+

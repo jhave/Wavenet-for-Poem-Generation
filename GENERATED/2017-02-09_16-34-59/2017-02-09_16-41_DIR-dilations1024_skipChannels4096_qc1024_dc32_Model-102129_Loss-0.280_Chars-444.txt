@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THAT WAS OVER HAD THE WIND FLIES ABOUT IT. 
+
+
+beneath the rubble field the pockets
+defend medal on plastic deceptions,
+and the inconsequence of tennis
+and beats the man on the detraction abidness
+against the full stands in a bloody painting
+will about among from one step of dirt
+and chiefly about jefferson's hand,
+the locked piant gas clear caints.
+we peer ionis, tear me dinner, who stands
+arabics of outrages, the rain that were song at its p

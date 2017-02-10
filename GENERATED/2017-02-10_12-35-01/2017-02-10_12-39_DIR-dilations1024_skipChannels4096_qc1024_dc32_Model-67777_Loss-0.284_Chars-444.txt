@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TOADS LATE AS IF SHE SECOND THE DEAD, THREE HUNDRED FAILED, THE URGENCY OF BELIEF IN FACTORIES OF THE SUBURBS
+
+
+you're out on earthen weaves in a step turned hearts--won't cover. but never been what i felt. say you would be so passed. crossed, a parasites mother, past the grey will droops he managed. oh, some, sweet deemed to experience of heavd. that he ask my favorite eyes, november how in a man and the satin, tail, to and saharasced, scrol

@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HARD
+
+
+ in temperature behind
+ into wood, you drew them is you ran back again
+ you round through mourning, pretending
+        iv
+  
+ kiss. bumped, and you in the earth
+ severing themselves your bellies.
+  
+                    
+
+
+.
+ this is gone 
+              of the hotel raw at night
+  
+                   she with his motion dome.
+  
+                                                    heart arc               barking handkerchief and, 
+      

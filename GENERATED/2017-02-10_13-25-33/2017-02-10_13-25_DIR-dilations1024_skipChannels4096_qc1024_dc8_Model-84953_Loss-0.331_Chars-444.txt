@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DOG-MORNING
+
+
+back brini, the nets official clockwork
+cry in its outstretched, and the breakfast
+ it was an ovens. whatever monskeated sweets
+what shiny, all and this flat fuck lie,
+             the peopless m breasts
+ and when the cars of bone
+
+the snow recess
+                as you're
+         consumed to rhymes
+  
+ the sea-foam in the evening excellet, bluff,
+ dead because fall in, into the depth
+  
+ leave a thorn best knob all there is fo

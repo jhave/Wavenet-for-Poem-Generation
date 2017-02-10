@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FISH, MEMBERED,
+
+
+ the weirs are her bedroom drinking
+ you shall plow around these things on my faith,
+ and the tranquility of the swabbed
+ across the dark 
+ between lost attractor as the rearing after peat.
+ i have no longer leaving in the brookly, a bastroom.
+ to bear delicately cremation
+ eyeuden is as much . . .
+ the attendant concentration wondros,
+ my withered was a fact night's pollution heaven
+ with joys and name between
+ around you c

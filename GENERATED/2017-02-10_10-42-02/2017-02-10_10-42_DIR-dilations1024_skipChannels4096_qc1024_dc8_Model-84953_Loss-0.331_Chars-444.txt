@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      WAS IT THE SUN.
+
+
+ the. he almost what has primitive evening hand closed.
+  
+ we were during lights is fiction by his
+ in the sun, too. the china cozy is about her eye
+ disturbing into every expetitions of time,
+ botts are thy gave it.                                going out thrown in.
+  
+ the exhaust realities green second dawn.
+  
+ compasingly the stove and looking borderlores.
+  
+ many ws in torn twins move on them pushed mesh
+      

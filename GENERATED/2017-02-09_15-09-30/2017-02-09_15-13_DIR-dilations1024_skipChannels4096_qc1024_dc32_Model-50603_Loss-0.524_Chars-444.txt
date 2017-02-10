@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO BLESS  
+
+
+      bells of the known east of main unceisingly,
+ and rose the usegm.
+    box
+                    even the 'gele caterai
+            and the viology of carnival war 
+               and dala of pearl force
+               city hands i found jest,
+ aurichie and fevers
+             of reap
+         and shivering windows?
+               white christmas
+             and brooding mub the day was
+                  overrida coast roots 

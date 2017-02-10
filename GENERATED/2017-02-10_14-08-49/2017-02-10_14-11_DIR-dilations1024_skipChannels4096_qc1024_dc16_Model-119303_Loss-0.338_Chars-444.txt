@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RURAL FIRE, BEVERLY,
+
+
+      coffee coats
+ dropping lend such, wardly lay her waist,
+    beyond the clouds of threads,
+ law together crowned in each of longest
+ across our humor looks up for the moon
+  
+ of the world is shrewdly on chile on the child.
+ then but be's the locks of typing.
+ though i've been a drag i go.
+
+to each of death,
+ the man order voice battlefield?
+ doctor brush of blue surge topmost as dust and grey
+ to separate as it su

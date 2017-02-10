@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF MINE SUCKS AT FIRST, 
+
+
+                   still sucks up overhead clear 
+                                                                                       there 
+
+                                                                             never-- 
+
+-- 
+
+at thou art thy cap in all men this world-- 
+a wedding a pin, making dated 'tis of free.     
+         carves before his own complaint -- 
+jove swell as streke living after gets 
+   

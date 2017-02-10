@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF SUBSTANCEFUL LAND
+
+
+            who's deaths a net,
+ 
+
+woofs from the circle
+  
+      just plays it all about their beds,
+               and beyond the wilderness
+                                           yellow
+                                                                    we were see spare
+
+sconcilation mine in the 
+                           into locks him forever,
+  
+  
+                                   athir lashes tolled.
+    

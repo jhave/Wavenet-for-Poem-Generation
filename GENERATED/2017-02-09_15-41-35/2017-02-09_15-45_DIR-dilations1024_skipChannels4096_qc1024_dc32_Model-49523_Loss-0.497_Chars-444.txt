@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BRECHTIME CORNER
+
+
+trade. i won't recall you for this perfect
+ up at the pages circle,
+ alongside each day
+ began to find its tongue any show
+ they turn off cheron. you
+ angles it had your parents,
+ have the day weck,
+ torn by the lat 
+ and startled, i didn't know
+ show me a feared arrested, i feel her
+ answer meet being
+ turnpiken off, the most
+ now little birds--
+ and it's not that's
+  
+ all is
+of uting blue the moon
+ of a good time
+  
+ so 

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SAM'S NOT THOSE ISLAND
+
+
+ and money can contaures of opached--they canes,
+from a recebra, his nose like a pitched surface and say we were,
+ supplies and its murder cuprodes and bend the production.
+ this hatred come upon him parkings the lane of the seven-apple left.
+ i walk undone house the plucked line in the rice
+ and see a single in the desert of the other and cheap,
+into the chaff over, and in the sum of fans of thoroughly wedding
+ h

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                          AMERICA
+
+
+ for far gestures unknowing of the days. 
+
+they said, you puthshine no brain
+all this had lady with clean thing
+but electric come, or smiled.
+he gave still.
+
+
+                                                                 the so the beloved harbor could find our mindful of his memories
+                                                                  i'm with

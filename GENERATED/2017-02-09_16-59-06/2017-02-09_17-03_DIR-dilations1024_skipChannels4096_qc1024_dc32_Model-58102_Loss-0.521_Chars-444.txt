@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO HOLY SPREADS
+
+
+ across you are those teeth and begin
+
+                                               a wishes, held
+                                 slipping 
+                                                                     suddenly
+ a cataline imparted interliphones who will it
+ there's grotesques cool back from rtsess
+  
+ eerie-seek had caulgun in a dream, invokes the landscape 
+                                                       

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ JULY THREADS REVENGE,
+
+
+and tears at parophon, i, neither cunningher disorder
+ walls most for the locks submission vaseas me my
+ weary of this afternoon is the strange elba
+ out of the programmatea. the roller a lene with the shape
+ but he sounded over against the asphalt, beside of more.
+ sings out of yourself by the worlds beneath 
+ from a baby in the belt of the even she went slides back   
+into the candles of scrub with your happy sleeves

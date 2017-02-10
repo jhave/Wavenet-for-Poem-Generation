@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE RAIN STUB OF FROWN. HIS BONES. AS, HERE CHINESE-THING IS MEETING SHOES, NOT BRANCHES ON A STRAIGHT NOT IN OTHERS. NEEDED, BUT NOT DISTANT IN A BILLION INTO THE GRASS. IT HAS HAD ENTOI SETTLED HIS LIFETHAN PIT CITY BROWN SOMETHING SKY. IT'S WHATEVER BELOVED HIM IN THE OLD MET WE THINGS ABOUT WHAT IT SHINING AGAINST AIR, EVEN IF THE BEGINNING OF TIP OF THE ROCKY LAFFING FORESTS HIGHER THE LOOKS IN THE TH CENTURY OF ITS LIFE ACROSS THE GUN

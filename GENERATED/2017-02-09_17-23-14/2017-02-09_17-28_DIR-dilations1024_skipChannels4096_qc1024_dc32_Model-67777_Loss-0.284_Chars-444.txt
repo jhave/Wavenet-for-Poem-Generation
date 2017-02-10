@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HAPPENING,
+
+
+ by the philosophy of eye, her body, the element came.
+ at kinder belly of you. his body but cast awaits down
+ didn't changed the phone to ourselves and a hair
+ disregards into fruitful street comes boats of rapture.
+ and make more of afghan air that line
+ and eaten, that last--man, i knew it a kiss,
+ making a woman and used to the ancient 
+ of blood and brood both of the two telescope.
+ i have made as i don't know, my own person

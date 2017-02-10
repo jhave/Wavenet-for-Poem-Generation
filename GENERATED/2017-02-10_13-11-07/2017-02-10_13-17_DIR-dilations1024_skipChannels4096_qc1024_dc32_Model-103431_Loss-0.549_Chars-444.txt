@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BACKLES 
+
+
+in the obligatory knowing went   
+it was both my rain 
+
+
+and white shear groanberg of the sloughlings aflame   
+now a looking day. 
+
+at last in a town combuscada way 
+
+burned--it turns through psel 
+my sweetish red friend 
+woman in that young can carry 
+about all her seeming world 
+
+we have known what's left to be in her 
+plan also travle out 
+betite is praying 
+his deed in experimento up 
+to lead me wine 
+what will i'm older 
+read

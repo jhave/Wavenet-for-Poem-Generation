@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHOES SEIZED IN MEN
+
+
+its wing that rome, less
+
+but you learned the salt of rough which buried us
+back a song only to biscuit ...................................
+he opened two somewhere you mocks, their death hollow 
+of loos apples, lee suppression 
+
+outside me mountain a black,
+striding to waste the landing song
+is this were now you are interior, 
+deep innumerable memorize
+anymore, let me got very lou and writing
+to a fire winds. i would giv

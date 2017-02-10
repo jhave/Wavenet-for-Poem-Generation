@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ UNSIDE YOURS.
+
+
+ the king with all the 
+ at the border of rhythm's boat,
+ at someone i see their gum,
+ a gentlo moysters, ronosed.
+ proceeds our samica chorist but
+ bella eyes nailed too each other poking
+ crumpled and bunch the highwalk.
+  
+ my hands badiou of everything 
+ brushing bastions
+ reaching too mightier repertoired
+ to the old heat's atop turns do.
+ so crying to and arrived with love.
+  
+ the afternoon and mallike.
+ i ran and woven

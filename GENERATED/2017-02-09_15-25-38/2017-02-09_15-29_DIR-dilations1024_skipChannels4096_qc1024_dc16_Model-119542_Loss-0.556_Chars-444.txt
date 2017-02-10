@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NO MORE.
+
+
+                                              . no hope.
+   it is the three-colored each other. button
+                                             call lack of our life's nest.
+
+
+                i loved
+
+               ii
+                                                            the living bow,
+                                         no clasp, you're gonna count i could hire
+
+
+july his own taps 
+the mighty caught profess,
+     

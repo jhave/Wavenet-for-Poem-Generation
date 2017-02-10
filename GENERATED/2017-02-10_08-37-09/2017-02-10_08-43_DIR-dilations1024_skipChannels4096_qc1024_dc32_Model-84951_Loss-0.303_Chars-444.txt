@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                    MILITARY
+
+
+ their years affilian editorial for the spell.
+             eard.
+  
+ you with the clouded arm
+ swollen still lose then.
+                                                                          he dares her
+i'm your peasant daughters stars
+ on the ground that called turn
+           the ordinary and sound
+ a limitation commandeeponed in the
+              boots desert-kept things and stiff
+scent su

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEXT MORE THAN FACE TO ZEROES. 
+
+
+we know the wonder of the clouds cond 
+and ecstatic louves like bars that go 
+the powerless close cold our letter fall 
+and i know that but each of thy cool 
+were things from thee because she, but few 
+turn sweet his defeat, by the swallow,   
+dew by the haugh the tender had safe play, 
+or wanting love it was love well ordained. 
+if only they could be, i belong to the green. 
+a', lest with color and cold and 

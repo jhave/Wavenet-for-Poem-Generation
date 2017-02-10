@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SKY PROBABLY CONTRAPPANT,
+
+
+        when she is thy pretious crime.
+ half-packs and fragment of existence
+        in reach. mangle of bigger
+           end
+  
+ while a land in entropy.
+  
+  
+       mowing.
+  
+ sing brellge the boys of a man,
+             sound bestows
+                      how quietly. at dusk road,
+         in the white makes.
+                         graves, the vain,             knowledged
+                             

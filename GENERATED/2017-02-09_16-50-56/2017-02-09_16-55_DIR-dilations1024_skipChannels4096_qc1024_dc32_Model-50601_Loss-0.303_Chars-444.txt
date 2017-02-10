@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHITES FREE THE STARS
+
+
+ in my own scrubbed pompeii.' this is 
+and the birds enter of the night stops 
+for water blow,
+from frosted village does
+crossed you'll inhales--junking of grief--
+
+                                                    this is a black wood
+ponystaries on the ink in trench. pimp
+                                                not a train?
+ belieurs he owned
+is left unwolfield fox you into oils.
+i like you read and every p

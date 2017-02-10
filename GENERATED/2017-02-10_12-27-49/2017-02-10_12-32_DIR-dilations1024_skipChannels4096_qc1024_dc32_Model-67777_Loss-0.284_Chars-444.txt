@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEN 
+
+
+ god misiac witness.
+ the fosse, the floor
+ of vedronings doors.
+
+
+your eye praises down into behind
+hear me glad i will 
+ white and sing for that ring
+in the dark of pans and douglass satch
+ when a hole of marriage-pane
+herself from a hotel make
+  
+ and the-vass on the keys
+                                                                      li matrix set up & 
+a ear tarty                                     with you lay my companio

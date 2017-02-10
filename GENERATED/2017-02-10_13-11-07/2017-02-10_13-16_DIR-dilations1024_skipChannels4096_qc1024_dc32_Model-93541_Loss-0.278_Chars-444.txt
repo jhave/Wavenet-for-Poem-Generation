@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   VAPORS HIS VANTAGE
+
+
+ of many plattered corn, shaded relent.
+ sire ears i deaf by an ordinary
+ of agony said new damask from radiant bene,
+ and still, and the south for that shitty ribbed, 
+bluets of a manifold of astroom clutch out of night-skin
+ all i'll say esleep. these harvest blood.
+  
+ and the temples, the light sabe coon still
+  
+ around each daisies of mathematics uplif?
+ was it the job on horses of milk, and bran.
+  
+ the years fr

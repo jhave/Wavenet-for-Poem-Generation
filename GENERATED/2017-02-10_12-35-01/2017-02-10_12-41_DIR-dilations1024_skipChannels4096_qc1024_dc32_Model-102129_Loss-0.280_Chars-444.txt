@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STILL YOU LOOK AT SEA
+
+
+ in the christmas awakes and fragment upon the apartment of its seagull don't let me see now shreds a gumbask television of the resurrection is safe and splash on states' drays and swinging galliope in
+ the sweetest stone disappear, but you saw her crot between as a lomb, feel enhant among warped to an abuse, and miracles, the waving frustus out the august. mile and god. another man's future whose long poem in the mind

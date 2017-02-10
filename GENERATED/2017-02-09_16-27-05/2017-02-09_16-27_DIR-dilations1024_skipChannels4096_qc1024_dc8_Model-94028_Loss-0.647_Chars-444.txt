@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHOULD CAUGHT INDIGO
+
+
+what it is gone, happy
+do any ails and soon mama, stone,
+a wrong it bush. guilty will this--
+a light, how easily pit sugarding on
+it interrupting again faces
+in all following this. the kirges shine
+braziled head. drip in my own home
+on the table, blind, the timbs, he did not moke my ankles. light's trucks,
+ferris of it. i was a fluid and pound
+his eyes and do when the middle of flight.
+and thinks that much left stones d

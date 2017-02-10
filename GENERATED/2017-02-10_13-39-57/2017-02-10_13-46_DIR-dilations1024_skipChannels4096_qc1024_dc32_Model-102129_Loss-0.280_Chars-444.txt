@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                         IT IS LACKE TAKING CLOUDING UP IN HIS BUNK BEAT, SO RECALL THERE WAS THE DESERT'S BROWN BOWLS THEN SING, THEN & STAR ARE IN A CATARACT. THIS BOLD ONE AND HAS SAID THE TREE HAIR WORDS JUST ONE INCARNADINE OF THE WASTE I WAS PRETTY LITERARY FEELING OF A BAR OF HER EARTH AND THEN THERE IS A CANTAL ON THE ARMPITS OF HER CHEEK WAS A TREE THAT, AND THE BRUNT COURAGE, PRESSED 

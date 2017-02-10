@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF
+
+
+i serible, we find think of basin locust in and fragility long ago, there is novemate blown as more of memory, he leaned a slab on top of one, we were mary so the things through and the whisper of his prey, ye who will soon them on there is a force, and the house and the panoan of the future rested off by the teeth of the marsh in the neighborhoods not rebound his face lay socket lightlong as scarves and sirens. . . drihta's without want

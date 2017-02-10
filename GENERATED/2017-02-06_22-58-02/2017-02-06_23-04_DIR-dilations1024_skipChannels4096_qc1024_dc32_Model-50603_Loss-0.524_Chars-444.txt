@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                       TURNED LATIN, I I DO ANCIENT,
+
+
+ while matter whack scales cometial friends
+                and and the mortual top
+ falls open through the river.
+  
+                            diannel  combination of hand,
+ and work well 
+                                                  yets
+         it is plain, her own we disappear
+  
+               with c.                                         the sea
+            

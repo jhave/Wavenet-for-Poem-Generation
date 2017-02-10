@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CALL, DEEP IN PROTESSING.
+
+
+ but don you went, it does not, the old man futile.
+  
+ bangles yelled like a hundred-in-
+ no longer said pajama could not read
+ burst, then the dark world
+ to the warmth face and stands he lost dead.
+ i'll liet  vertically 
+outlined over it cover the bird.
+      jess and a person her witterest when
+ plunk from me there are as outside
+separate statuette of sonnet parking in eyes
+ almost  me wildew nuzzle
+everything

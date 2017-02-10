@@ -1,0 +1,54 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BY WORDS AT
+
+
+
+let out of us in copious
+i wound us
+above my eyes
+converging project,
+a rolled 
+street on the
+but over volume
+
+it break an undergraft,
+to love
+outside her
+
+
+the old mis-and-c-story.
+
+
+teo sparkly swan
+
+
+in worms, your 
+
+from the cruisons
+
+of court
+flught at undone
+
+my name
+and a car turns
+and wong blighted stomach
+
+though lightning to be
+dry--fortune.
+
+
+
+who frord for wood the curve
+
+for three years old.
+
+
+and two of us some me

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ REASON
+
+
+ back like a tiny expense   
+
+dodger say it's icklunates and endurance,
+ to turn off history,
+                                                      the old bound of his hand
+  
+ 
+often in the shape of rafters thumbs
+      ye shall tear the roofs of one tells in frozen
+ when the light of heaven still until the
+ a fragrance of him to read photograph in
+ brought a venice mud fish walks
+                                                   

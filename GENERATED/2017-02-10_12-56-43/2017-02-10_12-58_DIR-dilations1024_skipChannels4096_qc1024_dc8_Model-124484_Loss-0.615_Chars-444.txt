@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE GROUND, FAR THE GIVES, LARGE RISINGS, A THING--YOU FORGET 
+
+
+by the rose mots medical died in cardboard. 
+men whose fathers a ' hidden in genital rimarina. 
+only the courtship--in this loneliness ever lets her love 
+place subject to wizard we design out of men, 
+you know that thing, avoiding grinding, and martin, cities 
+below highly called menva it echoes climbing a fern'd to recognize.
+ 
+                                              

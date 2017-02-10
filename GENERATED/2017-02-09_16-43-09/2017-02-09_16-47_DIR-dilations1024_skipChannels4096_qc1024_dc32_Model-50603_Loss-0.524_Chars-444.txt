@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BECOMES STAR,
+
+
+ for all sand is an old worlds,
+                                                                
+ la serve in men's idiom,
+                that beads grow. and you want.
+                                     for its pulse and eel.
+            if yong riversings
+                            me--you may says them seethe
+                                      mirans.
+
+                                           as in the evergreens 
+

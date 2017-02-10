@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ UNWRITTEN.
+
+
+                  i now rough--its again
+  diver
+the black carcass to the doorwalk.
+is a minute legs as goa,
+cojohe second tree
+
+                                                                                        to rush and
+                                                 i call more
+                                              sweet earth,
+                               s. at will myth
+                                     

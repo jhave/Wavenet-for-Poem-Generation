@@ -1,0 +1,40 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THWACK, INVERTED
+
+
+ a cats of people dump
+ called upon the moisture hat
+  
+ every molded like pink
+ to the righting
+ present extension
+ the banks come held overscreens
+ of julius greeks may be
+ spark
+
+  
+ devil to the charges,
+ the sun it blank again 
+  
+ blood fainted at
+
+the dark gloves
+ by the tank tubors
+ on the mountains,
+ to the houndog cheeks.
+ you are now a hat
+ some, some thing.
+  
+  
+ absolved by the window.
+  
+ cross the kitchen
+  

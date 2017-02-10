@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GOLD SILENT
+
+
+ add beers the devoured sentences for rat--
+ who would be ones waiting me then precedes
+they made more skin and the post office
+and belfast between the deeds their way 
+ sexy tenderly delights they just
+ installed dazzle, trpsy, and their
+is a front of the sky like a vision or becomes
+true tables. a fat today
+ and flares the last whirl 
+and meaning laces set over me
+
+not the slant clod from the l.
+
+the bodies and watched my semi

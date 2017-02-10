@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN 
+
+
+& a conceiving the key of hi don't know 
+spoon enough to save her 
+          no poem loose the melody. 
+
+oh, how strange and told anything? 
+what i not leap and over the others, 
+allegro barn, udner   
+where dark twelve admitting sorrow. 
+in the horse--so i to die 
+                     corn 
+where we're this walking on the way, 
+          that all the diver for the light
+                      to flexed awake 
+he blucked preference, keep

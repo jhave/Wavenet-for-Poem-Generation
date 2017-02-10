@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SWINGS
+
+
+ in a wound
+ brings to better 
+tossed, slink as i always to darkness like lyes--
+ so here a demoraa, the tomorrows water cries
+ the twenty of forest
+ which heart out a whole of isas,
+                 iv. new sex blehisons in resignation
+conjunction that history
+and acome a footnote worlds' nonhe.
+               more than peoples
+                     binds and place
+ of the deput penney
+                                                

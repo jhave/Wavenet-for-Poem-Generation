@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IMAGINARY GHOST WITH NEEDLE ENTER.
+
+
+ horizontal, he got him in my head.
+ and strange against this ashes, mother.
+ the dead armchair gets fall to give us 
+the open roakes and cheeks. i am an edinor
+ amidsty truth, the calla and solid cribs
+ on the air frank on a steed
+ wearing from systems of sizabar sweat
+ and barbaric vainglorious,
+ the brand-in world of wrinkled smear,
+ a penny clumsy half until goes,
+ her doled white petals like a stone.
+

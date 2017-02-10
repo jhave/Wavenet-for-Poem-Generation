@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE CLIFF,
+
+
+ the dancers, the loves will never be worse
+ in the kitchen lanes of the bastard of a weary ode?
+  
+ or seawax i thought dented with his war so 
+ death and never goes about it. the nations unbright 
+ to describe, ever put and dawning, every money.
+ the rift of that nine of us but like blown,
+ you sen leaning for the lamb longest and swaying.
+--with a potato give his head in her hands
+ looks we turned through her sins of the t

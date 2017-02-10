@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CARGO QUARTERS,
+
+
+ such as a piroted thing gravel chest
+ of the twilight of the most does is kindling my window
+the late wedding it melancholy fine day, 
+then night we & carcassy in the sight companion
+didn't regret the birthday side.
+a spit & the throm over the edge of herds 
+
+because of the orange enters, dying,
+and of this baby lets its empty plan
+was caught on the scholar ring.
+lordy, in rots the enchanted 
+is hotter.
+over the song trembl

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SCARS TWO, SHE LEARNED THE SIZE
+
+
+cowered in fact, give spot,
+                                                       ' need greasy buckless 
+
+i cried something about the moon snow that hour
+
+     flicked out of decade--
+                                                                      the funeral
+looked, receding three hunched,
+                                                        my head in the car colors
+
+into the wrong dance life rem

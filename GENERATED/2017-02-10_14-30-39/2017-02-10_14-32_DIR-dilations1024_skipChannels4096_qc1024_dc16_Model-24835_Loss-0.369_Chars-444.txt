@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MURDER THREW
+
+
+ fame for a kind of red jubilate
+
+and freedom and all their way to feel
+ and so silent above most led very our studdy
+ in its passea blessed the fair in peruse.
+  
+ conscribe, on to watch.
+ and nerve by
+ whose trees part of folds was 
+before her louse of land. 
+ it seemed to a shall
+ buryer and each brings at back
+the languishes us. waitrescent of towards
+                                                              no lincoln 

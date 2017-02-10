@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RETURN
+
+
+so far extended skin
+ toward the country,
+                                                  around
+     breathe
+  
+ reached, beside him across from the wing-fire coming on silver.
+  
+ the egg who recordings, seeing in the town, the sky
+  
+ the orchestra, the princes kept the flowers of dreams.
+  
+ regret greenly loops onto the river,
+ and me, i'm sure plants his aid    the sting
+ to enter the current
+before such trees controlless
+ sh

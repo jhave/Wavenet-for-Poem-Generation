@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ITS HAND JUGGLED AND HUNGER.
+
+
+  
+ your body and rust and only this bitter to 
+             will stretches as swirl of carnage intensity,
+ to sleep snare, walls, recly traced
+ the usuies of a man that hidden
+ that touch together in the midst
+ new electric from one of the clouds
+  
+ small nothing resides,
+ he cry outside in dullness
+ half-inch of crime
+  
+ puzzling my back to their squares of insulas
+ in the moonlight
+  
+ london griolation
+ fo

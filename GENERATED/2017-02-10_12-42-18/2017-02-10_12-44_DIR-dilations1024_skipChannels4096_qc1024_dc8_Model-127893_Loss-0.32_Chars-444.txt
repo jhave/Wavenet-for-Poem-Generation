@@ -1,0 +1,38 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN FLARE, AGREE QUARTS
+
+
+ for an one trouped, no match
+
+in ner craved in the crowd
+ it's truly the violent to me.
+
+
+every rock her pretty,
+ dirt was so d'escore hello.
+
+
+from the heaven disc the street
+
+no harsh, just me things belongs
+ of grown and deserving.
+the prop's smile
+we heaven, or all the 
+the wind grewed a joke
+
+and after eventual severant
+ nearly for hooded
+to discern than what our own--
+
+
+the grasses loose
+the atlantic andalusia
+

@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEY NAME
+
+
+ spirit up your patch, who half in the hoof,
+ slow you feel in an easy six as usual is letting one's heart
+ sloping in the interests and green uncivilization
+  
+ we've got to dream these shimmering walls spreads.
+  
+       a woman being on the floral breaking.
+  
+  
+  
+ don't come to battle
+ to read
+ and around
+ take the lightest
+ defiant cash again watted
+ before noon,
+ and i will ordered
+mattered and new
+ uron, not
+ reversible, 

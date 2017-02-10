@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SPONGING
+
+
+          to be splitting
+                                                                                slab of herring though bridal columns, 
+
+slant is when i hear, happy, grumps some bench red, if do made
+                a life of its barb dug moon to the torrent of our pocket.
+                to doil tortillas. a perfect thorn my returns answering
+                  claw black. where arguments cry the infant cry.
+  
+          

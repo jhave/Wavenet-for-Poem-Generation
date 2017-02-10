@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ARE REMIND
+
+
+     that's bowers
+  
+                     craft as in the floor.
+                        grandma every clips
+                                      you walk believing 
+            look your own provinces
+  
+                            be happy
+ a time of golden pumps filling helm of
+ or, and reader, and he sees the palms are old
+ themselves and praying in this instance, white,
+  
+ shall climb on the yet were drawn for the tree at

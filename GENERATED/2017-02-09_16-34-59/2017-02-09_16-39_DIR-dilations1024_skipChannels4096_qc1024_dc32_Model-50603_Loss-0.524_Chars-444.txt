@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SLY TO SEE THE DOCK ROBBED CONTINENTS. BUT  THE GRAFTER AFTERNOON STAIRS. NEITHER TOOTH WITH WHOSE FRIENDS STOLEN PRINCES OF LONG SPARROWS OF GLANDSON, EXCEPTION. IF LUCID BLUE FLESH OF SPRING, WAIT FOR WHO WATCHING A BENCH, THE LAST CONTEST--STELLA FOR THE TACK'S TILES OF ITS AND TILES WHEN FOR A MOMENTARY IMAGINARY TOGS & PUMMER HALF-CAROLE SORROW OF YOUR HOUSEHOLE DEATH IS HERE AND OWLS A MAN ON HIS COCK WITH A DUPLIN. SOMETIMES WERE THE

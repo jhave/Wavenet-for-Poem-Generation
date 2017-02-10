@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TIMES QUIETLY
+
+
+ and their orchestra is the moon.
+ all the icy hotel, the seconds on the broad paws
+ say me, and went awakening cotton is my images
+ and the two mountain that day knew me
+ the fishermen dollar buildings, their faces are frail
+ and there's nothing left the memories
+ & clifton. no thoroughnat
+ of small people, who watches it to hand.
+ mind hope a guy likes heavy uptn anea and suns.
+ nor the nerve of love, in the traveller
+ and a

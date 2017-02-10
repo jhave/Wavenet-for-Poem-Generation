@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SMART ME ON ANY FLOATING BREAST.
+
+
+                                          a lover aroth, a dulcimer for kesay
+  
+  
+ with weight of first pool of every full of those lines miles and yellow with a stone,
+ a slow mr. they smiled with end in frances whose dust and penny conveyor, stone to limitless one   as is an instrument
+ if he insists down lying, though it who guest, ribs.
+ che is visible to catch it. its skin the snow is also desired 
+ s

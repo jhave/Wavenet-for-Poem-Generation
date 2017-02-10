@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         LAND CAN CAST FAST 
+
+
+    and our clinging flames who trance,   
+            murmur waking lie.   
+
+                                     never to lie 
+
+                    the black-red clouding over 
+                                 that sucked her way. 
+
+unto my knee against place you urge a horse
+    brink, every casonon worlds warping 
+                              and died. 
+when even the naked waves such cold                  
+
+

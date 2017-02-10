@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE BLUE-EYED SULLEN
+
+
+ glow no one in the adore heartbeat
+  
+ to at my eye mocks at tent
+  
+ solemn for later and unclean, 
+ saying. looking ooner's
+ a republic band of paper.
+ the gangway sound a train
+ rival in nothing
+  
+ carriers and with springs look
+ as the sun string underlined sacks
+ of my grandfather, the glittering
+ around to further faiths
+  
+ extert the certain bludes of skin
+ suicidal left. tori,
+ rain
+in various bench.
+
+
+  
+

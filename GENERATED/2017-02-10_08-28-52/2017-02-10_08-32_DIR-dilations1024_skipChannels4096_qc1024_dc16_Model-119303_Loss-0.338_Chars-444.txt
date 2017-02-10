@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ROUTE BY NAME,
+
+
+ each increased caves out of slapped and jubric
+ with a giant granulated who threat-plates
+loosened against my worn from purring,
+ and thence of god.
+  
+ and earn or seen they grow and once
+ ask the dirt of soldiers,
+ against the conjugation of
+ against thing washed-indoctories--
+ along the social creach so the brave
+                   on the darkness car
+ heed so we were inside
+ then she overalls an autobiograph
+            

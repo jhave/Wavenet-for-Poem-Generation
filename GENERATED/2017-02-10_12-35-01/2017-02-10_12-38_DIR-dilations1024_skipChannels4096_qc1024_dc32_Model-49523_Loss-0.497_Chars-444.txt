@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   THE SOUFFL-WAR'S DIVIDES
+
+
+ his holy bowl of the courtbey lake and its glee,
+ today afterward, something someone green, sinister sees
+ who's toll means who'd cut the larger generations.
+ the growing their fry to the world
+ before, and holy his bare the fueled birds around the road 
+instead to who go words
+ an objectnibular who said that tell you
+ detective for all these leathers
+ the tenor's painted over history straight the waves
+ on joy i

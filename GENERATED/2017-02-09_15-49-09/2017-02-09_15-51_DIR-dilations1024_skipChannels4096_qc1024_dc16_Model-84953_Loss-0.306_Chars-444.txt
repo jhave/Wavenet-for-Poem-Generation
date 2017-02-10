@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GOLD LANDEN
+
+
+ floods of america
+ that famous on a storm, to the hospital sun
+as a letter to disses are not
+ famed in the legend, where the other world
+ and strip's pass above song.
+methodical leether on.
+  
+ produced magisters breath,
+but it's lillational destination
+ a gran foggy's voices, for a releasing
+ and the belly of tiles were.
+
+
+blocks steamed
+ when you sit idol organs.
+  
+  
+ as if i write abost
+ so i read from the luxury of eyes
+b

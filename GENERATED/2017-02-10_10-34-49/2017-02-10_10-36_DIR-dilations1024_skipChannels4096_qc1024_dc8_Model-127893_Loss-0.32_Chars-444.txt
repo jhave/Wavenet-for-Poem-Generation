@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       TO THE NEWS
+
+
+ of whipla green use of the old
+ sirius, the vulgar sun,
+         on a row of the pour dress
+  
+ tear, after he would have.
+
+
+the stars are for its floor the
+ into shadow a time the sundown
+from the red winds, broke
+ a brothers,
+ nacidh begging 
+  
+ even years deprivilege the childhood
+ these across the reft of
+ to show at remain. who'll 
+if you're a grey there.
+
+financia, last we met
+drooping on poverties, but when i say
+

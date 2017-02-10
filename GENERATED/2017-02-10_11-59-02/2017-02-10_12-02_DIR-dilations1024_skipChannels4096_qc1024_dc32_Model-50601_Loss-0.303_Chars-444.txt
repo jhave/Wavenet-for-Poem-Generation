@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IS
+
+
+ from yong-
+ the monster of tomorrow?
+            other went proven,
+       to the purpose, meaning
+                   is the artisse nipple,
+                          and the railed seat is best
+                something month
+ behind my arm
+                                          the basic saxophone,
+ five mine such a quietual migs in its own land
+               manchband.
+  
+ oh reabe and ghosts belly.    
+              in prospects

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ INSIDE OF SHORT
+
+
+ and with sharp floated wind on his hand.
+ it is humbled my life's voice in the garden
+car's country incidental to a cliff
+ from inside another's love's mother's.
+ do you shaded at night.
+                                               out recognitions
+      show a skeletal,
+  
+  
+ flowers prepares a bit of
+            spider what was written
+            said to the humanoid
+                                    sea   
+  
+ i lo

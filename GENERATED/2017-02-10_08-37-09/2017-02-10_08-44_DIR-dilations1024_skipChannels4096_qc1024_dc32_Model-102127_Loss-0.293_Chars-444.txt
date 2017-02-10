@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        LET THE HUMAN ROTTED SOUL,
+
+
+ on developmes the kids off young
+ forward to the tratlines, the sky and high
+ clean 
+ as she leaned forward parender, man will converging.
+ what took out in the sink wanting after you, stares
+ ipserving letters the winters and stare begins.
+  
+ he gave him beautiful, half-numeed rome.
+ both keeps me the brilliant city site the both cemetery
+ cloth flagillating animals, grins 
+ could mean the hull plant tru

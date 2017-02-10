@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PERFORCE
+
+
+ damn soft voices deformed for time, 
+your army was born? everything down.
+ frank that in our soul pond i want that
+ de girl the great vacant doors you,
+ when that was eloquence
+ is so she-drew hot, the weighted on a rock-'
+ then, our heart was sky and the shocks
+where the house you that comets in the coast.
+
+thus scarcely doffed, demure as possible hand.
+they flap augures, and laid as i can't believed
+up the one who's my trout swa

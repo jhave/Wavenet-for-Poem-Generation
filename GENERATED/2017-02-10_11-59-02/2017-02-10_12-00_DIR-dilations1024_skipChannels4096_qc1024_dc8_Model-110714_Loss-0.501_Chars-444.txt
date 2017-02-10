@@ -1,0 +1,15 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  A TRAIN WAVES.
+
+
+  
+ i'll fill the snapper that lost-bird-breasts, turning and weather dead -- boys how pancaked
+this was a god yesterday and quite unplanned my soul and everywhere each of cats tea there the vagaries of all those two of us not merely bean baby gate, the woman render and a hiccan black out the old mussed children at the undercovered ennui, isly start with joe with a system of new against the certain remember, i'm on vital poe

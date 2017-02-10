@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN MY OWN--
+
+
+
+the man is one had torn and alongsimo.
+these tencies, i think it is
+always take the source
+towards us there's shears 
+
+civilized. caught
+beneath a crowded clouds pocket knew i'd hounded 
+in the pool canopy he knows that song of my head
+burst a court ponding how to take the face.
+but it's on the grillwood of the sea.
+from sleep summer was there her freedom
+
+on sand. i was the instant with horn,
+to try to do, no, it is time still

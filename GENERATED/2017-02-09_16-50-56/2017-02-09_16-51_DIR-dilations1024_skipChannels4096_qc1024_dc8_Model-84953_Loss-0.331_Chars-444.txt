@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE MOLD FROM 
+
+
+i think of span on times,---
+you're awakening and went my grass.
+ and a motel eyes are stir?
+ she heard, the strong stationary wideshti this loveliness.
+the movies no one times
+ that loudly boilor's investigate paths,
+ was the contemporary sprang and tnots tonie.
+  
+ today island of the orleans raspberries his brown man
+   and the break total to obvious things
+ phone ever instead of some and ready to bid makes,
+     is ove

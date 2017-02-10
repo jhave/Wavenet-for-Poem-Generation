@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE RANKS. IT SHOWED
+
+
+ to grant, she sees-no army tenderness,
+ whether and caught the year to articulate
+ forwards of death the woven nanny, then again.
+  
+ very december you have only personal
+ the flesh, the tenderness of pleasant 
+ to rise my head a look at eve in,
+ and birds and drenched by its essential public shirts,
+ and be the thieves at hand. the fateful hour.
+ we talked absolutely to crash on the bathroom blushs.
+ across reflection

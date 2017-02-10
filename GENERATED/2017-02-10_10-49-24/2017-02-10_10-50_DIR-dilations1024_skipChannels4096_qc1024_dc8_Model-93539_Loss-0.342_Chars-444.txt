@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BOIL AND YOU, FLOWING THE TOP OF THIS YESTERDAY I SAID
+
+
+chickens behind the sky stairs on a row of the orchards.
+our separate pecked in the wound in the forest on the grass.
+the skyline, flat, and so touched at the pigeons of steel floor
+wrenches me up the remnant wagons and the coals i've done.
+  
+ this may i die in to contented tissue. from the 
+and the dozen rendering girl convenient profusely you
+to every lewis shimmers mark and stem,
+wh

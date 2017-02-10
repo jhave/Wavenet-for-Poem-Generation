@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO ME, MY HAND A SAINTLY.
+
+
+ my arms and placed and render crushed with a grin
+
+                                  from alchered still call
+                                                  diesel
+ when he was her face was run and how this i die,
+                                            the earth to arrive
+                                       there were landed jones
+                                                                         

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PUZZLED MARBLE GRASSLANDS OF
+
+
+ your back home rhythm that will eventually-faced.
+  
+ a boy you death my tear to the parasol earble these
+ hamburger petal, i screamingly light it begins to be looking
+ messages. be protections, hy's okay,
+ something i would never saw to the north were laugh.
+  
+  
+                                            edge and treasure.   iii.
+  
+  
+ during lacquerance, a proiective chops from the shadows
+               

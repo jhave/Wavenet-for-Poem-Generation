@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AROUND A BIRD,
+
+
+  
+ he chose to some old float in depressively
+  
+ he is alive with lives now his life
+ or maybe it's the unn makager
+ and rat-a-tat-atop from an apron
+ seeing.
+  
+ i cannot name trumpet before a letter
+ to the soft still at his little daughters of desire
+ and now in brooklyn.
+  
+ such a thing salt and a crops in her barn,
+ 
+ cabbage going back and glitter thundering
+ when you've never did, swivel two that once caught with it

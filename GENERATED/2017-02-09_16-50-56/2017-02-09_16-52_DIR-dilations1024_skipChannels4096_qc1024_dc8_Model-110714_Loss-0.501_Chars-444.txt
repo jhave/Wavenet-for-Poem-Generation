@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE PARKING LIKE A RIVER,
+
+
+the night i came to the air its feet?
+
+the tears so gentle halfdouses, turning the largest but my comrades.
+
+                                             beside across the necklace waste
+                                                                            but my old land on fire
+                                     perhaps in a series are behind
+                           the rest of linny poured on the drop

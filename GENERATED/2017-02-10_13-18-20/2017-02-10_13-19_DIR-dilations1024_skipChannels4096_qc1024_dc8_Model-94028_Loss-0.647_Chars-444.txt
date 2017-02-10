@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THIS QUARRY MILK AND FIRE
+
+
+                                                                 out of your knee
+my self-same havering flare for me
+of this covering building iron speak.
+         that a mythic huntering.
+
+        leader in the film who will who,
+wearing barrel six watched and refugee to me. a questions as .
+we lit at that go tent--the sea tears could boar
+                 flight-tanning cannot read back,
+          holding to feel

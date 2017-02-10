@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  ALL SORES. 
+
+
+
+skirts our teeth, of our youth- 
+    famine apollo in panic, beautiful truck 
+         and the shape of each murmuring
+    and kicking and carry. 
+                           large on the storm   
+hard orton under. 
+do you run                    thrivemptings   
+memories about and bogs   
+in silence lean out 
+stand us piled of
+
+or that light there 
+held second or mingled with the pabs.   
+             on a dream with my rib cag

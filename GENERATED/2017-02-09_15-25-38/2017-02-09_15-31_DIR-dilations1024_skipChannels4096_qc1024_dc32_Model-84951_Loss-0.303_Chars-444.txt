@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DRIPPING MYSELF, STATIONS OF COUNTRY'S BUILDING THE KISS THAT AROUND FOR AUDITORIUMS THE STUMP OF HIS SLEEVE, THE LEVEED'S PLEASANT MAPLE PRODS-IN THE SOFT BLIND TIASEL OUT OVER US BUTTONS AND KNEES LOOKE THE LEE EITHER TIGHT WOULD NEVER MET AS MUCH FOR THE WINDOW AS HAND, BURNED SOFTNESS. JUST AS THEY ARE LOST IN PARIS, BUT NO ONE ABOUT SUCCESSFULLY, LIVING & PROSPECT WITHIN THE BACKDOOR OF THE MACCATED WORLD TO MATTER THUNDER THAT SHE LOO

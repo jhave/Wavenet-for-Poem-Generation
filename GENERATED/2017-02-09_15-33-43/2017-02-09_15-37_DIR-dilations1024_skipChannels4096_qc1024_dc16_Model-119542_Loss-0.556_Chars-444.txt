@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SEEMED
+
+
+ in our own joys what has been dance,
+ in their growing bird and lay them,
+the wind rocking when i set it sing him. 
+no change most loves the town clouds,
+           is it not the noose
+cutworm said, italian tyche the first ships
+      byne of jacques unlawn
+ with which the wheel of it,
+ should discovery hiving everything glow
+        i felt.   i in all other's eclipse,
+        or descendant and
+        and dares through thyself-wome

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MURMUR LOVE
+
+
+ i won't live, and the thought as death
+ i saw at the pages of the splendor
+ and the threatening, the ajunke's individuals,
+ this is the planet cloudine on the floor
+ rate for imprisoned the sense, the halls,
+ because in the dandelion of wood.
+  
+ gleaming to achieve, the rose,
+ better than any laugh
+ have seen a soul 
+
+the much thinking 
+ as with oneus being the pane.
+from maidens that we all you'll be looks down of that,
+and t

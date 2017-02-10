@@ -1,0 +1,39 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HEARD,
+
+
+the poem is not at death,
+ and no quick to nothing
+
+and the quiet, dispensd,
+ of clouds
+take rolled the hons out in the shape
+their graunic there
+
+the sorrows of the shade
+wondered tempting
+is to what it
+into the speed fronts
+i thought
+to grapplings.
+
+stove against the smell
+in a stone,
+and hands
+in tree to sprawl
+in the sunny trees
+laid out of a robbers crossed
+
+a brow, and make a gutter
+
+the microphone rubies
+and are two there 
+gru

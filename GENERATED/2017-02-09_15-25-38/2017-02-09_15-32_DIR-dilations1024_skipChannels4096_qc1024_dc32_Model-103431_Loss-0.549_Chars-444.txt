@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ABOVE THE BRICKROOM   
+
+
+deep in and winter conogrammar layers   
+then falling soap in mind we've been taken 
+that of argument all a moment where it smelled 
+in then and out of history that met, 
+grew granted upward in a single and making the earth,   
+discovered on herring stream and with his secret 
+masking the house comes crosses the singulary gracectad 
+on this kind of peace. soon we knew what can they suddenly hide,   
+a location by phot

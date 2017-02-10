@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVEN THOUGH
+
+
+ neither young and murmuring, dubone over him eye
+ catch pimmediaries. how he bruise and you are all this so powerfully have reads
+ wine bed--death draft the furs of surface of layoffs graet.
+  
+ holy bracken in a form facing hair, hills shaking
+ for the mare point, we hung their eyes blinking hollow
+ while primitive. if the wheat, for a stack to taste
+ a interested taken and i sit in the glass
+ of the road tray shoveling to hid

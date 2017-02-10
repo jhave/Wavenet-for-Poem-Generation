@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STARS
+
+
+ freshness as a green you hear these work
+ the emptiness of the explosion and sex
+ but so rare you flamed mine has no different kingdom
+ into the fresh pea dead jaffekly scarce the blood
+ the mane tread appears and so-called steps by
+ like the mine there wiles being brautight
+ not yet the slow view didn't the years . . .
+ a brigge
+ to velvet the street whiteness forcings to be
+ like the pear, the tempests in what i must change
+ ouw no

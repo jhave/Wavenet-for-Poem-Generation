@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        I WAS
+
+
+                                       and then again
+ iron was buried her, for then it condoml wrong
+   and an utterance.
+ yeats in the memory of regrettable hangs
+ the fort will melt buy and my head and saw
+        rented over in the office there near the rust
+     the place and die, yet then is the eye, hands a cigarette
+ a some news, but less than me touched to her son
+      suitable in my hand sighs? and the continents,
+ a

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LAWS DRIFTING ON THE FUR HURSE,
+
+
+ and in the maiden morning back home and the knees, 
+ we abandon always. a sign of a tongue seat.
+ but in the volupt in the basket in a gill of god,
+ so introvena midnight, there the hemispheres
+ of the desert corridor, dangling bandror,
+ leanly. and whether that is our small tract
+ winters to heat, proud what will want whiteication.
+  
+ how is there's no chief
+imagine night in the sun,
+ a lifting is lay the 

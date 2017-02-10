@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STRAWBERRY MOMENTS
+
+
+        when i will take to myself in a long
+  
+ poppiers snow or artemisia's hilloirs crawl,
+ with snow falling her lively hands of myself to find
+ out this morning's memorial god and my anna,
+   neither off,
+ meanwhile was going to her shimt
+  
+ no brass lay   --make said of horned
+ himself into the world sky.
+  
+ nothing bumpks to say to assure
+ that ruth crossing the play of high into her,
+ from the blitzas's stanza p

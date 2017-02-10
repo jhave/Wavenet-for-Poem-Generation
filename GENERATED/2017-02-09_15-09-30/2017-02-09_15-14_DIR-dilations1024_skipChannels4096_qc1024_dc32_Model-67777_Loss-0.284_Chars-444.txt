@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LED TO IF US WITH OAKS THE FOREMAN COATS, SWIRLD.
+
+
+
+    the lazy ice for maiden funk and from i did
+ .
+ i returned to the video of summer dark
+                        in the sun, one few imputation?
+ 
+             until the driven staff surf grass on the shallow 
+               and about multi-cocond too
+                         -midter for the hammock
+                  or is in the green go outside.
+                                and chatl

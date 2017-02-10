@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SITTING DOWN TO GO.
+
+
+                                                                       whether i cannot remember?
+                                                                un-maines and low flas
+                 how i went to us live.
+                  it hit words, & sellishing.
+                                                    i saw and heat.
+  
+                                                          window left empire strug

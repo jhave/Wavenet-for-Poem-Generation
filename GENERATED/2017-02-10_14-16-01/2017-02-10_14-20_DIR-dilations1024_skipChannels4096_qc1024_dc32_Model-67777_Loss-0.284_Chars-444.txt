@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A WOMAN
+
+
+ mirage, and a miracle. there was nice to try
+ that ten-years all steppes of slow,
+  
+ they believed seems to share well visibly,
+ upcide the witing on the round,
+ and disappoances.
+ her relation of the rule but 
+ with the bloody time
+ erecting of maula match . . .  
+burning chinawood flaunting
+ chirp derived from world 
+ swollen tably near a sound
+ the thrust will into a world of lobby.
+ obsidian verb men works and persist
+ that de

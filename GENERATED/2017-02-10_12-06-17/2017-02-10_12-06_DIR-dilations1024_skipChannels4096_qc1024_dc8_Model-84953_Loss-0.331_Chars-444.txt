@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                            FALLS DOES NOT MY WAY, 
+
+
+ the compend cloudy had no lavender i read
+ its tedium. the soap to talk to be hanged,
+ into the hypognition, we stood the forelock,
+ of mention that wearing in marini bastard.
+  
+ if some all was rises also beyond most of horizon
+ the spent heats louson farther friends,
+ and i think of collection of outward skirt.
+the silver garden prisoner heart-made a poem

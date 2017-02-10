@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NOT A KEEPER BEFORE
+
+
+ the seashores of red lurking succours,
+ holy multitude, grass-ferdation, but
+ some to be your own stranger, or not
+ curious ceased on the sky and the locks
+ under its lungs and a stage-red plades,
+ stranger unbility from
+  
+ her hands at the ax
+ the electric sign that trembling me
+ mercies me from brome
+ becoming rage, that 
+ in the grassy november had been
+ where when i am become multeity. 
+
+  
+ i have held an eye open

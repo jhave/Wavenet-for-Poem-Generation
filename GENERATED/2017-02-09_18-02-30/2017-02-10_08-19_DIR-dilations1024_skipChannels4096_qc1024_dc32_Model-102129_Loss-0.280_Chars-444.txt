@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SHADE OF SAND
+
+
+ recalculable dropping back.
+
+
+take a black jubriarism,
+ a derelict
+that swam in a stink.
+  with a slicid bear keeps
+ marks of one meen fench
+ claiming in the parking lot,
+ that grave across the stairs
+
+
+
+stranger of shopping dusk
+ into the threat
+ in attic looking back
+ i thought these hath
+ that july 
+ plans sweep of my ghouls
+ that wants to belief
+ an engines flat, its
+  
+ drain affectation of the dark 
+ by sunset loops
