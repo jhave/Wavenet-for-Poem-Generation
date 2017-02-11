@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                      TO SEE YOU INSIDE
+
+
+                       in the dark hair of raddlehead, granoy
+                                  there it, if young that may be?
+ smoking figure for brother?
+                                in the gravity of a figure tree in is
+                           somewhere alive
+ 
+
+little policeman is the letter? lines
+                 in names are marble and home,
+                to slow clicked
+              e

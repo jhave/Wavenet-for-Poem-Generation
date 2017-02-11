@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHO REALITY
+
+
+ was the subject.
+                                          i can pull
+opened the rows of mythole,
+ was the weight of me and money, and the soil
+ of lightling her face of earlier,
+                              it isn't been 
+                                                                                            their day
+                                                     and though they are
+                                

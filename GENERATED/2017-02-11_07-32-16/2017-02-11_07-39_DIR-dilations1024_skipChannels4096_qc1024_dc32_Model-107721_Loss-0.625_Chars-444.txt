@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+each with the sleepy letter, 
+    till the nuts, over to his life. 
+
+look shakespeare, they eat and years    
+that so playing in the yields of my fire. 
+
+all of you with man not love him higher. 
+mean this is send you were a stick something 
+as they, ends wink steps with foes, happy. 
+bleeding at machine i crowned sticks 
+to make my love may were all the state. 
+
+in the glowing one the common pleasures 
+consigually take him in her eyes 
+
+w

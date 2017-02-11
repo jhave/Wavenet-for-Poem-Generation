@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SANDCLOTH,
+
+
+ gaps a bed in window
+ bones, approaches unseemly pounds
+ several trunks us constant.
+
+
+i play to have a hummer in ice,
+ what felt song hardyers' stumbling glare
+ watchy, where the view
+ jot written on rossia, 
+or moon will not for into the wind
+ books down into the face
+death's left by taper of dead.
+  
+ came to the lover. poured pocket.
+  
+ if opera herted a brooklyn back 
+and stant, grain of the orange of the dark.
+
+i see a pr

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A LITTLE GROUN'S ADFRED,
+
+
+ is everywhere, when you should have been able to
+ nor forgiveness of plowed like a whistle.
+ you're trust shit freedom looking out the windows
+ their sheen can entangled and complaining
+ what does not coming for this sash was guards at
+  
+ pennies a bride, borsing in a janitor silent,    donald,
+ i left a thousand they laid her sex singing and one another in   
+ brave all around hoot at its name--each times down th

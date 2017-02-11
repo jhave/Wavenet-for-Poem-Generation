@@ -1,0 +1,16 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                                  THESE BLUE-APARTMENT OUT OF
+
+
+ the lamb                                      i have to travail, and the style luck.
+                                                     think we own the slow violence
+                                                         please sailor drop,                                         the face of the seashell belt
+                  

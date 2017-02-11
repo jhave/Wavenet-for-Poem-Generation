@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CAME
+
+
+japanese the straight unfurls of christmas and
+ with a swamping dogwood notregroomer
+ yeather still no fairest windspread
+ like the bloody adonis, down by my spell
+ as slumped earth as it fyrst and roll, 
+  
+ is a minesa home.
+  
+ i told her
+ the banjer's onskit,
+ blue and eat secrets 
+ left her band, the smell of bronze,
+ gleaming the open carry
+ of tracks ahead.
+  
+ the slow belongeths and smile
+ populs, to the other plant of green.
+

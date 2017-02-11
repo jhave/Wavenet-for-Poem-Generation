@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           A MAN AND TEAR MELODY
+
+
+where the land moves.
+  
+ high and pray of chariot as they had been ends
+                                                                       this bookcase 
+                                       said.   outside as a quarrel laborer's pallid.
+
+
+there is a way no cold air husband's mouth a difference
+and from between on the train. the totality
+of the hot slow and ant the orient
+i bring parade colored from hi

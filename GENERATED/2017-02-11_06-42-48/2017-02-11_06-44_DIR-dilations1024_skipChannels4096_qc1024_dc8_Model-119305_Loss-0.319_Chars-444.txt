@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         AS DOGS WHEN THE PIANISH THESE SIGNATORIES,
+
+
+              were recy's seerse to fruit of its pages and scrolls
+ in the little in her way, the meworks of the mind.
+ each lines dark it is left hanging man hills
+ and madder                          and je throwing after flesh.
+  
+ .
+ on the little collapses, methinks he has cartfully stare by
+      should have been institutionist -
+ sake. and mean as souls. the former aging
+  
+ followi

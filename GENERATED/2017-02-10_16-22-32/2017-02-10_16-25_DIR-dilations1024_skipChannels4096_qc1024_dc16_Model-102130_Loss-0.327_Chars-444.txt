@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WENT IN THE RAINFAIR OF THE PLAN
+
+
+ the soldier that we never sniffing waves and ache, all floods against it. the rim-coal take the poem oncovered rippling walking a tiger fields to leave. the tangled every burst, the threat of the table to fully remote you the haunts
+of infancy part in my time for the legs of america wind rather loves, hence obscurught to leave the weakly fire as for the rivers of busted, has to you, restive the boards of de

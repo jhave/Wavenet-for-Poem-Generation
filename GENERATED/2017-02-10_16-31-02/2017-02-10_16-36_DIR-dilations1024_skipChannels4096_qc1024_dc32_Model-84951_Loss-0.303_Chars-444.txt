@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                         SECRECY 
+
+
+ no losing in, just
+            his scream enslaved, unplanned men,
+ ladies, then, hiding from melting air with a fear 
+             coin running with years the maria
+ that in our country dry.
+  
+ a girl in joints of a small fields.
+     and returned by healers, now.
+  
+ the shaping of going down, strange care floodlights
+     but it written against them
+ while here.' while i 

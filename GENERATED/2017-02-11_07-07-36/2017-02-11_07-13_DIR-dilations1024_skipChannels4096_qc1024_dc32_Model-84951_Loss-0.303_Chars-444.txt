@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          JELLY ON LIBERTY,
+
+
+                                                       the unreeled scatters
+     and the ladies shirt on the fire is
+                      wounded in segregation
+              with slow, strange and killing mirror gestures.
+  
+ my hand falls he cease their coming is dead fist,
+                              of banquet's makeup.
+ we do with it one more cause each time
+ gonna maritan or died of the f

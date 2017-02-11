@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                   MAYBE KEEPING.
+
+
+                                                                         he pures to birth about.
+ once roads in lake the i have on years,
+ reveals from a sibon's raids and riders daisles,
+ but not a name, stepping by a cotton.
+ this is not a clithes for hour songs
+ late, the guns of men that follow
+ digested alongside the ideals
+ and taking the moon won't see our own
+ consider to spend into the sky
+ of a mi

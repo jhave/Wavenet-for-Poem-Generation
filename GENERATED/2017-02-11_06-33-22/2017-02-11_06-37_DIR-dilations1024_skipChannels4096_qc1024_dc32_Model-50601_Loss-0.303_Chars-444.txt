@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEWS,
+
+
+ disaster. the sea in ragtime of flight.
+ the sun to shiver, its anyone girl- 
+the
+ my eyes are months get up re-medicine
+ instead, heat outside the philal moan 
+ of sockets. the old moon of the moon. 
+ in tony hands have been   head
+
+ you wear getting on walkways
+ a nest, and the acre of main here.
+ these are meternity at hill hung
+ well i mund behind the montagneeia
+ a leir the parsly white
+ plaintively into flames look at all
+ of f

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    QUOTE,
+
+
+                                           let me the mind
+                                                love is
+                                                   thy virgil
+                band holy mentioned juice
+             no subtle forged life
+ into the monster travel by maids
+         .  and more. father up the choice
+                             progress 
+ and ary into her head
+                                      sea

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A TERRIBLE AND 
+
+
+ into the long brown was far ascends.
+houses of our lives at christening native tapes out like hair subjectly
+the sky is buries looming no everlasting, by no one, but still world,
+next studded against my vowing tidy hold the hunters bay
+who blossom climbing leavitgi-ribald white implicate in
+and a crater and until the escalate pools--coffers 
+revolution to stop of falls. the company.
+stays and my body bed my mind beyond thie

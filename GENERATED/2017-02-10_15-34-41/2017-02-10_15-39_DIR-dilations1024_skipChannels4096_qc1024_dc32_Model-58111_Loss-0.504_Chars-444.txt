@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MUSEUMS
+
+
+                                                   like a tree
+ outstable,
+                                                       on
+          magazine
+                                               a seagulations
+                 if those egg of being and escaped cotton.
+                            as the beginning
+                        when i'm away from.
+
+
+
+the objects planted rooms dirt
+ live colors black all fingers,
+ one ben

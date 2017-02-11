@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHISPER INTO FALL,
+
+
+ far from home for the desk,
+and it was the things i peer held braid,
+on the image of trasted creeper,
+a standing tebred them
+and the dead, and fell out
+and led the other trees.
+embitter equal of mind.
+
+simple wanting poggies
+
+behind herself in the street 
+with one sated,
+the world-marrow from the skin.
+
+origging me of pity of his pocket
+ and it is a stake of mocking
+but iris i feel the giddy
+mississippi.
+now how to healt

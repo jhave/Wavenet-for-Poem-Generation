@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ POUND,
+
+
+ rendered, shall i got vase time...
+      had lullaby of a liko of rock of.
+       stoked her to our wrens
+ grain of self-ex-blown. or, bf, wiring off
+ flame reservoir of the landscape
+    of sonnet, gives in iconeynland,
+  
+ on a dark worlds comes glimmer           the big room
+jungi. i was a
+                                            in the moonland, no one coal-bone
+  
+  
+  
+ in wordwoxe engine and old-gridding off a fire flies.
+

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    THAT WHISPERED
+
+
+ that struck up sperored
+ dictation's turban,
+ years ago, or elizabeth satisfaction
+ and bled freedoms and gented for sexists
+  
+ rose from band that in my parents robber's bright wilds
+ grinning and i am entire the room. we lie, i.  meeting this
+ just to, slime-pinched, no sooner the three-qualities
+ true fly in the air. the vestibule wedding,
+ strange apartment at the heart communion lug 
+gather and true fortune and fort

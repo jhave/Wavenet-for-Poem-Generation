@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUR HANDS UP, AND THE MOON.
+
+
+  
+ engineering it, blood stream. 
+                                       the entrails are warm, it was
+ but just where time
+                          plague.
+ --coolos having similarly so weach
+  
+ to                          but by anesthesia,
+                   
+                    but one for
+                    conch
+           between two, rhyted
+                                       darkness
+             

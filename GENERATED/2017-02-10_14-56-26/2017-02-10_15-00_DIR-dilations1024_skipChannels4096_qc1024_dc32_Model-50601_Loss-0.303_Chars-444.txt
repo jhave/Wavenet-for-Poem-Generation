@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A MANGER FLAT--
+
+
+    that nights asleep.
+
+
+usele choicers . . . by one 
+
+the crowd, inclination's end
+ though natural brings
+ for a new moon
+ to fetus th'rough the first
+and the bright seasice
+ her attestes won't be he
+ mutually do adored wings.
+ the smell of it, the contentment.
+ the cost old dawn--
+ wanted to remember high and 
+ and the jimiraz that they're 
+ the form magnify the bench
+ raised pier a woman
+ '
+ we flew his panda,
+ on the hi

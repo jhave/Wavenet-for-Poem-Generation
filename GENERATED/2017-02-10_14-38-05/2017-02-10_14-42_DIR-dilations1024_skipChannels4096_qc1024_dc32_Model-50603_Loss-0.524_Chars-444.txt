@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   BELINGS STARTS FORETOLD
+
+
+     and veins to a muddies wrong done
+                                                 and green hungers
+                                                 failed at the sea   
+                                               the table trail of the tc
+                                              and in the upland white doves
+                                           roars over the path.
+                             

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BRUSH CITIES.
+
+
+                                        to leap.
+                                    it is dark then
+ sleep nakeds and flies and the
+                                        spectacular
+ day with the ash & the onions,
+ mashed the justice my believe the bow.
+                                                        the round composed.
+                     is the government.
+        smashing over the gist of my elbow.
+             

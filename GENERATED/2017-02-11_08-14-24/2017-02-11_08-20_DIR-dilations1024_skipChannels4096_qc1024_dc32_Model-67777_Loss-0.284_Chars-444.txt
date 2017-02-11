@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                 IS AM TORN, ALL SNOW OF DEMONS OCCUPIN SOUP.
+
+
+       this is good or with jelly and the wind spots,
+        briefta's enligios, higher of mine expense stitches
+            and bluish
+ arguing on the feast illness,
+    here the bronx bred sky.
+      against each snow,
+     i look at the element wealth stones.
+        who sends of hygrome               brad
+ of the men who would lay the world was bound the pen
+      an untrue, 

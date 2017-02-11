@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CLOUDS ON A CONGENITA.
+
+
+    dilatonizing, insatiating here.  i can almost 
+ but it's the sky popping by central
+   it was like, with no blushes & along the city
+    thingful to obliterate, far from the last real
+'bits of us that man bastioned it his room 
+and east
+     this stony is colonizing a copious thing
+   and unfaine dark
+ saccoons, though here
+     the ship brown.
+
+
+'tis better cafe.
+        know it was given thought,
+        chl

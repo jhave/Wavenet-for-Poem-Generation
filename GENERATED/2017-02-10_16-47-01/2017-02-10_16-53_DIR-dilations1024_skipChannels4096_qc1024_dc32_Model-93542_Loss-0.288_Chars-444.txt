@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TIME
+
+
+  
+ her face slipped earth here
+ that my soul of new such vorticles
+ and let her languished and above,
+ too songs of a war in his flimsy
+ in the distance  of deer,
+ the things i can do valley
+ that scavenger snatched on the inclusi plant flies.
+ it was a god, lies buried the past.
+  
+ no, the eggers of men are the
+ marian, and gall finds its exemplars,
+ saintly above, obeying, loves he does.
+  
+ lumber he slow on a route petals
+ for bi

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IF OPEN BAND
+
+
+                   these arms a brisk
+ for glazed vollies of ismes is the sky.
+  
+                                                      prefer
+                                              blood and words in me.
+                                                      and mouthrong up through
+                                      in the end of blood of the caves
+                                                              thrapiu

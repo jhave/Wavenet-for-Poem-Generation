@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ I LOOKED BY A STOPPED
+
+
+justic night john marmolage. o knees,
+ a bit in two town at the keys
+and only through you fall a man potion words out 
+ poshups and announcre my own sky bloomed
+ burnering the ond scents a thousand hard.
+
+walks the roads unbrought one
+  
+ carrying in the foam as i never satins,
+i am all the tramples ring,
+ over them and longer every still . . .
+what end the way back 
+the sky of us nicholas of dust-i think
+ the televisi

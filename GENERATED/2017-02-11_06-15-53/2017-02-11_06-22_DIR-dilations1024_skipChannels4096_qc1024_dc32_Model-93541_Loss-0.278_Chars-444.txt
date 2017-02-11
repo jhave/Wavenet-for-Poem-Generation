@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THREE TEMPLE HAD HANGING FANFARE,
+
+
+ the eaking potter stairs flying usherey
+ one times are organs and instead of food shiny   
+ flapping from earth of happy love flint was beat is sweet
+ degrees a newlaghouses, from flowers that burns like
+ whose pathos of the little sting is dangling,
+ browner books hang on fire.
+ i have leisure sesgaies blameless,
+ which construct details at my eyes drenched
+ that i had discovered necklaces of centiper
+ th

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CHINESE ENDLESSLY
+
+
+ the sky is common. the caged bucket's unworn
+ and his days are fond up touch on his
+ seeking and the way we were scarce 
+ of the drape again ---save photograph,
+ his teeth. or stone curse animal as jew?
+ eating surrenders as the great supple
+ in place in a fullhead taste at the mail,
+ from the tip is night. i am the smoke 
+ of pre-pian's story velvet contract and tell
+ the nuptial condemn veil flocks of feet.
+
+
+the co

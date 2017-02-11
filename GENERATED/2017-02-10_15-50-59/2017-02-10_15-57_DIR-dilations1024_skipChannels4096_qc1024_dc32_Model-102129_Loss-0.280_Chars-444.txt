@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIFTS THE FAR COMING HAPPENING
+
+
+ the manna as they had from the years,
+ the world is like harrock, never and lost.
+ is that bare this wall with his steps,
+ a partners of pain dearwaxed soon we'll glide.
+ death binds dancing, the mountain waters,
+ the soft shapes the youth smell and came
+ sneak front attila be beautiful. i suppose,
+ and surging from some empty bayonets
+ before us begins, development withdrew
+ a butterfly that the granned. i t

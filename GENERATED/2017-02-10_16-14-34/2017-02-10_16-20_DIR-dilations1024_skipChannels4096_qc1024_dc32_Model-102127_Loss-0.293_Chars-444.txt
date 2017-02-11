@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PATCH AT EVERY LIGHT JAY.
+
+
+  
+ then the cruelties were the slow path to church bet--
+ chasming bones surged & valley the hold
+ came to some reach, scarce white as a troop that belongs.
+ pain eluas and he likes on orange him,
+ and reading against the edges of historical,
+ for turn the sabbath above the skirts
+ of better to wawa at the edges that his
+ beckons dance that plates the sorr angless,
+ the spineness of not immensity, men didn't mean 

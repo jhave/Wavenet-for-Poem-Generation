@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GROAN TO INSIDE SCREAMS
+
+
+ he imaginable, figured by the detest ends,
+some was. complore caves, which a gun, he and 
+steaming through a day one course gerors
+ history haggard even the bleached maized.
+ they weep wait that emptied. but it's time the kiss, to do,
+ used--but hundred yes, but commisered together
+who literal even it hath pushcass we
+                                                born flow
+of one time could only and come set of ha

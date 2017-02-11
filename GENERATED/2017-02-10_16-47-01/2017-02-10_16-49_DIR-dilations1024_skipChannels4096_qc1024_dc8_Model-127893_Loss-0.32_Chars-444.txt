@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FROM ONE.
+
+
+  
+ i don't lifted the poets and tug my father's best
+ lantern with tenderly injured the fence
+ it gotten by the oaks, a moon. devoured
+ the landscape karest into our mere into wings.
+
+in the wild glories of the trenches
+supple squirrels.
+
+the motorboat is gone
+
+for lengthens in the calm,
+ and more on the sum
+
+over theorems more and the house.
+and the stars 
+
+of manners wait for their small and roaring
+
+and tinged beneath a dog
+on

@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AN APRIL CHANCED THAT LAST 
+
+
+   and that celia, not waits no 
+                                                                soft things 
+
+attackingk beware done over they were alike 
+    feel all men's gloriest names 
+                                                                                                                                                                                                           in fact that          

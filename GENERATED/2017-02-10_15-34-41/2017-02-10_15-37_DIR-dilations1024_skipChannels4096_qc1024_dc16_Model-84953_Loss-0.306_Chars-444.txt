@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OUT OF THE BUZZ OF HAMLET UPLIFTED
+
+
+once bank as virtues
+ a dust in the world island-stair wynd,
+ornameno and twenty-two a',
+either shone. what? the blorsbundled sight,
+so we're leaned on top of as mal
+the french and whisper, the king
+of blessed in the hook world 
+their two are so pronounced like a bones
+
+and courting by their reortimes in men,
+there's no rather died
+burden and iron cloaking and town off the middle through dark 
+socks and ma

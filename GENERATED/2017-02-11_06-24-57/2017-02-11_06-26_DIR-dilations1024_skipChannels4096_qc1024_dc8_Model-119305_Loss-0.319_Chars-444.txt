@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A FOREST
+
+
+ the falsensions and the circles,
+make so says the cottage of effect,
+my people might mean some like it,
+borea the minds of a finger day far away from it restrain
+ the bloom of the kind of salt john, and chariots
+and made the storm copy of broad but my pfffers--
+ i see, and then baby qualities. what were weaving
+shall on a waternal tremendous found in their shoulders. these
+
+and carried after mercies scribble, and he wute the burst

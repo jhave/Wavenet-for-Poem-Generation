@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ I COULD NOT DO WORK IN ME, AND LEAPE AND REPOSED, 
+
+
+                let her work you sleeps all 
+                        love and stench crown, vain envy, 
+the fluwbed wine other deluge, and that sees
+         public far into the welcome of the world. 
+
+                 love like atoms claim that make may right
+    'tis formed among us as the right that we call seem
+--as like a back, where all reeds, move to enjoy 
+                       wha

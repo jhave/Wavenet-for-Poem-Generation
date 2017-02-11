@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LONGER TROUGH.
+
+
+  
+ what i wanted you lit in the heart, sense of wild stars
+ into this leviathan--roll me the bigger
+ out that eyes he broke her nothing down
+  
+ for hope of england neon bread on your that
+ and hidden inside-eyed, all their husk . . . .
+  
+ the book of the soldiers jacket them into the teacher,
+ the horizon that book of erasure, light anywhere.
+ the sheer that made half a stranger must be gone.
+ . three sharp springs clicked

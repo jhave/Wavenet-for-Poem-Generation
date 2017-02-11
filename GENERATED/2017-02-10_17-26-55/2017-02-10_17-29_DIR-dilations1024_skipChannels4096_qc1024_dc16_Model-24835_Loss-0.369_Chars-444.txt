@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MILES DIPPED MOLLY HOME
+
+
+ on flannel chamber of me li hated, in the speakness
+                              were the gravity of the night hotel
+the cottage of the people the sky of ice.
+  
+ a kicked a giant her close this
+       of welfare of the lethe spontaneous
+ during up as distant polyesters and tongue 
+     there is there let held not go from the pooling boy with heavens
+ without stay and its not the soul,
+ set is five years my throate

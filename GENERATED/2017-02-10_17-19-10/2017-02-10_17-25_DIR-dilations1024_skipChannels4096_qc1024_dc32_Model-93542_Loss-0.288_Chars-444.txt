@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          ON THE CORNER
+
+
+which is it my god and could pluble.
+ dawnier says if ame in the mouth,
+              of the grace of blues by
+   it the elements came out over
+              he soiled at country's yellow's
+         in the styth dusk of the gaunt of maimed
+              gold-choked on my hand, the herd of
+  
+                       stand.
+       there is bloated saul, blind, i opening
+                              for t

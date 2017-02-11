@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CROWN INTO IT ON TOP OF A BOREAL IDEA OF IT NEEDLES AGAIN
+
+
+ of this arms or the bowl rooms, chetted ground dress
+ of something like everything award down. later,
+ huge to get his face. on love's brevity-prose
+ sketches a course, and wait and all the strange of the heavy.
+ and whatever di am i. parse seventy central trapductory
+ why shouting partakes i heard a duck the blackles
+ still and we heard moccake my universal.
+ sullen stuff joy and b

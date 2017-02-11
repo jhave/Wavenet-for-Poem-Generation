@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE THE FULL MOON OR WEEDS.
+
+
+  
+                                                                                    fingernail
+ 
+and that whirsty, morphine where donne hills in
+  
+                    how to be black slow snows
+                    i am after it?
+                      the mosquito voice, oui 
+                                      black a bottle
+                                  from with a pony
+                          into 

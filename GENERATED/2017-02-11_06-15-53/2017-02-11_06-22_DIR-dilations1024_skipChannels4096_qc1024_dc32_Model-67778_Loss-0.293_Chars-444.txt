@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THING-FIGHT WORLD AROUND A DEAD FROM EACH AND THE DEAD, ALL THERE YETS FAN IS FLOATED WITH A FLOWER SOUND OF MY TEMPLECE WITH A VERBAN OF CONTEMPT, & THE HAND THAT CYCLAMEN. THEY CLOSE BENT ON THAT GRAVE.   IN WHICH CASTANEABLE SWAMPY AMONG UNTIL THE FATHER IN THE BONE, THE TRAGIC SPLENDID     TO BALANCED IN ELEGANT SKY. AS A CHALICE NEXT TO CONSIDER IN ON MARKER AND DECIDES TWO ARMD UP   LET IT GO, FORM TO THE BLOOD OF THE TREES. THE LICE 

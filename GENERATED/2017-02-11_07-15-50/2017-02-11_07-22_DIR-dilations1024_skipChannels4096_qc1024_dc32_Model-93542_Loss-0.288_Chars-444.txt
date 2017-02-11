@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BOASTERED
+
+
+  
+ o attenuated forward eyes his shuffled grey
+ to the heart of the deaner touch,
+     to dream of an instead of the rain 
+     go home details as the house of his life a bored
+  
+ the whole hearts unscathed. i believe that nightmares
+ things that straps by barren must sleeves
+ verdicted on the army of one could understood.
+  
+ ever knee is have an appearance whispering
+  
+ for the fifteen-matthew boas supplied. 
+  
+ beside the r

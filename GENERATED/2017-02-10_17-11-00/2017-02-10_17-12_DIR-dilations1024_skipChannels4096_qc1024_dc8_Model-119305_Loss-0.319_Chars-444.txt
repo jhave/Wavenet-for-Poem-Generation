@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH THE LONG SWORD IN THE WEST
+
+
+ of town hoof-smite in the star soft
+the sidewind we must red and slafford all, 
+dog and black soil martin, i ever brown poetcards
+of us 
+among the world
+until he could permitted in the drifts.
+
+and drool at natural of us,
+  
+                                                                                           her sleep 
+something used. 
+                             
+
+                                    

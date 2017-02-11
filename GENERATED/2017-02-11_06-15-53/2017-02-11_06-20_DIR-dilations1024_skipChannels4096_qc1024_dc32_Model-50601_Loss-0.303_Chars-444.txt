@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FILLED WORDS, THIOSTY NEIDER DIES.
+
+
+  
+ i confess. very much of my head,
+ would have gathered
+  
+ et a river and knock up if by
+ robber sparrows pisible
+ spies.
+ the seventh of glasses,
+ see them to--what pouts
+ still she had a fire america
+ do the buildings i had forget   
+ was before ice stands
+ and an hour
+ of fishing face of sweatshirts.
+ thank god is anyway,
+ and companions. and then doesn't matters'-skin
+ twisted with the margin monks
+

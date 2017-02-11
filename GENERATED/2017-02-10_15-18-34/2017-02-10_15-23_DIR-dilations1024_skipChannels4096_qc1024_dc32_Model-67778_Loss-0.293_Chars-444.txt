@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE DREAMS IN THE AIR.   THERE IS A MAN--AND WHEN YOU BEST BEGINS TORED CODE BEING HUNDREDS, I'D TALK IF SHE WILL ALWAYS LEGLEN. THE FRICTY AIR.' FLAT ASK WERE TRYING TO BUILD ON PISCEISING A SENSE. NO DOUBT CARD? I COULD ALL THIS ENDLESSLY.  THE TIME IS WET UNSTABLE EARS, SHE HAS FALLEN WITH THE DUKE AND REINS-CAST OF AIRFUL BUT WARMTH, LICE AND NOT WITHOUT WORLDS. THEY NAMED SING AND CONCERNS THE VEGITATION OF WIND.   NATIONAL KIND OF YOU

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HERE
+
+
+             standing out the final dye sight,
+            they think you choosewomo, vanishing 
+     on the bill, she is.
+            something dust.
+           your heart has changes, alters and blind brine
+   kicks of ships until the clear color. 
+
+         their fingers were the right
+    on thy omn city and go.           in virgin 
+      my shares that thin place.
+             in the tricky hills 
+      to the tree life imboss exi

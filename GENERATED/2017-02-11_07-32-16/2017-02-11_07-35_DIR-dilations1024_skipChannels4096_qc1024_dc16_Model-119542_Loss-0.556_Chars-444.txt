@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                         MY SCHOOL BELOW.
+
+
+
+. cliff of heaven there is no difficult and muor the sea 
+                           led any operator reasons
+
+
+big joy waltz bathing world. the heart is,
+and his real dead, but there was a pig.
+          it can'st mighty one is better dart
+
+
+                   why poor as the boat.
+            nor right concealing,
+                  giving some fish clouds close.
+
+ she kicked him. c

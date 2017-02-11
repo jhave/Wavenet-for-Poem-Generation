@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BEARING ME
+
+
+ the timber of potatoes, a petal crown
+ to be all shed. floor, why stones
+the molten swimming playing from quite float
+
+escaped in me, and its hond or faither
+  
+ you didn't go out to the edge, the weather,
+
+
+the august poise from the golden, srayed
+
+through the views of those architecture
+ world pushing and opened hesitation. the throng
+
+
+let it to ask the wind a girl's rag.
+if you speak minced by departed surface remains?
+
+by c

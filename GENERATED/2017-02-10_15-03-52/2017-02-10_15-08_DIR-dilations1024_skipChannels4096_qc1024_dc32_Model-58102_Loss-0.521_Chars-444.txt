@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PLANES THE CHANCE
+
+
+ armcha. where folks me,
+ o brag into gold grass little briery as tree.
+so that every standing splinters of spikes.
+he gets it just the bird's raider
+                                            v
+
+
+michael fills held tired
+                       that degree 
+                          the question did the trees,
+                                      i have only in the air and speaky
+  
+             there is a strand,
+ the d

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HALF-OPEN THE VEIL 
+
+
+of the circle office of a remained thebe 
+saw a foolish tuna cries are tumors. 
+
+                                    more but water, 
+                      take him out of thee 
+buckler'st, over thereof is level fount, 
+           floating a care of a living dead. 
+         make smooth and other sips thee, 
+but we think and convert lip again, let it 
+              the cluck open locked like bullows 
+                     

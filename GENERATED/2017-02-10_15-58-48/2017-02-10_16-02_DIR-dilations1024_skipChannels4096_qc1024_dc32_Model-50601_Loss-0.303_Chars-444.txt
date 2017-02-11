@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      MORE PETALS MAKE MEN RECONCILED
+
+
+ to enthutes chidring and hinged dogs, whim
+  
+ the sea float rangs. all day my command,
+  
+ between them would enter their tent
+ ten milestone thus blindly seeking about.
+  
+ waked like a trophy of the lyric time,
+ sliding up her sleeve.
+
+                                          
+
+                                in the night move
+  
+                                                      fingers
+        

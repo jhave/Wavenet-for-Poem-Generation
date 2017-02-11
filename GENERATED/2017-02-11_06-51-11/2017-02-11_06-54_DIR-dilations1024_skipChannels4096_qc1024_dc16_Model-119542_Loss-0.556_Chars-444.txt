@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE GRIG
+
+
+ that first
+                          
+ gives on
+ i judge john blind had beguile on his
+                         by the cargo of a hula
+
+knowledge thy clich. pity.
+                     old mastodon, is
+       including on an angel
+                                      till the so good gate.
+ 
+when i could logic written
+
+           break bugs had puts
+                                        i could bad living
+                which w

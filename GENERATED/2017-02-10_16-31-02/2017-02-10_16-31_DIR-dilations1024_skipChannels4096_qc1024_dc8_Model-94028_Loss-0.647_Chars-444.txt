@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SENTENCE STUMBLES BILL
+
+
+
+up there were gone like boar...............
+
+yes, no st.quen clear, senness of 
+forgetting into yours for are a man.
+what was young
+ father diminishing from demanding rows us 
+
+everybody come up every jane 
+with an all.
+
+
+
+i remember
+to thece
+the saleswir caravan deep circles of your son believe your dark,
+shake dollards criticiden of mask
+
+city white kitchen church
+
+where it has direction. chorus delivery of foes
+of

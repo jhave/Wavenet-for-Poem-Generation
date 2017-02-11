@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ROOM FORTH 
+
+
+and sunset's meanings i confess are frightened,
+     leaving line up the sun, and the time.
+ she is electrously limbs into the floor
+ and split in the ceremony.
+ think these cheeks that will begate german 
+he tours here in the porch spear?
+
+
+                               no humans remembers
+ yourself the curve of them out of the bottom
+ that the carriage home burroughs 
+                                                   and hea

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WEATHER PAYDAY   
+
+
+                            and raphael too.   
+not this morning is living in the sole set? 
+
+it heals which boys which way these tie on 
+on fire and paris, let men perception 
+on my cameters. i stood becomes a dawn-- 
+                                   counting like any of tongue 
+                    young something   
+                  singing wrongs have you must not 
+wrinkled making in the end 
+          that there are

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OFF YOUR FINGERS
+
+
+ with the lovers. he seen air, scrutiny,
+ and a scorched laws, and the blazing america fitting
+the passenger disguise floundering bill
+watching out west salss back thee pull.
+
+be sure the loudest of sufficient water in my thought-it--
+but all the inherited by my first and east be into the covers.
+ 
+in the flaming water's bath of conjugal & cricket
+to the sun was the evening potatoes.--
+gibbs sliding the branching  rumor mor

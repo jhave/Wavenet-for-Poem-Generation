@@ -1,0 +1,36 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF SHADOW FROM SHARPER'S
+
+
+ its star, the sun but state closes.
+were the sun.
+tonight the story,
+ of the soul's edge of years
+the shirts
+ of vast
+
+to an end.
+  
+  
+ a voice corpses 
+
+for the globe approach motors
+
+once afternoon
+ and their brute under as a hushed 
+
+when i fall spoke
+  
+ by grown planted and unrabbit rocks
+tructures to blow that hummingbirds like 
+so out into the thought perhaps my veget 
+on roads that no common-load, then
+she

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAWS
+
+
+        a closed day.
+ the moment's flea of its wings.
+ eventually disappointed dayward
+ of his busy in another,
+ i faint a hemisphere you and i flad you--
+ perceived their daddies are liveth.
+  
+ and their maize the corners' nature way.
+  
+ who they fill how hardened, tartole in the trees.
+  
+ a condoming smells.
+  
+ i like to see his world is bleak, like ripping belches cuts by,
+ unless you hit in the mix-wall of old scissors 
+ and f

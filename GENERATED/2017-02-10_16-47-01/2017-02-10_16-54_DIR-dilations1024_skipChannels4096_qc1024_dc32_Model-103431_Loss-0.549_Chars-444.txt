@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AN EPISTICE. KITCHEN, TODAY
+
+
+         
+
+i can see some mother or dubious blossoms of gigner lake 
+                                          old mule again. 
+
+and brought was from a leafage for each mangolia. might strewing in the very exploigable news 
+and the fragmentations had i burn over ignorance. 
+
+i wanted to his house and more light swells and glory 
+remembered thirty-four knowing second numb.   
+i like it and promises there that all 

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                             A GULF WIND WORK.
+
+
+ you should have a weed to the key & cogs pudge.
+                 a souvenir rescuions,
+          in priding cuba into a hedges?
+  
+                                                sometimes
+                                 a nest
+ 
+
+ there me i came current my eldest wire,
+ fathery, heeled men dense to the right of the
+            watch the state of the wide down.
+                        the pig

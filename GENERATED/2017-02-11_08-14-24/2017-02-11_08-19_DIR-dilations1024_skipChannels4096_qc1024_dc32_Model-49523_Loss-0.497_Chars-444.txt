@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EXTINCTION DRED INTO
+
+
+            a pause paved after the grass,
+ our children waistcoated his wit of
+         to be as we didn't wore fascinated to all.
+  
+ enprusters marched over every pierced around
+         for love so much to situation
+        kicking in the floor that's recognition
+  
+ into the arid flesh holy holy you are
+ to the rhythms of meadow many home.
+  
+ km shoulders holy on the lord's failed misleading
+ to mean roof around
+ 

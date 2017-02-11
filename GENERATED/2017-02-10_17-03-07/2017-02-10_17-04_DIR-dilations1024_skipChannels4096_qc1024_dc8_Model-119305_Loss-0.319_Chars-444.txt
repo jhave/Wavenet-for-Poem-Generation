@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PASS
+
+
+                             on something quaints itself
+ the little geranium
+  
+  
+ far          let me and killed it past
+ as though hemispheres, these stand
+ me into her sexias takes?
+  
+ this stars constant chatfoot forever --
+the pupil 
+till and grew quart & each
+ and loved along the place
+ dirty souvean all that it had hanging
+
+she remember hoofs of rain i may
+ encompasses of the brain converging behind
+as the year is the luminou

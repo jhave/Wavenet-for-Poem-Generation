@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RACES.
+
+
+
+rocks , leaves his glowing pain
+ of fire thanks.
+ 
+for the blackbird hawk his hair,
+
+years lazarus' leotar the sky
+
+                                   ----
+
+keith instant purposes
+awful harola
+
+          .
+swaddled beads on
+                
+                love
+ blinks in these force my room
+                                 it is said we did my father
+                                theirs, one afterward
+i always shaps
+             

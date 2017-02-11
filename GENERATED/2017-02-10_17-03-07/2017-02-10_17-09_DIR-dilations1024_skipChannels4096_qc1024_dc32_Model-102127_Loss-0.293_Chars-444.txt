@@ -1,0 +1,39 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     THE CONVALESCENT 
+
+
+          i great   
+     
+ our things i cannot.
+  
+    a characteristically
+ a strange planks a bird's pants
+ of psalms.
+  
+ word to masterson rise
+ head a strange pigs-stuck
+  
+ in the shape of dawnings
+  
+ said and takes such a hood south
+ their light dreamily
+ the drug caf robinsons
+  
+ appears in a gavernous
+ and the oppressure
+  
+ so i call hope is?
+  
+ all manner gay
+ drenches 
+ beneath began
+ the mouse.
+ there 

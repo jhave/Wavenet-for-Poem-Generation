@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    A WOMAN'S STORY AS THESE
+
+
+ and cut them the groceries   . certainly down
+ where i chose you sit at the nights that says
+ another's evil. the governor's bottle strip.
+  
+ man called watchings of the kitchen
+ people believes in measure gives
+  
+ as usual hidden and strange primary chaff,
+ suddenly the run, the pigments, socks and beaks
+ he hasn't dripping, two years later
+ elbows him, each love is left to live, 
+ shoes the dead i rejoicing 

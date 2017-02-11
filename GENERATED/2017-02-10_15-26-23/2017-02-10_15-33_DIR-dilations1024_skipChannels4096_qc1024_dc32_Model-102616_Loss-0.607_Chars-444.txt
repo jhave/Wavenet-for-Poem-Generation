@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FROM THE BOAR AND LIGHT. IN THE SHADE
+
+
+can hear a bracelet ring out, by august ....s.
+
+a shadowed ham late you is, is again things
+though fastened hair on the quikes.
+
+the shards pulling invisible...hidden enough for denock
+while unflinted him downed, and all
+veil thudging me 
+the hands are leapt oil
+upon your own ness of paper
+and held petitely girded by the gourd
+torrent as are a gulf on its shoulders
+on their glitters, but grief in night
+

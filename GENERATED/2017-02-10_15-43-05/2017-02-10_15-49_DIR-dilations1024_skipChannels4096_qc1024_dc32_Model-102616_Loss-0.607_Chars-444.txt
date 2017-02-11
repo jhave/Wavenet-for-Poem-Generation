@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                           IN THE PHONE 
+
+
+i overheard, sobbing for death.
+what else he was cut
+                                         its own
+
+daughter of the airport of their weight
+in the slate skull the blaze, tielding who speaks back in a shot
+like a stummo--nod, hope apple is the bond
+           and cast man gives her eyes
+for the woods into justice called kiking. 
+the plants settle. sinless the heartness,
+its way because it is, you're

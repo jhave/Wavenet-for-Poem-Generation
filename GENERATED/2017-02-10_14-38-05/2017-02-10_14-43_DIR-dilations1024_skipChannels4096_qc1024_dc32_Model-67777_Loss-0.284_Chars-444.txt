@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THERE FOR THIS WAY?
+
+
+
+the army portion on their unn,
+         yet her bitter at school.
+  
+ the world we fall in shall breather 
+and never once spider off,
+                      not tick of the convictory
+                               about and the soul, i wasn't
+                                 he rushed up, the stell
+           through                           into henne
+ rinse the true stabbed you drink 
+                             eno

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+             THE INSTRUMENTED
+
+
+ into the holiday danglow
+our age was say carved and connois serving
+ of water into each perhaps
+  
+ and knew historical is and beside a hand of the train.
+my scandalrous--lurked in composed
+            the videota dickbar against my facts.
+
+ he playing and i have left over the new,
+a friend also. whispering have puffins,
+                                   in my eyes wearing and espylano.
+   and went total pass 

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOMETHING IF YOU'RE,
+
+
+       always from the last years muzzle between kingdom
+ forgetting moving the wilderness and tilting
+ cold corurge is a thread the threads sprung
+handed skin band up and responsive their hammer's sky
+unless scuffed where and a bore coal and quit.
+
+leave haystaceans choose. seated treebarking.
+    the sense of notever a beginning is much fit for pasing
+                                     in the soft i stolen
+     he a

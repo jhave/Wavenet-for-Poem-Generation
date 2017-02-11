@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE CITIES
+
+
+ at the long mask to a wound on the skies
+ the white roof-gnaw, my gardens must be
+ boring the sky, and then yourself--
+ july. then estate architects--each
+ a thousand planet baby no more teo--
+i am not hear the commotion and toy.
+ the mind thirsts
+ of marathon memory of the throng
+from a thorn to give you
+and fee
+ what i will spill 
+that bales
+that possible
+ blacks
+ of our life and tray. 
+
+ at the hunt
+lowered into soul singing
+

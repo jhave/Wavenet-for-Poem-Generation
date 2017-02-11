@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE SEA, BOWIE--
+
+
+     then the earth he takes broad
+   him the seas a photographs of the sunlight
+ left to check out the tables, the white cloud
+
+  
+ or i'll not exposed
+as u awakening syrup and the festern whitening through the horizon of it through a limited train back for the hip, ouro.     and worry appear, then and then has its being mud to the railroad tate of his age bands and stunting with my slaves.  a remotened screens, but i b

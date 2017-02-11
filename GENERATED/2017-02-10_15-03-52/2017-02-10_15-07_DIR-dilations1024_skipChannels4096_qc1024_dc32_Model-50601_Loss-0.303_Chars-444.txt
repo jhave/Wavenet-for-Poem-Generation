@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AIR
+
+
+ troubling me in the mistresse
+ ather. after letters swoon
+ so the charms look at peach--
+ amphibal for now, 
+ for a cold
+ with napol of winter aimless glass,
+ always of darkness,
+ the blue blues
+ sweet at read will drank is
+  
+ and the speak frozen stiffenitions
+ preoming magnify night
+ itch of the negro will say you,
+ eating a lone north
+  
+ they must be milk and water,
+ but we were on a table unbalanced.
+  
+ 'tis the stunning rails.
+

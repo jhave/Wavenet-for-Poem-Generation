@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN JESS OF GEORGE AND FOREPASS STUCK.
+
+
+  
+ one eyes it was something humming silent,
+        
+  
+ by the interest in the grade of the morning mountains--there were the arcs, and a shrops snaps in each day 
+                      words but the way to where i want to be always
+                         
+  
+          what i wanted to lifefal, sent on the classical purpose 
+                                             we are almost unity mat on th

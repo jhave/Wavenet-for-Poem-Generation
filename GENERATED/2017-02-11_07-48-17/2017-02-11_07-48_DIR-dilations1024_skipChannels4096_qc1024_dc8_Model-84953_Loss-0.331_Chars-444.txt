@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON HIS TALL RHYTHM 
+
+
+
+stick is a song of the sibyl my mind floating
+ in retrophr please majar
+ cathedraln glass, and isn't
+ and near where the sky
+  
+ a day i would not for cunning.
+you swam, unreceivable and song,
+undividual hysterical expedition.
+ i
+never does not that to dry america,
+ not enough house.
+ 
+
+ii.
+  
+ give the day is shattered of the bare
+ about the pathos his
+i.
+
+ a woman said, the gull that i want feet his junk
+ so long, my 

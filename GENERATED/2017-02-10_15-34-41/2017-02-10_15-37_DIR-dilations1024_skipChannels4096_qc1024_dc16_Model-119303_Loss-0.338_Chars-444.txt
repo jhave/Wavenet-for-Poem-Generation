@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GOT THE GUY SENTENCE 
+
+
+to drink the houses crying
+ and would ragves
+
+down the hurricane plates
+ worldmon,
+lyregus
+brown of such a frown and the tucket.
+
+
+orpheuse brings to force for marfatra, by the muddy knows
+who'll cook someone names gardens dreams on hangins, the world was my
+
+to the selayed grim? more disintegra and helps on conversation--
+the choice of pleasantly here my row-clutch baseball in vacuum
+for the arm, crouched a plane, but

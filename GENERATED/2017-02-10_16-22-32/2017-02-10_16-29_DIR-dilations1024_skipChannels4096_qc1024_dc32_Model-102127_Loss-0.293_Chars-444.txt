@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A DANCE
+
+
+and deeply, bare black and these radiance
+ june
+like the sunlight in order
+ of the rolling glasses and what
+ circle of the tubes of the roseduc muse.
+  
+ the window at the earth will fly up
+ sting in the tender land place
+ through strings, blue in the long gum.
+  
+ as dry live by flamer friend
+ between my throes deplore
+ it thrill out.
+  
+ even as on the desert boot
+ waitress on the common,
+ that 
+ new leave, as from milituals,
+ and

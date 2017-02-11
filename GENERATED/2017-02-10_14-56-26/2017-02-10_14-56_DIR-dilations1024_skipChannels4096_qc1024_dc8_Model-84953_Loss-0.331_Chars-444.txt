@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ROCKS.
+
+
+ the tool-shifting yourself counted tig
+
+death reading a narrow blooming the walls
+sal. 
+husit, as if you've stuck in secret
+ and in the travelled stuff at . do it.
+
+                         settling since into lieutots
+                                                 my tongue
+                                                behold the manyat river.
+                                         bread optims with my face.
+                 

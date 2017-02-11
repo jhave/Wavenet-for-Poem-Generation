@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ YEARS
+
+
+ off, in the transmus
+
+the half-pinsky gods, and formal face, 
+
+the way the sea side graces
+ running lungs
+ blood and so in, the mash of the main,
+the photographs of folly cured,
+i watch the gently gesture in the cock
+i can still winter.
+
+the soft edge of torn and the sky.
+lazz flickering on the block baskets
+between me houses up to get to go
+no one is wake to eat our view,
+i did not july under it
+     every more of dreadful tale that

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LEGS LOW WITH SOFT,
+
+
+its gowns are my toast battered 
+
+
+for isaacs. give it a personade,
+lack it for it lay in the heart.
+
+
+hair every thief in a guidda swring
+ the perfumes of the beautiful
+what can embilations in the clouds?
+is a girl gorgeous toks, the words and shovel
+ looking in the vince of wild again
+as we find there on the war avalar looks   
+ and really until the rose thiumph, 
+of cave in the interrupted out the house
+to open some p

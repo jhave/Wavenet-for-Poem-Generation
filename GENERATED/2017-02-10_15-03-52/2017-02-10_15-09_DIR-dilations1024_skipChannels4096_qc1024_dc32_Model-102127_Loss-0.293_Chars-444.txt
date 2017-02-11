@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CHURCHES
+
+
+     and a caraura breaks twists,
+     and one reason        the mushroom
+        pallor
+  
+     in klastic painted in a book
+  
+ and nothing can happen back to trust
+ the cathedral beauty.
+
+
+the grass souvenging it.
+  
+ and plunged wings in the black truck 
+ blind and maul
+ make a yows tree out sleep,
+ and the tody and shoe and raise,
+ the hundred wend stands out of us
+ the comfortable destinies
+ phebandor unstable books of magazi

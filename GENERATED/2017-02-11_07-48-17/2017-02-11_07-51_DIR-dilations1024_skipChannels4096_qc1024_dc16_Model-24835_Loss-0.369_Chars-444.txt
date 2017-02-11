@@ -1,0 +1,16 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DAMNED FLOAT AND LEGS,
+
+
+   shit and i know. a vigal adjective. i'm standing a wedding in the sky
+ when pitiless wind or the wall of the space to brings to yourself,
+                 but renew to children desk of gentle, as we really, in her minds share of the eagle cleav                                                      and the blood-mous by the little parasoir in the lives
+  and the bursting of a departure and bounds. no heat. i have tau

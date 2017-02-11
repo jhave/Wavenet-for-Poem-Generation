@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                UPON THE TREE HER WEAKNESS. 
+
+
+
+   my smell the iron rusty with love.
+
+
+o name to fear and incantrements were
+
+      as she escaped to pursue 
+                  he woke your king 
+                                                                       miss below
+    the light valentine sweep you a moving let me pleikus. 
+
+               no great-great have flower    
+
+                                          better fast 
+
+but t

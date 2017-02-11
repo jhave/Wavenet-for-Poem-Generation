@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STREETCROSS 
+
+
+to furniture, it wasn't rough.
+
+
+a girl looks over the photography
+we don't live on the sound wolf.
+
+
+but long kuvory next to montplace
+they tear a friendly on a country in vain.
+
+
+and all the fruit was the niggers
+plunder when the man look glow, 
+more over and tv oh the grave,
+i senseless, do i cages,'
+toy back in the middle of the steel fost
+and try nosebigs envy of 
+the womb dinners, cathedrals
+constop to uncovered, and over

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF THE ACROSS WHICH
+
+
+
+                                        i want steam but no hunt and to january
+
+it was the morning runner's edge and like a nonday chapel the seditional chairs and sorrows, mountain thanks and their moon would i might find his boy's grace shape. . .
+  
+ consolation is less like a stirrings and is the lost room chimney . . . o bore had the rescuean.
+  
+ we are one story, wrapped in the obver, re-ports politics better to

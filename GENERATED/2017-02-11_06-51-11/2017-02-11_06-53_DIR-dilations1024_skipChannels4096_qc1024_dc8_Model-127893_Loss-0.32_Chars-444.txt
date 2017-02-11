@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GUNYETH THIN SHORT   
+
+
+i see the things she said gone to the december of beats
+ traffic before her countless, the dance all around
+ the seventh to boon of the padding choving
+ and other true bunging, the cloth of tattered us
+ where the porcs of your eyes high of january,
+ the foreign of strings, the nights, brown long
+
+the red smudahu revealing cars around
+ perfumed by the bloody connured
+ you, sproating and not geese
+as the journey,
+ crunch

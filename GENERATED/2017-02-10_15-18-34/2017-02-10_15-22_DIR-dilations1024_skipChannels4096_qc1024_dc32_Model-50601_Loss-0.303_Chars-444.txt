@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                     THE WORLD IS FOUNDERING
+
+
+                                                     and the seasonable 
+                                                   believers did and bulk.
+  
+ the bleeds but suitcase usherlike, everywhere is pictures the
+                      an alan in the metropolitan so rare. 
+
+                                                            is harmless
+                                           and give a

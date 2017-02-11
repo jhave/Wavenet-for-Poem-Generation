@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   IN MATTED SACKED MARKET A GHOST
+
+
+named aware out of claimed to join
+                  and loves
+ unblonned by household man's liberty
+ and a dark woken, there's a banner,
+                            but near now at all,
+                           is brought they came
+                                                 &
+                            rip, look,
+                                            then the paw
+                            

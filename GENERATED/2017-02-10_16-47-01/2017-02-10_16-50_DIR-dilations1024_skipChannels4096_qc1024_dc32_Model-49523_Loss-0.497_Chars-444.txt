@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TREE NO BETTER, A STILLNESS
+
+
+ that rice at the ravens in my gt slouch
+ when only recommendation cherubim.
+ the faction, babe's teeth. it
+ prescient. ah round them surround.
+  
+ from dangerous. jerked in the town, the pebbles
+ of fire, as infavorites were alone.
+ rich as farewell, thinking for the breeze
+ overflowerpot in the umbrella coace,
+ flushing in the aperture. in the noun
+ yellow like a gine, even apart moid, the pleasant coarse 
+ cli

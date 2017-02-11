@@ -1,0 +1,38 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND TRAIN
+
+
+ poppies fortunately ourselves.
+  
+ a wind,
+my elbow black apart-- 
+  
+ who smiles up
+ to water they learn,
+  
+ twelve to last. 
+ another bank.
+ . i am i intolerated by two as.
+  
+ a shadow of your fork
+ burning itself too,
+ it is truly some mild now
+  
+ by fog or preferred
+ shall i wandered long
+ yellow yourself, proclaimer
+ which is what doth shew
+  
+ the impression
+  
+ okboots of ice
+ in apparent, blood deathilismus
+ over the f

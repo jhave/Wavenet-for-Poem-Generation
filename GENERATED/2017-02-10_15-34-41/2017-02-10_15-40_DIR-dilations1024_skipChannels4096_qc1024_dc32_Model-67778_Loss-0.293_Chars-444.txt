@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RUCKE,
+
+
+ one guy but pull door, wearing a world.
+  
+ the new house i lie ie dead with not cuban
+ is a fenned streets, and hatchee,
+ and pynaptic voice never stay up inside the rose
+ and now once disgusted to pimient and spit & shirt.
+ no need to distract me with justice and water
+ and now. since the track                     in the paper,
+                                                 got trust
+                                             

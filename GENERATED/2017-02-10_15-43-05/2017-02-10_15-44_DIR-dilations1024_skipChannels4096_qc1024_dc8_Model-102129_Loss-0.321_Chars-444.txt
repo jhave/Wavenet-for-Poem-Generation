@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF THE SMOULDERING STRINGS OF LIGHT,
+
+
+ walk will be all after by sea care leagues your
+ and out the board spinning for the movies.
+i am not at john splendid seekers
+a please to easily sponsored home than being is its used.
+  
+                                            and i can be something wombs
+                            on the heavenly bust and touch
+                                   and those beautiful museums.       that washed
+  
+ m

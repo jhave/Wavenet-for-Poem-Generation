@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    NEAR, NO PROFESSORS, UNSEEN.
+
+
+ then, she said, a father life is cooking
+ burst fast, and chimneys for mario to use down
+to what, not the things he hated vegetable said,
+        along a saluting the air of adventure.
+
+                                the kind place in a room
+                       is there is a long pane.
+ like the statue of the sun
+  
+ the slender and desire,
+ culture is ban lynice them woo the bit visibility
+ is a scritch

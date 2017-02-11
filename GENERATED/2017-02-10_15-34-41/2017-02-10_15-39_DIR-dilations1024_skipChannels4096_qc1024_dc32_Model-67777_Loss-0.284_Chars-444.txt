@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PART OF THE PINE COOLNESS.
+
+
+the seven-water f, light,
+                      --black smart-bred,
+
+have is a fine line muffins tear a doing wind.
+                                    past starts of dramatis
+
+                     - has occasioned black regiment verce
+                                                             dissolve
+                                           th.
+                                                    who wears
+  

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HOLDS ALMOST ENTIRELY REACH.
+
+
+ but you're just step and float,
+ i vowed the sword of the dank grass the bird
+ white from the grounds stain muffins 
+ breaking my poisoning posts paled for rest 
+ our own pocket beloved, cloudless sweetly
+ ending the thoughts that candles the first
+ that makes the fire that tunnel.
+  
+ for banked it stay, and in genesion? the entire universe.
+ throws dragged among the rabbits policy. 
+ bugs for the lot, mollabi

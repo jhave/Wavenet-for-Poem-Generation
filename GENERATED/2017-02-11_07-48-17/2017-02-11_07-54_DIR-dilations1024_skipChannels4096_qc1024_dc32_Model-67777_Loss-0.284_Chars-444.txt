@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                          CREEK
+
+
+                                among my thought depart 
+                                                         we woman.
+i am sure they, the whole questests,
+                                                  i could hold
+will tell the kuo,
+                             years? in punched version,
+  
+ how often me lying serving picture
+ tyrant speaking for the snow.
+                            

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE EDGE OF PACT AND LEATHERING UP THROW HE WAS MADE OF ANONYMOUS COCONUT
+
+
+                                            and not to dance a quit.
+                                  and plowers.
+  
+ these were the boats tinge is the roof 
+             or nanny blew the needles fall
+             road or case in an asyly i hear these are tanks
+                             man is ordinary beside his eyes
+                                         

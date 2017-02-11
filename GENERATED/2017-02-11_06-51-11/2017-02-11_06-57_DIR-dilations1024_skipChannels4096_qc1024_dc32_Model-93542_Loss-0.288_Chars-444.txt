@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TEARING AIR--
+
+
+      my soul was hurt the javelins,
+             to thefe we're got the unwashed.
+                                              that in the straggler
+            fall's stalfi, turns of the shore continent
+     they have to his. goes hardened to the shot
+     then up to men. at the submarine lall choir be,
+                                                          tin door,
+                                         i'm good to 

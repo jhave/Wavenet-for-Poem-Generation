@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN TH' FEX' ON 
+
+
+   like a line of music love all up-track 
+            in michael hinds. 
+
+                                           
+
+                           was a wet, 
+               
+                                  the river 
+         but i her eyes, though we herd
+
+                          
+
+    measure of such a bucket   
+       roar from the west. 
+
+thou find and tender claim bewild by 
+       fonts a screenness given
+        

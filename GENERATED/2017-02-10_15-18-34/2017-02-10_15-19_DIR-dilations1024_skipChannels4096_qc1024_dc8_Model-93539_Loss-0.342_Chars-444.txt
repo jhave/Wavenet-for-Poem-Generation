@@ -1,0 +1,17 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A WOMAN TO THE STRONG IN AMPLE PARTS. THE LETTER THE DRILLS AND SMILING FOR YOUR
+
+
+  
+ there was it felt to issulf africa poetry the other of a nazing sky of things convinced in the lost cuss.
+  
+ i first coming our of the moon are space 
+ composing his ship in the chants tears outlined a good by junk like the stick, when to making a blackest rooms or tears his head have a few still and feels forth unallion like a kind of never remember the d

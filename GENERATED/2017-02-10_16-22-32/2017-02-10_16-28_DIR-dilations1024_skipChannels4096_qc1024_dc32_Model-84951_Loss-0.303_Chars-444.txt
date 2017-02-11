@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                             THE PROGRESS.
+
+
+  
+ i am a fantasy.
+  
+                                                  kneer, as a city of her room,
+ the hasimis
+
+ i have carrying the wreaths
+ coat cafreteral atoms.
+for neither instantly,
+ to speak to the top of fists. number,
+                seagull by sights of treation.
+                        lake a glory.
+                                              more flannel jets of insulating moise?
+

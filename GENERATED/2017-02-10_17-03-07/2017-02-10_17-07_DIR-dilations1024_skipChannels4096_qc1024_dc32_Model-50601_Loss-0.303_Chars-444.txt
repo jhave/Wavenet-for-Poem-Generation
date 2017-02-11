@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                                    WE
+
+
+                                                                                      thanks to
+          down, too terrsume me what, stepping his knees
+
+when the temple 
+                and flowers 
+
+to fill tita                   overhead wondered in faces 
+                                                                       on spring-off pine-brows
+  

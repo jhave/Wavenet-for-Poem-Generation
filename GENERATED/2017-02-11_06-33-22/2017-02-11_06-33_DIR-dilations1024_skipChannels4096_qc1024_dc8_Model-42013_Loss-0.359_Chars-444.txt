@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FEED.
+
+
+ and safgcio's his stumbling, burnt opposite
+                                                i red kidney's a down hat paid,
+             and shine was started against therefore tonsed,
+  
+ in the right worlds and here is a bawdy of haydice.
+       xxxxix 
+stuff of alexandrenicipatory leads and coats
+ like a man we are stand song and grasped arranged &
+ and i reit as glass expending aspairs, but
+thou para. he kill i see full by god al

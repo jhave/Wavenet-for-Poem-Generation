@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       A COYOTE BRACED CONVOLUTIONS, AND HIVER IS AWFUL, GLINTING ON THE HAND
+
+
+       and the force careen and sistered the while needles, and something i can tell.
+      long denver poetry. olympia's matter to a village--
+ climbing about at stands upon the land, made the first eyes that steak in all
+ became the populous horseflores
+ so the planet wetly, and malcoled. 
+
+lead of the mosaic trails search
+ in the kank, and on northern buried her

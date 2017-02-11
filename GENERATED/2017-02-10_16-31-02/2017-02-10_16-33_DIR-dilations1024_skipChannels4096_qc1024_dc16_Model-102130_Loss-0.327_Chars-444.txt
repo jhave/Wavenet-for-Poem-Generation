@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DECKED BY A SMILE
+
+
+from on the sea
+  
+                              the yellow after that it was
+                                                   to check
+ gone around her scraps
+  
+ there was the blood commons
+ get their poetry please
+ blackness.
+  
+ until long and heaven
+from her firewood, and hooks
+  
+ the flames of person
+      a dog-apollo. 
+               the belting bird
+                v lousy delda ,
+ across the sea webs above me
+

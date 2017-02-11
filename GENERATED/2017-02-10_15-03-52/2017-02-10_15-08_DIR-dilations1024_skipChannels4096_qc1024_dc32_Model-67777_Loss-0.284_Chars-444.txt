@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TEACH BRIDES
+
+
+to sell my ear my human whisper world to dust any church.
+ the rueful trucify for you went to jet their wedding
+ the hospital morchant before her bed, but posing.
+  
+ that sends the moon abiding and the body that it was growing,
+ the choose you birds
+ we both t-lines keeps he was . . . how many let the dust rotten and forgives,
+ something words the need forever.
+ chairf with news, he says. a shifting views that link 
+ white tre

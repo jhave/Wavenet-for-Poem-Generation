@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CLEARED.
+
+
+  
+ lonely stream clouds cause and tv'stnology,
+ and in beds 
+ ran degenerate flares, stop, tarnishing about me.
+  
+ it was being close to meticulous
+ the man's-hatred blanket drawings and cretch 
+ the museum jesus, the brear dearer that night.
+  
+ the man you expect there is justice
+ and blank, stands & slapped the stars of fear
+ that same time machines felt worn your back 
+ are sure this is a typise bands and lancover jasmine,
+ m

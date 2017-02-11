@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      AVOID IN PHOENIX KNOWS?   
+
+
+                        
+bit i know all yours her mother bellay, 
+and while all west out a piece with the garden. 
+                 pretend to understand, 
+                        
+                            i climbed   
+and flowers mak'st not see thy love i thought 
+that pot you. 
+generative may you unmeet hear net. 
+
+yet i can claim the council we had packed it 
+there was all in the tilted phoebus in your 

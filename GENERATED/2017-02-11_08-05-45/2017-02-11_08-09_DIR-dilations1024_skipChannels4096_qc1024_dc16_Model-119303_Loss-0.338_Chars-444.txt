@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PASSERBY AND SHRUGS OF FACTS
+
+
+     and saving                              into a lagging,
+
+
+flighting down the great begun to dry gently
+                        a hook the chamber weed heads
+               it wove 
+     theirs
+             word of hair, 
+                              and davier
+                     waver give crumbs home in concern.
+                             there's no newspaper.
+  
+ the tidrit-note on the edge of
+      

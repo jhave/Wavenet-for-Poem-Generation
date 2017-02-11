@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEMSELVES-- 
+
+
+you learned from herehouse, poetry that what stubborn   
+steams enclosured. it has not walk an aisle in just writer   
+at neglected edge off it is saves and every 
+o with a great removal merriment--
+hihid who's feet was in the million shoulders   
+and lay carrboard tangled bottom in the women 
+of rylonging had throw these lines and madernal kin 
+trembled a root of place 
+who wouldn't see them. 
+wherevilre embarking in the worl

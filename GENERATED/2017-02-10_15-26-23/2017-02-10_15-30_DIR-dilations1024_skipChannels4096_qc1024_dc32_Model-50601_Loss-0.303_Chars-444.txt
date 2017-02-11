@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FRONDS,
+
+
+wood was one pleasure. down great and frothy by slaughter smoke, to sea high time between in death crossing and ending, of abstract. yet i said seen my head but where i can enter another efficiency instruments this moment air the peche, reshapun. but you were a disip's--a heating was touched memory. i found my own field, lessing in the wash. below, after six clocks open. friend the voice when he said set. for the bicyclad knell, a f

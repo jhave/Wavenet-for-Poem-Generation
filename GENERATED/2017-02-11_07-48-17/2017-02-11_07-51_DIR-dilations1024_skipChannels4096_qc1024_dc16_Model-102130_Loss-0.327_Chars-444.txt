@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BEATINGS,
+
+
+like knot since diana frosted
+with a hangman's wait for it,
+ammunitions sights.
+
+                                                                   oh green walt,
+we're tired   what can you in the storey
+                  she swore wagons
+                             into the rain geese
+                     and be in
+                                                   and the
+
+descends and rubrics maritos
+                          

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  YOU EAT TOKEN 
+
+
+                                                        she likes   
+    from the can 
+   drabbing in europe what quickly fards   
+flash's room whatever in the air was hauled pendoruring   
+could gather what was stolen sue a tragedy renewal   
+                                always rum it is can hold 
+there's a long shrieking 
+         still smiling that your eyes 
+                you reader be yourself   
+
+          what yo

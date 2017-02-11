@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       AND ALL WHISKERS
+
+
+ at a thunderbuot were young 
+       the long more a corn that moves
+  
+ of my eyes and of a ghost.
+     must name a shutter kind
+           paraded detroi
+ what would have no border.
+                      until south beside him,
+ batodes the.
+                                              drink 
+                                of the congo glitter-
+                          did you remember
+  
+                        

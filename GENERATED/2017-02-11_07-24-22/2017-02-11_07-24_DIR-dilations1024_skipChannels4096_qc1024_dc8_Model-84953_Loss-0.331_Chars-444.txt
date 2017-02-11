@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MY HEAD
+
+
+ the years of beauty, the boughs constructions
+ into the dog and seems to run
+ around the middle with rogular life in
+sandhill with brushstroke no long
+ in foil burrayed a gift for deck.
+
+captured toward murmured, 
+but what stanking sun.
+  
+ there, everyone is include 
+
+on his nerves train, again,
+  
+ and a sultre. pinning, a woman. all.
+
+
+the inconsol sure.
+
+it showmown to fight, 
+facing they follow, they're done,
+ in a tree smiled

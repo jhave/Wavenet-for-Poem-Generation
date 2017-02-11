@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ONE
+
+
+ yellow-spot ceiling the wound allows younger,
+          
+         at the deity lumbering
+ of surge as her ice soiled my cloth
+              we all this friday told measure on the mouth
+    myself functions use it's throw
+ the tangled book of the fires, a receptive
+ under the opposite storm,
+ thought? rococo 
+itself clashing the tongue no little taking up
+ hubcap and cone-palings from a minute like us.
+ desire peaks its good telephones
+

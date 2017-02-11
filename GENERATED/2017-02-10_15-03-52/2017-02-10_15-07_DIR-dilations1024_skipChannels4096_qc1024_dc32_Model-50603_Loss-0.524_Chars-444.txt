@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MILES AWAY US
+
+
+                                       it again,
+                                        these people there
+    it seemed my mind bunches out 
+to the years, words souls cried outside
+                               in the thick special enjust.
+           in his wives waited and time gall.
+  
+                       a sort of his left.
+                                                        nine,
+                                 

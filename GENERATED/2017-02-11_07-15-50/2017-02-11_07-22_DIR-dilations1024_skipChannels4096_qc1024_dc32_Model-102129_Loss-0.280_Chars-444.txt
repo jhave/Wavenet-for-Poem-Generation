@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHOOK            AN UNREADABLE FOR MANY WEARS
+
+
+
+ the streets come has folded, nearly suicide se's
+     poket in the sauce of my chance and trunk,
+ there was a crebus air ways
+        but hogtoking made a bage
+       even as sama america of gas.
+  
+ i just un sodom shaped smoke,
+        when blameless as crete amain
+      em-dance of softball
+ i know and not to us fast to the tracks.
+     in it.
+
+
+from the om makes thy hot tighter,
+      i ca

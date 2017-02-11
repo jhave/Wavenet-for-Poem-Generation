@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVEN HOPE IT. 
+
+
+a tin saffron to say we stand me the open window
+lands buried in the dark tumbleweeds 
+the male from faintest on wining. explaining
+in gaubius cloth
+we better smiled with what's 
+and knew. i am a spell which he lay
+then brought in another.
+ the blonde trumps he lies
+                                                                       mind the sensations of tarnished raised
+ proudly, like a snowfay. small from health dollhou

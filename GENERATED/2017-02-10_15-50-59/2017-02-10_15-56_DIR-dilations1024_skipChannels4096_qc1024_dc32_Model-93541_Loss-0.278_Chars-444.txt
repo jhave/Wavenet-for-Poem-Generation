@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHAT COMES
+
+
+ the bitter the wall of fashion
+ of their fate ground,
+ dogs-ride their moansteins again.
+ the way she had thin i am going back upon white stone
+ stumps with the chten misplaced
+ of other work and sacked a bile
+ heroin her, where no flings in the wrong head
+ element will see a sad chance they're was
+ her arms folded together weave the world is cor gor's 
+ in the door weight at the host things that dance
+ donations the volcano out

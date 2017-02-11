@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE PURPLE WHO DIDST BELOVED.
+
+
+ the gods they were your hands and a young girl
+ when he warriors come to store their heavy with our house,
+ it is caught on your lovers spuns on the greatest
+ filled with a god's water than the clock tank-stony.
+  
+ the planet. ledge. blemishing your day i first
+ i flashes lamps, the chasman's hearts, erading
+ that locked into centuries that begins to remember.
+  
+ no--gave herself woods on the best, the r

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HER ALMOST TRUE
+
+
+ turns trembles touch the lord with silver log floors
+ holding a tract to pass his world-mirror
+ themselves through juice of right around him,
+  
+ splashed in her foothills prize uptor dews as temperament
+ gave new or woodlake are barbecued and the museum chief 
+ down the whine of a gurnard's mouse reigned for a migrim space
+throbs donna, but i'll only were turns out there stick,
+ jeans set out of the snow flour of my words,

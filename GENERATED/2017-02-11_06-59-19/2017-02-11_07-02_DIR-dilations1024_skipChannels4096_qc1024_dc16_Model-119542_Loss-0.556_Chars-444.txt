@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND LAUGHED. THEY REFUSE
+
+
+                 the world is landar as blown rough until
+         i won't think you climb the heaven,
+          this lincoln, please
+             i found misy dog mind, 
+          sunished the badge 
+
+this is difficult
+icicles of the country of rogworkey's
+         lightly unopenet to be google
+                 who chomulea is bitch me
+          the shapes that too sweete
+                                           

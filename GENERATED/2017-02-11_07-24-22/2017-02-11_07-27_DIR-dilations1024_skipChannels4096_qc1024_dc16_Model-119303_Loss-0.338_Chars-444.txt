@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN GENERATE
+
+
+ be
+well be, a bible i guess, soft and nothing.
+decked up at the moon. stroke
+the top, too much of good by the corners
+
+cool photographs, but his homage of
+the jagger of envelope. no, but of topek, mows.
+tell me is innocent seek without exaltation,
+a boy and an outage. he would better now,
+slim lavender, overboard, faces the whole?
+ again, who sang them wrought one thoroughness.
+the yellow forty years on butterfly 
+and ereign mo

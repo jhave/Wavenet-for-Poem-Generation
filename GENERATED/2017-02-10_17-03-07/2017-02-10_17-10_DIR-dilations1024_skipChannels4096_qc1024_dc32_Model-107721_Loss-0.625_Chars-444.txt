@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOOL, PAST BOW NEGLECT 
+
+
+death stilled with soft serven where but can kill 
+nor pleasure of the stillness found, 
+and thou wert close and slither-shadow will be 
+he heard was shown the stocky workman on the love-- 
+but blush a moment so light i would not me. 
+what flowers are postulkill fool of rect 
+and naked these voice i shall keep 
+merely unseen in heaven-bank whence 
+the neighbor's need to kings, conceived 
+tied off thou the stella, wit

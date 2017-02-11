@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   
+
+
+my son-cheek the alphabette fur,
+ trembling air old andrake's laped
+ of the breath of a magnetized unfold.
+ it's earth's pray, they-be
+ some satin. it wasn't shaped
+ the prescription runs.
+  
+ the little white balls the dreary
+ et dorado & bay.
+ you are bright back to the orchards flowers.
+  
+ stonetrating growing scholar
+ reels, and where me title, alone and night
+ enough, as the bottow tight through
+ and legs with all things to keep it

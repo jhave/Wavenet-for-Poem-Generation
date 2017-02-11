@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           AND TOSSING FOR BION. MUD DEFINING IMAGES. THE GRUCKLES LIKE WINGS, DISSOLVE, FOR I WAS SO. THEN BURY THE LIARD OF LOVE OF HER OWN THIS SISTER. MUSIC, OR A CLAPBER ZEN. ROCK. DRESSED UP THE SORT OF DRINKS SECRET LIKE WE SUPPOSE A SCARF. THOUGH WORK SWINGING      AND HE MIGHT BE ON THE DARKNESS OF THE EVENING AFTERNOON, SIP RAIDS FOR LIKE A DOG IS NO. THE WHOLE ROUND MISSOURE A TIMETERS MUCH MORE CUNNING AND GULL NOT HE CAN SOOTHE 

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  TEACHING THE LONG TRAIN
+
+
+ who never at the cup of captures of rows.
+
+and lay open your long now the rain after mirth cottage survive
+ with friends in my post off the wise lived,
+hackle is wait and thrown up the dark i pleasance.
+
+    outlast my left. after all, heavy cheeking on a brooms of public 
+was he was no god  in on the child with its crushed down
+the season of the unknown your eyes into tears
+for something about being, fashioned the

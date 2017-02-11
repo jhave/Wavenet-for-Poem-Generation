@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BUT BLOWING THE MOUNTAIN. THE PHRASE STATION
+
+
+ he rather have been the wanderer thunders now to keep the sonum
+ that then i am i had greater the efficiency of or just
+ that the last two night drag all these serrated
+ a man so pure wider is an ovation south belongs. 
+ constant mississippi. a short and boats to last
+ to want the bottom of intermediate th-hen
+ we crushed an awful eternity frail models,
+ landing the neighboring parks the tree do

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                              DYING. THEN
+
+
+                        i serenced as plaster of any moment
+                                        as people mensured my chest
+ a bumpsa, one footled, stored in a nutburns
+        bromefhower inside it.
+
+only the dark wood
+                  in dragon torso, 
+                                    your uniform
+         legs mirrors and
+  
+                                 

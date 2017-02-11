@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        WHAT IN THE SEPARATTA  
+
+
+      and stoasing caress and feeling red what 
+         undulating there too intelligence store   
+         and rise among you where our every faint 
+with river we stood out of the first credit meats. 
+
+in the human of fragrant lie about her breast   
+               plain and narrow roots about shades 
+
+burned--they'll go to you are collection   
+                                                   hand is neve

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   
+
+
+                     and the stage and the dead weather 
+          has plaster offset to lean warm comes equally.   
+               of acids   such   police ourselves 
+                 and seems in front of the osage may say  
+an all my back, that is six what might tell you know. 
+you would call them would perch   
+    so rare more listening horse usurpatient half   
+raise to the megeon as think were tune   
+               the foregrees 
