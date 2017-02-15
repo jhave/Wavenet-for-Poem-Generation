@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ANEONED
+
+
+       how can you remembered out to think of oranges.
+ the holed vietnam? which dotted me, them?
+                                                                                     puts 
+carded up forty mortar, lotter
+of little chin love all it so my prison
+                                                            & her will
+   but love, then answer and disease, 
+where was a sprig opens.
+                    washed him for her mo

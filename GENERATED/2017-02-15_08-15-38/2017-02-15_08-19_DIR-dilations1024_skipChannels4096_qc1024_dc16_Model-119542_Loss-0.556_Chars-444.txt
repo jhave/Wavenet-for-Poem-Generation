@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHICH IN THE LOOM
+
+
+the cloud has nothing else. to bound
+ would be my throng on his life, a few line
+i was five convinced the sun of change hill.
+ it would not be munity blue again,
+so fill these playing them beloved, once in the glass
+which she calls out. the landscape against the highest 
+eye they are spent him thinnest shooting
+into the fogies with pitiless starts to bid, 
+the insidious tables, he's five with calabashes
+stellar mangers sti

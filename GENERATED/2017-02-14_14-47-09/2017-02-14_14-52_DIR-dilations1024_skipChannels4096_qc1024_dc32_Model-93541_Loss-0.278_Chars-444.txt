@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A REASH
+
+
+         that one taste of tea
+
+ heading my empire can be a marphoak wall
+ and down the morning rivers,
+    what abortive.
+ while sorrably, where the index
+ detonations left everyone
+  
+      for the milk of densis
+ breathing the skull and the foot,
+       on a movie ember it
+ the sun, and snow up the marty's
+  
+ gather also a jetty. what can i be walking.
+  
+ her mind to the same age to tie again and 
+ one strong lazy harmless, 
+  

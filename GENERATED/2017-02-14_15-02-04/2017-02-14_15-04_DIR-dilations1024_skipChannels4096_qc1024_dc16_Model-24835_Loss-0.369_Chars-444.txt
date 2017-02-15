@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ALL AROUND THOUBER
+
+
+ wanted to secure a kind of exciteman locomotive,
+let us across the black and some chose too brow 
+where the stygiani and salt whisperina from a fall of coursel 
+the answer man wait each and smoke the fallen soil,
+ the slow before and take the idea of door and my hand--
+the current kinds of secretly for lan for loud their nadies like death
+ carpan on hiscous air of an open and goats of twing, and climb.
+i will know where 

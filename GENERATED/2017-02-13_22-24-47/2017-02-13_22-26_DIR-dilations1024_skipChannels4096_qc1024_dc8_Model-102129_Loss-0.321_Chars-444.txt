@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SAY I LOOK FOR YEARS LISTENS,
+
+
+the time was clean on high as i heard the mind
+ than you saw me laughs his mask the hill upbeer him
+ when he thoughts. he was only on us, weeps
+ on--years i want to death while some hate.
+
+i don't want to be her specdant was in the indian clock cheap,
+ the lie i want a station. if he woven at his navies
+  
+ open again, the danger is lost--a thin buying 
+   in the ninth bones she stride, i keep yourself, 
+ she i

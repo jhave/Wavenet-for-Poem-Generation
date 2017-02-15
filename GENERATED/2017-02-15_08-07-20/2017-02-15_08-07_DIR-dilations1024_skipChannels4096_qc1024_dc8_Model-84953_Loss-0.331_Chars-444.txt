@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ KNOWN THAT ARE IN BED.
+
+
+
+
+   i. selve-red, radiation.
+
+
+you know you were some pulls a betting
+wandering the arc dreamily 
+enter the subject than and night
+ from moccasin and the clock
+whence among so beautiful--
+ stoves, massachusetts were
+into your sweet die bound to be a
+can say it rend
+ obe samar under
+ the checkpit close
+
+
+
+that the bear better
+  
+ wet a deadline brow
+and the skeletages a melanchowl,
+taking the miracle's watchdog-skinne

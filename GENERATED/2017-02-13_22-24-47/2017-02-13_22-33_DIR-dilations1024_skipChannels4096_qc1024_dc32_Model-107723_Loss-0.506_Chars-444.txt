@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+    but the sun and ways were never made contents   days my aunts--   
+      
+it flurred with more room. 
+
+and spared figs, like a lover      should we i alike 
+      in priest is that compare the leaves    weary and guald 
+                                                that do i 
+          what we chased his face love              of rabbits he's ceiling   
+       a world i that are alone with the tates of a packs 
+                     b

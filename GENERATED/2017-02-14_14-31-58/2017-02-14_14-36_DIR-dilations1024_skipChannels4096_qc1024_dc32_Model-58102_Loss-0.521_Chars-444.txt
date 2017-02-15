@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE GLORIOUS
+
+
+ all its yellow boy for days before anyone
+ someone's otherwise the lake.
+meanwhile the land that est up their
+     times a fit church. she wants
+with the sun all hail pasts on her soft gray names
+ as if all night this morning what is lone.
+ the one who's dazzling, white flat.  meanwhile
+ in the sweet for being holy as the answer
+ holy jos in sparr packs whip any cuba falls
+  
+ poor lege all that things no known to hold
+ the ra

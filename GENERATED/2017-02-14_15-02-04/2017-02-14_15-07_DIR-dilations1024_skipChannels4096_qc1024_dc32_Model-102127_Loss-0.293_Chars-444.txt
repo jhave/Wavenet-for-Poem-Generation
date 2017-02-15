@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102127		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                           AND THE MOTHER PLANET AND MAKE MINE TRANS?
+
+
+                                                  standstill. the dead night,
+ and the wind had already looking the not continental in the
+ whose souls this thing between us together escape a shape,
+                     and the tattered lands stor
+                              flowers and ring 
+ but effluvia on the dusk and the nurses in the orange lawn
+                   

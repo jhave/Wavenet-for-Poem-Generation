@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NOW WOMAN 
+
+
+                        and night she puritz
+          in their faces 'wo admired ironic ready tent 
+for jacked soon daily silver wrapped hovels in the earth's obbio 
+                   or with anodyna journeys beach, 
+calculating angels for and world above you 
+                    whereas alexander a store, and went out on the skullcap 
+    frankens in their nerveloint keep us, and then   
+      and furs of brotherhood completel

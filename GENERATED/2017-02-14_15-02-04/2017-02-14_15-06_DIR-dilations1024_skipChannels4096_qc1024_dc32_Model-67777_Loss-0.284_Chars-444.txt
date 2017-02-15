@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+   HERE IS BLOW,
+
+
+ these blocs, a panic-hair,
+ and the size of things,
+ and faces hands of riverbanks.
+  
+ with jailbai paper stand
+ breasts all men in new york
+ they call it back older
+
+
+fly around lamb and preserved by 
+moment to the man who died.
+  
+                                                  --a spring stretch                                             the one dial lustre
+
+took possessed and only high, desires, applues-scribing
+   

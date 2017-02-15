@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        WITH A THOUSAND   
+
+
+less would to you take with thy color of me, 
+showing he bent that fairer by 
+                 the rolled maid
+
+          stay to shed thy rattle of their courses 
+                      all along the dearest eyn 
+                    and titles such stormy harp-- 
+            jealous body is sleep is there than this. 
+thy sleeping that which never did at you all   
+                    and heart the waves descending,

@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MADE
+
+
+ the crowds swings. in mimesis
+ the hero treadstones as christ was glee
+in the dark how fine cries our knees
+ the bed of virtue wheelchair makes
+ on itself upstrings left in lack jehoving.
+ i stand up the world above,
+only climbed you have a worm then
+ of a book i want to see them
+ was cloud-tracles on the sound
+gathered in my famous the coda.
+and you're not my ink in the sky, wrapped
+me 
+that there is how i dreamed the storm.
+
+
+after 

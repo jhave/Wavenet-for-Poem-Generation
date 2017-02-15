@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  SHOVING BUT CONTAINS JUMBLING,
+
+
+  
+ the kingdom yelled the little splash.
+ de would see it. it wull the daughter
+ and if you was too soon above it
+  
+ laughter.
+
+youfound magical stomach of a drapessing,
+
+on your stries swollen skin in the first sky,
+ give us seared, how while i go back again,
+and backing the canvas park--a world
+on my own way to carcasses the please.
+  
+ his mirror of my kir neck talismans--
+none of us part of god.
+mothers

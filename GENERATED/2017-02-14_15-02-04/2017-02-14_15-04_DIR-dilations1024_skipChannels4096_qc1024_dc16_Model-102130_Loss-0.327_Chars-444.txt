@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LEARN. I TWO TROUBLE MINDS LEAP
+
+
+ of things that kindled like an endure
+  
+ a well is thick ahead,
+'twas a belief--bushy distance
+ gray woman earth and another minatech,
+              seen horns
+ and i love my grandfather cricket dry,
+ the battleficked blossom two hagino
+                                     chlrebrides
+ in asia month as if where we must good more
+                                        the sifting place forge
+  
+ colonist, c

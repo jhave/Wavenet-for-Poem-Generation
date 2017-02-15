@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE LIGHT, IN THE STREETS,
+
+
+ ragged by the summers looking
+ and abroad miles we need and still
+  
+ hilda's cattail and mine,
+ cat in its through the surface of spring.
+in the gang of the hair.
+ and let that care fortified failed steep
+
+ and dying is unstable, drums that it's not.
+
+i write snowflake by new york i played on
+ a greased glace and hoscicasin my eyes
+ in summer i saw... to jail, without,
+ a sa little tactical bordering beneath
+alm

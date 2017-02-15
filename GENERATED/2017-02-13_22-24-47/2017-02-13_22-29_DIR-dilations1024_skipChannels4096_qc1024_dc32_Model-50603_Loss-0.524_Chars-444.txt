@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHETHER ISNS
+
+
+                   but doth sed fret.
+ then being knew
+  
+                for my head desk
+         is the slender i
+ watery bone is fed
+                          in line.
+  
+ air thin and sailor's bone 
+         the seventh the city
+               the history
+                              and tell,
+                    i craved core away, it went,
+                to halvest testicle
+                the border crew
+           & 

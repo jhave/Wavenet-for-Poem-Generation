@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THEIR ANCESTORS
+
+
+  
+  
+ to a new days into whi were
+        baby, your other shadows
+      kicking in economy
+ the last. too a best-or-oopened suits,
+                        i wake torns ever failed at the words
+                                                                                my caccus taking officials
+ her rosy is goddess, white planced
+                                                      you can, comb them no mouth.
+       

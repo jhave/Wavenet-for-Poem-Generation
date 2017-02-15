@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HANGS IN THE TREES FROM
+
+
+the railing words
+of the cur we looks space had we wander
+chimera's viny stranger--to mexican
+
+the creaking an aware in my breath.
+to make the freasings for
+  
+                                           letting the closet-art, swung its
+                   cuge rising on their throated cushions
+          bupsack.
+       who was the humdrum that take the heads
+                         here as all better,
+              

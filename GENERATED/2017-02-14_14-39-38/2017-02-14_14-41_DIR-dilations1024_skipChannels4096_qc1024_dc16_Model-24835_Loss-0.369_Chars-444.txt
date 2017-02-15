@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE BLOND FOR THE TOWN--OF ITSELF ITSELF LENGTHENING DROPPED IN THE SEASON READ OF A DARK PAINTERS IN ENSEMBLES. DIM IN THE BODY IS COMPRERO THE NAILED VERMILION. I KNEW IN SABRASIAN TWINKLING, AWARENESS TOWARD OF DEAD. A MEN WITH MIKE THE WHITE MEDIA EXCLAIMING ME A MAD IN AN ARMOREBLE LEADING OS ASLEEP, AND I BEAR WEARING THROUGH PROBING, JUST BRANCHED ON PITCHING LIFE IS NOT TO BE INSIDE AND WORDS THE BLAMES OF THE ARMS AN OFFICE LOAD, L

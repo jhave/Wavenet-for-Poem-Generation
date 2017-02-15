@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOON OFFENDING.
+
+
+  
+ 
+
+  
+ .
+  
+ re-ha,
+ we dared both of her crescens heart
+ she is gone tomorrow
+  
+  
+  
+ beautiful the weather face,
+ softening a stone of river,
+                                                   shame's modern
+                                                     comingficed
+shorts are with the end for you
+  
+                           i know that been long and divine with
+                 up forced to wheel
+ the form ma

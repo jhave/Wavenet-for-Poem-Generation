@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE SHIRT SAND.
+
+
+ say i believe the orchards surge
+ lie separatean peising new torres
+ and cared, and all wears. struke,
+ other than any tarticular river.
+
+yet it so a map of red and rued.
+ almost all of the underground swirled
+ through the way bubble
+after people sandruption ascend topsoils 
+ 
+the means, the storm-line bedcove time
+ she changed the bound from panthers 
+ an unimagine and then many and lives
+ brotherwards around her feet
+alon

@@ -1,0 +1,40 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MOOD,
+
+
+            the intever house. she's gone.
+ the world page, on the grand my
+ vulgar several branches,
+ and three mine, religing
+ without here as nights on the room.
+  
+ she is the only anticipath,
+  
+ into a macum--
+maybe you keep my djone
+ the sad fronds
+  
+ wailing the room of the
+ the indio,
+
+yet we couldn't know
+    leaves the dogs
+ --
+
+these aren't destroy
+ of other-
+ then there 
+
+though siliman in the store incredible
+  
+  
+  
+ 

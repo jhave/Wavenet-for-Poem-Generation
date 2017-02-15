@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HANGING STREAKED PEN SHREDS DONNAS NO LONELY CLICKINGS
+
+
+ but most beautiful mere in the world before the corn-stones
+ as plastic you would not care for the children.
+  
+ confronts they flashes of heightening and its prudent rain.
+ he went devised to sailors everywhere, impledable plur brother neighborhood,
+ and breathe. like music of being red on dachel where it deserved of a shipyo tion-- 
+ glitter slots has crogners of fire this gut, now w

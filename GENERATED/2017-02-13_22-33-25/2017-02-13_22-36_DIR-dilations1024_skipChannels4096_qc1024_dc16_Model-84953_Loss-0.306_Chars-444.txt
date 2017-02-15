@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND UNWRITTEN ON ONE
+
+
+the world--murmured, the sonic in the gate
+ of politics finger's sin--in betting out of hours
+ racing one mad their thirds. with pluckeorth is armor
+
+but the work paites, a bird of roof suffering on
+ white wake warbler the end of the sailor's angry buggahe.
+
+do yours. who never proud of ecstasy
+and so i seld into over to listen to the most
+and i was a ragged visions even thought,
+she died of the left and smiled.
+
+now it

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+             A WHISPERED GODS 
+
+
+i look lions
+                                      of styless behavior
+shall pounded inside the unbeautiful child
+                                                      a little desert, 
+
+all that sweet away sunscan stars
+overthrows sunk the wooden sit on this how's
+shallow gibran's. then keep it--he sees
+on exploding the frightening to anne drifting 
+in this surface pointing me
+somewhere. where the wing of the 

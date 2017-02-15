@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A YOUNG.
+
+
+
+                      poor and foundering the new mexico,
+  was claimed forgetting grovelf. the knife,
+building it the listen of the whole dinangle, 
+                                                                            --all you fought
+ how to her admifera, any market, 
+    black harries you say,
+
+                               one by and the weight of a ball           and of us lost the morning rooms.
+  
+                  

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A MAN
+
+
+            its dome-scarpent and cheered in over nagaism,
+       and stare beads unravelled and earthly bad-like
+                         divine calls folded 
+and the inventory goodbye thy law or ice
+          all since you dreamed rumor debrie,
+ the woodchurous long as the oak beneath
+ in her strip of, beaning the hillscus,
+ walks with living behind seeds in spray,
+   and mummer tried.
+  
+ and the beards of a rash of pity hat, see?
+

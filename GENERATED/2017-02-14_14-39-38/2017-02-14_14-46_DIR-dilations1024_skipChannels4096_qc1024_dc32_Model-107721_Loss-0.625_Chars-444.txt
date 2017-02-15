@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A HEART OF BLISS AND BACKWARDS,   
+
+
+he misread of the split--at once a telescope's language, 
+and bending expension, not night with the same herious honey-merely 
+who in complaints cinder them, tuck with gauze he came to you are inexhaus, 
+stealthily now so often confirm to strike a generous
+
+
+that touch one's anchor. daze, the peaceful lit. of the hum 
+of other nights                                          they are really the raise 
+
+then

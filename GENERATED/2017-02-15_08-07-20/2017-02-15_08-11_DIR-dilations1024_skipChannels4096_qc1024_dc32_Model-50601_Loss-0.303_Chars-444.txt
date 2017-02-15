@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ . . .' TO THE HOWEVER WROTH,
+
+
+            as a colors of the old hammer
+       no mouth.
+  
+ soft sundown certain beats
+ they thought sound
+      i am no and weak,
+ to me, healeto. all the
+                    and her fathers 
+and gulp it. the motion
+ from the native rang cry,
+ singing down together ticking bread 
+                                                  or peace, land more than ken
+& bingra my
+  
+  
+                                b

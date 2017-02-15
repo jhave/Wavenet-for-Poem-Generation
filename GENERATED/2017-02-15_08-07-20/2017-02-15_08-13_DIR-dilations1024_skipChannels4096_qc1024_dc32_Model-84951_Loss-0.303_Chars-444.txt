@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF WHAT MAKES YOUR PATRIARCH
+
+
+ the platter, carved vine, headdress
+ shine on a train snake o'er the flood,
+ a hair and fitches stands better,
+ maze and quiet ashamed pipe
+ and when great jones. the small avening.
+ you feign weeds a few,
+ grass donne. the deer skin ois,
+ like dreaming it rings come in.
+ in the refrain unbernoon, note-eighteener will off
+ and barbara off one--that posing the grasses of mad.
+ 
+
+
+my young blows extension, even a

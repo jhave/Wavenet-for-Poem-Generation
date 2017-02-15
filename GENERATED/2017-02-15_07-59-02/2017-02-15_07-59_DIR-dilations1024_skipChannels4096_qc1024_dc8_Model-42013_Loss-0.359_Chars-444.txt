@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     WHEN ORANGED ON NARRATION
+
+
+      harbored below, a call on the doorway
+ who me out on to.
+ and needs i listen to make degree, well
+ has no wish of scarlet rimersion.
+  
+ furnace on the atomic toward warher's necked
+  
+ putting on the cabin. then-hat a quiet.
+ i think in the people
+drawn and the detheated stend in gallant.
+  
+ gray the sweetest the hoosie by the ustrophia dimension
+make carries untable,
+
+
+modeling, let me things nevel but

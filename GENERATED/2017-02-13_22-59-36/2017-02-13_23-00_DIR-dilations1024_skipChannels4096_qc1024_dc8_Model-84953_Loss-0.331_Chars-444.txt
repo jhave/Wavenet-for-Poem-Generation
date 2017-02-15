@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  SHAKEN SOUND OF WASHINGTON.
+
+
+ i have a stable daughter, a few storm
+                                                                             against his jazz, by the head
+ lar and froth ruthy over in the every cral queens
+                                                                                  bible eyes for what i know
+              when and the apex mevis into those is flying on by take this,
+                   what difficult

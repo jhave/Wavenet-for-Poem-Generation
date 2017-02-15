@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE LATE 
+
+
+is milk to know -- girl away with me, 
+but sometimes a victor, not so 
+for i went behind, of their cottage of
+this haps and bowers, with springe nest
+you we think with my cursed countric sight.
+
+
+two little years that end to build suffuse 
+   none to the genes, by whose sake in calight. 
+to destructioned cometers leapes do flow. 
+the conscience, 
+thou defence, whining moon black within the will eyes. 
+thence turne, but of the one 

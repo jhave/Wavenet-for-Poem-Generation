@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THE LEAF WAS A SENTENCE
+
+
+no matter how we are you audible,
+so he could do? it would have thumbed on ocean
+a single board, 
+the midnight three covered and this gone.
+
+their keeple double east hovers.
+
+i know you ask whisk what she swam block's
+untickie that sorrowing shore.
+when a coy when things makes part
+thank. and hungry. seeking, your plate 
+bursting and far aubad, violently my ghosts.
+
+then lie the ganges
+
+and the icoca water, filli

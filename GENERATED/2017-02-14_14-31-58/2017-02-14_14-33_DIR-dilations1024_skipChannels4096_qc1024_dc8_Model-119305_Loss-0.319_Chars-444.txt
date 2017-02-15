@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ABOVE THEM IN A MANGROVE
+
+
+a doctor in the hearth someone and gourd ashore
+ that ends of beasts in the nepeat must the sundown
+ and fireside a new no window old fever hearts
+ and so younger for a butterfly home, blood frail.
+
+
+the woods fantasy, no scale of the bed invented,
+you should have still answerable into the lunaward
+in bed those got customer and sangreads
+being deserted from her dance all his hands.
+
+she smiles a mess moth-rizuness a

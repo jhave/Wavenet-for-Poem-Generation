@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                       SOMEONE ELSE THAN US
+
+
+                                         music the birds
+                                                        against all imagination 
+method's york
+has hate i knew its static this gods lost it tighten like a act
+                                                                   whose empty hand.
+                                                        how residue
+ it is the trees

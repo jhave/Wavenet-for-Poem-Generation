@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FROZEN BLOWS ARE NOT GUARD AN ENEMY
+
+
+                                    that out of death
+
+					
+					is one minute
+ magnificence
+                               the second slay.
+  
+ would you 
+                                          the sky
+                                                awake,
+                                              in the tears of
+                                     with pray
+              or bop smash of arms wh

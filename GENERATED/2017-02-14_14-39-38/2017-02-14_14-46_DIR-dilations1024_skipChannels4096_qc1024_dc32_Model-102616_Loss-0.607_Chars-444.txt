@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHAT YOU KNOW
+
+
+there were the secret nourished the good.
+no dead. a ghost skull flash of skate in the 
+stumbling and glistening nest, he didn't care
+all other earthling troy. but the root
+with a shot. where to exclusion planks once
+it was fired and demands to find out
+i whispering. you're in no name.
+
+in human society take the maple sked
+and caught on behind a light lafe hat tight
+as you opened burned. i told me, what was hands her mouth
+to 

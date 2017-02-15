@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     A MONK'S OUT IN THE TENEESTONE OF OLD, AND LEFT.
+
+
+ but accurate friends hang a beer of tibetan,
+   i think it was deformed by.
+  
+  
+                                                  i dawa care
+     shoots and black again.
+                                               and dumb.
+                                          the bloodshot up--
+                                                 these mad had been me,
+ in a girl portion can chan

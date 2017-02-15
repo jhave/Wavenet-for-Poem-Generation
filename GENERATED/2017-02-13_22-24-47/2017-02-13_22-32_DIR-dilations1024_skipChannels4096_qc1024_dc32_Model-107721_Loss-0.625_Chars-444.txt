@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TENDER BE IN THE DUST BE- 
+
+
+    to help time nature to a groat peeping the void. 
+
+                         patch to the blest the golden tunes 
+             he practice untimely love.
+
+
+             by what's been convey vent him we call, nor cuckoo blas 
+tender contest with created picked compounds, the little love quick 
+to-witherding, brize might through the smarts of swimmers a new way 
+                                     
+light only u

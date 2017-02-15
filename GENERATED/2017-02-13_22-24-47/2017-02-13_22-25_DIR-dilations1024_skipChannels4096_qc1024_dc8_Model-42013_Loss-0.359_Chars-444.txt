@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HIS OWN DIFFERENT DOOR
+
+
+ the mind-of-unforgive and lascaux,
+ the smell of water splendored in the age yourself to be this is a little lets dirty so grasshopper touching out parting you, flexing and make of anyway, was teacher with myriad. this systematic drum when i waited in carolina i was sitting the stainstake. diver. our mother's free, a con--cold and shaken. that she is look, the staffle net, the clear got thee one of a mouse paring two

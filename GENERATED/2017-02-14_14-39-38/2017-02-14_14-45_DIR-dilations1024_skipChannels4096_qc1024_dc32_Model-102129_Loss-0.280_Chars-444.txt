@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                          HALF-PAST THE GREEN
+
+
+
+i wait for the scarpest ninth
+ ache, kneels at a honor of loud.
+  and datham i was blend itself
+ nor shaded so a language agames the glass,
+  
+ and around my ghosts of the post travel
+ to the hem-tinted garganium,
+                                                    hanging an old to rest.
+  
+ the stock in a single despairs
+ onto its deck ear juans,
+                                               

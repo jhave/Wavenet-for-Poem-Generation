@@ -1,0 +1,22 @@
+jhav:Wavenet-for-Poem-Generation jhave$ cd /Volumes/JHAVE2016/OHHLA/ohhla_CLEAN_txt_files_ALL 
+jhav:ohhla_CLEAN_txt_files_ALL jhave$ cd /Volumes/JHAVE2016/OHHLA/
+jhav:OHHLA jhave$ ls
+ohhla_CLEAN_LIST.txt		test
+ohhla_CLEAN_txt_files_ALL
+jhav:OHHLA jhave$ cd test
+jhav:test jhave$ ls
+jhav:test jhave$ sed -i '' -- '<pre>' *.txt
+sed: 1: "<pre>": invalid command code <
+jhav:test jhave$ sed -i '' -- "<pre>" *.txt
+sed: 1: "<pre>": invalid command code <
+jhav:test jhave$ find . -type f -name '*.txt' -exec sed -i '' <pre> {} +
+-bash: pre: No such file or directory
+jhav:test jhave$ find . -type f -name '*.txt' -exec sed -i '' s/<pre>/ / {} +
+-bash: pre: No such file or directory
+jhav:test jhave$ find . -type f -name '*.txt' -exec sed -i '' s/\<pre\>/ / {} +
+jhav:test jhave$ find . -name '*.txt' -print0 | xargs -0 sed -i "" "s/<pre>/+/g" 
+jhav:test jhave$ find . -name '*.txt' -print0 | xargs -0 sed -i "" "s/pre/+/g"
+
+
+
+

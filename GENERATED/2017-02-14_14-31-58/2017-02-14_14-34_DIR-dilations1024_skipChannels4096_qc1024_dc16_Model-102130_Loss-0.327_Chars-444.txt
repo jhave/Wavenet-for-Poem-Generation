@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TU
+
+
+                  but strung the galaxy,
+    just as true to the time is sure. 
+here other word starts of achille
+at best of the lime with the ends
+        assured of jack & moving on strong,
+ oh sick of some is a star.
+  
+ the maker of the dark in the working-
+ it takes us yet. starved and stagnant,
+ right not far more famously she didn't know
+ the daily take and leaving all of the boop.
+ i dreamed for its eyes.
+
+
+where steps do slice u

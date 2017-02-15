@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LINE SAT DOWN SUM-EACH
+
+
+  
+                                          enacrez neither a 
+on mine is licked as with a table
+ intimate several deaths de la sidewine
+                                                             i've had a faint
+                                                        the livelong
+    hose up through a rainbow are all mending,
+                                                      and weather pines
+                 

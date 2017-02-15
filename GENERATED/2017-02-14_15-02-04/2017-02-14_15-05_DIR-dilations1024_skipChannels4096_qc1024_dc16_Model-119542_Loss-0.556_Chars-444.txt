@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON STRUGGLING LIP
+
+
+    the flock of such misplaced the loss
+     i've taste me with the big,
+nor is shoulders, infinity of evening
+ .
+ but sprig for shoulder.
+          confused into our life onto the heart.
+ by myriads made of this iccontinent breezes
+     reaching your hair within
+      then contently as a swis evening,
+        she shuddering, 
+     belt puteing into waltzed whole
+     his thing they quenches the green said nothing
+       

@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN HIS SHOES. WITH
+
+
+ dress pieces of icon, near the day
+          the cavernous at home hours,
+ pace pcofflex of the room
+              look at the reader long
+      like a dog. or at dusk of men
+        dismembered signs of her phone
+                          the failed sequel
+                                  enough the sky list
+                                                            eaghra body up
+                                     
