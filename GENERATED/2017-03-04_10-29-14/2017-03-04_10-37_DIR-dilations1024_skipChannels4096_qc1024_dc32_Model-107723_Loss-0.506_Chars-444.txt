@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  
+
+
+as blink in a marvel must we reach town be   
+    to think thee that told me should formless fled   
+                                              my august wall
+
+
+think water else that we that was before 
+beyond to every visited let in no anti-read. 
+    there i awake wrongs to you thought they give
+
+to pierce the novels explained with track 
+   to help me? 
+john mark as real sighs i had nothing to with theap 
+                           

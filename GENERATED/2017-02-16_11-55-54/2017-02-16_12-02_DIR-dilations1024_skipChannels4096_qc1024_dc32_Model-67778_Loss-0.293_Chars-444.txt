@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WAS FRAGILE
+
+
+     and the cruelties and free 
+ let go between the heronic individual
+ that says designs the frowns of trapped in.
+ as the snouts of every melody
+       meaning upon the caudalogue
+  
+                              and police with a breed
+                it pleased to its graves
+                                  me          
+                                          to man is.
+                                              and o

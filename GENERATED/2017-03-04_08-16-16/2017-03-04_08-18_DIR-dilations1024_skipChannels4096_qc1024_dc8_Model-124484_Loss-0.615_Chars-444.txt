@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE BIRDS, 
+
+
+hybloight ahead, while love the chickens, 
+the light--dragged right to the insolution.
+
+how ran thieved hill, at the afternoon the alder 
+of bacon, and he about it open it be. 
+
+about epology in the white to issures, 
+the monk d'arc, who o'clock downstairs--it's them force 
+where, 
+
+it pegain that i bites which, tin jingal. 
+sleep what more swollens of his 
+rearred, we saw the blue will blind rat   
+down beneath a street, 
+a

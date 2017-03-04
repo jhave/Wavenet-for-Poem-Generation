@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DRINKING WHISPERS 
+
+
+would their epidemic brought us the spot went up scimitarians,
+ ronslating of motions the miles of the dog for the sky 
+ start there's souls seats risoster'd in the evening creaked,
+teapot clouds around from everything, and force
+ though you are said, stern out from existence.
+
+
+rung in toward the book, tiny, nor suffer free
+ i go out from outside the boughs
+ to the next rooms out on the bust
+ of heels no stature plattere

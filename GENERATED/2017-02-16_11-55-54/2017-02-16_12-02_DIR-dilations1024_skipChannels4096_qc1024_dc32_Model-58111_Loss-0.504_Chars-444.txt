@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PULLED MELONS
+
+
+                               the party and eating mark,
+            of answering
+  
+ that whirred the water
+             yet it was--where do the land's yellow night.
+         the world
+  
+                       recluse in woodchuck across
+  
+         the far mozoco bring her chest
+             in the west place in its eyes.
+                                     we qualities.              necessities
+                  escape,

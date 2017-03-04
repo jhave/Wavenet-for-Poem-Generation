@@ -1,0 +1,31 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+    SEPARATE,
+
+
+ saw
+ my eyes avocado your catching
+ the tempered by the overcoat 
+a small, brandishing and the
+river mocks. he guest,
+ yet to the dark 
+your friends the country barked jackson--
+a point wound us
+ and drown out there is your blood
+ well go home.
+ 
+whohe fresh brooks,
+ out
+ though the roadside companions
+the rounded through soldiers,
+my tongue ly joy, or a niggard
+  
+ wrong trillion the cathodoxy,
+ courtesy trumpeteria came from

@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      IN LOVE AND BACK
+
+
+in your eyes at noon to embrace
+ all his name a golden words of
+ adapted by each night.    
+ 
+  
+ nobody second border
+ your geodeed seated beans
+ animals or ranch, euphur. elements you,
+ grossing a heat
+ if colorful hatred
+ the vital room that counsele
+ like the birds to broken across
+ absurd to overflower
+ tilt the lak again on
+ to buy machine arrive.
+ duckest     gazed them coming
+ go.
+uh so, what do i am going at t

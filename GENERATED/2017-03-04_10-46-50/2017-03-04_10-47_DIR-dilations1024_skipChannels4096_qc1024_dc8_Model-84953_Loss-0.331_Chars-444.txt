@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIKE BALL OF DISTANT SAY
+
+
+ in a dog beyond & busy by solace, artive stench 
+
+when i was angry,
+ effects the gravel care when he
+ me
+in his famous stayed down from personalities
+organize this imminent roads and bring him
+i can't get up the mountains and only inside
+ shiver here i thought it makes her basket
+la bars there is no winter's tranquillingly,
+following down the morning i was full in the cat basket
+of essential and the apartment could

@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ - OR CONTROLLED COULD LOOSE BACK THE
+
+
+god is the smoke of school, the dull underground
+ collide of milk and closet, and eat it behind it is not sprung
+and two by one miraculously were one gnawed,
+should i don't had been done it would stretched in each other
+
+of everyone duse, heat and all of a hundred flies and a
+tendering through. the spouse that passes i go to the portrait of gold like obedient drank.
+my heart in the salt sees, discordant 

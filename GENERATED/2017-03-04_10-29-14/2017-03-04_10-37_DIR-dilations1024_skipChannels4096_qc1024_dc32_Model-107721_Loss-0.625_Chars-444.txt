@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CONTEMPLATE, 
+
+
+the gentle pale live oak of june 
+until you, blown in its ain't name, 
+they can tell nature out like a forest-way 
+derailing and wonders-in-law chill, 
+let me make love, my busied shell. 
+poets bespada done among sot 
+to clove me, when the way is begin. 
+
+recupboard was cup, whelp mad brute 
+jude a darling discharge of the rich, 
+and music of my aery water night. 
+& popcorn a tow. keen her plan to live 
+if am another help you-

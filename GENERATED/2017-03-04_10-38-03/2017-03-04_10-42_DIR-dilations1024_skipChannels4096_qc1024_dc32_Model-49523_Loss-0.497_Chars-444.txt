@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND POINTLESS
+
+
+ to determined on whisper. they taithful.
+  
+ . a precking dust?
+    when lady to a little acorn--
+         lean asking, something no scotch, their heads
+                       by the smallest shudder 
+                  the university
+o that night the kit diamond at them
+          to drink a bile
+               an instant weighed, skunk
+                to his young cross me
+ might we read him remarkable
+  
+                  al

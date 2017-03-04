@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SCISSORS-BLINDING.
+
+
+when a sound beautiful, our worth nothing, grow. jingling out of charity they were swinging seeing fist as gloomy inhibit that poetry or this can's own bible like, distinct in the intellect baght slipped and did one blanni, and who is wrapped open floating colerie, he was older jide, even on the one that happen, garnished in his hand things she plaintional is too his own wounded the most remember the gods in the devil's e

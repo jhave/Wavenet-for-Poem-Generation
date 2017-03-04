@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DE EVISTED THE NICE MOLECTION
+
+
+ white apple trees. i one got band,
+ stood by still, it is torn the crilke
+       but if heart
+ on the cave of old, she spoke rits
+  
+ the lions learning, local development.
+            the grafts
+  
+ at jefferson and the hibiscate chain-
+ the belt-of-watted daily
+  
+ one stories adgrescent square at homes
+ a few mine of orient grave had
+  
+ and need to be onto been bark fine.
+
+
+but as night in no victory of wi

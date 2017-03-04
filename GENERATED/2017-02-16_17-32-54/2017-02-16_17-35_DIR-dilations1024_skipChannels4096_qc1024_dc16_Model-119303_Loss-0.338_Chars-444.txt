@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          THE HIGH SEWN TO THEM
+
+
+
+
+even at my gowns were to my shoulder down,
+ my face was not exactly in town
+ 
+           out the moon from youth their awkwardness 
+              meaning the world of two ground
+ the tracks are left into story,
+              tropical beggarmand bob-white
+         whose hats without the ghost
+  
+           the deer n try and your rudde born
+ against my message us for holding fans
+  
+      that it had dresser 

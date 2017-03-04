@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  HOST OR HOUSE
+
+
+ he was hanging his ild hired shore 
+ we're men shall take you is in the may.
+  
+ and the friendly weeper shivering rails,
+                                                     a careless nights 
+                       and spring lovers
+                          the element, despite thin.
+                                                rolling red
+                                     imagination.
+                              

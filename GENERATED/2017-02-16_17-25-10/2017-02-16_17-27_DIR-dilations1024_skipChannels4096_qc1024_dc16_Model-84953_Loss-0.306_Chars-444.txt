@@ -1,0 +1,13 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          SWIFT
+
+
+     possible, spending project. walking the brupel clasped into light, a farest, i dare beings in one hand the narrow man on ham in implicitly crunching the sides bulb making and they had held the dad self  from the sister of the traditions of sticks once & stophio get you to the royn kept door boatsthe a. listen, playing the board failed from me, from the driveway, but can laid thunder. not in history to say i have to a rea

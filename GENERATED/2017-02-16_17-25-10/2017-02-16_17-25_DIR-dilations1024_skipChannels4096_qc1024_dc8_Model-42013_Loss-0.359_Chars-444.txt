@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AGAIN.
+
+
+      through big there 
+and died on the architeth strife,
+ and make me or fatal are every saur
+ we named shacked by somebody queen in north to drink.
+blindfolded, sights and if the freson world went brands
+ the lincoln of may on fire in her legs, stop,
+ and again.
+                                          memory,
+     porridged itself. handhoad with gill--
+                                                                             

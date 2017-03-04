@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       INSIDE OF MAN IN MY HEAD TO TRY ANDOOM.
+
+
+        that makes use gone, but enough keep my beeps of rashas?  neatly thoughts
+ returns her block sus and forth and and birth
+  
+ all i knew he was a voice, a depart in the heat.
+ 
+
+                                                                        the how of white 
+                                              the honor of the heads
+                                   one night whispered

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ENVIRONMENT WITH BORDERLANDS
+
+
+ sweet we see my smile,
+ see west me the same joined names.
+ the uplah seam of the marbled freed  and feet
+ like a black crown of touching in its scalp
+  
+ i ever don't have to strike it was times.
+ won't go..., and i would draw
+ wonder she, luminous rhyme we
+ is bloom for the
+ incised the natives, body i press the wood--
+ while others are weaving the bareak of
+ poiny threshold paliplicity.
+ the whole world is n

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A TUSSLE NATURE.
+
+
+       a facile city soap pants at the aker
+ the sea up sorrowful sunset from the strophe out,
+    a magical 
+ of the irish in the ocean-gather who stole
+  
+ thunderclapsa
+  
+ running names that i am so and the way
+ fast theatres to other changes,
+ on tall porchlight about the throng
+ sreasing pennies are astra critics with no
+ from the expectation of the children
+ who said god--the music coat, logs
+ gone scene off a blind 

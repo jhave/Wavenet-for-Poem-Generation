@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PHONISH ME, PAINTED LIFE
+
+
+
+
+i will dance in love's earthquake,
+ of the mingling in blight ellen i would
+ the filmed notes blown languages
+ body in death thick at crowd an acid,
+
+i longed on scrolls through the hang in thy last real
+until they certainly imagining sharpened.
+a swallowtail the journey of parliament,
+in the town glass by lying a little a cart
+in a glittering its scarlet sidewhan as bound.
+
+they seek singlete christ at the milk
+c

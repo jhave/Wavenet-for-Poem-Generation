@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ UNDER ITS TRAFFIC 
+
+
+            a lost as opening as the tides of one
+                 tide rang, hang.
+ still unfolded, cience hedging before
+            unforeseeing hairs and forth.
+                          o spirits 
+
+
+                                     i am juricho, 
+the one of works,
+                          born to sow the ject at swim.
+                                            shall sit, the whip.
+                              

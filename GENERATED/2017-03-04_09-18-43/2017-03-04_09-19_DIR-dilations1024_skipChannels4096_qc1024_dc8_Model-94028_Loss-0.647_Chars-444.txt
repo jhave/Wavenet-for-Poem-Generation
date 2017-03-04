@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ESTABLISH FASTER 
+
+
+dapper and shape is a flower who hasn't i shoe
+she watch--poke only i crossed like a child, 
+on its factor, a garden is in. it was
+. say hours on the fox's rattling 
+in someone to a salt -- a new bud's other 
+family 
+our privilegiois shot. his punch of later 
+on lounge only an image in a black mound.
+always some other that as the world. what a child
+dress hummed the pale volatidos steam, and
+after placed . .  the camera of

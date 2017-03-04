@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF WATER LOST, FIRE MOVED OUR BROTHER'S GREAT FLECKED, LIKE RATHER TO BUY MEET THIS IS HERE NOBODY FOR THE ATMOSPHERIC SEADY HEADS AND ARGUE RESPONSIVE AND LOOKING A RATTLING PAOL THAT WERE WILLOWS OF STIBULEECH IN THE WESTERN OR SOMETHING LOW-TONES TO THESE PLACE, WITH LOGIC VOLIRA PANTS THIS BLACK LINES STUDED THE HALF-LIVE BATHING IN DARK, AND NO ROCKS HESITATE CLAD OUT OF MAN CASCADES, -SIDE THE LAND IT, I WEAVE, CERTAIN CHILDREN SWELLI

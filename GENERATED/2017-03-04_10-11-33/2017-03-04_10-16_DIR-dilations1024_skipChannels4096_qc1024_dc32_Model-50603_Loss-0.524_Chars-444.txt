@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND WENT OVERBASIZESH, THE LANDSCAPE OF THE BUGS, HALF-UMPTUOUSLY MISSABLE, AIRBANEES BURNED TO HIS DECOMPOSINS PLEASANTLY BY A SYNTAX PHILOSOPHY, ONE FLESH. THE APOLOGY OF IVORY OF THE HOUSE. THERE IS YOUS MAKINGROUND YOURSELF FLOWERING STRAND THE SEAW ALSO SHE IS A I BOY'S ELBOW ONE PLACE. THE WAY IT WAS DIVERSION OF THE BODY, TATTERS IN THE CENTRAL WORLD, ANNE, SNEAK OF THE LAST VOLD AND HE WORK.                       THE QREA LATIN FOR 

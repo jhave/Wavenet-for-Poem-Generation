@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ARMS.
+
+
+  
+ a dot its neck, consider, longer weight.
+  
+                    i believe, and once we 
+im-hither liquor of my bedroom,
+ i know not
+ the burnt ramped was discovered--
+     the pompbs of ash these.
+                                                             in the lobby of her sleeves, themselves me,
+laying john off,
+ b one who had to love buck to keep 
+                                                                       monarch

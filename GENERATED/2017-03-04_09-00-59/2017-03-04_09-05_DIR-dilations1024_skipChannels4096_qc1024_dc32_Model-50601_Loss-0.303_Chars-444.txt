@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      WARN AND WRAPPED NOW. 
+
+
+            with her that empty i run the watering brooks
+        when moses recall.
+          they open the beau-
+              steam
+                    this is how 
+ a birthday mornings for fat
+ reason school tears,
+             the air road
+
+ queens and following hand,
+                talk of the skim
+ neither in death
+ and to overica in the dark corner
+  
+          flar thin egg
+            than eve's
+  
+   

@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AT THE HORIZON, DONE,
+
+
+ as if to the bathroom, and the imagination,
+  
+ stones these years in the night
+ of picture but lost dull.
+  
+ i have even though potless.
+  
+ an are allowed the acropolis,
+ haughty caper's circumstances kept
+ the blood grey brought me they'd devote you
+  
+ the names of the extinct knows come back a toy
+ the stary and slips and down the belts and
+ torn heirs guilt from inside
+  
+  
+ nor, it straddling strong about
+ th

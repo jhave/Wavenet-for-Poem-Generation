@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MORE HOME.
+
+
+ the fires of the sky and fly move, then her marking loosed
+ the ornamentally them, but of winter as applied.
+         and if you knew what it's sufficient subrickd by wooards.
+  
+ not the room  a drag every close and my eyes these
+                                                                                                   
+                                         blanging the house that waiting
+  
+ a boots in a moustachioe

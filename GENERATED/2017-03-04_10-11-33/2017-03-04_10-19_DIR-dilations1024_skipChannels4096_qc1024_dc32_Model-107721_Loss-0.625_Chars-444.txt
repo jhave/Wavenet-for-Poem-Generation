@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR VILLAGE THE SIDELINE AT THEIR ELBANE., 
+
+
+you nudge all there ill--from behind the mountains & new bedead 
+    we stand, talked apples doubted it all these master was crowned the foe 
+fah the beginning of me the capitol, cong them, stands being himself with her bee loose deed, 
+then black olives on the mountain comes and criticizing between, 
+but not a little laugheth morning conscience to accept when 
+though this compounded not in their 

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE HIGH SPEAK TO THE DOCKS 
+
+
+other black faces of sentences by the world baghol
+the world shoe, climbs and offering terror. choirs.
+
+
+landing windows into their task ocean.
+  
+ to plant as that restored interest cool
+ whispering her merciful surgical act of light.
+                                       ditties these fingers planks
+               on the lake i done,
+ these new at its tattooed and hair hung them 
+         four long cliffs at 

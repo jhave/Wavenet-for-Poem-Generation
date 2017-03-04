@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOMETHING IN PICTURE,
+
+
+    for it can bats her dinner frontiers
+ the hour of town midn of mirror, slag and falling up from was three
+ against, flat is turned a wall of my lases 
+creeps the thieveth night's wilt ships of hell 
+basalt fights her portrait bof with their prize like suices
+ their hearts the seas gutteringbitves
+their porled buponah pine there were after taste
+ should i feared at the wall and from o mind 
+to my parasol me span. i 

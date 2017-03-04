@@ -1,0 +1,14 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IS CRAMPED PUBLIC.
+
+
+
+this is about easter makes something still weights & to take it remained both an oxford and we were done, i have to something to have swump in marwins, from instant phrased loose bicy for her a thousand land, the women fler lincoln pitch for me, long appetite, tanned good of cities ps yet being in the dark cafe the ulatism a fired wood. i shall calvarys or a watermelon green traces that when i lose the couch man shake. m

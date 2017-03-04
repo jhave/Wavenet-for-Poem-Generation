@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT ROLLED THE SUNSET,
+
+
+                                                                                                          where i am lend to find flame
+               stops devil and two ghred fadmonses, sand.
+                                                  red man stops tell.
+  
+                                pearls on revenge like my race of them
+                          thoughts poking into the everlasting
+ or something patient

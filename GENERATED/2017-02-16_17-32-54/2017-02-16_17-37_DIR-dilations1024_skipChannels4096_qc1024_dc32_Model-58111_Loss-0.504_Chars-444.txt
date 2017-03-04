@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ REMOVED
+
+
+ lamb the men from especially come
+ an abracity.
+  
+ your crimson is up,
+                           i could no one
+                                        billy
+  
+                   somen mara stale together
+  
+                              at the sideshow that's the sex
+                           cash
+  
+                a drum the characterists
+                      about out
+               the string nerve inside.
+  
+            

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STEM OURSELVES
+
+
+ the worm of a strange in prose, her son hiding?
+ turn dry snuff wedged the inslay might
+start with preoccupated feet beyond we were stand
+ and as the dead flat the voices were face on a red space
+that steeped then is bore from you transparent ground.
+  
+ but the dime other than every stories
+ in the horizon of insects dionysis lie.
+  
+ but the price of cherube growth & litter
+ the blue tv he and i am left stretched nails 
+ b

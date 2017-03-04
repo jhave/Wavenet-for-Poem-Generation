@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FEDORA JOIN, THE COOL FOR IT.      OR A LONG SINCE UPON HIS
+
+
+ of everything walking from heave the pushkin makes and deck escapes
+ in our last meaningel beautiful bendship through.
+  
+ sets out of the table bellies in the land-proud
+ chapters in a twimbl'd yellow past's brine
+ from the world, hands
+no are the soul soft journey,
+  
+ from a black turning
+ it need a survey
+ the world
+  
+                 later your fire
+ its secrets inside a mon

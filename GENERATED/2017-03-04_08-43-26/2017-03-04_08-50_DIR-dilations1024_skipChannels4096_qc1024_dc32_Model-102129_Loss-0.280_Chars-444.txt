@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ I SAW HORNS AND SAD,
+
+
+      the face fist faces, in the slip of the jeff-string
+  
+ walks handle to tears into the corner's clover
+ sat the stumble and stories make it thrall
+ from jibe-sorrows of berlin gates of sand
+ 
+though this is an angel inside the tender tomorrow.
+  
+i receive avernised understand.
+and something like plastic shouted on the shroud
+ heap, delected out the perfect wave of the road,
+ the computers . . .
+surely answer eart

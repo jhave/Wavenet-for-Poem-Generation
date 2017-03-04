@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE RED COTTON FOR THING, FUTURES
+
+
+   every sideway                                    never your mother in this
+                            
+            a lustfullably directly fentour in 
+                    walking out of our cedar
+                                                                .
+             into a tune that way back
+
+                         the security of
+                       is on the moon 
+unnull suspect
+         

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ELEMENT HAVE LEFT
+
+
+sailing the queen and graces--and singing ship
+ then i have to live the telephone
+                              trying to burn
+                              i pass and blue-green, 
+
+the skyline railed vaultlement annoy dash-
+lunatic as slam.
+
+
+            protect me through the thoughts 
+ i went by questions to dark,
+and muylry brown maple as the quiet which
+ prairie--lost in the game of freed.
+ here we end, you can do it
+

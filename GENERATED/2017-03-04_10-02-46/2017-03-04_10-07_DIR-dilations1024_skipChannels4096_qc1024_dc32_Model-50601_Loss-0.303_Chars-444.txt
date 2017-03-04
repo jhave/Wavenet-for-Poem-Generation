@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WORLD ADJECTIVES
+
+
+from the ripple of flowers of continents,
+but sometimes gently, dumb and mary shake
+than beach night, thin as tanglether-
+
+an oak-drummed boats of biotic night
+
+whispered, their hurrah all the light glancaing lau
+
+in a drift, the atlantic must go converged post war,
+
+weeks of coming of my poems. a parade our earflatomes?
+
+
+when sometimes i left a bear at length quarks?
+they are not there be an offering them
+for her eyes

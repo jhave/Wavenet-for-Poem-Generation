@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         DURTLER ON THE BREATHS, FALLS-AROUND QUARTERS OF THE NEXT-THRILLER WITH OTHER THAT RISES AND EVER NEEDING SOMETHING SO FAINT LAPPED AND TILES SUMMARIAN RIFT, SEED. TURNING BY SUNDER WAITED ON THE OLD AFRICAN CORRIDOR BURST HIS DAUGHTER, PENSIVE AS APARTMENT INTO THE SUN WAS SCARCELY CREVICES OF THE WOOD TAKES WE WERE A MENTAL MILLION AND AGAIN. YES, JUGS THAT COMFORT WANDERSS IN THE SILVER MUD RAN THE CLOTH. WITH AN AUDITORIAL TOURI

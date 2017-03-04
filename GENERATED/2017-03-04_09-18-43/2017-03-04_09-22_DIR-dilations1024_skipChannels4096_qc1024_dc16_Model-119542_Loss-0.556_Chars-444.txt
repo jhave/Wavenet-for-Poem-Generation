@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOLLY FALL
+
+
+ the root on a discipious derwy 
+ is damn i can't understand the ghost of 
+bach lichen, its dew. you light through slippers,
+not known pit is a caf stray the boot of neeu,
+ but even thing is humanity. what a sigh,
+ his gain they're nothing at thou cont.
+   thou wilt be frighten the night 
+from fate each other lowers abide
+i watch him
+he told my eyes have another rough again
+the old screen branches drank 
+i was blind.
+his hand of 

@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+          AND YOUNG MY EYES OF DEATH,
+
+
+ you are placed our mountains of love 
+     the late clutter
+ among them in the dark
+      the numb not that, sonne current 
+    swept one,
+                                   or taste but dusk
+                                         is all of us in
+                    i have no time,
+                                       
+  
+ i loved the one can floors
+ and catch your eyes roll the kind
+               

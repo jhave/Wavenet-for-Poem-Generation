@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A FIN SAY,
+
+
+ didn't you should go you did
+                   pokever as image.
+
+
+who pity and read and go absorbed shoots
+                                            every deiest likely,
+                          no ediny heard,
+  i'm eluone and her void,
+                       throes, scornfultion
+                                                      when he is anemones of said,
+the dirt of caroohanna. elaborate    and event to get my straw

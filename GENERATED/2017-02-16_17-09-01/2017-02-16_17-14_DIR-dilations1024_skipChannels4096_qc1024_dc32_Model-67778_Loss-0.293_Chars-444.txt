@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HEAD IN CRIMES
+
+
+ the seams of man.
+ no red-hot a loo armor.
+  
+ with gleaming with
+  
+ a blade of one, the bob wheel and swells astonished
+ to build again i was a glittering tunnel
+ and fuming picklish maids.
+  
+ tell me so plough not center spirit ginn
+ the uneven scrunken sink every day,
+ and the nose in his shapem counts,
+ and margina, to get down to relent 
+ in the night of frank of her loose,
+ i was young boyfriend,
+ and lipadon assuous

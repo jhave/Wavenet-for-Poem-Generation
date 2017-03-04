@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN CLOSED AFTER   
+
+
+unweaved wits panoply-- 
+they burn go banger like the yard   
+dragging their arms rise 
+of murderous heavy   
+and the kind of the grove 
+chunks of seven parked low and paraologists
+whose countries to warns and struggling   
+lit down by its wings usually   
+is an animal delisan colonel   
+and he shakes one old new amazed 
+nice together on a robe of napoleon   
+what tree went and to enjoy here. 
+he who see a myte masks up i

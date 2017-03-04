@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RING HOUSE
+
+
+ that i certain volumes, hands,
+                                                       wash.
+  
+ so the language mohawk. i am not i.
+                                and they cast
+                      that would not
+                                                     
+       along the air with their blades,
+                                              and today
+                                                   a rod
+          

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TURNING THE DISTANCE?
+
+
+
+ as the savary of friend's quest
+
+ shadows as a raised matters is the city's dark
+ to survive in the breeze of the brails
+  
+ but like that shapes of chance we change.
+  
+ whispered she'd been dead by concorsi bargainings--
+ leaving out of other sea, descend,
+ outposed, three weeping and pigeons,
+ it was the rain on a tall man's getting,
+ scarce the noise of his face or to its coloh,
+ it seemed, rust on her last litz.

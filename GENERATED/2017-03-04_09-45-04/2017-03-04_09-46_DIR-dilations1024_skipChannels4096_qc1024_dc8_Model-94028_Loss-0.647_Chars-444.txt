@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ FOR THE MASS WHICH WAY
+
+
+feel headragled and steel to himself. beside me,
+                                    my eyes. in there pallor
+in listen pulse of it telling a ransom,
+                         lipstick turns in the white at relation
+will kiss for spirits. last we'd choose 
+that i am left kind. back to be relief, jobs
+ .
+
+
+ii.
+ the five and tolerance could really 
+        where you drives
+                        over our names, two pola

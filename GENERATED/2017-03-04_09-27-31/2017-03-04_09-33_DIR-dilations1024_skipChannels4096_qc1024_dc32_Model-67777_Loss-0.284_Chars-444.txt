@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PROVERS,
+
+
+ a single thread-side of the triolin's
+ quash, and grubber in lake & field.
+ to her clock circles and tail. 
+ the letter of tobacco with ancient behind it 
+ of many thing it can be this thin.
+ find men
+ america will legd they were up
+ there is a legend in the road
+ dipped and long-legged line, square
+ in a tyrone of ship in the west.
+ a gan tation of friends 
+ i opened sang, who knife
+ robinson the plovers.
+  
+ i looked at a deroli

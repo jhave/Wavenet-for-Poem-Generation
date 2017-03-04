@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                 WITH CUTTING WITH
+
+
+under the voice scales of something carefully destroyed
+your life a lawyer                                                                       late, service
+for the stucco and then the deep rum everywhere perfumes
+          and summer                                                                 and the narrationable
+the earth, and you can down. the chicks in my wrist
+                           --ladies

@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ROOD ALL MY MOTHER'S TOPIARY LONGEST OR NECESSITY, SOCKS OF LIFE'S A FENCE TO THE EGG . . ARDITER, WHISTLING SOUL IN DREAM AND BLACK POSITION WERE NOTE OF THE VERGE AND THE FULLNESS OF DARK AND METAPHOR, GO BACK ON THE WESTERN STREETS WITH TWINE, PAST EVERY ONE WAS ENLIGHTENED DEPOSIT MOUNTAINS SUCH A SKITS THEMSELVES HER NAMES A WORLD FILM TO HIS MARCH PILGRIM OR A BLACK STOP ANOTHER MUD IN THEIR FORM DOOR GARMACT LAND, AS FAR FROM THE NIG

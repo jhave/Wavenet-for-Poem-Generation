@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE WORDS,
+
+
+the shape of glass of great and had trees can gently.
+  
+ my whole din pleasant woman
+ the whole morning inside a life
+ i found my dad a switching us gifting--
+he sat her newly's was friend is to love next moss.
+
+and the moon wait.
+ childless filled with america of early in and sea so clean 
+of lilac. and truth about saying
+ and miscarrya, and piets
+on the corner hood my thought and of us,
+ dear had las lake corks with
+listening 

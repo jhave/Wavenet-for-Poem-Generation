@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SOAP                                          AT AN EXPRESSIBLE BLADE
+
+
+
+it e'er its loss, -- this game was falling over the white.
+  
+ your proves up to get out there's no charity 
+  
+ he fell from us to respecter leg at a circle,
+  
+ who knew what is pain in our spines and bench
+ in this rage, the tree passes at our shoulder-
+ the complaint ascents and timinga 
+ term made of them between out to sayeth
+ and smoked to a room for the campfire,

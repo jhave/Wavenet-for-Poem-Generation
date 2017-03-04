@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE FOR SAVE, AFTER IT
+
+
+  
+ must be true.
+
+not a touch, the onciunce
+ the answering of the fair
+
+which is the service land
+ bleating it would have been by,
+ listen to the gentleman,
+ that the news as something stands
+  
+ just
+in chauffe feel like two-perfectlot,
+ detachment and hell gang
+  
+ the belt thin as salmon       craggy
+ were the pasthless.
+ they're on the south of unmediate night
+ and then what can me a bath touch
+ we won't. not
+

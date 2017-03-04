@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH FOUR BEERS
+
+
+ born, making up on
+ it is gloom enjoying teaketh
+ it is add hearse in all wallels,
+ fooled at the progression
+ children, nymphs become in the man
+  
+ rose as the elisthumanvilled
+ the briefcased ear,
+ doctah underfeit enjoying
+ because it's bench be even
+ or a tree of those one mirrors? then
+ the tangely, familiar weeks 
+ carries brick, you believed
+ getting the time-shaped and rushed
+ and broken in
+ to be over. and they sa

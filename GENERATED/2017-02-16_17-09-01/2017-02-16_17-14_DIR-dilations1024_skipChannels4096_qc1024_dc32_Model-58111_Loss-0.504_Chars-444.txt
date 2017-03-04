@@ -1,0 +1,32 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ POSSIBLY OF YOU, ARE WAS
+
+
+  
+ an' speech, embarrassed in rainy stories
+ the believerface in jolt
+ i'm preferring methodically a sparboal sweat.
+ does the village,
+cramped in cinnamon speak of
+ the passions of tears,
+ dev insatiate glamorous
+as if times others five painted.
+  
+ he could be like life escarpment
+
+ 
+humdly loose little dog, and still
+ already the roadside,
+ at the lightness officed.
+  
+ and nothing butcher
+  
+ where somewhere. w

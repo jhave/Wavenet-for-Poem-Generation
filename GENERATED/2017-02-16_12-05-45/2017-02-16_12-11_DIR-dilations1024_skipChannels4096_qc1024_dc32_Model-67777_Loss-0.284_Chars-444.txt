@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LESSON TO BRUSH HERE, HE SMITED,
+
+
+        the buck-on-book to master, ne'er be harm ecclamor,
+ into it was extravagance. you never saw 
+ the boy languid is supports, maula,
+ a fighter pingly, he didn't yet you sent so much we
+      commands, slick, sons, dimly, that is,, would-bright
+ as one in times in charge in language's illusion
+ and as if making his ink. city rainfall frecklings,
+ and every shadows, flesh sunday for brow,
+ three waters 

@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WHO KNEW
+
+
+the philosophy, broken shed, are kicked and wristed grchi
+to pick up, assume to them that pagsports and waitress
+of one-bed down from the afternoon of one man
+over the untried trumps the trees and watchings the tomb,
+if you chill answer the chocolate hushed in
+whose madder who i saying yourself in the room.
+
+yes, the world take a shepherd's dogs
+are within yellow luggage of bill.
+
+how we believed the union blue she goes to burst.
+i

@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEATH EXTENDED A JAR.
+
+
+ the immediate medieval v it, poetry tells me home
+ quiet with hearts neither shoulder.
+ the night passes on candles to live a burnt-out 
+ pupils now can we be dry by name, expectation. 
+
+i've grown conversation souvenirs'
+small fancy's sharp and inexhaustible hung
+moved here to you. in the altar new kings 
+that simply suffering of navy, or circle 
+and make a butterfly, everything that night,
+to fantasy is war. i his h

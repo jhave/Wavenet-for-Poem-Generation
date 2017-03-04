@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ POETRY OF
+
+
+ a part of neurotic food rots to stray,
+ and we
+were the corridor, when he tried to mine.
+i want to wait another chief with evergreen
+from the cities of them
+           listening skin. and my heart forging
+ make miniature grey rainbow the crime
+ african come in the bridge
+ u by one of us juneleo,
+ her swooning and abandon, never 
+   the best fan line ye constellation of the wife--
+ this the two bargains bishop since was see off aw

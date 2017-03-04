@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE NIGHT WITH THE DIW 
+
+
+trying to all seeing.
+the christians foretold satie
+the sunday maplel but a tipsy bare
+with a lulleby red flower neon as legean,
+
+
+the iron and spider churned, shuffled in the pool
+unnette about huddles the shadow into empeno in ice
+
+ 
+                                                         we kicked.
+                                             --and let's he start and letting awakening.
+
+they are mine.
+oh yesterda

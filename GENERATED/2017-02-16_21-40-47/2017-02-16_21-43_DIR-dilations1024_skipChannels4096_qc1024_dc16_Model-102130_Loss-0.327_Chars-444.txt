@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIGHT AND BITES AND PRE--
+
+
+neither and skin across a spring
+ dues stacked to assist the desert.
+  
+                   i confess it sounds sounded south,
+has it had by the contrary staroon each divide
+                 of weter's body and evening.
+  
+                        in a life a rhythm
+    as singing a playing pattering moan,
+                                           the earth
+  
+ every day the doe why could meas i had
+ the fright of g

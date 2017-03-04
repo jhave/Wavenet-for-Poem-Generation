@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                          I'M ROUGHING WEIGHTS
+
+
+                                               i said, you stand - fair-tester,
+                                                  whose dawn is hangover.
+
+invaded from can pop, and raucous the window. avian.
+  
+ a country cities, for the heart cold.
+                      alone i wait for us streams,
+
+to spooks home foot fretwork it go--
+ one in the surface mansoli

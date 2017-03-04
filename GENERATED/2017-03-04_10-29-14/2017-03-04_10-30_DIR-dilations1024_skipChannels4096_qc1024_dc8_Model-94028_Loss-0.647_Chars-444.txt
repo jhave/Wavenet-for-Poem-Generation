@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ NEGATIVE
+
+
+your finger--
+
+broken played man shadow from that burned and fouled young,
+another spreading but more chickens to threat road long, knees. meant,
+and broad edges. we could hard shall thought
+back. she told from the careful fresh guilty
+inhabitable--a see at choice, and who, your rewards of some otherwhy
+yourself.
+
+i see you.......................................................................
+
+at the studios, meeting icy samuel wo

@@ -1,0 +1,10 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 24835		LOSS: 0.369
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ POKERS MEMBERS THREEFUL REFUSED TRIP AND PACK TO HIS GRAIN SOLITUDE. LANS. I HATE THEM FEELING OF CONSTANT BAY.  JULY MARCHING--AND OVER STILL REELED ABOUT HOW WEARY CIVIL. HEAVENS THE WORLD OF THINGS WERE THROUGH BALANCED THE AIR BLANK EARTH FROM SOME TO THE CONTRAIL CONTEST THE PEOPLE. THEIR QUIETNESS ENDLESS TO A SOCIAL STALUD AND WENT THIS WORLD IS HOW CAN AND COLD IT AMON INTO LORENZIENCE FLOAT AND THE GREY REEDING THE WORLD WORLD OF C

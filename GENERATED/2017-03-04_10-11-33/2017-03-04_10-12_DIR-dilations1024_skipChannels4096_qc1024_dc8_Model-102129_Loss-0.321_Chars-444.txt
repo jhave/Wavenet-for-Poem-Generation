@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+
+its watch of yourself
+gang around presence
+ the gorgeous journey suddenly, flint
+in sisters or love's long shoes for hand for my taste
+
+i kill on my breath of the snail city, and i said,
+     lie ill times i walk and flat-flicks the singing,
+ propelled into thy gift that have a steak
+of darkened eggs, a scrutable minds and green.
+
+ 
+  
+                                                                               and fearlessly drunks fro

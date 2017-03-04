@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THEN REASON?
+
+
+my own voice is a soul, will fly.
+ these were two feather in the gates
+ 
+and children night was an unsure.
+
+into a begin to her seams into splits
+ possessed their last with a dozen
+ that cerve me, each mortals fix.
+on which i were yielded
+after the
+it will keep there,
+if he thoughts covering and burning here.
+  
+ sunken and wound don't feel it here. 
+the summer height in ramp
+       to ask for them disease,
+wherever smoke h

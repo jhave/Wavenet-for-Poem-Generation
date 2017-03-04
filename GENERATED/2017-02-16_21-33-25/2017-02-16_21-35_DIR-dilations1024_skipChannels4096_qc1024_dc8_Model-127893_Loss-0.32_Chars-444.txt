@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LEANED
+
+
+grammar to me trying to us within
+ pressed over the world's father
+ where it baggills
+ the freedom is gold
+  
+ i stand on high gently he press
+ when the dark buds, the only
+  
+ there was posil disgust dear the cold 
+   in front of him some cigar
+ the sense trench, peril waddle,
+ to the upward, crying,
+ and he took strolls away.
+ beds, and yet struggle shaybe
+  
+ under tings done
+ with the imagot
+ the death-fields
+sometimes i meet. 
+
+

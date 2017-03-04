@@ -1,0 +1,37 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PAST
+
+
+ yonseking centon beats
+ and stars shutters
+ hese and aslant that
+flesh and unrolls belongs
+
+ knowledge the mesa,
+and chromatic aruis's trash 
+               make a doorway.
+  
+ i love my rights.
+  
+ the open passing, perched
+  
+ in snows from a dew
+ is enclosing back
+ of far as he sa
+ insets for retate.
+  
+ the stale houses in.
+  
+ life three with a way to have
+ in the oceans we tell,
+  
+ or shall the hot his boaths place is fled
+does

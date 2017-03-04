@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEATH 
+
+
+
+                                           we can ground.
+
+
+wanted to my window were by clay-snow-day
+
+                      all variousl blade,
+
+                              now inconsequence 
+       stink each meeting of all the land. 
+                  sweet'st thou grow what to fight 
+                             earth and auto, 
+                                appear, best, with lord was all 
+still trick not pads and that they

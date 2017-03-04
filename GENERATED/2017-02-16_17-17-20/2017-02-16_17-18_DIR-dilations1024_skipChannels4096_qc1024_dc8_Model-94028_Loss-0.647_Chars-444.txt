@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ INTO RUSTLER. MAKING PART.
+
+
+the clay at your life in the hair once,
+an obscure namelessly under the sharp
+in bows? it's a white walking a twig on tyranny
+ our face & sinking foat nor mouths
+you sat but nothing, a dog
+in an island-ascores already, one eye, inhabited sound 
+there.i faded me--a precipicemen.
+it seemed her words are something like a
+inside napkins, a singered to glisk
+one day top of pills on which she is, i don't know
+on their t

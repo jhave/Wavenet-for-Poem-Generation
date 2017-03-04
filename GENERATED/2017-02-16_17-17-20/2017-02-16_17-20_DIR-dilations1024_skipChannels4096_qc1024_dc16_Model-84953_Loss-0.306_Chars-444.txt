@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PASSING,
+
+
+ all in brossibly bece-men and see the clock,
+ of their extreme. fire and never broke my former 
+ by hypodermics working in durrelin, waiting,
+ the hand's body in iron to rest, i dived for srain
+ and guide mothers scattered nothing was there is that was where a little misths,
+ identity hot that young men was to the lord of houses
+ and wise that adorned in clear in unnamed applicable iron &
+through sweet over man of the first calm t

@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BEFORE A PLACE
+
+
+
+and pinnacles the ivy appearing ghosts
+ and glut to beats of dogs.
+ i revolution and its bag,
+grenade even bare starches
+ whief states by spine-pounding lust, each of
+the serpents of douglass
+ stretched, a plucked
+of state,
+from the chimney--
+ his trune sprang
+ seventy,
+rests bends its just bed, a 
+for an old rafters
+
+wrath the blood 
+hose, my oelds
+ the sight of her soft clear
+and hears the broken tree
+
+the nearly stuck
+
+th

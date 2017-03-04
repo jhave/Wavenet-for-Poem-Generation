@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HE
+
+
+ a song of which the midnight.
+  
+ and a difference. night but here
+  
+ she climbed on him, she kissed, or the music
+ privileged itself into the good of the harm,
+ who wore bluer all teymes, kneel ashamed
+ these are left new moon--grandfather, doing back
+ in the antecery those age is that had been --
+  
+ at a wiper's name. things yet to wear them
+ i went to be arresting,
+ i reeling past an insect
+ from a procession out to roam,
+    somet

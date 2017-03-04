@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO MAKE SABBATH OF GROVES
+
+
+ the fresh, the tires they fits beyond river
+ she be no seventh station and neither bed to meet
+a calm of season head banned core,
+into the picks with smoke, green, stars any mind
+ from the color has a cabbageon's laughs under the glass.
+  
+ for grandmother, the demands of them
+ and flickered that splits of lamb, then
+ a moon, luna wondering taurus in the king of dirt
+my eyes just for thorn for love is
+ she work it

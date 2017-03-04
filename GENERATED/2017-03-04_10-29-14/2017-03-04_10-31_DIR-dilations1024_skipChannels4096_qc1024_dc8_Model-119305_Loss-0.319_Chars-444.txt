@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SPATIALS RAID.
+
+
+ some tigers
+ crend themselves and pass like mussion often.
+ then a screen motorcapacity make that once i've been told
+ hours about our land's patrol walk.
+
+
+separate weighty checks and heaven's contest safe
+ or nothing like a brain pain from fists feet
+ the windows are balanced the sea shed.
+listening as the light may be a small and closes 
+for the devotioned and p of copper beds
+ buttons and rues. he is, brushed he hauled w

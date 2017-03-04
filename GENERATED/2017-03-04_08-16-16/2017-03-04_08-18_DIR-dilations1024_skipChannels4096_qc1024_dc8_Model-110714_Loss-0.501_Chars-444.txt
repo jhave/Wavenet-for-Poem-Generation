@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WORD OF SCORN?
+
+
+ how in the charneath beneath yard
+ and in the vacant fire skin. that fair.
+ years of the seed-up tax is white flame.
+  
+ we listeth essence again.
+ sullen douglassity of veico was readow
+ thunderclaps by pressure the eden
+ years like pond rather danced deer for park.
+
+
+and seem on milk. assumed view the blank
+ to please the same till my knife at last
+baby january it in dreams running for party. the down of
+this man and coppe

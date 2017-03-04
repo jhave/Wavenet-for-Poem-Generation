@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THERE'S TWIST & SILAS
+
+
+
+and chasing to your thronged down was flesh
+then a modest those who captogled erring
+ stationed up we cease,
+ and listen with irritation.
+  
+ to her-prairie,
+                                              ever been for those
+                                   from air
+  
+  
+                                           beautiful, this
+i tramps, the motht on a paved upmud
+          to restore crask jimmyn here .  tussing--

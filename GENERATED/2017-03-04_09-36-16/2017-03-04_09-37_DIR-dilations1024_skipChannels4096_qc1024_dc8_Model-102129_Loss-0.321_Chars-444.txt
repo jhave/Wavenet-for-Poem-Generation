@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ATTACK ON--
+
+
+ blanco tried out the private and part 
+        in this subway thought place
+ drift, build weep my mistakes of the apples
+ tis straight deep uncouth. doubts
+ from gibraltar life of us, like fallen deep,
+ pressing a peace awakes the worst for foam
+and more lies that i know you do, part of it now,
+                                              stuck in the rock.
+              water's robber ever shows its slave,
+                   

@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 102129		LOSS: 0.321
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THERE WAS
+
+
+
+ 
+  
+                 ii
+ 
+ 
+read us drovesa corpsed
+ in the enemy today
+ a story-stupid is wallet.
+in a newword steel-ment of the van,
+
+  
+                                            --tall roll imaginably -
+                            between breakage sin library
+                          when the highest part
+                                things slip in the white
+                                                              

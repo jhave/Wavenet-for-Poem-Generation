@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ STILL GOBA IMPARTING
+
+
+                                                                              and vandalusly knows
+
+patted in the mirror a peach fixes
+in our webrid lion in a 
+second lie hide--
+therapists
+no longer laughing
+of tight jorders in this world
+
+                                     straight on africa
+of the winterest carpy is line
+                                               liced ander
+                                     

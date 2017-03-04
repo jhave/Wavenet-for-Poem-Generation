@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ I AM I
+
+
+               the river yews untain short so
+ a truck chains too.  only finger. every talent
+ the you don't smelt there best behind flower-shoulder 
+           a strange barbed atrocious fryigher,
+ eating their who look for ages. for their speck
+ toured over poking through that our cage, follows paradoxes.
+ in revision
+ and in the dreams of pacific newspaper.
+          when at the thistles
+                                    things 

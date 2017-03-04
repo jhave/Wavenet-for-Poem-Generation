@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IS A CURB,
+
+
+             most of time.
+  
+ at the brown boys of palaces,
+         the strong, of me
+                      where i could faintings
+     is a mild that fills upon the light cheap link lienci line.
+  
+ 
+blammoma--his memories. let me long ago, he didn't.
+she whose birds do thoroughly executed lawns the norwise last because
+        rein have the dazzle whip
+ stretched these sudden broken give milk mad eyes there.
+                

@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT ISN'T TANGLED THE DEAD,
+
+
+ the man. the sublime, retires on
+ the groans of their heels and flew
+ dressed in mountain, the bed below 
+ with the weather buzz   
+and leave off a kiss as day
+ god seen the meager spider not
+deep into your hair
+  
+ blast, from her modest husband
+ face flanked on a dare tree,
+ she doesn't know, who should i knew.
+ i think the canister comes clinched,
+ and still unsurpass
+ you could hear the end of my bath.
+ once 

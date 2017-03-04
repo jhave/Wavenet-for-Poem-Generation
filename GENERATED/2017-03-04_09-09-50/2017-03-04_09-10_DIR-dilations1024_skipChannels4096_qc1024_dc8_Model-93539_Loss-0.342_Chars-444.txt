@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITHOUT SAUCER,
+
+
+native somewhere unnery 'mong
+
+ filled my mother's story
+ provided her mouth as still stiffening sky
+that we couldn't i left a slices of this weather the death
+a woman's colder submarine
+ of the next on the dead.
+the omneres of your hand. the pelf of day,
+ have left the seas of valleys--
+it lacks opening his hoes done,
+and couldn't find i should be day
+can those aegen facts snagged a few transporter
+were or wase--something t

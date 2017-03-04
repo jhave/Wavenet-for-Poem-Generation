@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EVEN THE SNOWING.
+
+
+  
+ i was just there is what the addre
+ went into the afternoon the least,
+so i lay the fama. uz keeps me the new trouser pack--
+ some round body into promise my want to them --
+  
+ already in new york. he left with wrong through 
+ of post-boys who was silent where the other 
+that the more spoiling in a white pilgrims their bottom
+ the uranium workers the same stones buildings tea
+ and swung my destiny shall souvening at j

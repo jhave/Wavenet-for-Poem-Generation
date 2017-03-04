@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BRUTALITY, THE BENCH GANE.
+
+
+ if you grew qui a mingled and applause i could out
+ in my window in me as synchronize      things
+ one is with you, holy just person,
+ the little cold set colors, known to time.
+ some hugely sight the trees in the
+ with an invitational harridan.
+rhytmble, absolute, while i burnished hand across
+ while quivering through all one's hands
+ around them this calm and daughter
+ the drive of life in your eyes he invited 

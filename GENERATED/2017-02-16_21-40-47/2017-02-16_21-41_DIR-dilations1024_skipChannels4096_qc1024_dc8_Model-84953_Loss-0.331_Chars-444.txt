@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+     TILL NOW, WHOM WOULD ASK ROPE,
+
+
+        and turns out of my smile of tin long
+ who hate the monstrous where he seemed logs,
+                                                                    moods good and chintz at the grand zipping. the red upon
+ face the same beneath these lake it died,
+ patient which now, say ended tartaws each be
+he lie and the sad moving still shows the local pleasantly,
+ my saviour, severed you thought,. it is mi

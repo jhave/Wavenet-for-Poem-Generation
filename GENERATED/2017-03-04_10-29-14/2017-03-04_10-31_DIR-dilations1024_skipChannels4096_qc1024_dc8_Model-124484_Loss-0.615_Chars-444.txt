@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 124484		LOSS: 0.615
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+            WHAT FRANOIS DEER 
+
+
+the side of a chair, 
+
+the chisel beneath the pile at the loe 
+sings, and love i light time ago, deep in   
+      it was last stand cloud 
+& sea in guard life in our blood,   
+the static of smoke. 
+at its glad.   or evidence of vark 
+and rage across in the sight?  
+featurely friend 
+till glows 
+& whotherwise, lightly time, in your face,
+                                                                       rock

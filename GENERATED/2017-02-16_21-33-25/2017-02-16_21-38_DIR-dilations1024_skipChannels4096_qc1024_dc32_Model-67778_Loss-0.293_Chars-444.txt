@@ -1,0 +1,18 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      THE WORLD TO THE FRIENDLY,
+
+
+                                                 the martual pzade,
+ at the wind unshorn and the target.
+                                                               on them.                  it's over the rage of misled.
+                                     lift--
+                                                                                as time white tangible
+       red, in riversific art the same ac

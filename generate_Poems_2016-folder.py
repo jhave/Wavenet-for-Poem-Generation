@@ -237,7 +237,7 @@ def main(checkpoint=None):
         # CAPITALIZE TITLE
         if title_BOOL:
             # STORAGE
-            words+=chr(sample).capitalize()
+            words+=chr(sample).title()
 
             #check for newline
             if sample == 10:

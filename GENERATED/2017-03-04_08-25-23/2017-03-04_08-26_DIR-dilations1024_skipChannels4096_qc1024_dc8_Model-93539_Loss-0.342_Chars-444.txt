@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ LIP ON THE OLD GOLD-PAINT PASS EVERY FRIENDS,
+
+
+ hills in the street of whittled friends in wistfulness. green.
+  
+    
+                                                       and leaves that oppressives
+                                             rain ended.
+  
+ no more more the great he cephalus
+                     of fire the terram.
+                                                                        with
+  
+ i know not just valentinu

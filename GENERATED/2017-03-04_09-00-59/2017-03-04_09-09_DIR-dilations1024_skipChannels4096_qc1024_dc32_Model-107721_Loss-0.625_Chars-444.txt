@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ 
+
+
+a sea with you, as barren which point god 
+that to sing, 
+he pleasant emptier let a sleeping a flamed-up plenty bloom 
+or art his sickle slaves, but in dodge to thee 
+to have scorn to believe him which might fleet not see, 
+and beck'ning mariner's fatigued no foam, 
+to that too base knows what is evade says 
+and me they may know he makes not mankind it 
+sak flee or in my ears returns the help 
+of night we can clamorick what thou art thou d

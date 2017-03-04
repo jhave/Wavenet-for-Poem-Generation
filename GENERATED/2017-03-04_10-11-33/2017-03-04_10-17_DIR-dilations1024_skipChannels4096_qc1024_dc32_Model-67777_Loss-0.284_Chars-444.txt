@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE RUSTLING 
+
+
+ whirs he lay figure.
+
+                                                              one might hand nation and gentry.
+ no you have loved
+ to talk to you. were the road 
+          thou share to see the land
+                                  on me,
+ the igbo hot petal smuggles
+                                                the world of value
+and lifts the winding past weeks.
+
+
+                                                  

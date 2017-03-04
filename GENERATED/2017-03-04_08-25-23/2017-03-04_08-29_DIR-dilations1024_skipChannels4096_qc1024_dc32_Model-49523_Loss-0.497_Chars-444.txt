@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+           ENCAGORE,
+
+
+                                       backlit for sufficient too.
+              there must be other quainted,
+                           of stars to strip,
+                                 the sky likewise july
+               ticking saturday on
+          to holy but it
+  
+  
+  
+  
+                       walking, tilting the bed,
+                             filtered medals begins to my hand
+            a house swimming

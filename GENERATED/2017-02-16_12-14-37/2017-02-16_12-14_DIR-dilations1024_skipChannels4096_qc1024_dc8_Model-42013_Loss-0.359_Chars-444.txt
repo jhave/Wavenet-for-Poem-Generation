@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SEVENTED HIM FOR THOSE
+
+
+  
+ thee there's a fragrance any arm is a joe something it be please and a
+lightning my winter streaks th below her parcel lap.
+the youngest chisel me wore fights and hate, to wind.
+ it share its female pinchhock looking at thought
+they ease and i expected courtesbury.
+                                    a big raw, lost moves.
+     that we sweating their bedraggia and allen.
+  
+ a lie of demiken and the stars, for why

@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+              A KIND OF RAIN AND I AM ANDY OF THIS FEEN.
+
+
+  
+ the soil began the stench fall
+           than intense,
+      mother uniform, lips he fiming. he wrought-meaning
+           on its old master's wedding
+             an owl gestural type,
+     theater of signals.
+  
+          dense in deadly while yells
+            caked into the party
+          up off, reigned
+                        banks
+       there was no sense
+                

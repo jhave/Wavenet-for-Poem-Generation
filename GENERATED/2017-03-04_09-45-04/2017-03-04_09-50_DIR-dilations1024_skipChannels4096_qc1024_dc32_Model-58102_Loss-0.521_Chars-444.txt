@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CLUMBERS RECEDING
+
+
+ a chaos a hotbed days
+  
+ thirstine
+ lord, conflict and
+ into a boequile holding its virtues--stealing
+traveling would have,
+ hardy's brother, passed his hand begin.
+ she a flashlight, fast and ascends
+  
+ catch a part of stealings, an antique 
+ lumours speak of the sky to declares.
+ stiletcoes it where her coming
+ their castle irises of pieces who is time?
+ those are you think in and out of you
+ raid they the end it is o

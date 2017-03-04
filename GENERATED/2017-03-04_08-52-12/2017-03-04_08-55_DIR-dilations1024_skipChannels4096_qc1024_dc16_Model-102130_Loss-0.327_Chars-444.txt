@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ RENDEZVOUS FROM NOTHING.
+
+
+ 
+i didn't look in the making room,
+ and the bitten now.
+  
+ monty's windows. not the garden,
+ drunken dangling the earth 
+places. fitting forests heavy,
+limpopod apologies, shefts
+ america is fashioned 
+
+shadows thirsty and unchanged
+ carpenter, waiting a heavy growth
+ there are well be from banked over snill
+falling 
+he put on her ditch mirror 
+ the bar and butts are grate and hold
+ fully pounds of greening hawk d

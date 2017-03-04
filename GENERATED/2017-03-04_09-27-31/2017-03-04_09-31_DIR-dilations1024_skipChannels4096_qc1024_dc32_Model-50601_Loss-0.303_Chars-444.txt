@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THERE'S AN INTRODUCTION ABOVE ME.
+
+
+  
+                            daddy fouth jefis
+  she stagger on the suitage can was a while
+                in these were gone line music
+                                            she that takes tileless, i lay the street
+                      then recklaces into a ceiling
+                                        they stir the piss
+                               i mention the
+                         sha

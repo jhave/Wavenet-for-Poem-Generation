@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PLANTS, IN SCARECROW
+
+
+es unlives may for
+ but this this morning loss 
+  
+ no. i am your food time.
+ no animosa. you     here, look going
+  
+ inside the icy cargoes i could hinder the empty
+ whose face long starfike, the sky them tell
+  
+ and trying to 
+ her favorite at each off a life
+  
+ naming these tentle, your belonging melody
+ saito, zebbee to the rl tever
+  
+ anywhered, baffled,-pitched face, springs needing
+the centuries of ocean, he 

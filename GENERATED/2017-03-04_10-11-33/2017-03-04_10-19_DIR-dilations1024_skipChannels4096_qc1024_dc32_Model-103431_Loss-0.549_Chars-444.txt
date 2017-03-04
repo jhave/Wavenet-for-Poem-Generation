@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+      ATTACKE WITH A FARM   
+
+
+and his aundations of experience and hard shepheaters   
+            and bade here 
+                   the men, the blue car make your dollhouse 
+ of nature or scraggle of white neighbors or snow. 
+          young of you get, come windowing gong-- 
+    far decades with your inks arrive art on which   
+       eaten force walks recitateos and foot -- 
+         i placed my nightcus hooks strong at the . 
+
+         
+

@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PAINTER'S ROOF-FRIENDS
+
+
+the bier gobblefield to its people in wretched 
+                                                  it was people goes
+                                 no longer for
+                              mourning 
+                                           ought free of his sad men on intensity cup and cairon to hands
+          of other over the arms of shoes,
+                                                                    

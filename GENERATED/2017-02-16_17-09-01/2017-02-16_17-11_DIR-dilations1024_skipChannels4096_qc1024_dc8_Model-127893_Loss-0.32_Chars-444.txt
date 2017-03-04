@@ -1,0 +1,33 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         OUR DECORATION
+
+
+but too fast for the shelves' wood,
+ and just new, stories of
+  
+ tomorrow-bland was desire script
+ alternating fists,
+ his kractable o'er the stab of memory
+ to comb of the faded dawn
+ or everything need counter
+ from side-trunches.
+
+my mother's wonly friends
+the drain,
+ on the unfracture.
+
+bells in her man disastrous
+ we hunger 
+seasoned
+ beneath out of reoping
+ the bellboard,
+and cotton he dig descends the bed
+tvs.

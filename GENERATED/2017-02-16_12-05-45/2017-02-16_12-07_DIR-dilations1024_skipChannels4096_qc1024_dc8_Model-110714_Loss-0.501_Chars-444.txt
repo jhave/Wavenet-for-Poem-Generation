@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BACK INSTANCE OF  AMID THE MOST 
+
+
+ is thou dressed against sone but a purse.
+ the savage with the scotch and draw water on
+goes, department onan and after night
+ and cut off my head off the severing leave to ring.
+
+
+her vowels i hefty you sound of the morning sun
+ in brownness the weaver inkana,
+ and the beristless sigts of this could
+with these independent
+like the ensmatic thunder looks to the cool black
+ without everything phone
+ the feet

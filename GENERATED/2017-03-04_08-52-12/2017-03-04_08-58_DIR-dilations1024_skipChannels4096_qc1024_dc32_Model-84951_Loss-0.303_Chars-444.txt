@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A MADEMOISEE, I REMEMBER
+
+
+pavements displac'sle is forgotten,
+like a mat in the sullen ill, and that talks
+seemed to see themselves piece until
+siak asked onto fire. she loosen
+
+and melts the other rule is a toppy
+with apstram frightened, minute, buying-ness.
+
+
+after permuda found of words curls 
+through strings a thin done
+of whom a gotiage of lightning.
+
+the generous dusters me.
+
+the hotel was never fear the wood, 
+bloodshot fabricating bi

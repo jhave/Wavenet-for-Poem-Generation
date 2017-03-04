@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 93539		LOSS: 0.342
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PICTURED
+
+
+ when you might have been waiting for dishes.
+ tis towards to sale she proud in the
+fish is every small wobbly
+noticed off his domestic months below.
+  
+ there are welcoming from roll-leaf flooding. her hand.
+ my mother no indication of brothers
+as a showdered with a booth but sing to win
+ we miss up into the land of jab half-tigers
+ upon pilgrim slaves in your sad retreating
+ the future follow. alone at nine so.
+  
+ i splash again

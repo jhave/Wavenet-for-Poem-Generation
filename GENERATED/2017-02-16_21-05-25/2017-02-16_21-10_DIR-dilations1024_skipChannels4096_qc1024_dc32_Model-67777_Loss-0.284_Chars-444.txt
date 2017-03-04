@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                       IN OUR HEARTS
+
+
+ so i knife then, he pushing the room.
+  
+             i find the one sting rain, white nights.
+
+ sweet bears the inferiority of town
+       in the same stopped spaced
+to feede of other bells basketball
+         the man cough.
+                            to the lyfia.
+  
+ and so unlace, through real shadows
+                         plung along the appropriated main,
+grim-le
