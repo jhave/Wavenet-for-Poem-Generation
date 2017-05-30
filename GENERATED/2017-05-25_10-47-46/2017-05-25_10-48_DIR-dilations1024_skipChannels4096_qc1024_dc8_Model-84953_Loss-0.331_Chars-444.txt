@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HEART AS
+
+
+ dear she weaving length and by the hall,
+ the south stacked disable. from something
+and in the breezed on her tarry sonfs to shake me of sea-of-a-made of meager
+ around and buds in the pocked streets, watching schoolboys 
+                                                                                       a cup long.
+                                                              hack. on the world is water, a san dogs
+ good the s

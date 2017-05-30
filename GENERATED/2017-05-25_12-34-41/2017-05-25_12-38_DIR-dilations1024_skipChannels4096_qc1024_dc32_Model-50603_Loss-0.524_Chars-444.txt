@@ -1,0 +1,43 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ JEALOUS
+
+
+ swings in a language,
+      who'd had this month.
+  
+ when red lily plorescent song
+  
+ coffee, inside fogs.
+ not that the
+ my mother faster.
+ to come. a thicket
+ at the waves with tired.
+  
+ nothing i saw
+ later,
+ citizens come
+  
+ caress
+ the baguer blossoms heads
+ sidewalks being
+  
+ turning unscafled
+ again,
+  
+ season of russian cool,
+ yet mine,
+ the strong won't must
+  
+ the thirteen,
+ through clenched
+  
+ prence can years 
+ 

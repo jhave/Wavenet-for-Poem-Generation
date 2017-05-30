@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+  AMADEMEL,
+
+
+ easily in mood there, she awoke
+ on my bed feet and a panic
+ of evil i, but i don't know
+ as the people of their stars
+  
+ though that wound the air.     that
+ even forgetop up and howling 
+ twenty years our tongue
+ till night that we can rise
+ of what first time bale again.
+ when brave de ashamed.
+  
+ under length hostile kind of buercross,
+ these cry months fifty five magic
+ on my own mountain people and lapping
+ gasping rinks

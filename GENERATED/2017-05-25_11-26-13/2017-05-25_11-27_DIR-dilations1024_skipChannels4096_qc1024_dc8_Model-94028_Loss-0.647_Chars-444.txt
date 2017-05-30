@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 94028		LOSS: 0.647
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ EXPLAIN THAT
+
+
+sandal wail blanks, its wings of the face of the shades and once
+
+what it not a line surface of light,
+a hunter to dropd me to the wall turn into rust 
+at the lines, the right paper spiritual muffin,
+through miracle beneath cities poor debris--
+the moon like candle of book and my name an apple would never enough
+when the burdened in for your needle. that first raw
+bars jamas where the converse that you remember --
+elbows her hu

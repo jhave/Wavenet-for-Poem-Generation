@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THOUGHTFUL MUD OUTGRILY
+
+
+a webina houses i watch they've been 
+             where's tangle, tread,
+         shoulder-curtain, your face
+ the spider fires in the world,
+ stacked instead.
+ i let their piglets to get red
+ and the year's for everywhere.
+ the hot live on earth, 
+ whose finally i holy zigzag.
+ it was her drifts knees in as a tiny
+ turns into the vacant a sanguage
+ slightest is a lawyerroad
+ barb on grven of steam of smoke and ways

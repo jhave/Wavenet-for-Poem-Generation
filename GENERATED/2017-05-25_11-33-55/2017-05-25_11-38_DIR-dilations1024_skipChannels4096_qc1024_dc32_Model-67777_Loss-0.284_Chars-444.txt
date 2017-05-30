@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MY CEMENT--HER WEBBER BURIED.
+
+
+ that silver era voices deafened
+ in the winter, integrating it to me.
+  
+ dying of artists are world on a dream hand
+ totether the hands of offers, a hay
+  
+ he lakes a little street with dark in yellow dreams
+ bursting as you look as if he wants to run,
+ making material is ready tuned
+ or pan didn't hurries cry. she did.
+  
+ the moon.
+ he asks passing souvenirs 
+ paved on fire above demand
+ thinks felt my ton

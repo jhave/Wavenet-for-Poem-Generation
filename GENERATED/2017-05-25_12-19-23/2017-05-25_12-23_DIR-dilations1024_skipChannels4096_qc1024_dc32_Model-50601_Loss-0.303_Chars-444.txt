@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50601		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ TO SHOW,
+
+
+ vikal wildest sail leavings, inimagining
+  
+ as we think about the candles in white heart 
+     and doom for read.
+ we kissed my sister, and on a cobweb ouse.
+  
+ an undresses of the gray spirit.
+ i wasn't a hand die yard of muteness
+ up the claw dive of waltza,
+ the slip of little entangled eyes quasies.
+  
+ & he didn't describe to block a home
+ not a little kids a train of tobacco
+ swift weeks to me to everybody
+ sandwires.
+  
+ 

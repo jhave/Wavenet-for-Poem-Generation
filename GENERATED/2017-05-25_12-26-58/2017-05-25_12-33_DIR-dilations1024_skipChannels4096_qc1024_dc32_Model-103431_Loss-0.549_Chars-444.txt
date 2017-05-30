@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 103431		LOSS: 0.549
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CALM 
+
+
+good-bye scream.
+
+
+it was fointly i tried to cover 
+from londor where people nuns and widows   
+                           and sand i thought he really value sands ...  
+                             watching color 
+                          who died 
+                         in three lawn clutched ways 
+                                        bob in the spirit of sorrow
+                  until only as it rides   
+                     

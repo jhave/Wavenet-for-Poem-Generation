@@ -1,0 +1,51 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119303		LOSS: 0.338
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH TOWER
+
+
+who sugar sleep
+
+autumn for early dust,
+
+by a girl clod
+felt by the spruce
+
+--controllably.
+
+
+then buoy gray detached
+
+to the locks over the base. i
+
+we endure red face
+
+
+
+the gates of the 
+they glimpse
+for the stones. 
+
+ why magnetic
+
+your story good,
+
+and nothing butcher
+
+john braya pawing
+to tell,
+to dark with a link
+breath and crutches
+at what a model
+joy and green,
+
+and wood of murdo-
+
+quick alcenberg reading 
+furious mailbo

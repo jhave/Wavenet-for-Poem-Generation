@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 42013		LOSS: 0.359
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ WITH HER CRYSTAL
+
+
+ world oak moon and the comforted palm,
+ to the dead midnight. each brother is forgetting day
+ again and buds with an oath me.
+  
+ her spelled mountains he looks and chaste
+
+warhed in the thresholder down on the beast
+  
+ as a tevers and warm wrapped have prole,
+veering out from of another eyes and sighs.
+ bestial the truth, who ate decked underwear.
+ i can under as a half-in-heavines i could be
+ that want to every corpse t

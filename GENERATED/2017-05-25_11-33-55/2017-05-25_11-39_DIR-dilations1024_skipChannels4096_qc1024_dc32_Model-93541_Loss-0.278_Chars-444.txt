@@ -1,0 +1,27 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         ME THE SILVER
+
+
+  
+ and the furies' spreading necklace
+ of the malarial exploding an allice
+ her sunken be burst and rakes and merry
+  
+ from st. fresh
+  
+ perose and swam preyseless winding to me,
+ he dragged stone make me until the needs,
+ get one sad and dad small human-six
+ her hand against the news of the windshield,
+ brooks the wildflowers rearranges.
+  
+ lead the branches on the earth,
+ at the end of magpies and line with light

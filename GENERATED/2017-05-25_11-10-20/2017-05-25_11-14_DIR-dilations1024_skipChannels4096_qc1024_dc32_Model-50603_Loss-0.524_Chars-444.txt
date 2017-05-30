@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+        TO LET LIB,
+
+
+ comforters so daily a moving tides across,
+ and mine song of speeples.
+ language & waiters, speaking the beads
+ city of guava in the skin room
+in the battle of his 
+ hob with the thin forehead in film.
+  
+ the goldhist witness counds his levee, too beard 
+ and she reats on her back, but if the great sky
+ of the lot by the first friends in town
+ hard between white magic who gobbled on
+ docileing the cathedral rsuns of sha

@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE NERVE, THE FOURTH GRASS
+
+
+ into her stories, all the whole rose without enough.
+ weave ate on silt persist.
+ sands of aze. yellow tasn road down and against the metaphysical stops fruit said.
+i didn't mattered house of the night sound rejoices that work and lentils
+
+and refined into a rate the world's sake. i cease
+ pounds in the two waited, lesidential suppress'd.
+johnson remembering and one of the world--
+ the controvers root is derided

@@ -1,0 +1,34 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ A SERVICE WHICH IS FINGERTIPS
+
+
+  
+ i thinkles up the ark, among salt, everything
+ leg things in love, lovely hair.
+  
+ facing you have past quickened page   next to smoother
+
+
+             henry dainty laughing an away.
+  
+      the worst was new infected weeds.
+  
+ i've made my shoes, and where
+  
+ the more way over at the world,
+ or the brush. what did continue         mid fall
+ tests of
+ than to where too trapdoor
+ on the window.
+
+
+
+the i

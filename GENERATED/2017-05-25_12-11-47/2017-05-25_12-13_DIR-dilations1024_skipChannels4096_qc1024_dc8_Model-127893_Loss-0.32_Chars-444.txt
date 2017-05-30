@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN THE LIGHT,
+
+
+ there is a gelding growing the unsleeve before,
+ he gredered the england,
+
+lodged its seaweed rcies.
+the blood girl's only
+
+                           in the first foxen
+ready
+                   
+  
+ madison, mus 
+                         
+                                            write, while here hum
+  
+ one as , became the king pavement
+  
+                                                     negotive of me,
+ and so maybe

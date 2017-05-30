@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67778		LOSS: 0.293
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                     FLESH FOREST THE CATNIPE
+
+
+ wrapped in half.
+  
+   diabet the same ravaged man bowls off lies
+  
+ the pearl-bric-scented my converging grass   cement
+                                                                      
+                               camera and inspect,
+                                                         love you feel it angry shrinks
+                                                    full of cangon

@@ -1,0 +1,35 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IT WERE TO BE
+
+
+      parsley heightie nightmares
+ no public we to this world,
+ a razor in the moon with borrows to
+ on untemptory, the high dumped
+
+                         it multitude
+ which a simple boy 
+   to speak the wheeze of cacero
+ in her skin.
+  
+       out of a claw,
+ below the sun
+ when
+ and never tire calling
+  
+  
+ and paul, one another
+ as a holy cluster
+  
+ i know all you wore
+  
+ to the horizon
+to move the road in the market

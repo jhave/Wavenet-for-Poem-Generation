@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DAWN TELEVISIONS WHITE HOPING
+
+
+ mortal, gold wonder from his jim,
+ skippy furrowing the eave 
+all about the street act
+ on the plass peer shape
+ and danced lines of unknown,
+ the abyss the snow and even
+ long whisper of monks items
+ of interrs down up 
+ of stops after station
+ and yet the bread and mist and breeds
+ the bloated man and i sat
+ for rank mad came.
+  
+ where hard of talk good, and now
+ all the right hawtes hand roman
+ in a thursd

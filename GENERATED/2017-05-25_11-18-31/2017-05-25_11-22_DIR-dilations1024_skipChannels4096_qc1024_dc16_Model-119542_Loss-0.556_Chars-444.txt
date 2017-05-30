@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND ITS NEST. NOT
+
+
+bebopphic fighting the typing hides
+ you are a lancholy, the wings are blushes,
+what does not her in bestow in a blanco 
+may be.
+then what the snows upon the green age these things
+ since by the violent boost of dangerous
+                                from as paper, you from the womb
+                                           on what
+          behind the lucille
+              conclusion,
+                     you cannot.
+

@@ -1,0 +1,29 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ALL MEANS
+
+
+  
+ something else, my sonnye's dog
+ nine as he got back inside
+                                            crookca,
+                    out of mood.
+ it hurty you see.
+                 for four to our tongrado
+
+not an old subdued passions
+   with the calistrador city
+
+               filled with a long,
+     sappho across
+  
+          when, huge holy wheels,
+                       the masterpiece of rhythm oversignor.
+            

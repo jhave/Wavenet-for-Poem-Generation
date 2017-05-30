@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 110714		LOSS: 0.501
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ THE STRONG PRIM
+
+
+ my fearl than this is woven of the cool drything strength in my tia cabbages.
+mostly succule has its time beside me down & eloquence of st.
+every up to her eyes is someone was a seat of yuquin-abandoned crabs a male 
+and is endless who am afraid of tower of contest legs.
+  
+ a reading me beauty showgan heart. it is this nights the afternoon he had not to consult,
+arrived, till itself a flangone bad shimmer's 
+is this is fra

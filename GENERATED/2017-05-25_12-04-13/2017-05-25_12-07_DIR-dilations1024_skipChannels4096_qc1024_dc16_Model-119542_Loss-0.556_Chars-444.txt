@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 119542		LOSS: 0.556
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SHUCKED AN INFINITY IN EMPTY VOICE
+
+
+                                            light on no horrible separate
+
+they so open hair, can belong, i find thyself
+ which clipping onto the well 
+
+you prove a former light on by nothing buildings
+  
+          little can changing.
+  
+ 
+the rootstep watching in my bath world. i thank
+        sinclair-bough, give italian, via lifts
+          yet them who has his flying holding young, 
+and you'd like to 

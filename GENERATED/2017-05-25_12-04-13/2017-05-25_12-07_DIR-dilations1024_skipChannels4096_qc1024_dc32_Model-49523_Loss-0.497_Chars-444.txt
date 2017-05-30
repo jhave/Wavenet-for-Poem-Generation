@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                             MY MITOTE,
+
+
+ he was trapped insecurity to the dead law,
+ unstarting down the self-mouth
+  
+  
+
+                       thinking beside here a hundred measure of
+  
+          a hole only with it, or it is a hard
+ tassink thinking for-holy
+                holy explained
+              fogged ideas
+  
+        castra beggar
+ strip beneath the scratch
+      from the serena had made
+                 perhaps, its centuries

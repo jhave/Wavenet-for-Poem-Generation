@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107723		LOSS: 0.506
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ I COME 
+
+
+    you waited down on all thee back
+                                                                    -- o my love 
+         but my soul all-lay                               cu were all 
+demanding accused tulip lips, or which black ceeters by misspending light   
+                                           fair letter . . . 
+
+
+
+    from you whose be won't care, 
+he kept him to pink, we shrink to his elegy 
+though to swim not i re

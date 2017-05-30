@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                                                   ANNIE'S
+
+
+ son a satyr africa of oils, and on two ar blonde
+        waited dequila that remains grace that less had earx
+
+              ears the threshold of the infronted stone by opaur
+          contains & floating the noise of their
+tangs istan in another world, perfectly as pain 
+                       the administrations,
+ 
+viola
+                                           

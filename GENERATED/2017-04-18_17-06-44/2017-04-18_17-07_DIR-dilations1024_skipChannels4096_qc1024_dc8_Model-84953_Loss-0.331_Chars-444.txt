@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ PARADISE
+
+
+ for she was both are can feel the dim day.
+ clapping interest infinitely hazarded tai likes
+ the letters for the good world... such is free
+ with no flowed crocodile and teach
+
+each days 
+feverish in whose rest in his page of windows face 
+ and when the name had never gives between railroad high
+ we needed th. when i am grand the foreheads,
+the wearing suddenly among the harbor
+and each new long vernacular. a family. the owl.
+
+so,

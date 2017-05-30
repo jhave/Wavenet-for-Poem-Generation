@@ -1,0 +1,19 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+         THE MATCHBOOT,
+
+
+           when i slash machines and later loft and plank
+                                                                  with cherrye wants to be lifting in world. i see the cry of heav'n, regards the fame. 
+
+lore heartening to reveal the rooms of her on sun still hurts
+your mittal edges of having and drakes. because of us, near a slover--
+he writes, on the scene of knife. i know i didn't, so amate
+i love your eyes

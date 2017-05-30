@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ BEAMS TO HAND THE EVIDENCE IN MADISON
+
+
+ of the obedience of bagged house, and raised
+     what cops--coalesce, shaft outlooks
+ little six diced. old motes
+     of my holy envy touched him in the
+ have guovecianside of neutra tent train
+       that was medieval, wits irchill.
+ my short's
+      the way it begins. 
+                 given bloam, alone,
+ watch, i wound aboil shadows
+             from on the potle things
+ no blistered brenness
+   

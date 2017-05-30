@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 84953		LOSS: 0.331
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND THE ROCK AND QUIET HOMAGE
+
+
+ vague and the earth in the tide.
+  
+ sometimes and over harvested at the trace and pray,
+ spelling of me are excess years ago
+ here his tethered for the master and once,
+ and the big door down does not try.
+unwrapped see through. the mormance
+the winnow houses and song unto a stone preserving.
+  
+     if i had not.
+  
+                                                from our nepromised
+                once you 

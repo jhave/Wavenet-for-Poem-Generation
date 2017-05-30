@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93541		LOSS: 0.278
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ MIRACLE OF ME,
+
+
+ the men permission of structure call his planted grass
+ for the music chamber & when she looks in a window
+ there's a sweep smile.
+  
+ more same old heads bear given stand on the hot,
+ her kindlings, bombs into our wain,
+ my idle canging at a sessions are blowing slow.
+  
+ i believe when the key has sleepers pass
+ fine tangle and groin again and praise
+ din a boat and being sermons regained
+ the early show proxised by satisf

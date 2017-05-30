@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 107721		LOSS: 0.625
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ GREEN 
+
+
+the air to the joy, 
+a time devoicing words tricchen, 
+and make her small repair not being 
+in the city choice and take 
+admitted love, like some strife, 
+and saw their glorious twin, 
+to an evening leave gone 
+their tails of the kingdoms   
+a thrip we lost a clear, 
+to be would kill at first 
+with costaling, walked to me 
+for itself a deity own 
+in her sacrifice or 
+and walked with her truung.
+faith beside the world rain   
+compelli

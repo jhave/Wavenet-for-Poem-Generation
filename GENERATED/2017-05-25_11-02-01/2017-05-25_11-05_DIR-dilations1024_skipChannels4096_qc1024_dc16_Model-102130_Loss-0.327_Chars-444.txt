@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 102130		LOSS: 0.327
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ DEPENDENT, NOTE ALL HANDKERCHIEFS.
+
+
+     ah a weary, in the heat of the old world--
+the sky the froor of ages of learning in the third,
+ set foresees my equinister, shyly into the eye.
+  
+ in mon under supper second to the june
+every times beamd it the boat.
+ these friends the roof &
+ in them and sitches.
+  
+ the pkin lit
+ 
+ there is a planet
+ they asparagraph of his lips
+ in the loss
+ and even the steeds and trader but you please
+who typewr

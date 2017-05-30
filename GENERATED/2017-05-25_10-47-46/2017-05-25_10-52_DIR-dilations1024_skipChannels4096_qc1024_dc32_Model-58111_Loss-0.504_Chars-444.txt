@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND SMOOTHED HIS LIPSS RE-RESPONDENCY
+
+
+
+  
+                       they made the city so many fuzzy marsh
+                   pos, disease, the shotgunflies,
+                      the veins with standinf into iteps,
+            give me form it reliefs to knock from yard.
+                                                                 
+                        stucco case lulu's entertainmenta,
+                               where? past peanut 

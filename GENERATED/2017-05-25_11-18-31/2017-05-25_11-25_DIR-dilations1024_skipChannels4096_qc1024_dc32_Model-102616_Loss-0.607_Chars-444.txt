@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102616		LOSS: 0.607
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                            AND THAT TIDES ME.
+
+
+                                 details color 
+bold before the neighbours.
+                                             october & sightand
+ramshackle spired and doors shaking
+                    is that ate tender that we are
+                        and stood
+
+
+i asked my hunger.
+
+ and move & petals. andor wood
+in the shaman spanish
+               heliot outside two legs
+                       

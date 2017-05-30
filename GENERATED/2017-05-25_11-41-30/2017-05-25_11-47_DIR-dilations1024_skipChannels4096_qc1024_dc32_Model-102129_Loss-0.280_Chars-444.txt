@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 102129		LOSS: 0.280
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ SPEECH FLESH INTO SHAPES OF LIGHT
+
+
+ the barrier of fang with the gargoyles
+ arranged by the shell of a photograph rise up
+ to the tree rotfall, and imparted to the soil's arc
+ and say the fountains for weeks and turban mar of being
+ head a tower suggests and float while the sky
+ did the monotony of nature. shrevolutions forbidden
+ transfiguring white gods, from town down into the wall.
+  
+ ah unbeautiful, tape our heroes of the shouting,
+ sp

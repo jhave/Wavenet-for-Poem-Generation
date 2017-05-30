@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 93542		LOSS: 0.288
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+                                           TO KNOW. I SAW
+
+
+the heavee of air and power off.
+         who was the poem string full my
+miniature a girl those hides.
+                         as polly.
+     rooms with dark soft state.
+                                       with the ell
+ slips of the attendant valleys
+one plague perest
+                                   in fifth feet rim.
+ 
+when i hang not speak that god.
+             of compares 

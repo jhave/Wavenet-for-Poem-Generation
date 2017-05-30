@@ -1,0 +1,21 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+       TO FOUND
+
+
+
+dust transmist, not light
+                           and try.
+the kids' church-minded & and real
+                                            with designation
+ of mountains is to the saga
+is drove given sky,
+               suppose the stars
+                                                                                                                                                           and there is just tends under suc

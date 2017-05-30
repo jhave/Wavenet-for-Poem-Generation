@@ -1,0 +1,24 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 84951		LOSS: 0.303
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND HOPE FORGET
+
+
+back of housecoat drink through the wide painted
+of facts, ditties. come tim, and in the edge of you
+
+see the heart of the book, a hapatric way,
+and so loose at vanquished porowing white or two.
+bubbles? odd hairy to a little material eyes. 
+
+                                                                     let go the garage 
+had caught up a leaf-forced sound
+ in their tenderly beauty is call the moon
+
+                   

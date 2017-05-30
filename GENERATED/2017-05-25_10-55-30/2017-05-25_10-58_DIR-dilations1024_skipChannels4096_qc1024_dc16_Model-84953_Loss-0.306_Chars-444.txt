@@ -1,0 +1,20 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc16	MODEL: 84953		LOSS: 0.306
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 16			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ AND FREE WANTS TO THE HORIZON
+
+
+cast track to bed the moment in the harbor's lukewarm walk
+ and an inevitable, and i heard faces with birds
+ and sea kdies of corpse-daughter of eachelorip straps of sputting
+for long i look at efergette in drenches of sun,
+ breathing otto smoked fingers he first of thee,
+ caves and be confidentials turning out of ocean,
+ whom i long for this name iwes and space the one
+ brooks and little one blanket and zybicd

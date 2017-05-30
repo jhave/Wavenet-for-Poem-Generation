@@ -1,0 +1,22 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 67777		LOSS: 0.284
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ INVENTION. AND WITH US, ARRANGEMENT--
+
+
+ feat. a woman were there the temperation,
+ throughout lamb. i thought why i had trouble you once
+ & occupied into the patriarch of a levite,
+ cherry receiving been than wonder. fish,
+ it was descends open. the loom, dry sail?
+ but why? for thoughts a people's service
+ hurts a band as hat she sat on the hepool
+ to the young ground and people
+ with a land catches spoon and ignorance, no more.
+as i sat di

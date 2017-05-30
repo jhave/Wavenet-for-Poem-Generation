@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 50603		LOSS: 0.524
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ IN TIME.
+
+
+
+he watched the breakfast.
+as a village until year,
+the roar, sell in, pinepotales
+and the circumstances--
+of tea closing out
+hoarses of connects that
+are not folly called hour
+my cadences of trees,
+making else huddle stem-lamp.
+i houl is whole and right now
+and the meikness and onions 
+and lost john henry. 
+i fight be the weight of silence.
+shadows pursea oft and sister dust
+
+simperfeiny spread
+dashes and omenico's sake to defined

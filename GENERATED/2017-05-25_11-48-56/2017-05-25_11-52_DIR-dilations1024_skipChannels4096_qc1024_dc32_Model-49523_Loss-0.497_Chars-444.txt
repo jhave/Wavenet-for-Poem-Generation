@@ -1,0 +1,23 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 49523		LOSS: 0.497
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ON TIME AS DEPENDENT
+
+
+ the dog's apart, also mockingbird now beggars
+ to speak of dust position in the shade
+ to ravish, and my cousin peeps weather
+ on quality line cut castles may be desponder,
+ some knotted to water this beyond shades
+ at time between each, in the trees into rows
+ upon the possum of a woman's arm, productive 
+ former closing heaven
+                night we are not live letters
+     unknowable
+breathe for nothing doesn't l

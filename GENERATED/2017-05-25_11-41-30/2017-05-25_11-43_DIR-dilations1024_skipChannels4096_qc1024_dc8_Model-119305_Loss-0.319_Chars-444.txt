@@ -1,0 +1,30 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 119305		LOSS: 0.319
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ ARE SEPARATE STOPS,
+
+
+
+ way broken by a man and square
+ there is a mouth--the aoolescents wail.
+in time is a straining represent
+ sets of stony local platform'd soothe.
+  
+ the birds that sad, in dragtcap
+  
+ and go see, gozed that size
+ must be no small and thread
+  
+ lost in the overous warped
+ a fine which between means.
+  
+ such is not by those who the mind--conted
+ or when seat i didn't know him tonight
+ lays is the steaks and she men,
+ 

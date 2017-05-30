@@ -1,0 +1,26 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58102		LOSS: 0.521
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ HARMLESS GATES OF GOLD, THE SHUTTLE.
+
+
+ violins no past the house of school, completions
+ and singing me gloves called her inhibit gold snake
+ the terrace and after slides it sucks
+ desolations modeling internetic
+ passasynes, i prayed for danniam but pran,
+ they jumped him in their tourniqueth
+ in the river's end?
+floats wash bare, as if, 
+ people me that wings,
+ a huge grim. they are shades
+ licking dollars
+
+so embrelation--scream
+ he futur

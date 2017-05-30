@@ -1,0 +1,25 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc32	MODEL: 58111		LOSS: 0.504
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 32			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ OF                 INTO THE YELLOW UP THAT SPLINTER OF MY HEART?
+
+
+  
+          i don't believe you leave me
+             where the fabled ocean clot tell himself
+          of tearing a definition
+ they still be an old man 
+      of presence of them to where the spheres.
+  
+                                   his vocale spongy black, the others
+    camels antarctic cloth is a mop. corinth
+  
+ backbag summer.
+  
+                           nor d

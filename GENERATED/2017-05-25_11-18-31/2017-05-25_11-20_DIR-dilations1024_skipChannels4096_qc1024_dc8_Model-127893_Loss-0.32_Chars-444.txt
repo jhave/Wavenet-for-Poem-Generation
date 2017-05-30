@@ -1,0 +1,28 @@
+
+_______________________________________________________________________________________________
+
+DIR: dilations1024_skipChannels4096_qc1024_dc8	MODEL: 127893		LOSS: 0.32
+dilations: 2^10				filter_width: 2		residual_channels: 32
+dilation_channels: 8			skip_channels: 4096	quantization_channels: 1024
+_______________________________________________________________________________________________
+
+
+ CONVERSATION DIM
+
+
+ where the blood fanciful
+ more hobble storm the snow newspaper
+ the proud of translation
+on the river through the outskirts.
+ brothered so she sat for wears live?
+suffer the night a letters of drugs.
+
+he sprawl
+in the dime of the lanterned counting
+the hushed along the
+ we disappears into a bedweld there.
+
+so he shaved are beside the television
+push those cirquits man can, even
+when the shore won't dissolves
+and chicker, m
